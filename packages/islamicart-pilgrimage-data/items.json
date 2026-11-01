@@ -53,10 +53,6 @@
     ],
     "related_items": [
       {
-        "id": "026dea32-9637-5a90-8cb3-ddf63a376262",
-        "justifications": {}
-      },
-      {
         "id": "32434888-ecb9-5b5b-bdc6-bc81ab4851b0",
         "justifications": {
           "en": "Such high quality manuscripts were produced in the workshops of Topkapı palace and presented to the sultans.",
@@ -72,6 +68,10 @@
           "fr": "Les deux manuscrits racontent les histoires de Muhammad et de Moïse.",
           "es": "Ambos manuscritos abarcan las historias de Muhammad y Moisés."
         }
+      },
+      {
+        "id": "026dea32-9637-5a90-8cb3-ddf63a376262",
+        "justifications": {}
       }
     ],
     "tags": [
@@ -603,6 +603,10 @@
     ],
     "related_items": [
       {
+        "id": "32434888-ecb9-5b5b-bdc6-bc81ab4851b0",
+        "justifications": {}
+      },
+      {
         "id": "23e8db58-0148-5dc3-98b4-98cb5313ba16",
         "justifications": {
           "ar": "استخدم الحجاج مثل هذه البوصلات لإيجاد اتجاه الصلاة و عادوا بوثاقهم عن حجهم.",
@@ -610,10 +614,6 @@
           "fr": "Les pèlerins se servaient de ces boussoles pour trouver la directio de la prière vers La Mecque et revenaient de pèlerinage avec ces certificats.",
           "es": "Los peregrinos usaban este tipo de brújula para encontrar la dirección a La Meca, y regresaban con estos certificados para su peregrinación."
         }
-      },
-      {
-        "id": "32434888-ecb9-5b5b-bdc6-bc81ab4851b0",
-        "justifications": {}
       }
     ],
     "tags": [
@@ -960,21 +960,21 @@
     ],
     "related_items": [
       {
-        "id": "06a78daa-be7f-5db5-908f-e05f2ebfb0b5",
-        "justifications": {
-          "ar": "تمّ العثور على هذه العملة خلال عمليات التنقيب داخل منطقة أيلة.",
-          "en": "The coin was uncovered during excavation at the site of Ayla.",
-          "fr": "La pièce fut découverte lors de fouilles sur le site d’Ayla.",
-          "es": "La moneda se descubrió durante la excavación en el emplazamiento de Ayla."
-        }
-      },
-      {
         "id": "e8a8501f-19e5-5494-af52-177609f85cd8",
         "justifications": {
           "ar": "تداول تجار الوكالة عملات كهذه.",
           "en": "The merchants at the *wikala* would have dealt with such coins.",
           "fr": "Les marchands de la *wikala* commerçaient avec ces pièces.",
           "es": "Es posible que los comerciantes del *wikala* hayan negociado con monedas como estas."
+        }
+      },
+      {
+        "id": "06a78daa-be7f-5db5-908f-e05f2ebfb0b5",
+        "justifications": {
+          "ar": "تمّ العثور على هذه العملة خلال عمليات التنقيب داخل منطقة أيلة.",
+          "en": "The coin was uncovered during excavation at the site of Ayla.",
+          "fr": "La pièce fut découverte lors de fouilles sur le site d’Ayla.",
+          "es": "La moneda se descubrió durante la excavación en el emplazamiento de Ayla."
         }
       }
     ],
@@ -1198,21 +1198,28 @@
     ],
     "related_items": [
       {
-        "id": "026dea32-9637-5a90-8cb3-ddf63a376262",
-        "justifications": {
-          "ar": "بوصلة توضح اتجاهات الكعبة.",
-          "en": "A compass which indicates the direction of the Ka’ba.",
-          "fr": "Table d’orientation indiquant la direction de la Kaaba.",
-          "es": "Brújula que indica la dirección de la Kaaba."
-        }
-      },
-      {
         "id": "06a78daa-be7f-5db5-908f-e05f2ebfb0b5",
         "justifications": {
           "ar": "قلعة في الطريق الى مكة.",
           "en": "The castle is on the road to Mecca.",
           "fr": "Château d’Ayla sur la route de La Mecque.",
           "es": "Castillo ubicado en el camino hacia Meca."
+        }
+      },
+      {
+        "id": "e6753434-4415-5658-ba03-7a1cf0ec79f4",
+        "justifications": {
+          "ar": "رسم الكعبة على لوحة خزفية.",
+          "en": "A depiction of the Ka’ba on a tile panel.",
+          "fr": "Représentation de la Kaaba peinte sur carreaux de céramique.",
+          "es": "Representación de la Kaaba en el panel de azulejos."
+        }
+      },
+      {
+        "id": "85fb094d-1ff0-508b-bb75-cfcae0c77625",
+        "justifications": {
+          "ar": "لوحة تشتمل على صورة الكعبة.",
+          "en": "A painting which includes a representation of the Ka’ba."
         }
       },
       {
@@ -1225,19 +1232,12 @@
         }
       },
       {
-        "id": "85fb094d-1ff0-508b-bb75-cfcae0c77625",
+        "id": "026dea32-9637-5a90-8cb3-ddf63a376262",
         "justifications": {
-          "ar": "لوحة تشتمل على صورة الكعبة.",
-          "en": "A painting which includes a representation of the Ka’ba."
-        }
-      },
-      {
-        "id": "e6753434-4415-5658-ba03-7a1cf0ec79f4",
-        "justifications": {
-          "ar": "رسم الكعبة على لوحة خزفية.",
-          "en": "A depiction of the Ka’ba on a tile panel.",
-          "fr": "Représentation de la Kaaba peinte sur carreaux de céramique.",
-          "es": "Representación de la Kaaba en el panel de azulejos."
+          "ar": "بوصلة توضح اتجاهات الكعبة.",
+          "en": "A compass which indicates the direction of the Ka’ba.",
+          "fr": "Table d’orientation indiquant la direction de la Kaaba.",
+          "es": "Brújula que indica la dirección de la Kaaba."
         }
       }
     ],
@@ -1747,20 +1747,20 @@
     ],
     "related_items": [
       {
+        "id": "85fb094d-1ff0-508b-bb75-cfcae0c77625",
+        "justifications": {
+          "ar": "الكعبة في مكة كانت أحد المواقع التي ترسم غالبا في المخطوطات.",
+          "en": "The Ka’ba in Mecca was one of the sites often painted in manuscripts.",
+          "es": "La Kaaba en la Meca es uno de los lugares que se representaban pictóricamente más a menudo en los manuscritos."
+        }
+      },
+      {
         "id": "66dee6a2-095c-5e95-9ab7-3051179223bf",
         "justifications": {
           "ar": "المنمنمات في التاريخ العثماني تظهر تنوع لرسوم المنمنمات للشخوص.",
           "en": "Miniatures on Ottoman history show the variety of figural miniature painting.",
           "fr": "Les miniatures sur l’histoire ottomane témoignent de la variété de la peinture de miniatures figuratives.",
           "es": "Las miniaturas en la historia otomana muestran la variedad de la pintura figurativa en miniatura."
-        }
-      },
-      {
-        "id": "85fb094d-1ff0-508b-bb75-cfcae0c77625",
-        "justifications": {
-          "ar": "الكعبة في مكة كانت أحد المواقع التي ترسم غالبا في المخطوطات.",
-          "en": "The Ka’ba in Mecca was one of the sites often painted in manuscripts.",
-          "es": "La Kaaba en la Meca es uno de los lugares que se representaban pictóricamente más a menudo en los manuscritos."
         }
       }
     ],
@@ -2247,12 +2247,25 @@
     ],
     "related_items": [
       {
-        "id": "026dea32-9637-5a90-8cb3-ddf63a376262",
+        "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
         "justifications": {
-          "ar": "استخدم الحجاج مثل هذه البوصلات لتحديد اتجاههم إلى مكة من اجل الصلاة وأعادوا معهم مثل هذه الشهادات.",
-          "en": "Pilgrims used such compasses to find their direction to Mecca for prayers and brought back such certificates with them.",
-          "fr": "Les pèlerins utilisaient ces boussoles pour trouver la direction de La Mecque pour les prières et rapportaient ces certificats avec eux.",
-          "es": "Los peregrinos usaban estas brújulas para encontrar la dirección a La Meca para sus oraciones y traían tales certificados con ellos."
+          "ar": "الحرم الشريف في  القدس مرسوم على وثيقة الحج هذه ولقد كان يزوره الحجاج.",
+          "en": "Haram al-Sharif in Jerusalem, depicted on this pilgrimage scroll, was visited by pilgrims.",
+          "fr": "Le Haram al-Charif à Jérusalem, représenté sur ce rouleau de pèlerinage, était visité par les pèlerins.",
+          "es": "Al-Haram al-Sharif en Jerusalén, representado en este pergamino de peregrinaje, era visitado por peregrinos."
+        }
+      },
+      {
+        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "justifications": {}
+      },
+      {
+        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
+        "justifications": {
+          "ar": "قبة الصخرة في القدس مرسومة على وثيقة  الحج هذه ولقد كان يزورها الحجاج.",
+          "en": "The Dome of the Rock in Jerusalem, depicted on this pilgrimage scroll, was visited by pilgrims.",
+          "fr": "Le Dôme du Rocher à Jérusalem, représenté sur ce rouleau de pèlerinage, était visité par les pèlerins.",
+          "es": "La Cúpula de la Roca en Jerusalén, representado en este pergamino de peregrinación, era visitado por peregrinos."
         }
       },
       {
@@ -2274,12 +2287,12 @@
         }
       },
       {
-        "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
+        "id": "026dea32-9637-5a90-8cb3-ddf63a376262",
         "justifications": {
-          "ar": "الحرم الشريف في  القدس مرسوم على وثيقة الحج هذه ولقد كان يزوره الحجاج.",
-          "en": "Haram al-Sharif in Jerusalem, depicted on this pilgrimage scroll, was visited by pilgrims.",
-          "fr": "Le Haram al-Charif à Jérusalem, représenté sur ce rouleau de pèlerinage, était visité par les pèlerins.",
-          "es": "Al-Haram al-Sharif en Jerusalén, representado en este pergamino de peregrinaje, era visitado por peregrinos."
+          "ar": "استخدم الحجاج مثل هذه البوصلات لتحديد اتجاههم إلى مكة من اجل الصلاة وأعادوا معهم مثل هذه الشهادات.",
+          "en": "Pilgrims used such compasses to find their direction to Mecca for prayers and brought back such certificates with them.",
+          "fr": "Les pèlerins utilisaient ces boussoles pour trouver la direction de La Mecque pour les prières et rapportaient ces certificats avec eux.",
+          "es": "Los peregrinos usaban estas brújulas para encontrar la dirección a La Meca para sus oraciones y traían tales certificados con ellos."
         }
       },
       {
@@ -2290,19 +2303,6 @@
           "fr": "Au Moyen Âge, les pèlerins emportaient ces belles gourdes pour transporter l’eau et rapportaient ces certificats avec eux.",
           "es": "En la Edad Media los peregrinos cargaban cantimploras similares para agua y traían tales certificados para su peregrinación."
         }
-      },
-      {
-        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
-        "justifications": {
-          "ar": "قبة الصخرة في القدس مرسومة على وثيقة  الحج هذه ولقد كان يزورها الحجاج.",
-          "en": "The Dome of the Rock in Jerusalem, depicted on this pilgrimage scroll, was visited by pilgrims.",
-          "fr": "Le Dôme du Rocher à Jérusalem, représenté sur ce rouleau de pèlerinage, était visité par les pèlerins.",
-          "es": "La Cúpula de la Roca en Jerusalén, representado en este pergamino de peregrinación, era visitado por peregrinos."
-        }
-      },
-      {
-        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
-        "justifications": {}
       }
     ],
     "tags": [
@@ -2795,6 +2795,23 @@
     ],
     "related_items": [
       {
+        "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
+        "justifications": {
+          "ar": "استخدم الختم في الحرم الشريف.",
+          "en": "The stamp was used in al-Haram al-Sharif.",
+          "fr": "La plaque d’impression était utilisée au Haram al-Charif.",
+          "es": "La impresión fue usada en Haram al-Sharif."
+        }
+      },
+      {
+        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "justifications": {}
+      },
+      {
+        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
+        "justifications": {}
+      },
+      {
         "id": "19003bf4-70f4-5b4f-9cbc-901f2ae697ef",
         "justifications": {}
       },
@@ -2806,23 +2823,6 @@
           "fr": "Semblable par la forme, le matériau et l’usage.",
           "es": "Es similar en forma, material y uso."
         }
-      },
-      {
-        "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
-        "justifications": {
-          "ar": "استخدم الختم في الحرم الشريف.",
-          "en": "The stamp was used in al-Haram al-Sharif.",
-          "fr": "La plaque d’impression était utilisée au Haram al-Charif.",
-          "es": "La impresión fue usada en Haram al-Sharif."
-        }
-      },
-      {
-        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
-        "justifications": {}
-      },
-      {
-        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
-        "justifications": {}
       }
     ],
     "tags": [
@@ -2975,15 +2975,6 @@
         "justifications": {}
       },
       {
-        "id": "5b39f275-54df-59e1-af9d-1758c033e5d5",
-        "justifications": {
-          "ar": "يتشابه بالشكل والمادة والاستعمال.",
-          "en": "It is similar in form, material and use.",
-          "fr": "Semblable par la forme, le matériau et l’usage.",
-          "es": "Es similar en forma, material y uso."
-        }
-      },
-      {
         "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
         "justifications": {
           "ar": "يظهر على الختم مخطط قبة الصخرة.",
@@ -2995,6 +2986,15 @@
       {
         "id": "fe0665ae-557f-5721-993c-8b5887d08251",
         "justifications": {}
+      },
+      {
+        "id": "5b39f275-54df-59e1-af9d-1758c033e5d5",
+        "justifications": {
+          "ar": "يتشابه بالشكل والمادة والاستعمال.",
+          "en": "It is similar in form, material and use.",
+          "fr": "Semblable par la forme, le matériau et l’usage.",
+          "es": "Es similar en forma, material y uso."
+        }
       }
     ],
     "tags": [
@@ -4421,21 +4421,21 @@
     ],
     "related_items": [
       {
-        "id": "74efc106-e576-5569-bfb1-3b51d81c8622",
-        "justifications": {
-          "ar": "بنيت الكنيستان في نفس الفترة وفيهما الكثير من العناصر المشتركة.",
-          "en": "The two churches were built in the same period and there are many common elements in them.",
-          "fr": "Les deux églises furent construites à la même époque et on y trouve de nombreux éléments communs.",
-          "es": "Ambas iglesias fueron construidas en el mismo período y tienen varios elementos en común."
-        }
-      },
-      {
         "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
         "justifications": {
           "ar": "تتشابه الفسيفساء من حيث المواضيع والتقنيات.",
           "en": "The mosaics have similarities in techniques and themes.",
           "fr": "Les mosaïques présentent des similitudes dans la technique et dans les thèmes.",
           "es": "Los mosaicos comparten similitudes en las técnicas y temáticas."
+        }
+      },
+      {
+        "id": "74efc106-e576-5569-bfb1-3b51d81c8622",
+        "justifications": {
+          "ar": "بنيت الكنيستان في نفس الفترة وفيهما الكثير من العناصر المشتركة.",
+          "en": "The two churches were built in the same period and there are many common elements in them.",
+          "fr": "Les deux églises furent construites à la même époque et on y trouve de nombreux éléments communs.",
+          "es": "Ambas iglesias fueron construidas en el mismo período y tienen varios elementos en común."
         }
       }
     ],
@@ -5053,21 +5053,21 @@
     ],
     "related_items": [
       {
-        "id": "3b905371-82f4-562e-9ed1-808c1a7eff1f",
-        "justifications": {
-          "ar": "مثل الدير فإن كنيسة الميلاد هي من أصل بيزنطي مع تجديدات في العصور الوسطى و شكل يشبه الحصن ذو باب دفاعي صغير.",
-          "en": "Like the monastery, the Church of the Nativity is of Byzantine origin with medieval renovations, and a fort-like appearance with a small defensive door.",
-          "fr": "Comme le monastère, l’église de la Nativité est d’origine byzantine avec des restaurations médiévales et l’apparence d’un fort avec sa petite porte défensive.",
-          "es": "Como el monasterio, la Iglesia de la Natividad es de origen bizantino con renovaciones medievales, y de apariencia fortificada con una pequeña puerta defensiva."
-        }
-      },
-      {
         "id": "74efc106-e576-5569-bfb1-3b51d81c8622",
         "justifications": {
           "ar": "إن احترام صلاح الدين لحقوق المسيحيين لم يكن موجودا فقط في الأديرة البعيدة و لكن أيضا في كنائس فلسطين.",
           "en": "Saladin's respect of Christian’s rights was not only maintained in distant monasteries, but also in the churches of Palestine.",
           "fr": "Le respect de Saladin pour les droits chrétiens fut non seulement maintenu dans des monastères éloignés mais aussi dans les églises de Palestine.",
           "es": "El respeto de Saladino por los derechos de los cristianos no se mantuvo solamente en monasterios lejanos, también en iglesias de Palestina."
+        }
+      },
+      {
+        "id": "3b905371-82f4-562e-9ed1-808c1a7eff1f",
+        "justifications": {
+          "ar": "مثل الدير فإن كنيسة الميلاد هي من أصل بيزنطي مع تجديدات في العصور الوسطى و شكل يشبه الحصن ذو باب دفاعي صغير.",
+          "en": "Like the monastery, the Church of the Nativity is of Byzantine origin with medieval renovations, and a fort-like appearance with a small defensive door.",
+          "fr": "Comme le monastère, l’église de la Nativité est d’origine byzantine avec des restaurations médiévales et l’apparence d’un fort avec sa petite porte défensive.",
+          "es": "Como el monasterio, la Iglesia de la Natividad es de origen bizantino con renovaciones medievales, y de apariencia fortificada con una pequeña puerta defensiva."
         }
       }
     ],
@@ -5344,21 +5344,21 @@
         }
       },
       {
-        "id": "a0123f90-172b-59e1-9291-e46637556232",
-        "justifications": {
-          "ar": "عود هذه القطعة للمسجد الأقصى.",
-          "en": "This piece was brought from the Dome of the Rock.",
-          "fr": "Pièce transférée du Dôme du Rocher.",
-          "es": "Este artículo fue traído desde la Cúpula de la Roca."
-        }
-      },
-      {
         "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
         "justifications": {
           "ar": "بني المسجد الأقصى في نفس فترة بناء قبة الصخرة.",
           "en": "Al-Aqsa Mosque was built in the same period as the Dome of the Rock.",
           "fr": "La Mosquée Omeyyade fut construite à la même époque que le Dôme du Rocher.",
           "es": "La mezquita al-Aqsa fue construida en el mismo período que la Cúpula de la Roca."
+        }
+      },
+      {
+        "id": "a0123f90-172b-59e1-9291-e46637556232",
+        "justifications": {
+          "ar": "عود هذه القطعة للمسجد الأقصى.",
+          "en": "This piece was brought from the Dome of the Rock.",
+          "fr": "Pièce transférée du Dôme du Rocher.",
+          "es": "Este artículo fue traído desde la Cúpula de la Roca."
         }
       },
       {
@@ -5770,6 +5770,14 @@
     ],
     "related_items": [
       {
+        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "justifications": {}
+      },
+      {
+        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
+        "justifications": {}
+      },
+      {
         "id": "19003bf4-70f4-5b4f-9cbc-901f2ae697ef",
         "justifications": {
           "ar": "شكل الحرم الإبراهيمي في الخليل توأما للحرم الشريف في القدس.",
@@ -5777,14 +5785,6 @@
           "fr": "La mosquée d’Abraham à Hébron était considérée comme une extension du Haram al-Charif à Jérusalem.",
           "es": "Se consideraba que la mezquita Ibrahimi en Hebrón era un anexo de Haram al-Sharif en Jerusalén."
         }
-      },
-      {
-        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
-        "justifications": {}
-      },
-      {
-        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
-        "justifications": {}
       }
     ],
     "tags": [
@@ -5950,21 +5950,21 @@
     ],
     "related_items": [
       {
-        "id": "5b39f275-54df-59e1-af9d-1758c033e5d5",
-        "justifications": {
-          "ar": "يظهر المبنى ضمن قائمة الأماكن المقدسة في فلسطين.",
-          "en": "The building appears on the list of holy places in Palestine.",
-          "fr": "L’un des nombreux *maqam* de Palestine.",
-          "es": "El monumento aparece en la lista de los lugares santos de Palestina."
-        }
-      },
-      {
         "id": "a94d6e26-81d2-5650-b785-1ad7d1e3be12",
         "justifications": {
           "ar": "جزء من سلسلة المقامات الإسلامية في فلسطين.",
           "en": "One of a series of Islamic *maqam* at in Palestine.",
           "fr": "L’un des nombreux *maqam* de Palestine.",
           "es": "Uno de una serie de maqamat Islámicos en Palestina."
+        }
+      },
+      {
+        "id": "5b39f275-54df-59e1-af9d-1758c033e5d5",
+        "justifications": {
+          "ar": "يظهر المبنى ضمن قائمة الأماكن المقدسة في فلسطين.",
+          "en": "The building appears on the list of holy places in Palestine.",
+          "fr": "L’un des nombreux *maqam* de Palestine.",
+          "es": "El monumento aparece en la lista de los lugares santos de Palestina."
         }
       }
     ],
@@ -6056,21 +6056,21 @@
     ],
     "related_items": [
       {
-        "id": "5b39f275-54df-59e1-af9d-1758c033e5d5",
-        "justifications": {
-          "ar": "يظهر المبنى ضمن قائمة الأماكن المقدسة في فلسطين.",
-          "en": "The building appears on the list of holy places in Palestine.",
-          "fr": "L’édifice figure sur cette liste de lieux saints de Palestine.",
-          "es": "El monumento aparece en la lista de los lugares santos de Palestina."
-        }
-      },
-      {
         "id": "a94d6e26-81d2-5650-b785-1ad7d1e3be12",
         "justifications": {
           "ar": "جزء من سلسلة المقامات الإسلامية في فلسطين.",
           "en": "One of the series of Islamic *maqam* at in Palestine.",
           "fr": "L’un des nombreux *maqam* de Palestine",
           "es": "Uno de una serie de maqamat Islámicos en Palestina."
+        }
+      },
+      {
+        "id": "5b39f275-54df-59e1-af9d-1758c033e5d5",
+        "justifications": {
+          "ar": "يظهر المبنى ضمن قائمة الأماكن المقدسة في فلسطين.",
+          "en": "The building appears on the list of holy places in Palestine.",
+          "fr": "L’édifice figure sur cette liste de lieux saints de Palestine.",
+          "es": "El monumento aparece en la lista de los lugares santos de Palestina."
         }
       }
     ],
@@ -6357,15 +6357,6 @@
     ],
     "related_items": [
       {
-        "id": "1e8c52f2-59ae-5930-b434-948802ee9220",
-        "justifications": {
-          "ar": "كانت قوارير المياه المحمولة بواسطة الحُجاج, تقليد شائع خلال فترات الحكم المملوكية والعثمانية.",
-          "en": "Portable water flasks were common items carried by pilgrims during the Mamluk and Ottoman periods.",
-          "fr": "Les gourdes d’eau portables étaient des objets couramment emportés par les pèlerins aux périodes mamelouke et ottomane.",
-          "es": "Las cantimploras para llevar agua eran artículos de uso común entre los peregrinos durante el periodo omeya y mameluco."
-        }
-      },
-      {
         "id": "34344960-90a1-56d8-ab23-52de9332f9bd",
         "justifications": {
           "ar": "تمّ البناء وِفقًا لأمر من نفس الولي, وهو (سليمان القانوني).",
@@ -6381,6 +6372,15 @@
           "en": "Qatranah was a pilgrimage station on the Syrian route. The key of the Ka’ba is a very important item in relation to pilgrimage.",
           "fr": "Qatranah était une étape importante sur la route du pèlerinage syrien. La clé de la Kaaba est une pièce très importante en relation avec le pèlerinage.",
           "es": "Al-Qatrana fue un lugar de parada en el peregrinaje de la ruta siria. La llave de la Kaaba es un artículo muy importante relacionado con la peregrinación."
+        }
+      },
+      {
+        "id": "1e8c52f2-59ae-5930-b434-948802ee9220",
+        "justifications": {
+          "ar": "كانت قوارير المياه المحمولة بواسطة الحُجاج, تقليد شائع خلال فترات الحكم المملوكية والعثمانية.",
+          "en": "Portable water flasks were common items carried by pilgrims during the Mamluk and Ottoman periods.",
+          "fr": "Les gourdes d’eau portables étaient des objets couramment emportés par les pèlerins aux périodes mamelouke et ottomane.",
+          "es": "Las cantimploras para llevar agua eran artículos de uso común entre los peregrinos durante el periodo omeya y mameluco."
         }
       },
       {
@@ -6511,7 +6511,7 @@
     ],
     "related_items": [
       {
-        "id": "6c402e37-2b9b-5950-a717-adb9b30770b5",
+        "id": "74efc106-e576-5569-bfb1-3b51d81c8622",
         "justifications": {
           "ar": ". بنيت في نفس الفترة وعلى نفس الطراز وفي القدس",
           "en": "It was built in Jerusalem in the same period and in the same style.",
@@ -6520,7 +6520,7 @@
         }
       },
       {
-        "id": "74efc106-e576-5569-bfb1-3b51d81c8622",
+        "id": "6c402e37-2b9b-5950-a717-adb9b30770b5",
         "justifications": {
           "ar": ". بنيت في نفس الفترة وعلى نفس الطراز وفي القدس",
           "en": "It was built in Jerusalem in the same period and in the same style.",
@@ -7369,21 +7369,21 @@
         }
       },
       {
-        "id": "1e8c52f2-59ae-5930-b434-948802ee9220",
-        "justifications": {
-          "ar": "كانت قوارير المياه المحمولة بواسطة الحُجاج, تقليد شائع خلال فترات الحكم المملوكية والعثمانية.",
-          "en": "Portable water flasks were common items carried by pilgrims during the Mamluk and Ottoman periods.",
-          "fr": "Les gourdes d’eau portables étaient des objets couramment emportés par les pèlerins aux périodes mamelouke et ottomane.",
-          "es": "Las cantimploras para llevar agua eran artículos de uso común entre los peregrinos durante el periodo omeya y mameluco."
-        }
-      },
-      {
         "id": "92b6403f-d36a-550d-b953-dceb45d22cf5",
         "justifications": {
           "ar": "كانت معان محطة على طريق الحج السوري. يُعتبر مفتاح الكعبة عنصر هام حيث له ارتباط وثيق بالحج.",
           "en": "Ma’an was an important station on the Syrian pilgrimage route. The key of the Ka’ba is a very important item in relation to pilgrimage.",
           "fr": "Ma’an était une étape importante sur la route du pèlerinage syrien. La clé de la Kaaba est une pièce très importante en relation avec le pèlerinage.",
           "es": "Ma’an fue un importante lugar de parada en la ruta de peregrinación siria. La llave de la Kaaba es un artículo muy importante relacionado con la peregrinación."
+        }
+      },
+      {
+        "id": "1e8c52f2-59ae-5930-b434-948802ee9220",
+        "justifications": {
+          "ar": "كانت قوارير المياه المحمولة بواسطة الحُجاج, تقليد شائع خلال فترات الحكم المملوكية والعثمانية.",
+          "en": "Portable water flasks were common items carried by pilgrims during the Mamluk and Ottoman periods.",
+          "fr": "Les gourdes d’eau portables étaient des objets couramment emportés par les pèlerins aux périodes mamelouke et ottomane.",
+          "es": "Las cantimploras para llevar agua eran artículos de uso común entre los peregrinos durante el periodo omeya y mameluco."
         }
       },
       {

@@ -490,24 +490,6 @@
     ],
     "related_items": [
       {
-        "id": "4150a4e5-e339-5229-a33a-a26b868c4c5e",
-        "justifications": {
-          "ar": "تمّ العثور على هذه الزجاجة خلال عمليات التنقيب داخل القلعة وخلال نفس الفترة الزمنية.",
-          "en": "The bottle was uncovered during excavation at the castle and is from the same period.",
-          "fr": "La bouteille fut découverte lors de fouilles au château et date de la même période.",
-          "es": "La botella fue descubierta durante la excavaciones en el castillo y es del mismo periodo."
-        }
-      },
-      {
-        "id": "41e2c44a-687b-5a33-a465-b90fb6356433",
-        "justifications": {
-          "ar": "كِلاهما زجاجتين عطريتين يعود تاريخهما للفترة ذاتها.",
-          "en": "Both are glass perfume bottles dated to same period.",
-          "fr": "Les deux objets sont des flacons à parfum en verre datant de la même période.",
-          "es": "Ambas son botellas de vidrio para perfume que datan del mismo periodo."
-        }
-      },
-      {
         "id": "5c7d6a0f-7525-553c-97f2-764565e9a905",
         "justifications": {
           "ar": "يعود أصل هذا القصر للفترة الأموية وربما اُستخدمت زجاجة مُشابهة من قِبل الأمير أو أفراد من عائلته.",
@@ -517,12 +499,30 @@
         }
       },
       {
+        "id": "4150a4e5-e339-5229-a33a-a26b868c4c5e",
+        "justifications": {
+          "ar": "تمّ العثور على هذه الزجاجة خلال عمليات التنقيب داخل القلعة وخلال نفس الفترة الزمنية.",
+          "en": "The bottle was uncovered during excavation at the castle and is from the same period.",
+          "fr": "La bouteille fut découverte lors de fouilles au château et date de la même période.",
+          "es": "La botella fue descubierta durante la excavaciones en el castillo y es del mismo periodo."
+        }
+      },
+      {
         "id": "bdd605c9-b2d9-57fb-8063-869eda526bd5",
         "justifications": {
           "ar": "زجاجة عطرية أخرى صُنعت من الزجاج ويعود تاريخها للفترة الأموية.",
           "en": "Another perfume bottle made of glass dated to the Mamluk period.",
           "fr": "Autre petit flacon à parfum en verre datant de la période mamelouke.",
           "es": "Otra botella de perfume elaborada en vidrio que data del periodo mameluco."
+        }
+      },
+      {
+        "id": "41e2c44a-687b-5a33-a465-b90fb6356433",
+        "justifications": {
+          "ar": "كِلاهما زجاجتين عطريتين يعود تاريخهما للفترة ذاتها.",
+          "en": "Both are glass perfume bottles dated to same period.",
+          "fr": "Les deux objets sont des flacons à parfum en verre datant de la même période.",
+          "es": "Ambas son botellas de vidrio para perfume que datan del mismo periodo."
         }
       }
     ],
@@ -719,11 +719,11 @@
     ],
     "related_items": [
       {
-        "id": "96998c67-dbae-5a23-8da5-21ca0231218d",
+        "id": "bdd605c9-b2d9-57fb-8063-869eda526bd5",
         "justifications": {}
       },
       {
-        "id": "bdd605c9-b2d9-57fb-8063-869eda526bd5",
+        "id": "96998c67-dbae-5a23-8da5-21ca0231218d",
         "justifications": {}
       },
       {
@@ -1515,6 +1515,15 @@
     ],
     "related_items": [
       {
+        "id": "93fcd379-1558-5fc1-bb67-2850f4814fa0",
+        "justifications": {
+          "ar": "أمر بصنع هذا الباب السلطان قايتباي باني قلعة الإسكندرية.",
+          "en": "Sultan Qaytbay, the builder of the Alexandria citadel, also commissioned the door.",
+          "fr": "Le sultan Qaytbay, bâtisseur de la citadelle d’Alexandrie, était aussi le commanditaire de la porte.",
+          "es": "El sultán Qaytbay, constructor de la ciudadela de Alejandría, también encargó la puerta."
+        }
+      },
+      {
         "id": "1757e7cf-1d29-556c-9e11-f2696aaa848e",
         "justifications": {
           "ar": "مدرسة ومسجد السلطان قايتباي، نفس الباني.",
@@ -1524,12 +1533,12 @@
         }
       },
       {
-        "id": "93fcd379-1558-5fc1-bb67-2850f4814fa0",
+        "id": "e0b9788f-2138-5261-bd75-1329e810829d",
         "justifications": {
-          "ar": "أمر بصنع هذا الباب السلطان قايتباي باني قلعة الإسكندرية.",
-          "en": "Sultan Qaytbay, the builder of the Alexandria citadel, also commissioned the door.",
-          "fr": "Le sultan Qaytbay, bâtisseur de la citadelle d’Alexandrie, était aussi le commanditaire de la porte.",
-          "es": "El sultán Qaytbay, constructor de la ciudadela de Alejandría, también encargó la puerta."
+          "ar": "سبيل وكتاب السلطان قايتباي، نفس الباني.",
+          "en": "Sultan Qaytbay, the builder of the *sabil* (water dispensary) and *kuttab* (Qur'anic school), also commissioned the door.",
+          "fr": "Le sultan Qaytbay, bâtisseur du *sabil* (fontaine publique) et du *kuttab* (école coranique), était aussi le commanditaire de la porte.",
+          "es": "El sultán Qaytbay, constructor del sabil (fuente pública) y el kuttab (escuela coránica), también encargó la puerta."
         }
       },
       {
@@ -1548,15 +1557,6 @@
           "en": "The *minbar* (pulpit) dates to the period of Sultan Qaytbay.",
           "fr": "Le *minbar* (chaire) date du sultan Qaytbay.",
           "es": "El minbar (púlpito) data del período del sultán Qaytbay."
-        }
-      },
-      {
-        "id": "e0b9788f-2138-5261-bd75-1329e810829d",
-        "justifications": {
-          "ar": "سبيل وكتاب السلطان قايتباي، نفس الباني.",
-          "en": "Sultan Qaytbay, the builder of the *sabil* (water dispensary) and *kuttab* (Qur'anic school), also commissioned the door.",
-          "fr": "Le sultan Qaytbay, bâtisseur du *sabil* (fontaine publique) et du *kuttab* (école coranique), était aussi le commanditaire de la porte.",
-          "es": "El sultán Qaytbay, constructor del sabil (fuente pública) y el kuttab (escuela coránica), también encargó la puerta."
         }
       }
     ],
@@ -1773,6 +1773,15 @@
     ],
     "related_items": [
       {
+        "id": "93fcd379-1558-5fc1-bb67-2850f4814fa0",
+        "justifications": {
+          "ar": "تُعدّ القلعة بناء دفاعي خلال الفترة المملوكية.",
+          "en": "The citadel was a defensive structure from the Mamluk period.",
+          "fr": "La citadelle était une structure défensive de la période mamelouke.",
+          "es": "La ciudadela fue una estructura defensiva del periodo mameluco."
+        }
+      },
+      {
         "id": "4150a4e5-e339-5229-a33a-a26b868c4c5e",
         "justifications": {
           "ar": "وُجدت القذائف بداخل القلعة نفسها.",
@@ -1791,12 +1800,12 @@
         }
       },
       {
-        "id": "93fcd379-1558-5fc1-bb67-2850f4814fa0",
+        "id": "f30819fe-fb4c-5ec9-a552-17d8231b324a",
         "justifications": {
-          "ar": "تُعدّ القلعة بناء دفاعي خلال الفترة المملوكية.",
-          "en": "The citadel was a defensive structure from the Mamluk period.",
-          "fr": "La citadelle était une structure défensive de la période mamelouke.",
-          "es": "La ciudadela fue una estructura defensiva del periodo mameluco."
+          "ar": "كِلاهما أسلحة للحرب حيث يعود تاريخهما للفترة أو للسلالة الحاكمة ذاتها.",
+          "en": "Both are war weapons from same period or dynasty.",
+          "fr": "Les deux objets sont des armes de guerre de la même période ou dynastie.",
+          "es": "Ambos son armas de guerra que datan del mismo periodo o dinastía."
         }
       },
       {
@@ -1806,15 +1815,6 @@
           "en": "This glass sprinkleris also pear-shaped with a tiny filling hole and is dated to same period.",
           "fr": "Cet aspersoir en verre est également piriforme avec un fin goulot de remplissage ; il date de la même période.",
           "es": "Este rociador de vidrio también tiene forma de pera con una boca de llenado pequeña y data del mismo periodo."
-        }
-      },
-      {
-        "id": "f30819fe-fb4c-5ec9-a552-17d8231b324a",
-        "justifications": {
-          "ar": "كِلاهما أسلحة للحرب حيث يعود تاريخهما للفترة أو للسلالة الحاكمة ذاتها.",
-          "en": "Both are war weapons from same period or dynasty.",
-          "fr": "Les deux objets sont des armes de guerre de la même période ou dynastie.",
-          "es": "Ambos son armas de guerra que datan del mismo periodo o dinastía."
         }
       }
     ],
@@ -3041,15 +3041,6 @@
     ],
     "related_items": [
       {
-        "id": "01b9cadc-1da9-5e4c-8402-8fb4c0c6b2b9",
-        "justifications": {
-          "ar": "الزجاج في مصباح المسجد مشابه للزجاج الموضح في اللوحة",
-          "en": "This glass mosque lamp is similar to the one depicted on the plaque.",
-          "fr": "Même genre d’inscriptions et mêmes motifs végétaux.",
-          "es": "Esta lámpara de mezquita es similar a la que está tallada en la placa."
-        }
-      },
-      {
         "id": "34df1c16-bb7b-5506-b850-656c4bb0f8aa",
         "justifications": {
           "ar": "يتميز مجمع قلاوون باللوحات وزينة الرخام بنفس الأسلوب",
@@ -3069,6 +3060,15 @@
       {
         "id": "96998c67-dbae-5a23-8da5-21ca0231218d",
         "justifications": {}
+      },
+      {
+        "id": "01b9cadc-1da9-5e4c-8402-8fb4c0c6b2b9",
+        "justifications": {
+          "ar": "الزجاج في مصباح المسجد مشابه للزجاج الموضح في اللوحة",
+          "en": "This glass mosque lamp is similar to the one depicted on the plaque.",
+          "fr": "Même genre d’inscriptions et mêmes motifs végétaux.",
+          "es": "Esta lámpara de mezquita es similar a la que está tallada en la placa."
+        }
       }
     ],
     "tags": [
@@ -3310,10 +3310,6 @@
         }
       },
       {
-        "id": "d37a1bc2-10db-5fb2-9a7c-831f2a1d6997",
-        "justifications": {}
-      },
-      {
         "id": "d4475f08-ea5a-5e67-84a3-3e7f04581e4b",
         "justifications": {
           "ar": "غلاف  كتاب ذو تزيين  بطراز  عصر السلطان قايتباي.",
@@ -3321,6 +3317,10 @@
           "fr": "Couverture de livre décorée dans le style de la période du sultan Qaytbay.",
           "es": "Una encuadernación con decoración del estilo perteneciente al periodo del sultán Qaytbay."
         }
+      },
+      {
+        "id": "d37a1bc2-10db-5fb2-9a7c-831f2a1d6997",
+        "justifications": {}
       }
     ],
     "tags": [
@@ -3642,7 +3642,11 @@
     ],
     "related_items": [
       {
-        "id": "01b9cadc-1da9-5e4c-8402-8fb4c0c6b2b9",
+        "id": "4b8ffd8e-ec58-5468-9e97-3c950ff7e6c9",
+        "justifications": {}
+      },
+      {
+        "id": "9f13783f-37c2-5e26-9fc8-82aec3de2188",
         "justifications": {}
       },
       {
@@ -3650,11 +3654,7 @@
         "justifications": {}
       },
       {
-        "id": "4b8ffd8e-ec58-5468-9e97-3c950ff7e6c9",
-        "justifications": {}
-      },
-      {
-        "id": "9f13783f-37c2-5e26-9fc8-82aec3de2188",
+        "id": "01b9cadc-1da9-5e4c-8402-8fb4c0c6b2b9",
         "justifications": {}
       }
     ],
@@ -4074,6 +4074,22 @@
     ],
     "related_items": [
       {
+        "id": "93fcd379-1558-5fc1-bb67-2850f4814fa0",
+        "justifications": {
+          "ar": ".تعود هذه المباني في مصر وفلسطين  للسلطان قايتباي",
+          "en": "These buildings are the monuments of Sultan Qaitbay in Egypt and Palestine.",
+          "es": "Monumento del sultán Qaytbay, dueño del panel."
+        }
+      },
+      {
+        "id": "e0b9788f-2138-5261-bd75-1329e810829d",
+        "justifications": {
+          "ar": ".تعود هذه المباني في مصر وفلسطين  للسلطان قايتباي",
+          "en": "These buildings are the monuments of Sultan Qaitbay in Egypt and Palestine.",
+          "es": "Monumento del sultán Qaytbay, dueño del panel."
+        }
+      },
+      {
         "id": "51f8fa23-51c6-5b98-a17b-e786e16768ed",
         "justifications": {
           "ar": "أمر ببناء هذا المسجد الجامع السلطان حسن، مالك قمقم العطر.",
@@ -4083,23 +4099,7 @@
         }
       },
       {
-        "id": "93fcd379-1558-5fc1-bb67-2850f4814fa0",
-        "justifications": {
-          "ar": ".تعود هذه المباني في مصر وفلسطين  للسلطان قايتباي",
-          "en": "These buildings are the monuments of Sultan Qaitbay in Egypt and Palestine.",
-          "es": "Monumento del sultán Qaytbay, dueño del panel."
-        }
-      },
-      {
         "id": "b35cbc07-d87d-5f89-b803-e7930fc1b57b",
-        "justifications": {
-          "ar": ".تعود هذه المباني في مصر وفلسطين  للسلطان قايتباي",
-          "en": "These buildings are the monuments of Sultan Qaitbay in Egypt and Palestine.",
-          "es": "Monumento del sultán Qaytbay, dueño del panel."
-        }
-      },
-      {
-        "id": "e0b9788f-2138-5261-bd75-1329e810829d",
         "justifications": {
           "ar": ".تعود هذه المباني في مصر وفلسطين  للسلطان قايتباي",
           "en": "These buildings are the monuments of Sultan Qaitbay in Egypt and Palestine.",
@@ -4551,21 +4551,21 @@
     ],
     "related_items": [
       {
-        "id": "54e60e87-a0d4-5416-b5e8-03ace6751eca",
-        "justifications": {
-          "ar": "صفحة من آيات القران.",
-          "en": "A page from a Qur’anic manuscript.",
-          "fr": "Page d’un manuscrit coranique.",
-          "es": "Página de un manuscrito coránico."
-        }
-      },
-      {
         "id": "9c99c966-ce63-54c0-ab28-822914e17003",
         "justifications": {
           "ar": "هذا المسجد أحد معالم جقميق, مالك المصحف.",
           "en": "This mosque is one of the monuments of Jaqmaq, the owner of the Qur’an manuscript.",
           "fr": "Cette mosquée est l’un des monuments de Jaqmaq, le propriétaire du manuscrit coranique.",
           "es": "Esta mezquita es uno de los monumentos de Yaqmaq, el dueño del manuscrito Corán."
+        }
+      },
+      {
+        "id": "54e60e87-a0d4-5416-b5e8-03ace6751eca",
+        "justifications": {
+          "ar": "صفحة من آيات القران.",
+          "en": "A page from a Qur’anic manuscript.",
+          "fr": "Page d’un manuscrit coranique.",
+          "es": "Página de un manuscrito coránico."
         }
       }
     ],
@@ -4986,10 +4986,6 @@
     ],
     "related_items": [
       {
-        "id": "54e3a0d3-6ecd-5314-a088-45db5e7956cd",
-        "justifications": {}
-      },
-      {
         "id": "54e4dfd7-48fc-5972-94f5-cea81c315201",
         "justifications": {
           "ar": "وعاء مملوكي مشابه جدا لكن ذو زخرفة  بأشكال مختلفة و غنية بشكل خاص.",
@@ -4997,6 +4993,10 @@
           "fr": "Pièce mamelouke très similaire mais avec une décoration figurative différente et particulièrement riche.",
           "es": "Un vaso del periodo mameluco muy similar, pero con una decoración figurativa especialmente suntuosa y diferente."
         }
+      },
+      {
+        "id": "54e3a0d3-6ecd-5314-a088-45db5e7956cd",
+        "justifications": {}
       },
       {
         "id": "bc013c86-0f26-5f80-ae32-0ad8f6ccb5e5",
@@ -5191,21 +5191,21 @@
     ],
     "related_items": [
       {
-        "id": "41e2c44a-687b-5a33-a465-b90fb6356433",
-        "justifications": {
-          "ar": "مثل الكأس السابقة ، تتميز زخرفة هذه الزجاجة على زخارف كتابية .",
-          "en": "Like the cup this bottle is also dominated by a striking calligraphic decoration.",
-          "fr": "Tout comme la coupe, cette bouteille se distingue par une étonnante décoration calligraphique.",
-          "es": "Igual que la copa, a esta botella la domina una sorprendente caligrafía decorativa."
-        }
-      },
-      {
         "id": "bdd605c9-b2d9-57fb-8063-869eda526bd5",
         "justifications": {
           "ar": "تم العثور على كل من هذه الزجاجة والكأس ذو الساق الطويلة في الصين حيث تم إرسالهما على الأرجح بعد وقت قصير من صنعهما.",
           "en": "Both this bottle and the long-stemmed cup were found in China where they were probably sent soon after they were made.",
           "fr": "Cette bouteille et la coupe sur pied haut furent toutes deux trouvées en Chine où elles furent probablement envoyées peu de temps après avoir été réalisées.",
           "es": "La botella y la copa con pie alto fueron encontradas en China, donde posiblemente las enviaron tras su fabricación."
+        }
+      },
+      {
+        "id": "41e2c44a-687b-5a33-a465-b90fb6356433",
+        "justifications": {
+          "ar": "مثل الكأس السابقة ، تتميز زخرفة هذه الزجاجة على زخارف كتابية .",
+          "en": "Like the cup this bottle is also dominated by a striking calligraphic decoration.",
+          "fr": "Tout comme la coupe, cette bouteille se distingue par une étonnante décoration calligraphique.",
+          "es": "Igual que la copa, a esta botella la domina una sorprendente caligrafía decorativa."
         }
       }
     ],
@@ -6201,15 +6201,6 @@
     ],
     "related_items": [
       {
-        "id": "1757e7cf-1d29-556c-9e11-f2696aaa848e",
-        "justifications": {
-          "ar": "مدرسة ومسجد السلطان قايتباي، نفس الباني.",
-          "en": "The *madrasa* and mosque of Sultan Qaytbay, the same builder.",
-          "fr": "La mosquée-*madrasa* du sultan Qaytbay, le même constructeur.",
-          "es": "La madrasa y mezquita del sultán Qaytbay, el mismo constructor."
-        }
-      },
-      {
         "id": "93fcd379-1558-5fc1-bb67-2850f4814fa0",
         "justifications": {
           "ar": "أمر بصنع هذا الباب السلطان قايتباي باني قلعة الإسكندرية.",
@@ -6219,12 +6210,12 @@
         }
       },
       {
-        "id": "dfeaa5f1-63bf-55dd-a784-98bce952f149",
+        "id": "1757e7cf-1d29-556c-9e11-f2696aaa848e",
         "justifications": {
-          "ar": "يعود المنبر إلى فترة السلطان قايتباي.",
-          "en": "The *minbar* goes back to the period of Sultan Qaytbay.",
-          "fr": "Le *minbar* remonte à la période du sultan Qaytbay.",
-          "es": "El minbar data del período del sultán Qaytbay."
+          "ar": "مدرسة ومسجد السلطان قايتباي، نفس الباني.",
+          "en": "The *madrasa* and mosque of Sultan Qaytbay, the same builder.",
+          "fr": "La mosquée-*madrasa* du sultan Qaytbay, le même constructeur.",
+          "es": "La madrasa y mezquita del sultán Qaytbay, el mismo constructor."
         }
       },
       {
@@ -6234,6 +6225,15 @@
           "en": "Also built by Sultan Qaytbay.",
           "fr": "Également construit par le sultan Qaytbay.",
           "es": "También construido por el sultán Qaytbay."
+        }
+      },
+      {
+        "id": "dfeaa5f1-63bf-55dd-a784-98bce952f149",
+        "justifications": {
+          "ar": "يعود المنبر إلى فترة السلطان قايتباي.",
+          "en": "The *minbar* goes back to the period of Sultan Qaytbay.",
+          "fr": "Le *minbar* remonte à la période du sultan Qaytbay.",
+          "es": "El minbar data del período del sultán Qaytbay."
         }
       }
     ],
@@ -6402,7 +6402,7 @@
         }
       },
       {
-        "id": "a16c230e-422f-5bde-8b7a-803161b630d9",
+        "id": "f49a881b-465e-552f-97b1-6bfcba915e82",
         "justifications": {
           "ar": "تمّ العثور على القطعة داخل نطاق مواقع التنقيب الأثرية.",
           "en": "Object found in the course of archaeological excavations at the site.",
@@ -6411,7 +6411,7 @@
         }
       },
       {
-        "id": "f49a881b-465e-552f-97b1-6bfcba915e82",
+        "id": "a16c230e-422f-5bde-8b7a-803161b630d9",
         "justifications": {
           "ar": "تمّ العثور على القطعة داخل نطاق مواقع التنقيب الأثرية.",
           "en": "Object found in the course of archaeological excavations at the site.",
@@ -7557,15 +7557,6 @@
     ],
     "related_items": [
       {
-        "id": "1757e7cf-1d29-556c-9e11-f2696aaa848e",
-        "justifications": {
-          "ar": "مدرسة ومسجد السلطان قايتباي، نفس الباني.",
-          "en": "The *madrasa* and mosque of Sultan Qaytbay, the same builder.",
-          "fr": "La mosquée-*madrasa* du sultan Qaytbay, le même constructeur.",
-          "es": "La madrasa y mezquita del sultán Qaytbay, el mismo constructor."
-        }
-      },
-      {
         "id": "93fcd379-1558-5fc1-bb67-2850f4814fa0",
         "justifications": {
           "ar": ".  أمر بصنع هذا الباب السلطان قايتباي باني قلعة الإسكندرية",
@@ -7575,12 +7566,12 @@
         }
       },
       {
-        "id": "dfeaa5f1-63bf-55dd-a784-98bce952f149",
+        "id": "1757e7cf-1d29-556c-9e11-f2696aaa848e",
         "justifications": {
-          "ar": "يعود المنبر بتاريخه إلى فترة السلطان قايتباي.",
-          "en": "The *minbar* dates to the period of Sultan Qaytbay.",
-          "fr": "Le *minbar* date de l’époque du sultan Qaytbay.",
-          "es": "El minbar data del período del sultán Qaytbay."
+          "ar": "مدرسة ومسجد السلطان قايتباي، نفس الباني.",
+          "en": "The *madrasa* and mosque of Sultan Qaytbay, the same builder.",
+          "fr": "La mosquée-*madrasa* du sultan Qaytbay, le même constructeur.",
+          "es": "La madrasa y mezquita del sultán Qaytbay, el mismo constructor."
         }
       },
       {
@@ -7590,6 +7581,15 @@
           "en": "Also built by Sultan Qaytbay.",
           "fr": "Même constructeur, le sultan Qaytbay.",
           "es": "También construida por el sultán Qaytbay."
+        }
+      },
+      {
+        "id": "dfeaa5f1-63bf-55dd-a784-98bce952f149",
+        "justifications": {
+          "ar": "يعود المنبر بتاريخه إلى فترة السلطان قايتباي.",
+          "en": "The *minbar* dates to the period of Sultan Qaytbay.",
+          "fr": "Le *minbar* date de l’époque du sultan Qaytbay.",
+          "es": "El minbar data del período del sultán Qaytbay."
         }
       }
     ],
@@ -9145,19 +9145,19 @@
     ],
     "related_items": [
       {
+        "id": "93fcd379-1558-5fc1-bb67-2850f4814fa0",
+        "justifications": {
+          "ar": "تتميز قلعة قايتباي (الإسكندرية ) بأبراج دائرية مشابهة.",
+          "en": "The Fort of Qaytbay (Alexandria) is characterised by similar circular towers.",
+          "es": "El fuerte de Qaytbay (Alejandría) se caracteriza por sus torres circulares similares."
+        }
+      },
+      {
         "id": "34df1c16-bb7b-5506-b850-656c4bb0f8aa",
         "justifications": {
           "ar": "تتميز قلعة قايتباي (الإسكندرية ) بأبراج دائرية مشابهة.",
           "en": "The Fort of Qaitbay (Alexandria) is characterized by circular towers such as these two.",
           "fr": "Le fort de Qaytbay (Alexandrie) est caractérisé par des tours circulaires comme celle-ci.",
-          "es": "El fuerte de Qaytbay (Alejandría) se caracteriza por sus torres circulares similares."
-        }
-      },
-      {
-        "id": "93fcd379-1558-5fc1-bb67-2850f4814fa0",
-        "justifications": {
-          "ar": "تتميز قلعة قايتباي (الإسكندرية ) بأبراج دائرية مشابهة.",
-          "en": "The Fort of Qaytbay (Alexandria) is characterised by similar circular towers.",
           "es": "El fuerte de Qaytbay (Alejandría) se caracteriza por sus torres circulares similares."
         }
       }

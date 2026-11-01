@@ -45,21 +45,21 @@
         }
       },
       {
-        "id": "d3cd72eb-4da3-52ee-8fe8-e450b2d00a90",
-        "justifications": {
-          "ar": "هذه القطع النقدية مشابهة لقطع صلاح الدين ولكنها ضربت بعد ذلك بنحو سبعين عاما و القطع النقدية الصليبية الجديدة ضربت في عام 649/1251 و تتجنب ذكر الأسماء أو العبارات الإسلامية.",
-          "en": "Similar to Saladin’s coinage but minted some 70 years later, the new Crusader coins were struck in 649/1251 and avoid mention of Islamic names or phrases.",
-          "fr": "Semblable à la monnaie de Saladin mais frappée quelque 70 ans plus tard, les nouvelles pièces franques furent frappées en 649 H / 1251 J.-C. et évitent de mentionner des noms ou phrases islamiques.",
-          "es": "Parecidas a las monedas de Saladino, pero acuñadas alrededor de 70 años más tarde, las nuevas monedas de los cruzados fueron acuñadas en el 649/1251 y evitan mencionar nombres o frases islámicas."
-        }
-      },
-      {
         "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
         "justifications": {
           "ar": "المحراب في المسجد الأقصى المقدس الذي أمر ببنائه  صلاح الدين يعود لنفس العام  الذي تم فيه الاحتفال بتحرير القدس.",
           "en": "The mihrab in the venerated al-Aqsa Mosque was commissioned by Saladin in the same year, celebrating the liberation of Jerusalem.",
           "fr": "Le mihrab de la très vénérée mosquée al-Aqsa fut commandité par Saladin la même année pour célébrer la libération de Jérusalem.",
           "es": "El mihrab en la venerada mezquita de al-Aqsa fue encargado por Saladino en el mismo año, para la celebración de la liberación de Jerusalén."
+        }
+      },
+      {
+        "id": "d3cd72eb-4da3-52ee-8fe8-e450b2d00a90",
+        "justifications": {
+          "ar": "هذه القطع النقدية مشابهة لقطع صلاح الدين ولكنها ضربت بعد ذلك بنحو سبعين عاما و القطع النقدية الصليبية الجديدة ضربت في عام 649/1251 و تتجنب ذكر الأسماء أو العبارات الإسلامية.",
+          "en": "Similar to Saladin’s coinage but minted some 70 years later, the new Crusader coins were struck in 649/1251 and avoid mention of Islamic names or phrases.",
+          "fr": "Semblable à la monnaie de Saladin mais frappée quelque 70 ans plus tard, les nouvelles pièces franques furent frappées en 649 H / 1251 J.-C. et évitent de mentionner des noms ou phrases islamiques.",
+          "es": "Parecidas a las monedas de Saladino, pero acuñadas alrededor de 70 años más tarde, las nuevas monedas de los cruzados fueron acuñadas en el 649/1251 y evitan mencionar nombres o frases islámicas."
         }
       }
     ],
@@ -465,21 +465,21 @@
     ],
     "related_items": [
       {
-        "id": "19003bf4-70f4-5b4f-9cbc-901f2ae697ef",
-        "justifications": {
-          "ar": "أحضر من الحرم الإبراهيمي.",
-          "en": "The candlestick was brought from al-Haram al-Ibrahimi",
-          "fr": "Le chandelier a été rapporté du Haram al-Ibrahimi.",
-          "es": "El candelero fue traído desde Haram al-Ibrahimi."
-        }
-      },
-      {
         "id": "34df1c16-bb7b-5506-b850-656c4bb0f8aa",
         "justifications": {
           "ar": "مجمع السلطان قلاوون واهب الشمعدان.",
           "en": "The Complex of Sultan Qalawun, the donor of the candlestick.",
           "fr": "Le complexe du sultan Qalawun, le donateur du chandelier.",
           "es": "Complejo del sultán Qalawun, quien donó el candelero."
+        }
+      },
+      {
+        "id": "19003bf4-70f4-5b4f-9cbc-901f2ae697ef",
+        "justifications": {
+          "ar": "أحضر من الحرم الإبراهيمي.",
+          "en": "The candlestick was brought from al-Haram al-Ibrahimi",
+          "fr": "Le chandelier a été rapporté du Haram al-Ibrahimi.",
+          "es": "El candelero fue traído desde Haram al-Ibrahimi."
         }
       },
       {
@@ -603,8 +603,13 @@
     ],
     "related_items": [
       {
-        "id": "09735692-5b84-55c8-9f6f-7ae132533658",
-        "justifications": {}
+        "id": "34df1c16-bb7b-5506-b850-656c4bb0f8aa",
+        "justifications": {
+          "ar": "مجمع السلطان قلاوون واهب الشمعدان.",
+          "en": "The complex of Sultan Qalawun, the donor of the candlestick.",
+          "fr": "Le complexe du sultan Qalawun, le donateur du chandelier.",
+          "es": "Complejo del sultán Qalawun, quien donó el candelero."
+        }
       },
       {
         "id": "19003bf4-70f4-5b4f-9cbc-901f2ae697ef",
@@ -616,13 +621,8 @@
         }
       },
       {
-        "id": "34df1c16-bb7b-5506-b850-656c4bb0f8aa",
-        "justifications": {
-          "ar": "مجمع السلطان قلاوون واهب الشمعدان.",
-          "en": "The complex of Sultan Qalawun, the donor of the candlestick.",
-          "fr": "Le complexe du sultan Qalawun, le donateur du chandelier.",
-          "es": "Complejo del sultán Qalawun, quien donó el candelero."
-        }
+        "id": "09735692-5b84-55c8-9f6f-7ae132533658",
+        "justifications": {}
       }
     ],
     "tags": [
@@ -854,21 +854,21 @@
     ],
     "related_items": [
       {
-        "id": "060dee0a-fee6-55fb-aada-947a4da800d1",
-        "justifications": {
-          "ar": "يتشابه التاجان من حيث الشكل، وكلاهما صنعا في القدس في نفس الفترة.",
-          "en": "The capitals are similar in terms of shape, and both were made in Jerusalem in the same period",
-          "fr": "Les chapiteaux sont semblables en forme, et tous  deux furent exécutés à Jérusalem à la même époque.",
-          "es": "Los capiteles son similares en lo que concierne la forma, y ambos fueron hechos en Jerusalén en el mismo período."
-        }
-      },
-      {
         "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
         "justifications": {
           "ar": "وجد في الحرم الشريف.",
           "en": "It was found in al-Haram al-Sharif",
           "fr": "Trouvé au Haram al-Charif.",
           "es": "El capitel fue encontrado en Haram al-Sharif."
+        }
+      },
+      {
+        "id": "81acb278-b50c-55e2-a7e9-2609f1bc2386",
+        "justifications": {
+          "ar": "نفس التقنيات والفترة وعلى الأغلب نفس الورشة الفنية.",
+          "en": "It shows the same techniques, is from the same period and is probably from the same artistic workshop.",
+          "fr": "Mêmes technique et période, et vraisemblablement même atelier artistique",
+          "es": "Muestra las mismas técnicas, es del mismo período y probablemente también del mismo taller."
         }
       },
       {
@@ -881,12 +881,12 @@
         }
       },
       {
-        "id": "81acb278-b50c-55e2-a7e9-2609f1bc2386",
+        "id": "060dee0a-fee6-55fb-aada-947a4da800d1",
         "justifications": {
-          "ar": "نفس التقنيات والفترة وعلى الأغلب نفس الورشة الفنية.",
-          "en": "It shows the same techniques, is from the same period and is probably from the same artistic workshop.",
-          "fr": "Mêmes technique et période, et vraisemblablement même atelier artistique",
-          "es": "Muestra las mismas técnicas, es del mismo período y probablemente también del mismo taller."
+          "ar": "يتشابه التاجان من حيث الشكل، وكلاهما صنعا في القدس في نفس الفترة.",
+          "en": "The capitals are similar in terms of shape, and both were made in Jerusalem in the same period",
+          "fr": "Les chapiteaux sont semblables en forme, et tous  deux furent exécutés à Jérusalem à la même époque.",
+          "es": "Los capiteles son similares en lo que concierne la forma, y ambos fueron hechos en Jerusalén en el mismo período."
         }
       }
     ],
@@ -1087,21 +1087,21 @@
     ],
     "related_items": [
       {
-        "id": "ce38f20b-4ae7-5ca9-bfa6-3a9eefa8c478",
-        "justifications": {
-          "ar": "لوحة تحيي ذكرى فوز السلطان بيبرس على المغول. وكانت لاحد المقربين من السلطان بيبرس.",
-          "en": "A panel commemorating Sultan Baybars’ victory against the Mongols. The patron of this incense burner was confidante to Sultan Baybars.",
-          "fr": "Panneau commémorant la victoire du sultan Baybars sur les Mongols. Le commanditaire du brûleur d’encens était un des proches du sultan Baybars.",
-          "es": "Este panel conmemora la victoria del sultán Baybars contra los mongoles. El patrón del incensario era confidente del sultán Baybars."
-        }
-      },
-      {
         "id": "e1e587a5-e3ec-54cd-a541-b98bd284ead1",
         "justifications": {
           "ar": "برج بناه السلطان بيبرس وكان بدر الدين بيساري، صاحب هذه المبخرة ، صديقًا مقربًا من السلطان.",
           "en": "A tower built by Sultan Baybars for whom Badr al-Din Baysari, the patron of this incense burner, was confidante.",
           "fr": "Tour construite par le sultan Baybars dont Badr al-Din Baysari, commanditaire de ce brûleur d’encens, était un des proches.",
           "es": "Una torre construida por el sultán Baybars, confidente del patrón de este incensario, Badr al-Din Baysari."
+        }
+      },
+      {
+        "id": "ce38f20b-4ae7-5ca9-bfa6-3a9eefa8c478",
+        "justifications": {
+          "ar": "لوحة تحيي ذكرى فوز السلطان بيبرس على المغول. وكانت لاحد المقربين من السلطان بيبرس.",
+          "en": "A panel commemorating Sultan Baybars’ victory against the Mongols. The patron of this incense burner was confidante to Sultan Baybars.",
+          "fr": "Panneau commémorant la victoire du sultan Baybars sur les Mongols. Le commanditaire du brûleur d’encens était un des proches du sultan Baybars.",
+          "es": "Este panel conmemora la victoria del sultán Baybars contra los mongoles. El patrón del incensario era confidente del sultán Baybars."
         }
       }
     ],
@@ -1494,15 +1494,6 @@
     ],
     "related_items": [
       {
-        "id": "3a8f4926-8bbd-5e0d-af9c-239cc5185d26",
-        "justifications": {
-          "ar": ". نقش من خندق القدس، الذي أمر ب صلاح الدين بإنشائه، وتذكر المخطوطة هذا العمل",
-          "en": "The inscription is from the trench of Jerusalem, whose construction was ordered by Salah al-Din. The manuscript mentions this work",
-          "fr": "L’inscription provient du fossé de Jérusalem,  dont la construction fut ordonnée par Saladin. Le manuscrit mentionne cet ouvrage.",
-          "es": "La lápida es de la trinchera de Jerusalén, cuya construcción fue ordenada por Salah al-Din. El manuscrito menciona su trabajo."
-        }
-      },
-      {
         "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
         "justifications": {}
       },
@@ -1513,6 +1504,15 @@
           "en": "The tomb of Salah al-Din is a subject of the book.",
           "fr": "La tombe de Saladin est l’un des sujets du livre.",
           "es": "La tumba de Salah al-Din es un tema del libro."
+        }
+      },
+      {
+        "id": "3a8f4926-8bbd-5e0d-af9c-239cc5185d26",
+        "justifications": {
+          "ar": ". نقش من خندق القدس، الذي أمر ب صلاح الدين بإنشائه، وتذكر المخطوطة هذا العمل",
+          "en": "The inscription is from the trench of Jerusalem, whose construction was ordered by Salah al-Din. The manuscript mentions this work",
+          "fr": "L’inscription provient du fossé de Jérusalem,  dont la construction fut ordonnée par Saladin. Le manuscrit mentionne cet ouvrage.",
+          "es": "La lápida es de la trinchera de Jerusalén, cuya construcción fue ordenada por Salah al-Din. El manuscrito menciona su trabajo."
         }
       }
     ],
@@ -1634,12 +1634,12 @@
     ],
     "related_items": [
       {
-        "id": "7c3a4cbc-d305-5a96-aabc-cbcebe9d6397",
+        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
         "justifications": {
-          "ar": "نفس التقنيات والفترة وعلى الأغلب نفس الورشة الفنية.",
-          "en": "It shows the same techniques, is from the same period and is probably from the same artistic workshop.",
-          "fr": "Mêmes technique et période, et vraisemblablement même atelier artistique",
-          "es": "Muestra las mismas técnicas, es del mismo período y probablemente también del mismo taller."
+          "ar": "قل من المسجد الأقصى.",
+          "en": "It was at al-Aqsa Mosque.",
+          "fr": "Provient de la mosquée al-Aqsa.",
+          "es": "Estaba en la mezquita al-Aqsa."
         }
       },
       {
@@ -1652,12 +1652,12 @@
         }
       },
       {
-        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "id": "7c3a4cbc-d305-5a96-aabc-cbcebe9d6397",
         "justifications": {
-          "ar": "قل من المسجد الأقصى.",
-          "en": "It was at al-Aqsa Mosque.",
-          "fr": "Provient de la mosquée al-Aqsa.",
-          "es": "Estaba en la mezquita al-Aqsa."
+          "ar": "نفس التقنيات والفترة وعلى الأغلب نفس الورشة الفنية.",
+          "en": "It shows the same techniques, is from the same period and is probably from the same artistic workshop.",
+          "fr": "Mêmes technique et période, et vraisemblablement même atelier artistique",
+          "es": "Muestra las mismas técnicas, es del mismo período y probablemente también del mismo taller."
         }
       }
     ],
@@ -1769,6 +1769,10 @@
         }
       },
       {
+        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
+        "justifications": {}
+      },
+      {
         "id": "72cd6b04-4359-5c17-b1d0-29c1ddfe315f",
         "justifications": {
           "ar": "نفس التقنيات والفترة وعلى الأغلب نفس الورشة الفنية.",
@@ -1785,10 +1789,6 @@
           "fr": "Mêmes technique et période, et vraisemblablement même atelier artistique",
           "es": "Muestra las mismas técnicas, es del mismo período y probablemente también del mismo taller."
         }
-      },
-      {
-        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
-        "justifications": {}
       }
     ],
     "tags": [
@@ -2046,12 +2046,12 @@
     ],
     "related_items": [
       {
-        "id": "4e4e72ee-c59e-5dac-bbc4-668eefd07742",
+        "id": "e1e587a5-e3ec-54cd-a541-b98bd284ead1",
         "justifications": {
-          "ar": "السلطان المملوكي المذكور في هذه اللوحة مدفون في المدرسة الظاهرية قرب المسجد الأموي الكبير.",
-          "en": "The Mamluk Sultan being commemorated by this panel is buried at the Madrasa al-Zahiriyya near to the Great Umayyad Mosque",
-          "fr": "Le sultan mamelouk commémoré par ce panneau est enterré dans la *madrasa* al-Zahiriyya près de la Grande Mosquée omeyyade.",
-          "es": "El sultán mameluco que es conmemorado en este panel está enterrado en la Madraza al-Zahiriyya cerca de la Gran Mezquita Omeya."
+          "ar": "بينما كان بيبرس يقاتل جيوش المغول في شمال سوريا كان أيضا يبني الأبراج في مصر.",
+          "en": "While Baybars was fighting back Mongol allies north of Syria, he was also constructing military towers in Egypt.",
+          "fr": "Pendant que Baybars était en train de lutter contre les alliés mongols au nord de la Syrie, il était également en train de construire des tours militaires en Égypte.",
+          "es": "Al mismo tiempo que Baybars estaba luchando contra los aliados mongoles al norte de Siria, construía torres militares en Egipto."
         }
       },
       {
@@ -2064,21 +2064,21 @@
         }
       },
       {
+        "id": "4e4e72ee-c59e-5dac-bbc4-668eefd07742",
+        "justifications": {
+          "ar": "السلطان المملوكي المذكور في هذه اللوحة مدفون في المدرسة الظاهرية قرب المسجد الأموي الكبير.",
+          "en": "The Mamluk Sultan being commemorated by this panel is buried at the Madrasa al-Zahiriyya near to the Great Umayyad Mosque",
+          "fr": "Le sultan mamelouk commémoré par ce panneau est enterré dans la *madrasa* al-Zahiriyya près de la Grande Mosquée omeyyade.",
+          "es": "El sultán mameluco que es conmemorado en este panel está enterrado en la Madraza al-Zahiriyya cerca de la Gran Mezquita Omeya."
+        }
+      },
+      {
         "id": "8bb1aef3-8779-5dfe-8bd0-4fef627826bc",
         "justifications": {
           "ar": "هذه المبخرة الفاخرة صنعت في سوريا لأحد القادة العسكريين للظاهر بيبرس.",
           "en": "This luxurious incense burner was made in Syria for one of the members of al-Zahir Baybars’ military entourage.",
           "fr": "Ce luxueux brûleur d’encens a été fabriqué en Syrie pour l’un des membres de l’entourage militaire d’al-Dahir Baybars.",
           "es": "Este suntuoso quemador de incienso fue elaborado en Siria por uno de los miembros del séquito militar de al-Zahiri Baybars."
-        }
-      },
-      {
-        "id": "e1e587a5-e3ec-54cd-a541-b98bd284ead1",
-        "justifications": {
-          "ar": "بينما كان بيبرس يقاتل جيوش المغول في شمال سوريا كان أيضا يبني الأبراج في مصر.",
-          "en": "While Baybars was fighting back Mongol allies north of Syria, he was also constructing military towers in Egypt.",
-          "fr": "Pendant que Baybars était en train de lutter contre les alliés mongols au nord de la Syrie, il était également en train de construire des tours militaires en Égypte.",
-          "es": "Al mismo tiempo que Baybars estaba luchando contra los aliados mongoles al norte de Siria, construía torres militares en Egipto."
         }
       }
     ],
@@ -2706,19 +2706,19 @@
     ],
     "related_items": [
       {
-        "id": "5e68b14d-8eb3-5454-8d3b-cd5efa2239df",
-        "justifications": {
-          "ar": "تحاكي القارورة الزجاجية شكل قوارير الحجاج المصنوعة من الآنية الخزفية.",
-          "en": "Glass bottle imitating the shape of earthenware pilgrim bottles.",
-          "fr": "Bouteille de verre imitant la forme des gourdes de pèlerin en terre cuite."
-        }
-      },
-      {
         "id": "a422b89c-541c-5d0c-b8ef-5292227a2201",
         "justifications": {
           "ar": "مثال آخر على قارورة حاج.",
           "en": "Another example of a pilgrim bottle.",
           "fr": "Autre exemple de gourde de pèlerin."
+        }
+      },
+      {
+        "id": "5e68b14d-8eb3-5454-8d3b-cd5efa2239df",
+        "justifications": {
+          "ar": "تحاكي القارورة الزجاجية شكل قوارير الحجاج المصنوعة من الآنية الخزفية.",
+          "en": "Glass bottle imitating the shape of earthenware pilgrim bottles.",
+          "fr": "Bouteille de verre imitant la forme des gourdes de pèlerin en terre cuite."
         }
       }
     ],
@@ -2811,8 +2811,13 @@
     ],
     "related_items": [
       {
-        "id": "5e68b14d-8eb3-5454-8d3b-cd5efa2239df",
-        "justifications": {}
+        "id": "b6518af0-5029-5a94-8521-524613b875bb",
+        "justifications": {
+          "ar": "مالك قارورة الحاج هذه هو الأمير طقزتمر الذي ربما كان مقيما في قلعة حلب.",
+          "en": "The owner of this pilgrim’s flask, Prince Toquztimur, may have once resided at Aleppo Citadel.",
+          "fr": "Le propriétaire de cette gourde de pèlerin, le prince Toqouztimour, a peut-être résidé dans la citadelle d’Alep.",
+          "es": "Es posible que el dueño de esta cantimplora de peregrino, el príncipe Toquztimur, haya residido en la ciudadela de Alepo."
+        }
       },
       {
         "id": "b233b9f9-606a-5020-b525-f2dfcb494a75",
@@ -2824,13 +2829,8 @@
         }
       },
       {
-        "id": "b6518af0-5029-5a94-8521-524613b875bb",
-        "justifications": {
-          "ar": "مالك قارورة الحاج هذه هو الأمير طقزتمر الذي ربما كان مقيما في قلعة حلب.",
-          "en": "The owner of this pilgrim’s flask, Prince Toquztimur, may have once resided at Aleppo Citadel.",
-          "fr": "Le propriétaire de cette gourde de pèlerin, le prince Toqouztimour, a peut-être résidé dans la citadelle d’Alep.",
-          "es": "Es posible que el dueño de esta cantimplora de peregrino, el príncipe Toquztimur, haya residido en la ciudadela de Alepo."
-        }
+        "id": "5e68b14d-8eb3-5454-8d3b-cd5efa2239df",
+        "justifications": {}
       }
     ],
     "tags": [
@@ -2963,15 +2963,6 @@
     ],
     "related_items": [
       {
-        "id": "19003bf4-70f4-5b4f-9cbc-901f2ae697ef",
-        "justifications": {
-          "ar": "الحرم الإبراهيمي  في   الخليل مرسوم على وثيقة الحج هذه ولقد كان يزوره الحجاج.",
-          "en": "Haram al-Ibrahimi in Hebron, depicted on this pilgrimage scroll, was visited by pilgrims.",
-          "fr": "Le Haram al-Ibrahimi à Hébron, représenté sur ce rouleau de pèlerinage, était visité par les pèlerins.",
-          "es": "Haram al-Ibrahimi en Hebrón, representado en este pergamino de peregrinaje, era visitado por peregrinos."
-        }
-      },
-      {
         "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
         "justifications": {
           "ar": "الحرم الشريف في  القدس مرسوم على وثيقة الحج هذه ولقد كان يزوره الحجاج.",
@@ -2981,13 +2972,8 @@
         }
       },
       {
-        "id": "5e68b14d-8eb3-5454-8d3b-cd5efa2239df",
-        "justifications": {
-          "ar": "في العصور الوسطى حمل الحجاج مثل هذه القوارير(الزمزميات) من اجل الماء و أعادوا مثل هذه الشهادات عن حجهم.",
-          "en": "In the Middle Ages, pilgrims carried such flasks for water and brought back such certificates for their pilgrimage.",
-          "fr": "Au Moyen Âge, les pèlerins emportaient ces belles gourdes pour transporter l’eau et rapportaient ces certificats avec eux.",
-          "es": "En la Edad Media los peregrinos cargaban cantimploras similares para agua y traían tales certificados para su peregrinación."
-        }
+        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "justifications": {}
       },
       {
         "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
@@ -2999,8 +2985,22 @@
         }
       },
       {
-        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
-        "justifications": {}
+        "id": "19003bf4-70f4-5b4f-9cbc-901f2ae697ef",
+        "justifications": {
+          "ar": "الحرم الإبراهيمي  في   الخليل مرسوم على وثيقة الحج هذه ولقد كان يزوره الحجاج.",
+          "en": "Haram al-Ibrahimi in Hebron, depicted on this pilgrimage scroll, was visited by pilgrims.",
+          "fr": "Le Haram al-Ibrahimi à Hébron, représenté sur ce rouleau de pèlerinage, était visité par les pèlerins.",
+          "es": "Haram al-Ibrahimi en Hebrón, representado en este pergamino de peregrinaje, era visitado por peregrinos."
+        }
+      },
+      {
+        "id": "5e68b14d-8eb3-5454-8d3b-cd5efa2239df",
+        "justifications": {
+          "ar": "في العصور الوسطى حمل الحجاج مثل هذه القوارير(الزمزميات) من اجل الماء و أعادوا مثل هذه الشهادات عن حجهم.",
+          "en": "In the Middle Ages, pilgrims carried such flasks for water and brought back such certificates for their pilgrimage.",
+          "fr": "Au Moyen Âge, les pèlerins emportaient ces belles gourdes pour transporter l’eau et rapportaient ces certificats avec eux.",
+          "es": "En la Edad Media los peregrinos cargaban cantimploras similares para agua y traían tales certificados para su peregrinación."
+        }
       }
     ],
     "tags": [
@@ -3113,11 +3113,15 @@
         "justifications": {}
       },
       {
-        "id": "3d83888a-750e-5a9e-9d4f-9db7b89ce318",
+        "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
         "justifications": {}
       },
       {
-        "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
+        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "justifications": {}
+      },
+      {
+        "id": "3d83888a-750e-5a9e-9d4f-9db7b89ce318",
         "justifications": {}
       },
       {
@@ -3126,10 +3130,6 @@
       },
       {
         "id": "dd44c4b3-03fc-5979-8e45-d6162ea57c5a",
-        "justifications": {}
-      },
-      {
-        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
         "justifications": {}
       }
     ],
@@ -3235,11 +3235,19 @@
         "justifications": {}
       },
       {
+        "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
+        "justifications": {}
+      },
+      {
+        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "justifications": {}
+      },
+      {
         "id": "3d83888a-750e-5a9e-9d4f-9db7b89ce318",
         "justifications": {}
       },
       {
-        "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
+        "id": "d3cd72eb-4da3-52ee-8fe8-e450b2d00a90",
         "justifications": {}
       },
       {
@@ -3252,14 +3260,6 @@
       },
       {
         "id": "ca942ff7-606f-5ad2-bbe5-0716cf554458",
-        "justifications": {}
-      },
-      {
-        "id": "d3cd72eb-4da3-52ee-8fe8-e450b2d00a90",
-        "justifications": {}
-      },
-      {
-        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
         "justifications": {}
       }
     ],
@@ -3520,20 +3520,20 @@
         }
       },
       {
+        "id": "8850561d-4d5d-5a91-862d-fe88824fcdc8",
+        "justifications": {
+          "ar": "ساحة خاصة بالصليبيين وصلاح الدين.",
+          "en": "Site of Crusaders and Salah al-Din.",
+          "fr": "Croisés et Saladin."
+        }
+      },
+      {
         "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
         "justifications": {
           "ar": "ساحة خاصة بالصليبيين وصلاح الدين.",
           "en": "Site of Crusaders and Salah al-Din.",
           "fr": "Site de Croisés et de Saladin.",
           "es": "Emplazamiento de los cruzados y Saladino."
-        }
-      },
-      {
-        "id": "8850561d-4d5d-5a91-862d-fe88824fcdc8",
-        "justifications": {
-          "ar": "ساحة خاصة بالصليبيين وصلاح الدين.",
-          "en": "Site of Crusaders and Salah al-Din.",
-          "fr": "Croisés et Saladin."
         }
       },
       {
@@ -4578,6 +4578,15 @@
     ],
     "related_items": [
       {
+        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
+        "justifications": {
+          "ar": "يملك هذا المعلم قبة بتصميم مشابه.",
+          "en": "This monument has a dome with a similar layout.",
+          "fr": "Similitude du dessin du dôme pour les deux monuments.",
+          "es": "Este monumento tiene una cúpula con un diseño similar."
+        }
+      },
+      {
         "id": "55a9a6bc-439c-5d96-9801-d84c4d57c26f",
         "justifications": {
           "ar": "بني الرباط من قبل السلطان قلاووي في فلسطين.",
@@ -4593,15 +4602,6 @@
           "en": "The Bimaristan of Nur al-Din in Damascus was the model that inspired Qalawun to build his complex, which serves the same role.",
           "fr": "Le *bimaristan* (hôpital) de Nour al-Din à Damas a été le premier modèle à inspirer Qalawun pour construire son complexe, qui assume la même fonction.",
           "es": "El bimaristan de Nur al-Din en Damasco fue el modelo que inspiró a Qalawun a construir su complejo que cumple el mismo papel."
-        }
-      },
-      {
-        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
-        "justifications": {
-          "ar": "يملك هذا المعلم قبة بتصميم مشابه.",
-          "en": "This monument has a dome with a similar layout.",
-          "fr": "Similitude du dessin du dôme pour les deux monuments.",
-          "es": "Este monumento tiene una cúpula con un diseño similar."
         }
       }
     ],
@@ -4981,6 +4981,24 @@
     ],
     "related_items": [
       {
+        "id": "e1e587a5-e3ec-54cd-a541-b98bd284ead1",
+        "justifications": {
+          "ar": "في نفس الوقت الذي كانت تجري فيه فتوحات السلطان بيبرس العسكرية ضد الصليبيين في قلعة الحصن فقد كان يحصن عاصمته القاهرة.",
+          "en": "At the same time as Sultan Baybars was on military expeditions against the Crusaders at Crac des Chevaliers, he was fortifying his capital, Cairo.",
+          "fr": "Dans le même temps que le sultan Baybars participait à une expédition militaire contre les Croisés au Krac des Chevaliers, il fortifiait sa capitale : Le Caire.",
+          "es": "Al mismo tiempo que el sultán Baybars se encontraba en expediciones militares contra los cruzados en Krac des Chevaliers, estaba fortificando su capital, El Cairo."
+        }
+      },
+      {
+        "id": "8850561d-4d5d-5a91-862d-fe88824fcdc8",
+        "justifications": {
+          "ar": "كما سمحت قلعة الحصن للصليبيين بالسيطرة على طريق حمص فإن قلعة  الشوبك أعطتهم سيطرة ضعيفة على منطقة البحر الميت.",
+          "en": "Just as Crac des Chevaliers allowed the Crusaders to control the Pass of Homs, Shawbak Castle gave them loose control over the Dead Sea region",
+          "fr": "Au moment où le Krac des Chevaliers autorisait les Croisés à contrôler le passage de Homs, le château de Shawbak leur donnait le libre contrôle sur la région de la mer Morte.",
+          "es": "Al igual que Krac des Chevaliers permitió a los cruzados controlar el Paso de Homs, el castillo de Shawbak les dio un control muy débil sobre la región del Mar Muerto."
+        }
+      },
+      {
         "id": "4e4e72ee-c59e-5dac-bbc4-668eefd07742",
         "justifications": {
           "ar": "لم يتم أبدا الاستيلاء على قلعة الحصن من قبل صلاح الدين و لكنها سقطت في النهاية بيد السلطان بيبرس المملوكي و الذي دفن في الضريح قرب الجامع الأموي.",
@@ -4999,30 +5017,12 @@
         }
       },
       {
-        "id": "8850561d-4d5d-5a91-862d-fe88824fcdc8",
-        "justifications": {
-          "ar": "كما سمحت قلعة الحصن للصليبيين بالسيطرة على طريق حمص فإن قلعة  الشوبك أعطتهم سيطرة ضعيفة على منطقة البحر الميت.",
-          "en": "Just as Crac des Chevaliers allowed the Crusaders to control the Pass of Homs, Shawbak Castle gave them loose control over the Dead Sea region",
-          "fr": "Au moment où le Krac des Chevaliers autorisait les Croisés à contrôler le passage de Homs, le château de Shawbak leur donnait le libre contrôle sur la région de la mer Morte.",
-          "es": "Al igual que Krac des Chevaliers permitió a los cruzados controlar el Paso de Homs, el castillo de Shawbak les dio un control muy débil sobre la región del Mar Muerto."
-        }
-      },
-      {
         "id": "dd44c4b3-03fc-5979-8e45-d6162ea57c5a",
         "justifications": {
           "ar": "سيف حديد مصنوع في أوربا مثل الذي يظهر هنا قد استخدم من قبل الصليبيين الذي يقاتلون في القلاع الإستراتيجية على ساحل المتوسط.",
           "en": "A European-made iron sword like the one seen here would have been used by the Crusaders fighting for strategically based castles on the Mediterranean coast.",
           "fr": "Les Croisés combattant pour des châteaux stratégiquement basés le long de la côte méditerranéenne devaient utiliser ce genre d’épées en acier de fabrication européenne.",
           "es": "Es posible que una espada de hierro elaborada en Europa como la que se ve aquí haya sido utilizada por los cruzados que luchaban por los castillos establecidos estratégicamente en la costa mediterránea."
-        }
-      },
-      {
-        "id": "e1e587a5-e3ec-54cd-a541-b98bd284ead1",
-        "justifications": {
-          "ar": "في نفس الوقت الذي كانت تجري فيه فتوحات السلطان بيبرس العسكرية ضد الصليبيين في قلعة الحصن فقد كان يحصن عاصمته القاهرة.",
-          "en": "At the same time as Sultan Baybars was on military expeditions against the Crusaders at Crac des Chevaliers, he was fortifying his capital, Cairo.",
-          "fr": "Dans le même temps que le sultan Baybars participait à une expédition militaire contre les Croisés au Krac des Chevaliers, il fortifiait sa capitale : Le Caire.",
-          "es": "Al mismo tiempo que el sultán Baybars se encontraba en expediciones militares contra los cruzados en Krac des Chevaliers, estaba fortificando su capital, El Cairo."
         }
       }
     ],
@@ -5697,21 +5697,21 @@
         }
       },
       {
-        "id": "a0123f90-172b-59e1-9291-e46637556232",
-        "justifications": {
-          "ar": "عود هذه القطعة للمسجد الأقصى.",
-          "en": "This piece was brought from the Dome of the Rock.",
-          "fr": "Pièce transférée du Dôme du Rocher.",
-          "es": "Este artículo fue traído desde la Cúpula de la Roca."
-        }
-      },
-      {
         "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
         "justifications": {
           "ar": "بني المسجد الأقصى في نفس فترة بناء قبة الصخرة.",
           "en": "Al-Aqsa Mosque was built in the same period as the Dome of the Rock.",
           "fr": "La Mosquée Omeyyade fut construite à la même époque que le Dôme du Rocher.",
           "es": "La mezquita al-Aqsa fue construida en el mismo período que la Cúpula de la Roca."
+        }
+      },
+      {
+        "id": "a0123f90-172b-59e1-9291-e46637556232",
+        "justifications": {
+          "ar": "عود هذه القطعة للمسجد الأقصى.",
+          "en": "This piece was brought from the Dome of the Rock.",
+          "fr": "Pièce transférée du Dôme du Rocher.",
+          "es": "Este artículo fue traído desde la Cúpula de la Roca."
         }
       }
     ],
@@ -5951,21 +5951,21 @@
     ],
     "related_items": [
       {
-        "id": "09735692-5b84-55c8-9f6f-7ae132533658",
-        "justifications": {
-          "ar": "أحضر الشمعدان من الحرم الإبراهيمي، حيث كان موقوفا عليه.",
-          "en": "The candlestick was brought from al-Haram al-Ibrahimi, where it had been placed.",
-          "fr": "Le chandelier avait été transféré du Haram al-Ibrahimi, où il avait été placé.",
-          "es": "El candelero fue traído desde el Haram al-Ibrahimi, donde había sido colocado."
-        }
-      },
-      {
         "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
         "justifications": {
           "ar": "شكل الحرم الإبراهيمي في الخليل والحرم الشريف في القدس توأمين، دعيا منذ الفترة الأيوبية بـ\"الحرمين الشريفين\" وكانت لهما منذ ذلك التاريخ إدارة مشتركة \"ناظر الحرمين الشريفين\".",
           "en": "Known since the Ayyubid period as al-Haramayn al-Sharifayn, the two buildings were constructed as complements and were jointly administered by an overseer.",
           "fr": "Connus depuis la période ayyoubide sous le nom de Haram al-Charif, les deux édifices furent construits comme compléments l’un de l’autre et étaient gérés conjointement par le même administrateur.",
           "es": "Conocido desde el período ayyubí como Haramayn al-Sharifayn, los dos edificios fueron construidos como complementos y eran administrados en conjunto por un supervisor."
+        }
+      },
+      {
+        "id": "09735692-5b84-55c8-9f6f-7ae132533658",
+        "justifications": {
+          "ar": "أحضر الشمعدان من الحرم الإبراهيمي، حيث كان موقوفا عليه.",
+          "en": "The candlestick was brought from al-Haram al-Ibrahimi, where it had been placed.",
+          "fr": "Le chandelier avait été transféré du Haram al-Ibrahimi, où il avait été placé.",
+          "es": "El candelero fue traído desde el Haram al-Ibrahimi, donde había sido colocado."
         }
       },
       {
@@ -6131,13 +6131,12 @@
     ],
     "related_items": [
       {
-        "id": "060dee0a-fee6-55fb-aada-947a4da800d1",
-        "justifications": {
-          "ar": "ود هذا التاج من اللحرم الشريف.",
-          "en": "The capital came from al-Haram al-Sharif.",
-          "fr": "Le chapiteau provenait du Haram al-Charif.",
-          "es": "El capitel proviene de Haram al-Sharif."
-        }
+        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "justifications": {}
+      },
+      {
+        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
+        "justifications": {}
       },
       {
         "id": "19003bf4-70f4-5b4f-9cbc-901f2ae697ef",
@@ -6149,12 +6148,13 @@
         }
       },
       {
-        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
-        "justifications": {}
-      },
-      {
-        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
-        "justifications": {}
+        "id": "060dee0a-fee6-55fb-aada-947a4da800d1",
+        "justifications": {
+          "ar": "ود هذا التاج من اللحرم الشريف.",
+          "en": "The capital came from al-Haram al-Sharif.",
+          "fr": "Le chapiteau provenait du Haram al-Charif.",
+          "es": "El capitel proviene de Haram al-Sharif."
+        }
       }
     ],
     "tags": [
@@ -6656,21 +6656,21 @@
     ],
     "related_items": [
       {
-        "id": "7c3a4cbc-d305-5a96-aabc-cbcebe9d6397",
-        "justifications": {
-          "ar": "استخدمت كثير من تيجان الأعمدة الرخامية كهذه في كثير من المباني الخاصة بتلك الفترة.",
-          "en": "Marble capitals such as this one were in use in many buildings during this period.",
-          "fr": "Des chapiteaux de marbre comme celui-ci étaient utilisés dans de nombreux bâtiments durant cette période.",
-          "es": "Los capiteles de mármol como este se utilizaron en muchas construcciones durante este periodo."
-        }
-      },
-      {
         "id": "8850561d-4d5d-5a91-862d-fe88824fcdc8",
         "justifications": {
           "ar": "علاقة تبادلية ذو ترتيب زمني تسلسلي بين الصليبيين وصلاح الدين الأيوبي.",
           "en": "Chronological interrelation with the Crusaders and Salah al-Din.",
           "fr": "Interrelation chronologique avec les Croisés et avec Saladin.",
           "es": "Relación cronológica con los cruzados y Saladino."
+        }
+      },
+      {
+        "id": "7c3a4cbc-d305-5a96-aabc-cbcebe9d6397",
+        "justifications": {
+          "ar": "استخدمت كثير من تيجان الأعمدة الرخامية كهذه في كثير من المباني الخاصة بتلك الفترة.",
+          "en": "Marble capitals such as this one were in use in many buildings during this period.",
+          "fr": "Des chapiteaux de marbre comme celui-ci étaient utilisés dans de nombreux bâtiments durant cette période.",
+          "es": "Los capiteles de mármol como este se utilizaron en muchas construcciones durante este periodo."
         }
       },
       {
@@ -6938,21 +6938,21 @@
         }
       },
       {
-        "id": "8bb1aef3-8779-5dfe-8bd0-4fef627826bc",
-        "justifications": {
-          "ar": "مبخرة فاخرة صنعت في سوريا لأحد أفراد الحاشية العسكرية للظاهر بيبرس.",
-          "en": "A luxury incense burner that was made in Syria for one of the members of al-Zahir Baybars’ military entourage.",
-          "fr": "Luxueux brûleur d’encens fabriqué en Syrie pour un des membres de l’entourage militaire d’al-Dahir Baybars.",
-          "es": "Un quemador de incienso suntuoso que fue elaborado en Siria por uno de los miembros del entorno militar de al-Zahir Baybars."
-        }
-      },
-      {
         "id": "ce38f20b-4ae7-5ca9-bfa6-3a9eefa8c478",
         "justifications": {
           "ar": "لوحة مصنوعة في حمص . وهي تحمل تكريم لانتصار السلطان الظاهر بيبرس في سيليسيا(كليكيا في جنوب تركيا ) ضد المغول و حلفائهم.",
           "en": "A panel made in Homs. It bears testimony to Sultan al-Zahir Baybars’s victory in Cilicia against the Mongols and their allies.",
           "fr": "Panneau fabriqué à Homs. Il commémore la victoire du sultan al-Dahir Baybars en Cilicie contre les Mongols et leurs alliés.",
           "es": "Un panel elaborado en Homs. Contiene una declaración de la victoria del sultán al-Zahir Baybars en Cilicia contra los mongoles y sus aliados."
+        }
+      },
+      {
+        "id": "8bb1aef3-8779-5dfe-8bd0-4fef627826bc",
+        "justifications": {
+          "ar": "مبخرة فاخرة صنعت في سوريا لأحد أفراد الحاشية العسكرية للظاهر بيبرس.",
+          "en": "A luxury incense burner that was made in Syria for one of the members of al-Zahir Baybars’ military entourage.",
+          "fr": "Luxueux brûleur d’encens fabriqué en Syrie pour un des membres de l’entourage militaire d’al-Dahir Baybars.",
+          "es": "Un quemador de incienso suntuoso que fue elaborado en Siria por uno de los miembros del entorno militar de al-Zahir Baybars."
         }
       }
     ],
@@ -7370,21 +7370,21 @@
     ],
     "related_items": [
       {
-        "id": "3a8f4926-8bbd-5e0d-af9c-239cc5185d26",
-        "justifications": {
-          "ar": "هذا الرخام المنقوش صنع بعد إعادة فتح القدس من قبل صلاح الدين و الذي يعمل على حماية المدينة             و يمجد نصر صلاح الدين.",
-          "en": "Created after Saladin’s reconquest of Jerusalem, this marble inscription served to protect the city and commemorate Saladin’s victory.",
-          "fr": "Crée après la reconquête de Jérusalem par Saladin, cette inscription sur marbre servait à protéger la ville et commémorer la victoire de Saladin.",
-          "es": "Esta inscripción de mármol creada después de que Saladino reconquistara Jerusalén servía para proteger la ciudad y conmemorar la victoria de Saladino."
-        }
-      },
-      {
         "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
         "justifications": {
           "ar": "جدد العثمانيون الأبنية الدينية المهمة مثل قبة الصخرة و ضريح صلاح الدين بتزيينها ببلاطات القيشاني.",
           "en": "The Ottomans renovated important religious buildings, such as the Dome of the Rock and the Mausoleum of Saladin by decorating it with Qashani tiles.",
           "fr": "Les Ottomans rénovèrent d’importants édifices religieux comme le Dôme du Rocher et le mausolée de Saladin en les décorant de carreaux de technique *qaschani*.",
           "es": "Los otomanos renovaron edificios religiosos importantes, como la Cúpula de la Roca y el Mausoleo de Saladino decorándolo con azulejos Qashani."
+        }
+      },
+      {
+        "id": "3a8f4926-8bbd-5e0d-af9c-239cc5185d26",
+        "justifications": {
+          "ar": "هذا الرخام المنقوش صنع بعد إعادة فتح القدس من قبل صلاح الدين و الذي يعمل على حماية المدينة             و يمجد نصر صلاح الدين.",
+          "en": "Created after Saladin’s reconquest of Jerusalem, this marble inscription served to protect the city and commemorate Saladin’s victory.",
+          "fr": "Crée après la reconquête de Jérusalem par Saladin, cette inscription sur marbre servait à protéger la ville et commémorer la victoire de Saladin.",
+          "es": "Esta inscripción de mármol creada después de que Saladino reconquistara Jerusalén servía para proteger la ciudad y conmemorar la victoria de Saladino."
         }
       },
       {
@@ -7610,15 +7610,6 @@
     ],
     "related_items": [
       {
-        "id": "5702c937-55b7-5f65-adc4-2d6ddc8a7f83",
-        "justifications": {
-          "ar": "قطع نقدية ذهبية ضربت من قبل صلاح الدين والتي صكت في القاهرة قبل عقد من قيام صلاح الدين بحملات عسكرية على القلاع الصليبية.",
-          "en": "Gold coins struck by Saladin were minted in Cairo a decade before Saladin's spree of military conquests of Crusader castles.",
-          "fr": "Des pièces d’or frappées par Saladin étaient émises au Caire dix ans avant les conquêtes militaires des châteaux des Croisés par Saladin.",
-          "es": "Se acuñaron monedas de oro por Saladino en El Cairo una década antes de la expansión de las conquistas militares sobre los castillos de los cruzados."
-        }
-      },
-      {
         "id": "8850561d-4d5d-5a91-862d-fe88824fcdc8",
         "justifications": {
           "ar": "هذه القلعة الصليبية الضخمة بنيت من قبل بلدوين الأول و هو مؤسس المملكة اللاتينية في القدس             و التي سقطت بيد صلاح الدين في 584/1188",
@@ -7634,6 +7625,15 @@
           "en": "Saladin is buried in the mausoleum located next to the Great Umayyad Mosque.",
           "fr": "Saladin est inhumé dans le mausolée situé à côté de la Grande Mosquée omeyyade.",
           "es": "Saladino está enterrado en el mausoleo situado junto a la Gran Mezquita Omeya."
+        }
+      },
+      {
+        "id": "5702c937-55b7-5f65-adc4-2d6ddc8a7f83",
+        "justifications": {
+          "ar": "قطع نقدية ذهبية ضربت من قبل صلاح الدين والتي صكت في القاهرة قبل عقد من قيام صلاح الدين بحملات عسكرية على القلاع الصليبية.",
+          "en": "Gold coins struck by Saladin were minted in Cairo a decade before Saladin's spree of military conquests of Crusader castles.",
+          "fr": "Des pièces d’or frappées par Saladin étaient émises au Caire dix ans avant les conquêtes militaires des châteaux des Croisés par Saladin.",
+          "es": "Se acuñaron monedas de oro por Saladino en El Cairo una década antes de la expansión de las conquistas militares sobre los castillos de los cruzados."
         }
       },
       {
@@ -7769,7 +7769,7 @@
         }
       },
       {
-        "id": "7c3a4cbc-d305-5a96-aabc-cbcebe9d6397",
+        "id": "81acb278-b50c-55e2-a7e9-2609f1bc2386",
         "justifications": {
           "ar": "صنع في القدس في نفس الفترة.",
           "en": "The object was made in Jerusalem in the same period.",
@@ -7778,7 +7778,7 @@
         }
       },
       {
-        "id": "81acb278-b50c-55e2-a7e9-2609f1bc2386",
+        "id": "7c3a4cbc-d305-5a96-aabc-cbcebe9d6397",
         "justifications": {
           "ar": "صنع في القدس في نفس الفترة.",
           "en": "The object was made in Jerusalem in the same period.",
@@ -7904,21 +7904,21 @@
     ],
     "related_items": [
       {
-        "id": "09735692-5b84-55c8-9f6f-7ae132533658",
-        "justifications": {
-          "ar": "جعل المنصور قلاوون هذا الشمعدان وقفا.",
-          "en": "The candlestick was an endowment by al-Mansur Qalawun.",
-          "fr": "Le chandelier était une donation d’al-Mansour Qalawun.",
-          "es": "El candelero fue una donación de al-Mansur Qalawun."
-        }
-      },
-      {
         "id": "34df1c16-bb7b-5506-b850-656c4bb0f8aa",
         "justifications": {
           "ar": "مجمع السلطان قلاوون باني الرباط.",
           "en": "Complex of Sultan Qalawun, builder of the ribat.",
           "fr": "Complexe du sultan Qalawun, constructeur du *ribat*.",
           "es": "Complejo del sultán Qalawun, constructor del ribat."
+        }
+      },
+      {
+        "id": "09735692-5b84-55c8-9f6f-7ae132533658",
+        "justifications": {
+          "ar": "جعل المنصور قلاوون هذا الشمعدان وقفا.",
+          "en": "The candlestick was an endowment by al-Mansur Qalawun.",
+          "fr": "Le chandelier était une donation d’al-Mansour Qalawun.",
+          "es": "El candelero fue una donación de al-Mansur Qalawun."
         }
       },
       {
@@ -8090,6 +8090,15 @@
     ],
     "related_items": [
       {
+        "id": "4150a4e5-e339-5229-a33a-a26b868c4c5e",
+        "justifications": {
+          "ar": "ساحة خاصة بالصليبيين وصلاح الدين.",
+          "en": "Site of Crusaders and Salah al-Din.",
+          "fr": "Site des Croisés et de Saladin.",
+          "es": "Emplazamiento de los cruzados y Saladino."
+        }
+      },
+      {
         "id": "23643565-2f67-5fbb-a44a-abd9cfd3771f",
         "justifications": {
           "ar": "ساحة خاصة بالصليبيين وصلاح الدين.",
@@ -8099,7 +8108,7 @@
         }
       },
       {
-        "id": "4150a4e5-e339-5229-a33a-a26b868c4c5e",
+        "id": "b6eaa68e-89bb-5d41-9802-1508be85c8ac",
         "justifications": {
           "ar": "ساحة خاصة بالصليبيين وصلاح الدين.",
           "en": "Site of Crusaders and Salah al-Din.",
@@ -8114,15 +8123,6 @@
           "en": "Marble capitals such as this one were in use in many buildings during this period.",
           "fr": "Des chapiteaux de marbre comme celui-ci étaient utilisés dans de nombreux bâtiments durant cette période.",
           "es": "Los capiteles de mármol como este se utilizaron en muchas construcciones durante este periodo."
-        }
-      },
-      {
-        "id": "b6eaa68e-89bb-5d41-9802-1508be85c8ac",
-        "justifications": {
-          "ar": "ساحة خاصة بالصليبيين وصلاح الدين.",
-          "en": "Site of Crusaders and Salah al-Din.",
-          "fr": "Site des Croisés et de Saladin.",
-          "es": "Emplazamiento de los cruzados y Saladino."
         }
       },
       {
