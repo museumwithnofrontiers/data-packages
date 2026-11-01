@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0",
+  "rights": {
+    "rights_holder": "Museum Ohne Grenzen e.V. (Museum With No Frontiers)",
+    "terms_url": "https://www.museumwnf.org/about/legal-notice",
+    "attribution": "Content © Museum With No Frontiers, used under the MWNF legal notice."
+  },
+  "site": {
+    "key": "galleries",
+    "languages": [
+      {
+        "code": "en",
+        "label": "English"
+      }
+    ],
+    "names": {
+      "en": "Thematic Galleries"
+    }
+  },
+  "kind": "galleries-hub",
+  "hub": {
+    "id": "8c8fbadc-b7ac-5ffc-8285-4c1ebb23dd98",
+    "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:45"
+  },
+  "languages": [
+    "en"
+  ],
+  "projects": {
+    "a0817323-79ca-53fc-95ac-9f65ee2fcbac": {
+      "name": {
+        "de": "MWNF Galleries",
+        "en": "MWNF Galleries",
+        "fr": "MWNF Galleries"
+      },
+      "site_url": null,
+      "related_database_url": null,
+      "artistic_introduction_url": null
+    }
+  }
+}

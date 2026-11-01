@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ara",
+    "code": "ar",
+    "is_default": false,
+    "site_language": false,
+    "names": {
+      "ar": "العربية",
+      "en": "Arabic"
+    }
+  },
+  {
+    "id": "eng",
+    "code": "en",
+    "is_default": true,
+    "site_language": true,
+    "names": {
+      "ar": "الانجليزية",
+      "en": "English"
+    }
+  }
+]

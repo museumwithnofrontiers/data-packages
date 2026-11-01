@@ -1,0 +1,123 @@
+{
+  "version": "1.0.0",
+  "rights": {
+    "rights_holder": "Museum Ohne Grenzen e.V. (Museum With No Frontiers)",
+    "terms_url": "https://www.museumwnf.org/about/legal-notice",
+    "attribution": "Content © Museum With No Frontiers, used under the MWNF legal notice."
+  },
+  "site": {
+    "key": "weights-measures",
+    "languages": [
+      {
+        "code": "ar",
+        "label": "العربية"
+      },
+      {
+        "code": "en",
+        "label": "English"
+      },
+      {
+        "code": "es",
+        "label": "Español"
+      },
+      {
+        "code": "fr",
+        "label": "Français"
+      }
+    ],
+    "names": {
+      "ar": "أوزان و مقاييس",
+      "en": "Weights and measures",
+      "fr": "Poids et mesures",
+      "es": "Pesos y medidas"
+    }
+  },
+  "kind": "gallery",
+  "gallery": {
+    "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+    "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+    "slug": "weights_and_measures",
+    "mwnf3_project_id": "WEI",
+    "project_id": null
+  },
+  "languages": [
+    "ar",
+    "en",
+    "es",
+    "fr"
+  ],
+  "itemCount": 23,
+  "projects": {
+    "0f031e22-6dc6-5ce6-b94b-9bb88345140c": {
+      "name": {
+        "ar": "Sharing History",
+        "de": "Sharing History",
+        "en": "Sharing History - Arab-Ottoman-European relations in the 19th century.",
+        "fr": "Sharing History",
+        "it": "Sharing History",
+        "pt": "Sharing History",
+        "es": "Sharing History"
+      },
+      "site_url": "https://sharinghistory.museumwnf.org",
+      "related_database_url": "https://sharinghistory.museumwnf.org/database.php",
+      "artistic_introduction_url": null
+    },
+    "61c122ac-ea86-5462-8bab-6b86138c49b2": {
+      "name": {
+        "ar": "اكتشف الفن الإسلامي",
+        "de": "Discover Islamic Art",
+        "en": "Discover Islamic Art",
+        "fr": "Découvrir l’art islamique",
+        "it": "Discover Islamic Art",
+        "pt": "Descobrir a Arte Islâmica",
+        "es": "Descubrir el Arte Islámico",
+        "tr": "İslam Sanatını Keşfedin"
+      },
+      "site_url": "https://islamicart.museumwnf.org",
+      "related_database_url": "https://islamicart.museumwnf.org/database.php",
+      "artistic_introduction_url": "https://islamicart.museumwnf.org/gai/ISL/"
+    },
+    "76eaf6c2-8025-53bc-9e39-106803a3917e": {
+      "name": {
+        "en": "Discover Baroque Art",
+        "fr": "Découvrir l'Art Baroque",
+        "it": "Discover Baroque Art",
+        "pt": "Discover Baroque Art"
+      },
+      "site_url": "https://baroqueart.museumwnf.org",
+      "related_database_url": "https://baroqueart.museumwnf.org/database.php",
+      "artistic_introduction_url": null
+    },
+    "928f5e0d-53e3-5f53-b9c2-5af389c30dd4": {
+      "name": {
+        "ar": "Explore Islamic Art Collections",
+        "de": "Explore Islamic Art Collections",
+        "el": "Περιηγηθείτε στις συλλογές ισλαμικής τέχνης",
+        "en": "Explore Islamic Art Collections",
+        "fr": "Explore Islamic Art Collections",
+        "it": "Explore Islamic Art Collections",
+        "pt": "Explore Islamic Art Collections",
+        "es": "Explore Islamic Art Collections",
+        "tr": "Explore Islamic Art Collections"
+      },
+      "site_url": "https://islamicart.museumwnf.org",
+      "related_database_url": "https://islamicart.museumwnf.org/database.php",
+      "artistic_introduction_url": "https://islamicart.museumwnf.org/gai/ISL/"
+    },
+    "dcf7b4d2-03c8-568a-8209-2817950fe05e": {
+      "name": {
+        "ar": "Discover Carpet Art",
+        "de": "Discover Carpet Art",
+        "en": "Discover Carpet Art",
+        "fr": "Discover Carpet Art",
+        "it": "Discover Carpet Art",
+        "pt": "Discover Carpet Art",
+        "es": "Discover Carpet Art",
+        "tr": "Discover Carpet Art"
+      },
+      "site_url": null,
+      "related_database_url": null,
+      "artistic_introduction_url": null
+    }
+  }
+}

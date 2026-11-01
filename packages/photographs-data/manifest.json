@@ -1,0 +1,138 @@
+{
+  "version": "1.0.0",
+  "rights": {
+    "rights_holder": "Museum Ohne Grenzen e.V. (Museum With No Frontiers)",
+    "terms_url": "https://www.museumwnf.org/about/legal-notice",
+    "attribution": "Content © Museum With No Frontiers, used under the MWNF legal notice."
+  },
+  "site": {
+    "key": "photographs",
+    "languages": [
+      {
+        "code": "ar",
+        "label": "العربية"
+      },
+      {
+        "code": "en",
+        "label": "English"
+      },
+      {
+        "code": "es",
+        "label": "Español"
+      },
+      {
+        "code": "fr",
+        "label": "Français"
+      }
+    ],
+    "names": {
+      "ar": "صور",
+      "en": "Photographs",
+      "fr": "Photographie",
+      "es": "Fotografías"
+    }
+  },
+  "kind": "gallery",
+  "gallery": {
+    "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
+    "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
+    "slug": "photographs",
+    "mwnf3_project_id": "PHO",
+    "project_id": null
+  },
+  "languages": [
+    "ar",
+    "en",
+    "es",
+    "fr"
+  ],
+  "itemCount": 604,
+  "projects": {
+    "0f031e22-6dc6-5ce6-b94b-9bb88345140c": {
+      "name": {
+        "ar": "Sharing History",
+        "de": "Sharing History",
+        "en": "Sharing History - Arab-Ottoman-European relations in the 19th century.",
+        "fr": "Sharing History",
+        "it": "Sharing History",
+        "pt": "Sharing History",
+        "es": "Sharing History"
+      },
+      "site_url": "https://sharinghistory.museumwnf.org",
+      "related_database_url": "https://sharinghistory.museumwnf.org/database.php",
+      "artistic_introduction_url": null
+    },
+    "21cccf03-49f5-55d3-96f5-eddeee7a989d": {
+      "name": {
+        "en": "Water in Islam"
+      },
+      "site_url": null,
+      "related_database_url": null,
+      "artistic_introduction_url": null
+    },
+    "61c122ac-ea86-5462-8bab-6b86138c49b2": {
+      "name": {
+        "ar": "اكتشف الفن الإسلامي",
+        "de": "Discover Islamic Art",
+        "en": "Discover Islamic Art",
+        "fr": "Découvrir l’art islamique",
+        "it": "Discover Islamic Art",
+        "pt": "Descobrir a Arte Islâmica",
+        "es": "Descubrir el Arte Islámico",
+        "tr": "İslam Sanatını Keşfedin"
+      },
+      "site_url": "https://islamicart.museumwnf.org",
+      "related_database_url": "https://islamicart.museumwnf.org/database.php",
+      "artistic_introduction_url": "https://islamicart.museumwnf.org/gai/ISL/"
+    },
+    "928f5e0d-53e3-5f53-b9c2-5af389c30dd4": {
+      "name": {
+        "ar": "Explore Islamic Art Collections",
+        "de": "Explore Islamic Art Collections",
+        "el": "Περιηγηθείτε στις συλλογές ισλαμικής τέχνης",
+        "en": "Explore Islamic Art Collections",
+        "fr": "Explore Islamic Art Collections",
+        "it": "Explore Islamic Art Collections",
+        "pt": "Explore Islamic Art Collections",
+        "es": "Explore Islamic Art Collections",
+        "tr": "Explore Islamic Art Collections"
+      },
+      "site_url": "https://islamicart.museumwnf.org",
+      "related_database_url": "https://islamicart.museumwnf.org/database.php",
+      "artistic_introduction_url": "https://islamicart.museumwnf.org/gai/ISL/"
+    },
+    "a0817323-79ca-53fc-95ac-9f65ee2fcbac": {
+      "name": {
+        "de": "MWNF Galleries",
+        "en": "MWNF Galleries",
+        "fr": "MWNF Galleries"
+      },
+      "site_url": null,
+      "related_database_url": null,
+      "artistic_introduction_url": null
+    },
+    "dcf7b4d2-03c8-568a-8209-2817950fe05e": {
+      "name": {
+        "ar": "Discover Carpet Art",
+        "de": "Discover Carpet Art",
+        "en": "Discover Carpet Art",
+        "fr": "Discover Carpet Art",
+        "it": "Discover Carpet Art",
+        "pt": "Discover Carpet Art",
+        "es": "Discover Carpet Art",
+        "tr": "Discover Carpet Art"
+      },
+      "site_url": null,
+      "related_database_url": null,
+      "artistic_introduction_url": null
+    },
+    "e08d1c71-8cff-5fe9-b480-2ae6c530b732": {
+      "name": {
+        "en": "The Hijaz Railway"
+      },
+      "site_url": null,
+      "related_database_url": null,
+      "artistic_introduction_url": null
+    }
+  }
+}

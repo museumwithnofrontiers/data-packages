@@ -1,0 +1,120 @@
+{
+  "version": "1.0.0",
+  "rights": {
+    "rights_holder": "Museum Ohne Grenzen e.V. (Museum With No Frontiers)",
+    "terms_url": "https://www.museumwnf.org/about/legal-notice",
+    "attribution": "Content © Museum With No Frontiers, used under the MWNF legal notice."
+  },
+  "site": {
+    "key": "leatherworks",
+    "languages": [
+      {
+        "code": "ar",
+        "label": "العربية"
+      },
+      {
+        "code": "en",
+        "label": "English"
+      },
+      {
+        "code": "es",
+        "label": "Español"
+      },
+      {
+        "code": "fr",
+        "label": "Français"
+      }
+    ],
+    "names": {
+      "ar": "أعمال جلدية",
+      "en": "Leatherwork",
+      "fr": "Maroquinerie",
+      "es": "Marroquinería"
+    }
+  },
+  "kind": "gallery",
+  "gallery": {
+    "id": "4716e71f-dab6-558c-a08e-b28114a24fff",
+    "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:23",
+    "slug": "leatherwork",
+    "mwnf3_project_id": "LEA",
+    "project_id": null
+  },
+  "languages": [
+    "ar",
+    "en",
+    "es",
+    "fr"
+  ],
+  "itemCount": 42,
+  "projects": {
+    "0f031e22-6dc6-5ce6-b94b-9bb88345140c": {
+      "name": {
+        "ar": "Sharing History",
+        "de": "Sharing History",
+        "en": "Sharing History - Arab-Ottoman-European relations in the 19th century.",
+        "fr": "Sharing History",
+        "it": "Sharing History",
+        "pt": "Sharing History",
+        "es": "Sharing History"
+      },
+      "site_url": "https://sharinghistory.museumwnf.org",
+      "related_database_url": "https://sharinghistory.museumwnf.org/database.php",
+      "artistic_introduction_url": null
+    },
+    "61c122ac-ea86-5462-8bab-6b86138c49b2": {
+      "name": {
+        "ar": "اكتشف الفن الإسلامي",
+        "de": "Discover Islamic Art",
+        "en": "Discover Islamic Art",
+        "fr": "Découvrir l’art islamique",
+        "it": "Discover Islamic Art",
+        "pt": "Descobrir a Arte Islâmica",
+        "es": "Descubrir el Arte Islámico",
+        "tr": "İslam Sanatını Keşfedin"
+      },
+      "site_url": "https://islamicart.museumwnf.org",
+      "related_database_url": "https://islamicart.museumwnf.org/database.php",
+      "artistic_introduction_url": "https://islamicart.museumwnf.org/gai/ISL/"
+    },
+    "928f5e0d-53e3-5f53-b9c2-5af389c30dd4": {
+      "name": {
+        "ar": "Explore Islamic Art Collections",
+        "de": "Explore Islamic Art Collections",
+        "el": "Περιηγηθείτε στις συλλογές ισλαμικής τέχνης",
+        "en": "Explore Islamic Art Collections",
+        "fr": "Explore Islamic Art Collections",
+        "it": "Explore Islamic Art Collections",
+        "pt": "Explore Islamic Art Collections",
+        "es": "Explore Islamic Art Collections",
+        "tr": "Explore Islamic Art Collections"
+      },
+      "site_url": "https://islamicart.museumwnf.org",
+      "related_database_url": "https://islamicart.museumwnf.org/database.php",
+      "artistic_introduction_url": "https://islamicart.museumwnf.org/gai/ISL/"
+    },
+    "ad963031-4a8c-5d06-b797-b7cfc772e3c0": {
+      "name": {
+        "ar": "Discover Glass Art",
+        "de": "Discover Glass Art",
+        "en": "Discover Glass Art",
+        "fr": "Discover Glass Art",
+        "it": "Discover Glass Art",
+        "pt": "Discover Glass Art",
+        "es": "Discover Glass Art",
+        "tr": "Discover Glass Art"
+      },
+      "site_url": null,
+      "related_database_url": null,
+      "artistic_introduction_url": null
+    },
+    "e08d1c71-8cff-5fe9-b480-2ae6c530b732": {
+      "name": {
+        "en": "The Hijaz Railway"
+      },
+      "site_url": null,
+      "related_database_url": null,
+      "artistic_introduction_url": null
+    }
+  }
+}

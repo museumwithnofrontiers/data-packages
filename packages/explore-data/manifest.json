@@ -1,0 +1,122 @@
+{
+  "projectKeys": [
+    "explore"
+  ],
+  "projectIds": [
+    "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+    "61c122ac-ea86-5462-8bab-6b86138c49b2",
+    "76eaf6c2-8025-53bc-9e39-106803a3917e",
+    "e08d1c71-8cff-5fe9-b480-2ae6c530b732"
+  ],
+  "version": "1.0.0",
+  "kind": "explore",
+  "rights": {
+    "rights_holder": "Museum Ohne Grenzen e.V. (Museum With No Frontiers)",
+    "terms_url": "https://www.museumwnf.org/about/legal-notice",
+    "attribution": "Content © Museum With No Frontiers, used under the MWNF legal notice."
+  },
+  "site": {
+    "key": "explore",
+    "languages": [
+      {
+        "code": "de",
+        "label": "Deutsch"
+      },
+      {
+        "code": "en",
+        "label": "English"
+      },
+      {
+        "code": "es",
+        "label": "Español"
+      },
+      {
+        "code": "fr",
+        "label": "Français"
+      },
+      {
+        "code": "it",
+        "label": "Italiano"
+      },
+      {
+        "code": "pt",
+        "label": "Português"
+      }
+    ],
+    "names": {
+      "en": "EXPLORE with MWNF",
+      "es": "Explorar con MWNF",
+      "it": "EXPLORE with MWNF"
+    }
+  },
+  "languages": [
+    "ar",
+    "cs",
+    "de",
+    "el",
+    "en",
+    "fa",
+    "fr",
+    "he",
+    "hr",
+    "hu",
+    "it",
+    "pt",
+    "ru",
+    "si",
+    "es",
+    "se",
+    "tr",
+    "ch"
+  ],
+  "projects": {
+    "0f031e22-6dc6-5ce6-b94b-9bb88345140c": {
+      "name": {
+        "ar": "Sharing History",
+        "de": "Sharing History",
+        "en": "Sharing History - Arab-Ottoman-European relations in the 19th century.",
+        "fr": "Sharing History",
+        "it": "Sharing History",
+        "pt": "Sharing History",
+        "es": "Sharing History"
+      },
+      "site_url": "https://sharinghistory.museumwnf.org",
+      "related_database_url": "https://sharinghistory.museumwnf.org/database.php",
+      "artistic_introduction_url": null
+    },
+    "61c122ac-ea86-5462-8bab-6b86138c49b2": {
+      "name": {
+        "ar": "اكتشف الفن الإسلامي",
+        "de": "Discover Islamic Art",
+        "en": "Discover Islamic Art",
+        "fr": "Découvrir l’art islamique",
+        "it": "Discover Islamic Art",
+        "pt": "Descobrir a Arte Islâmica",
+        "es": "Descubrir el Arte Islámico",
+        "tr": "İslam Sanatını Keşfedin"
+      },
+      "site_url": "https://islamicart.museumwnf.org",
+      "related_database_url": "https://islamicart.museumwnf.org/database.php",
+      "artistic_introduction_url": "https://islamicart.museumwnf.org/gai/ISL/"
+    },
+    "76eaf6c2-8025-53bc-9e39-106803a3917e": {
+      "name": {
+        "en": "Discover Baroque Art",
+        "fr": "Découvrir l'Art Baroque",
+        "it": "Discover Baroque Art",
+        "pt": "Discover Baroque Art"
+      },
+      "site_url": "https://baroqueart.museumwnf.org",
+      "related_database_url": "https://baroqueart.museumwnf.org/database.php",
+      "artistic_introduction_url": null
+    },
+    "e08d1c71-8cff-5fe9-b480-2ae6c530b732": {
+      "name": {
+        "en": "The Hijaz Railway"
+      },
+      "site_url": null,
+      "related_database_url": null,
+      "artistic_introduction_url": null
+    }
+  }
+}

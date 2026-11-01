@@ -1,0 +1,1700 @@
+[
+  {
+    "id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+    "type": "exhibition",
+    "purpose": null,
+    "internal_name": "mwnf3_exhibition_46",
+    "backward_compatibility": "mwnf3:exhibitions:46",
+    "parent_id": "e4318b5c-d592-53f9-a9fd-7f05d87c09e6",
+    "country_id": null,
+    "display_order": 1,
+    "latitude": null,
+    "longitude": null,
+    "images": [],
+    "items": [
+      {
+        "id": "40184ca3-ec39-5539-8d0e-9cdab4ab323e",
+        "display_order": 1,
+        "variant_order": null,
+        "image_url": "https://inventory.metanull.eu/pub/1c896075-113b-5450-80a7-4ef8f87064f0.jpg"
+      },
+      {
+        "id": "83934d9b-77bc-58ef-af02-542c738a2425",
+        "display_order": 2,
+        "variant_order": null,
+        "image_url": "https://inventory.metanull.eu/pub/e42668ef-ded8-5b33-94d9-79e523dc6f93.jpg"
+      },
+      {
+        "id": "d6b3c2ab-94be-53ce-9ff1-91856d54597c",
+        "display_order": 3,
+        "variant_order": null,
+        "image_url": "https://inventory.metanull.eu/pub/33ad832c-f8e9-508c-bf1f-36f9092fc9ef.jpg",
+        "caption": {
+          "en": {
+            "name": "Francesco Antonio Simonini, *Battle between the Turks and Christians*",
+            "date": "First half of the 18th century",
+            "location": "Portoferraio, Isola d'Elba, Italy",
+            "museum": "Pinacoteca Comunale Foresiana"
+          }
+        }
+      },
+      {
+        "id": "96a0b74f-0971-56c3-8154-0b603d6d4116",
+        "display_order": 4,
+        "variant_order": null,
+        "image_url": "https://inventory.metanull.eu/pub/b680e067-83af-5078-b83f-4cb312c73c8a.jpg"
+      },
+      {
+        "id": "48f752dd-4069-5aa1-9e07-1fe5dd67bc58",
+        "display_order": 5,
+        "variant_order": null,
+        "image_url": "https://inventory.metanull.eu/pub/a5815120-8cb3-55d0-8cf1-3d16799b46ae.jpg"
+      },
+      {
+        "id": "fc9b70c5-0250-5dad-903a-92b40e149fb7",
+        "display_order": 6,
+        "variant_order": null,
+        "image_url": "https://inventory.metanull.eu/pub/7908d350-2a6f-53d7-aaeb-e09230b13be7.jpg"
+      }
+    ]
+  },
+  {
+    "id": "e10c4ece-40c0-5fab-9cbc-8106e3f866ed",
+    "type": "theme",
+    "purpose": null,
+    "internal_name": "mwnf3_exhibition_page_349",
+    "backward_compatibility": "mwnf3:exhibition_pages:349",
+    "parent_id": "3e811dec-b59d-5e61-933b-b312951931b8",
+    "country_id": null,
+    "display_order": 1,
+    "latitude": null,
+    "longitude": null,
+    "images": [],
+    "items": [
+      {
+        "id": "7ba470ff-ca32-5c50-b02c-d1359199e052",
+        "display_order": 1,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/f4f315d7-4bbf-5002-9868-8b5537a068be.jpg",
+        "caption": {
+          "en": {
+            "justification": "The fresco, which celebrates the supreme authority of the papacy, is rooted in the style of the Holy Roman Empire. The presentation of this one-dimensional world-view and its celebration of the absolute ruler is the basis of absolutism."
+          }
+        }
+      },
+      {
+        "id": "fd47a768-1c13-5b0f-82f0-572eb14c0584",
+        "display_order": 2,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/ff483b0a-844a-5220-9ab9-9a7ad0582ed9.jpg",
+        "caption": {
+          "en": {
+            "justification": "The high-point of the gigantic sacral residence, where often the emperor would reside, is the Emperor’s hall. It was here that the ideals of the Holy Roman Empire were celebrated."
+          }
+        }
+      },
+      {
+        "id": "fd47a768-1c13-5b0f-82f0-572eb14c0584",
+        "display_order": 2,
+        "variant_order": 2,
+        "details": [
+          {
+            "id": "e83f959c-c5a5-5804-9244-9b13dbf232e5",
+            "image_url": "https://inventory.metanull.eu/pub/58b1209c-a5b0-526c-9718-a0ab9ce9b0a6.jpg",
+            "caption": {
+              "en": {
+                "justification": "Larger-than-life statues of the emperor pay homage to the sixteen years’ rule of the Habsburg Empire."
+              }
+            }
+          },
+          {
+            "id": "e83f959c-c5a5-5804-9244-9b13dbf232e5",
+            "image_url": "https://inventory.metanull.eu/pub/9db5becf-2993-5d16-aa3d-282fb93c4d8c.jpg",
+            "caption": {
+              "en": {
+                "name": "Coronation of Charlemagne",
+                "date": "1721–1727",
+                "location": "Emperor's Hall, Benedictine Abbey of St. Theodore and Alexander",
+                "artist": "Jakob Karl Stauder (1694–1751/56)",
+                "justification": "The ceiling fresco depicts the coronation of Charlemagne in 800. Four laterally associated side images describe the functions of the empire in its services to the Church."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1d94a91f-144d-5ad8-8788-222b25813e63",
+        "display_order": 3,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/fab33fb9-9c52-59f8-b5f8-77784802eda2.jpg",
+        "caption": {
+          "en": {
+            "justification": "This allegorical composition of an emperor’s military deeds also refers to the Dresden Peace Treaty, which offered Charles Lorraine the opportunity to become emperor."
+          }
+        }
+      },
+      {
+        "id": "8eb3dd19-e7f3-5304-999c-aa03dcd16789",
+        "display_order": 4,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/217388ce-afc9-503c-b628-0922e088304e.jpg",
+        "caption": {
+          "en": {
+            "justification": "The family is represented in an allegory of the triumph of the imperial army in the struggle against the Turks."
+          }
+        }
+      },
+      {
+        "id": "8eb3dd19-e7f3-5304-999c-aa03dcd16789",
+        "display_order": 4,
+        "variant_order": 2,
+        "details": [
+          {
+            "id": "ec147545-1850-5a97-9755-1387bdc2cc89",
+            "image_url": "https://inventory.metanull.eu/pub/f0380ff5-dd89-5687-a99a-d006e96a2f18.jpg",
+            "caption": {
+              "en": {
+                "justification": "Representations of emperors, kings and ancient rulers supplement the overall theme of celebration of the family."
+              }
+            }
+          },
+          {
+            "id": "83b6729d-7c75-5598-b935-15ef40ebd71d",
+            "image_url": "https://inventory.metanull.eu/pub/ff820f0a-052f-5441-bcd2-120c6f5c3b2f.jpg",
+            "caption": {
+              "en": {
+                "justification": "Family history and its mythologisation are major iconographic elements in Baroque residences."
+              }
+            }
+          },
+          {
+            "id": "ec147545-1850-5a97-9755-1387bdc2cc89",
+            "image_url": "https://inventory.metanull.eu/pub/d3ccfa53-d918-5f2e-b2ff-d1ee61b8570a.jpg",
+            "caption": {
+              "en": {
+                "justification": "The ancient gods, along with allegories of the arts and sciences, celebrate the military past and aristocratic nobility of the family."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e0fae875-b47c-5739-af86-c73b563c01c5",
+        "display_order": 5,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/fc6763ba-a558-50ba-b0e6-149eabcfcaa6.jpg",
+        "caption": {
+          "en": {
+            "justification": "The urban concept, within which are the principle governmental and administrative buildings, is representative of the absolute power of the king."
+          }
+        }
+      },
+      {
+        "id": "e0fae875-b47c-5739-af86-c73b563c01c5",
+        "display_order": 5,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/8c8bc647-6441-51bc-a7b8-bf0c2388e57f.jpg",
+        "caption": {
+          "en": {
+            "justification": "At the centre of the urban plan is an equestrian statue of King José I."
+          }
+        }
+      },
+      {
+        "id": "e0fae875-b47c-5739-af86-c73b563c01c5",
+        "display_order": 5,
+        "variant_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/b413313b-b5c0-5b52-80c1-5629f8b0933d.jpg",
+        "caption": {
+          "en": {
+            "justification": "A triumphal arch based on Roman architecture played an important role in court ceremonials."
+          }
+        }
+      },
+      {
+        "id": "85ea18f4-df5c-5e4b-ac52-cad7c455e015",
+        "display_order": 6,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/8ee37765-5207-5be6-936f-4c4d55b9c15d.jpg",
+        "caption": {
+          "en": {
+            "justification": "Both political and religious policies served to strengthen and maintain the overall ideal of the central power of the ruler and the state."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "206180d2-bcb4-5ea3-a4f4-dc3f147b7f21",
+    "type": "theme",
+    "purpose": null,
+    "internal_name": "mwnf3_exhibition_page_352",
+    "backward_compatibility": "mwnf3:exhibition_pages:352",
+    "parent_id": "92692332-c183-5670-be01-d013cd70257d",
+    "country_id": null,
+    "display_order": 1,
+    "latitude": null,
+    "longitude": null,
+    "images": [],
+    "items": [
+      {
+        "id": "f8d10a9b-dcff-531e-85e8-7c328a035d3e",
+        "display_order": 1,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/bf1068e6-c4aa-5202-a349-ae5284086a0e.jpg",
+        "caption": {
+          "en": {
+            "justification": "The villa represents a prototype of the profane, celebrative decoration in which emphasis is on the moral content befitting of a noble family, and also pays homage to the absolutist rule of the dominium. This concept became an important aspect in all European residences."
+          }
+        }
+      },
+      {
+        "id": "f8d10a9b-dcff-531e-85e8-7c328a035d3e",
+        "display_order": 1,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/3b22c642-b6d2-5a8d-a4e1-838dfddd7b9d.jpg",
+        "caption": {
+          "en": {
+            "detail_name": "Music",
+            "justification": "The motif of the muses was an important component in the Representative style."
+          }
+        }
+      },
+      {
+        "id": "f8d10a9b-dcff-531e-85e8-7c328a035d3e",
+        "display_order": 1,
+        "variant_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/88909903-f58f-58d9-890c-86ce4184f051.jpg",
+        "caption": {
+          "en": {
+            "justification": "The motif of the muses was an important component in the Representative style."
+          }
+        }
+      },
+      {
+        "id": "781a8e20-02ce-55a0-b05a-606f47a77b97",
+        "display_order": 2,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/6133a9b5-c84a-5e59-9b80-214eb11d8f0e.jpg",
+        "caption": {
+          "en": {
+            "justification": "The emperor’s residences were representative as administrative centres within his empire."
+          }
+        }
+      },
+      {
+        "id": "781a8e20-02ce-55a0-b05a-606f47a77b97",
+        "display_order": 2,
+        "variant_order": 2,
+        "caption": {
+          "en": {
+            "justification": "The architectonic language of the emperor’s Respresentative style was also used in municipal buildings."
+          }
+        }
+      },
+      {
+        "id": "781a8e20-02ce-55a0-b05a-606f47a77b97",
+        "display_order": 2,
+        "variant_order": 3,
+        "details": [
+          {
+            "id": "4538f38d-a64f-5f64-ba07-d2b5bab3e669",
+            "image_url": "https://inventory.metanull.eu/pub/db16b7ac-5c82-5afc-9e7e-8b08b03c86b2.jpg",
+            "caption": {
+              "en": {
+                "name": "Riesensaal",
+                "date": "1766–1776",
+                "location": "East wing, Hofburg",
+                "artist": "Niccolò Pacassi; Franz Anton Maulbertsch",
+                "justification": "Celebration of the emperor was an important aspect of the decoration in state buildings."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a447deea-11d8-55f7-beea-e00f1a38c54f",
+        "display_order": 3,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/d77901d3-30fe-565a-a4cb-a625bc488852.jpg",
+        "caption": {
+          "en": {
+            "justification": "The palace of the Habsburg “Vice-Marshall” was built in the “Habsburgien” style which was typical of the Viennese court architects."
+          }
+        }
+      },
+      {
+        "id": "a447deea-11d8-55f7-beea-e00f1a38c54f",
+        "display_order": 3,
+        "variant_order": 2,
+        "details": [
+          {
+            "id": "5fc47d08-3032-5762-802d-6a3882d7ac0e",
+            "image_url": "https://inventory.metanull.eu/pub/b73513b4-0864-5033-8d03-25c9447c891e.jpg",
+            "caption": {
+              "en": {
+                "justification": "The two-storey, three-winged, U-form palace set in extensive grounds is typical of the Official style of the Habsburg Empire."
+              }
+            }
+          },
+          {
+            "id": "c2794ae5-2bd4-58c8-894b-a8fbe7024d22",
+            "image_url": "https://inventory.metanull.eu/pub/3b17348b-2df5-51c8-98de-89695f512f38.jpg",
+            "caption": {
+              "en": {
+                "justification": "The oval central hall with *trompe l´Oeil* painting is a typical element of Representative-style residences."
+              }
+            }
+          },
+          {
+            "id": "7015959d-b802-5549-a4a7-81818e774e68",
+            "image_url": "https://inventory.metanull.eu/pub/a48fb84c-7f90-5dcc-8eba-c30d9bc81912.jpg",
+            "caption": {
+              "en": {
+                "justification": "The painting, by the court painter Maulbertsch, belongs within the emperor’s cultural language."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f16137cf-9e71-562e-99c6-5b0455ebbcc1",
+        "display_order": 4,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/a3bedb9e-b716-55b4-90f3-d6194dd974a7.jpg",
+        "caption": {
+          "en": {
+            "justification": "Foundation of the church was supported by Empress Maria Theresa. Stylistically it relates to the Central European architectural trend of centralising longitudinal churches."
+          }
+        }
+      },
+      {
+        "id": "f16137cf-9e71-562e-99c6-5b0455ebbcc1",
+        "display_order": 4,
+        "variant_order": 2,
+        "details": [
+          {
+            "id": "7bfae956-1b6f-569b-bb35-b579c1e19ea0",
+            "image_url": "https://inventory.metanull.eu/pub/05111c6f-cc9e-55a2-9d06-ce7e7f4557aa.jpg",
+            "caption": {
+              "en": {
+                "justification": "The Late Baroque trend for longitudinal, centralised churches is seen in the curved lateral chapels positioned on a transversal axe."
+              }
+            }
+          },
+          {
+            "id": "9159ffdd-4a9a-524e-8b47-9e3d2e15912a",
+            "image_url": "https://inventory.metanull.eu/pub/56872053-141b-5553-bec8-1c320a948997.jpg",
+            "caption": {
+              "en": {
+                "justification": "The main exponent of the longitudinal, centralised type of church building within Habsburg territory was the Viennese architect F. A. Pilgram."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "40212b79-f658-57bd-80ad-e8fd0a514a98",
+        "display_order": 5,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/832862aa-c997-55df-a7c2-29dae82aa75a.jpg",
+        "caption": {
+          "en": {
+            "justification": "The prospect of the courtyard is dominated by the chapel building, thus demonstrating the connection between governmental power and the Church."
+          }
+        }
+      },
+      {
+        "id": "40212b79-f658-57bd-80ad-e8fd0a514a98",
+        "display_order": 5,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/e6479241-87af-5a66-bb8e-dacca3c1fb2e.jpg",
+        "caption": {
+          "en": {
+            "justification": "The Representative-style public building illustrates the homogenisation of the palace type in the Viennese Imperial style with the expressive motifs of the Roman High Baroque."
+          }
+        }
+      },
+      {
+        "id": "40212b79-f658-57bd-80ad-e8fd0a514a98",
+        "display_order": 5,
+        "variant_order": 3,
+        "details": [
+          {
+            "id": "50b2d233-8179-54ab-9a65-4f12378d21af",
+            "image_url": "https://inventory.metanull.eu/pub/ac2da796-8abb-5e56-91b0-da398d759b49.jpg",
+            "caption": {
+              "en": {
+                "justification": "The hall is decorated in the iconographic style typical of the period, representing both the stability of the country and its good government."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c43f2018-ad22-53fa-81fb-0f82619bafdc",
+        "display_order": 6,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/9fd4bef7-109d-5df2-b078-991797017545.jpg",
+        "caption": {
+          "en": {
+            "name": "The Golden Hall",
+            "date": "Reconstructed in 1980–1984",
+            "location": "Rathaus (Town Hall), Augsburg, Bavarian Swabia",
+            "artist": "Design, wall frescoes and ceiling painting: Johann Matthias Kager (1575–1634)",
+            "justification": "The slogan proclaims: \"Through me to rule the rulers.\" The \"Cities are founded\" theme revolves around allegories of education, fertility, diligence and devotion."
+          }
+        }
+      },
+      {
+        "id": "c43f2018-ad22-53fa-81fb-0f82619bafdc",
+        "display_order": 6,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/451dde7b-b591-5332-9191-a2f96d8b13b2.jpg",
+        "caption": {
+          "en": {
+            "name": "The Golden Hall",
+            "date": "Reconstructed in 1980–1984",
+            "location": "Rathaus (Town Hall), Augsburg, Bavarian Swabia",
+            "artist": "Design, wall frescoes and ceiling painting: Johann Matthias Kager (1575–1634)",
+            "justification": "The Golden hall was designed as a meeting place for government."
+          }
+        }
+      },
+      {
+        "id": "c43f2018-ad22-53fa-81fb-0f82619bafdc",
+        "display_order": 6,
+        "variant_order": 4,
+        "image_url": "https://inventory.metanull.eu/pub/d9747f99-6ea1-5090-b8ce-48903c946e7d.jpg",
+        "caption": {
+          "en": {
+            "justification": "Government of the city builds on imperial ideals."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "856d73f6-5ce3-5ddd-8a29-31681f5432c6",
+    "type": "theme",
+    "purpose": null,
+    "internal_name": "mwnf3_exhibition_page_355",
+    "backward_compatibility": "mwnf3:exhibition_pages:355",
+    "parent_id": "4c2f5ce9-d444-5756-8c05-5d3d3c624715",
+    "country_id": null,
+    "display_order": 1,
+    "latitude": null,
+    "longitude": null,
+    "images": [],
+    "items": [
+      {
+        "id": "d4b21bad-0844-5f2e-b159-aec16bf2fb08",
+        "display_order": 1,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/a176ff36-0397-51ed-92f1-023f5add66b9.jpg",
+        "caption": {
+          "en": {
+            "justification": "The family palace symbolically dominated the ancient Via Appia linking Rome with Naples."
+          }
+        }
+      },
+      {
+        "id": "d4b21bad-0844-5f2e-b159-aec16bf2fb08",
+        "display_order": 1,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/f6df89c8-69c3-5828-9047-f6f58e61c980.jpg",
+        "caption": {
+          "en": {
+            "justification": "The palace symbolically dominated the urban structure—the *borgo*."
+          }
+        }
+      },
+      {
+        "id": "d4b21bad-0844-5f2e-b159-aec16bf2fb08",
+        "display_order": 1,
+        "variant_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/e26cd382-a87e-5e0a-8350-978677cf64b6.jpg",
+        "caption": {
+          "en": {
+            "justification": "The palace was acquired during the papacy of Alexander VII Chigi. Agostino Chigi was a banker and treasurer to the Church."
+          }
+        }
+      },
+      {
+        "id": "4a86805e-fc5e-504d-b674-03aad5e2ce87",
+        "display_order": 2,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/a69ff1b6-ca22-5261-ae7d-962c08251e7d.jpg",
+        "caption": {
+          "en": {
+            "justification": "The château, built on a U-shaped ground plan with a ceremonial courtyard, reflected the status of the investor who thus laid the foundations for the future ambitions of the dynasty."
+          }
+        }
+      },
+      {
+        "id": "4a86805e-fc5e-504d-b674-03aad5e2ce87",
+        "display_order": 2,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/1436c2b1-917b-5bd9-8d3e-8e034be52d7e.jpg",
+        "caption": {
+          "en": {
+            "justification": "Maxmilián Kounic became a provincial governor and preferred a more austere design in the French style."
+          }
+        }
+      },
+      {
+        "id": "4a86805e-fc5e-504d-b674-03aad5e2ce87",
+        "display_order": 2,
+        "variant_order": 3,
+        "details": [
+          {
+            "id": "f7450b1c-6382-5c9c-a528-e4c11c55aa74",
+            "image_url": "https://inventory.metanull.eu/pub/a09ebe4f-e7a8-5364-86dd-7e2010f01225.jpg",
+            "caption": {
+              "en": {
+                "location": "Slavkov u Brna Chateau",
+                "justification": "The design included the development of a major part of the town and a new parish church."
+              }
+            }
+          },
+          {
+            "id": "8c6e7a5a-f8b4-50cb-b4d1-b5bba30ca387",
+            "image_url": "https://inventory.metanull.eu/pub/f186e0d6-644e-5552-90f6-bc50e4f4cba1.jpg",
+            "caption": {
+              "en": {
+                "location": "Slavkov u Brna Chateau",
+                "justification": "The spur for the spectacular reconstruction of a Renaissance palace for the Kounic family came from the Imperial Vice-Chancellor."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "30d81d9b-e0ff-5637-818a-498c9971880e",
+        "display_order": 3,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/ec442626-c04f-52f2-bbf2-113967c949f6.jpg",
+        "caption": {
+          "en": {
+            "justification": "This magnificent ceremonial coach was used by ambassadors and by the Portuguese king to travel to Rome. Typically, it includes the imperial iconography of virtue and the senses."
+          }
+        }
+      },
+      {
+        "id": "8b73574b-b242-5496-8220-49ca7d6386ab",
+        "display_order": 4,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/ac347d85-5b83-52cb-9cde-665b595bf827.jpg",
+        "caption": {
+          "en": {
+            "justification": "The engraving depicts the ceremonial procession, which, it is well known, was the first and only event of this type in Hungary."
+          }
+        }
+      },
+      {
+        "id": "bd228d18-d160-5fd5-95ad-52e75e120f02",
+        "display_order": 5,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/f88f967f-67cc-5382-9020-3cb47b0d0d3b.jpg",
+        "caption": {
+          "en": {
+            "justification": "The purpose of the welcoming ceremonial was the reception of guests to the residence, and this corresponded with the political interests of the host."
+          }
+        }
+      },
+      {
+        "id": "bd228d18-d160-5fd5-95ad-52e75e120f02",
+        "display_order": 5,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/a1a3ea5a-b05f-50ad-a149-eccfde0a4056.jpg",
+        "caption": {
+          "en": {
+            "justification": "The staircase held an important position in the concept of the residence."
+          }
+        }
+      },
+      {
+        "id": "bd228d18-d160-5fd5-95ad-52e75e120f02",
+        "display_order": 5,
+        "variant_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/1cac847e-1565-53cc-afdf-6aa93141fa15.jpg",
+        "caption": {
+          "en": {
+            "justification": "In Portugal, *azulejos* expressed both the visitor’s and the host’s importance."
+          }
+        }
+      },
+      {
+        "id": "e565f6b7-5056-5427-9c4a-21f08d3f0345",
+        "display_order": 6,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/a660f5df-fe13-5023-a283-1ba4f9207cee.jpg",
+        "caption": {
+          "en": {
+            "justification": "The palace, commissioned by King João V, is a fine example of a small rural palace on the outskirts of Lisbon."
+          }
+        }
+      },
+      {
+        "id": "e565f6b7-5056-5427-9c4a-21f08d3f0345",
+        "display_order": 6,
+        "variant_order": 2,
+        "details": [
+          {
+            "id": "b1a77da8-c428-593d-a327-c702cc601914",
+            "image_url": "https://inventory.metanull.eu/pub/5bc19918-353a-5707-a2f2-775b0ba517d4.jpg",
+            "caption": {
+              "en": {
+                "justification": "The staircase marks the beginning of the court ceremonial."
+              }
+            }
+          },
+          {
+            "id": "ae77a293-7b0e-5067-bde6-8ea3bbcc4d01",
+            "image_url": "https://inventory.metanull.eu/pub/9d61de49-a9e2-50e2-8717-fb7483e58871.jpg",
+            "caption": {
+              "en": {
+                "justification": "Private rooms were primarily designed to represent the host’s social standing."
+              }
+            }
+          },
+          {
+            "id": "d91846ba-1200-5b0a-820b-a4e5e1687ce1",
+            "image_url": "https://inventory.metanull.eu/pub/1c761070-0d11-5736-8363-b15048b60fdc.jpg",
+            "caption": {
+              "en": {
+                "justification": "The utility areas of the house were integral to the overall representational construct of the host."
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3e811dec-b59d-5e61-933b-b312951931b8",
+    "type": "theme",
+    "purpose": null,
+    "internal_name": "mwnf3_exhibition_theme_149",
+    "backward_compatibility": "mwnf3:exhibition_themes:149",
+    "parent_id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+    "country_id": null,
+    "display_order": 1,
+    "latitude": null,
+    "longitude": null,
+    "images": [],
+    "items": []
+  },
+  {
+    "id": "c7581fd5-d910-5767-aaed-0d0916abd3ba",
+    "type": "theme",
+    "purpose": null,
+    "internal_name": "mwnf3_exhibition_page_350",
+    "backward_compatibility": "mwnf3:exhibition_pages:350",
+    "parent_id": "3e811dec-b59d-5e61-933b-b312951931b8",
+    "country_id": null,
+    "display_order": 2,
+    "latitude": null,
+    "longitude": null,
+    "images": [],
+    "items": [
+      {
+        "id": "e9a55edb-dbc6-5abc-81ee-4738e305919f",
+        "display_order": 1,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/cfa633db-ab9c-59e6-b8fa-b145f4cff457.jpg",
+        "caption": {
+          "en": {
+            "justification": "The nobility of the Colonna family is celebrated in frescoes that can be seen as prototypes for the era of self-presentation that followed in the Baroque period, and correspond with absolutist ideals."
+          }
+        }
+      },
+      {
+        "id": "e9a55edb-dbc6-5abc-81ee-4738e305919f",
+        "display_order": 1,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/a179c5ec-6596-5e85-95d3-e2ae909e9d78.jpg",
+        "caption": {
+          "en": {
+            "justification": "An important vehicle of self-presentation is the coat-of-arms."
+          }
+        }
+      },
+      {
+        "id": "e9a55edb-dbc6-5abc-81ee-4738e305919f",
+        "display_order": 1,
+        "variant_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/1279fbcc-72c8-5e6e-ad99-39ba1484bb40.jpg",
+        "caption": {
+          "en": {
+            "justification": "The painting celebrates victory against the Turks. The battle was also hailed as a victory for the Church, a sentiment underlined by allegories of the theological virtues."
+          }
+        }
+      },
+      {
+        "id": "e9a55edb-dbc6-5abc-81ee-4738e305919f",
+        "display_order": 1,
+        "variant_order": 4,
+        "image_url": "https://inventory.metanull.eu/pub/8fef9819-d659-5676-9e32-bf32fac72b87.jpg",
+        "caption": {
+          "en": {
+            "justification": "Although grotesque decoration was fashionable at the time, the classical theme was retained here to underline the prestige of the Colonna family, which derived from their connection to the Roman Empire."
+          }
+        }
+      },
+      {
+        "id": "3b78fd39-550c-5644-9e94-61b43dc61c5f",
+        "display_order": 2,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/b0fc58bd-b95b-5141-9b80-0b6a32096c15.jpg",
+        "caption": {
+          "en": {
+            "justification": "Fortifications of the Middle Ages became part of Baroque reconstructions conceptualised to glorify an ancient dynasty by means of *via triumphalis*."
+          }
+        }
+      },
+      {
+        "id": "3b78fd39-550c-5644-9e94-61b43dc61c5f",
+        "display_order": 2,
+        "variant_order": 2,
+        "details": [
+          {
+            "id": "b4d6753b-ee3a-5120-a57e-e35af32589c1",
+            "image_url": "https://inventory.metanull.eu/pub/eb3f3c85-628f-5036-9fa7-4b6509b78a7b.jpg",
+            "caption": {
+              "en": {
+                "justification": "Ancient gods and allegorical figures mark the path to honour and glory. The family’s celestial triumph is accompanied by scenes depicting aristocratic virtues."
+              }
+            }
+          },
+          {
+            "id": "b4d6753b-ee3a-5120-a57e-e35af32589c1",
+            "image_url": "https://inventory.metanull.eu/pub/a1e5650a-f25d-5623-939e-21420e242006.jpg",
+            "caption": {
+              "en": {
+                "detail_name": "Count Althan",
+                "justification": "The niche statues represent both actual family members and mythological figures."
+              }
+            }
+          },
+          {
+            "id": "c9e437ac-0abc-54f8-bdb1-c612628c79a0",
+            "image_url": "https://inventory.metanull.eu/pub/c139a80f-d994-59ca-a735-15b8a1520e7e.jpg",
+            "caption": {
+              "en": {
+                "justification": "The illusory elements of the balustrade and carpet provide the link between the terrestrial and the celestial spheres."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "691f4869-9119-56f3-80c5-8cdfac543dce",
+        "display_order": 3,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/e0ca76f8-fdcd-545e-aecd-7f85faeaeaad.jpg",
+        "caption": {
+          "en": {
+            "justification": "The château, the church and the town with a monastery-hospital make up a single whole, demonstrating the history, glory and power of the family."
+          }
+        }
+      },
+      {
+        "id": "691f4869-9119-56f3-80c5-8cdfac543dce",
+        "display_order": 3,
+        "variant_order": 2,
+        "details": [
+          {
+            "id": "a1ef0742-6721-5a62-b45f-58953a49f528",
+            "image_url": "https://inventory.metanull.eu/pub/6ffc1800-76af-54fe-9cd2-7bed69daf50d.jpg",
+            "caption": {
+              "en": {
+                "justification": "The design of the residence, the centre of both cultural and economic administration, follows the schema of *via triumphalis*."
+              }
+            }
+          },
+          {
+            "id": "11ba5be2-9ef2-554a-855f-c08f25e2d190",
+            "image_url": "https://inventory.metanull.eu/pub/d4e4a61a-b493-5f7e-bd5d-7e6db520c2f5.jpg",
+            "caption": {
+              "en": {
+                "justification": "The triumphal arch separates the château from the town."
+              }
+            }
+          },
+          {
+            "id": "eb503e88-060a-52e9-9182-c489847066be",
+            "image_url": "https://inventory.metanull.eu/pub/51632a88-9809-599d-b738-7df2d008e1e8.jpg",
+            "caption": {
+              "en": {
+                "justification": "The portal to the third courtyard, the oldest part of the complex, lends emphasis to the central section comprising the main hall, chapel and the count’s quarters. The count would greet his subjects from the balcony."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "198dcaff-0328-5a80-a4ea-d7ac0774b16b",
+        "display_order": 4,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/6dc8d12d-fc50-50a7-b709-bb119cb32488.jpg",
+        "caption": {
+          "en": {
+            "justification": "Typically for ancestral galleries, the Eltz family cycle charts its history and importance from the end of the 16th century."
+          }
+        }
+      },
+      {
+        "id": "c57d333e-3668-5ecf-a874-92fe954d840d",
+        "display_order": 5,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/674eaf66-511e-515f-be97-94363488612c.jpg",
+        "caption": {
+          "en": {
+            "justification": "The monumental staircase is a typical device of architectural self-glorification, providing an impressive entrance to the residence."
+          }
+        }
+      },
+      {
+        "id": "c57d333e-3668-5ecf-a874-92fe954d840d",
+        "display_order": 5,
+        "variant_order": 2,
+        "details": [
+          {
+            "id": "89542836-1bd2-508a-9e55-b7f2185eb881",
+            "image_url": "https://inventory.metanull.eu/pub/fc5865cb-6e4a-5182-9921-3de51b2f4f52.jpg",
+            "caption": {
+              "en": {
+                "justification": "The staircase was a important element in Baroque ceremonies connected with political and social activities."
+              }
+            }
+          },
+          {
+            "id": "773672e7-c81d-5cd0-bedd-93bea7b36705",
+            "image_url": "https://inventory.metanull.eu/pub/91cfd72d-7124-5178-8c71-acbc959dc18f.jpg",
+            "caption": {
+              "en": {
+                "justification": "The family’s “good reign” is represented in a celebration of the therapeutic qualities of the thermal waters which spring in Porretta and relate to the ancient feud of Ranuzzi."
+              }
+            }
+          },
+          {
+            "id": "092d3c2e-305d-5a72-89a2-85afc05e6e72",
+            "image_url": "https://inventory.metanull.eu/pub/540977c4-5ef9-5d5a-9d68-a333981bcf6b.jpg",
+            "caption": {
+              "en": {
+                "justification": "Fortune, love, charity and symbols of the four seasons, the latter of which relates to the circle of life, are all typical motifs of self-celebration."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "91f210fe-567e-5899-a3c0-693a551d2636",
+        "display_order": 6,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/c865a564-5609-513b-a797-60937e419f01.jpg",
+        "caption": {
+          "en": {
+            "justification": "The aqueduct pays homage to Roman architecture: imposingly “imperial” in its monumentality and even in its geographic position."
+          }
+        }
+      },
+      {
+        "id": "91f210fe-567e-5899-a3c0-693a551d2636",
+        "display_order": 6,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/1ff5c851-b8e3-553a-b0e3-8db359606086.jpg",
+        "caption": {
+          "en": {
+            "justification": "This aqueduct is an example of absolute power used to benefit the populace."
+          }
+        }
+      },
+      {
+        "id": "91f210fe-567e-5899-a3c0-693a551d2636",
+        "display_order": 6,
+        "variant_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/78151e2a-f70c-53f6-9fae-d52cd1927735.jpg",
+        "caption": {
+          "en": {
+            "justification": "This aqueduct is an example of absolute power used to benefit the populace."
+          }
+        }
+      },
+      {
+        "id": "91f210fe-567e-5899-a3c0-693a551d2636",
+        "display_order": 6,
+        "variant_order": 4,
+        "details": [
+          {
+            "id": "eb7a0351-f4ca-5902-b8bb-572d211a56e6",
+            "image_url": "https://inventory.metanull.eu/pub/31fb445a-aeb9-5720-b70b-bc0d1a952d7e.jpg",
+            "caption": {
+              "en": {
+                "justification": "This aqueduct is an example of absolute power used to benefit the populace."
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a052514c-fb08-5051-86ff-8c83a9fbdca9",
+    "type": "theme",
+    "purpose": null,
+    "internal_name": "mwnf3_exhibition_page_353",
+    "backward_compatibility": "mwnf3:exhibition_pages:353",
+    "parent_id": "92692332-c183-5670-be01-d013cd70257d",
+    "country_id": null,
+    "display_order": 2,
+    "latitude": null,
+    "longitude": null,
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/monuments/bar/de/12/1/2.jpg",
+        "alt_text": null,
+        "display_order": 2
+      }
+    ],
+    "items": [
+      {
+        "id": "65da28a6-c1fa-5d24-a711-42488c8ec2ea",
+        "display_order": 1,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/909daccb-094f-53a2-b3ad-7dcdd39a7209.jpg",
+        "caption": {
+          "en": {
+            "justification": "Hungary was a bastion against the Turks. The engraving depicts a battle scene, complete with representations of the commanders, to symbolise the emperor’s success."
+          }
+        }
+      },
+      {
+        "id": "ed6f14df-2849-50ee-95f4-d6b4bb30854e",
+        "display_order": 2,
+        "variant_order": 1,
+        "caption": {
+          "en": {
+            "justification": "The huge summer residence of the politically ambitious Prince Elector Maximilian I Emanuel."
+          }
+        }
+      },
+      {
+        "id": "ed6f14df-2849-50ee-95f4-d6b4bb30854e",
+        "display_order": 2,
+        "variant_order": 2,
+        "details": [
+          {
+            "id": "b7aa2d97-f660-5f39-a7c3-53ec68eec878",
+            "image_url": "https://inventory.metanull.eu/pub/beaa2587-477b-5498-9439-f9ea1cee0a55.jpg",
+            "caption": {
+              "en": {
+                "justification": "The Regency-style room is decorated with images that publicise the victory of the elector against the Turks and show him as a powerful, successful and brave ruler."
+              }
+            }
+          },
+          {
+            "id": "b7aa2d97-f660-5f39-a7c3-53ec68eec878",
+            "image_url": "https://inventory.metanull.eu/pub/3a75eca8-0ceb-5aa3-a3ee-0711c57ed597.jpg",
+            "caption": {
+              "en": {
+                "justification": "Fresco on the top."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "32ae501a-15d6-534c-9b3c-572d30f5a223",
+        "display_order": 3,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/4d165567-5ca5-5de3-b875-82513b04bfcb.jpg",
+        "caption": {
+          "en": {
+            "justification": "The university thesis for the public presents the emperor as a fatherly, powerful and caring ruler."
+          }
+        }
+      },
+      {
+        "id": "6ecdbd5d-f71a-5358-b6f8-723236965edc",
+        "display_order": 4,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/dbf11f37-13d8-57ff-bd94-9afebbd9e1fb.jpg",
+        "caption": {
+          "en": {
+            "justification": "With the support of Emperor Charles VI, the governor Kounic unified the administration and the royal tribunal into a provincial governorate, which spurred the construction of a new entrance."
+          }
+        }
+      },
+      {
+        "id": "6ecdbd5d-f71a-5358-b6f8-723236965edc",
+        "display_order": 4,
+        "variant_order": 2,
+        "details": [
+          {
+            "id": "a510d0cb-7ef9-570d-8610-ec9568ed5fcb",
+            "image_url": "https://inventory.metanull.eu/pub/5da2db66-4209-50c4-ae1d-f45600527f14.jpg",
+            "caption": {
+              "en": {
+                "justification": "Governor Kounic was a follower of Charles VI and a promoter of the “pragmatic sanction”. He systematically addressed the modernisation of the country and reforms in public administration."
+              }
+            }
+          },
+          {
+            "id": "a510d0cb-7ef9-570d-8610-ec9568ed5fcb",
+            "image_url": "https://inventory.metanull.eu/pub/5f0993a3-73a8-5792-9003-f3910a4a78da.jpg",
+            "caption": {
+              "en": {
+                "justification": "The country demonstrates her loyalty to the emperor."
+              }
+            }
+          },
+          {
+            "id": "a510d0cb-7ef9-570d-8610-ec9568ed5fcb",
+            "image_url": "https://inventory.metanull.eu/pub/1b72cfe9-a502-5923-8ae8-3b422afe4bc4.jpg",
+            "caption": {
+              "en": {
+                "justification": "Depictions of the defeat of the Turks are typically used in order to glorify the emperor."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1adff22-8dc6-5b01-a64c-2281cef78bdf",
+        "display_order": 5,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/77c8df15-1c52-5759-bcac-21f1bdd0ff62.jpg",
+        "caption": {
+          "en": {
+            "justification": "Built on a U-shaped plan to include the court of honour, the palace has all the typical official elements."
+          }
+        }
+      },
+      {
+        "id": "a1adff22-8dc6-5b01-a64c-2281cef78bdf",
+        "display_order": 5,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/55dc8360-fa4b-5ddd-85ee-ba757d596309.jpg",
+        "caption": {
+          "en": {
+            "justification": "Artists worked in all the countries of the empire and were instrumental in the spread of the Official style."
+          }
+        }
+      },
+      {
+        "id": "a1adff22-8dc6-5b01-a64c-2281cef78bdf",
+        "display_order": 5,
+        "variant_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/a6d27953-f129-54c5-ac9d-d136bd54ad28.jpg",
+        "caption": {
+          "en": {
+            "justification": "The representative staircase, ceremonial dining room, library and archive are all typical aspects of official residences."
+          }
+        }
+      },
+      {
+        "id": "a1adff22-8dc6-5b01-a64c-2281cef78bdf",
+        "display_order": 5,
+        "variant_order": 4,
+        "image_url": "https://inventory.metanull.eu/pub/fb759291-2183-5d4e-bbb9-5fea4ce077a2.jpg",
+        "caption": {
+          "en": {
+            "justification": "The ceremonial dining room, library and archive are typical part of official residence."
+          }
+        }
+      },
+      {
+        "id": "f1bd5519-89c6-5066-9f1f-c6679831ca28",
+        "display_order": 6,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/c1dc8cf3-a589-5474-b8de-1d7b9d70147b.jpg",
+        "caption": {
+          "en": {
+            "justification": "Several figures with their attributes personify the reign of the Habsburgs and are allegorical personifications of Austria. They are approached by figures from ancient mythology led by Reason."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "a6a2dcb3-2521-56b7-ba33-ac2d87f5199a",
+    "type": "theme",
+    "purpose": null,
+    "internal_name": "mwnf3_exhibition_page_356",
+    "backward_compatibility": "mwnf3:exhibition_pages:356",
+    "parent_id": "4c2f5ce9-d444-5756-8c05-5d3d3c624715",
+    "country_id": null,
+    "display_order": 2,
+    "latitude": null,
+    "longitude": null,
+    "images": [],
+    "items": [
+      {
+        "id": "01fae925-4c13-514b-a818-3caf92c6b4ab",
+        "display_order": 1,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/198379c9-f209-5594-8cc1-4c5767ab2e2b.jpg",
+        "caption": {
+          "en": {
+            "name": "Fortress of St James",
+            "date": "1603",
+            "location": "Porto Azzurro, Isola d'Elba, Italy",
+            "artist": "Built by order of Philip III of Spain; project realized by Don Garcia de Toledo",
+            "justification": "Some towns become fortresses, not only in order to protect the inhabitants, but also to demonstrate the ruler's power."
+          }
+        }
+      },
+      {
+        "id": "04b6720c-539b-5fce-a17d-6d0c9e628653",
+        "display_order": 2,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/fa8cbfac-9871-536a-b5d0-0e5f07f221fd.jpg",
+        "caption": {
+          "en": {
+            "name": "*Port of Livorno*",
+            "date": "Between 1637 and 1657",
+            "location": "Portoferraio, Isola d'Elba, Italy",
+            "museum": "Pinacoteca Comunale Foresiana",
+            "artist": "Pietro Ciafferi",
+            "justification": "Ports were fortresses in that they protected international communications."
+          }
+        }
+      },
+      {
+        "id": "677db211-c58d-50b1-b232-635d73f3327c",
+        "display_order": 3,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/8292082d-6ac9-5e68-96ea-dbfd7297d6f5.jpg",
+        "caption": {
+          "en": {
+            "justification": "The Council of India is attributed with commissioning these vessels."
+          }
+        }
+      },
+      {
+        "id": "26770047-7eca-547b-bc65-67b8abf591d5",
+        "display_order": 4,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/ad525288-4da5-5246-8a2d-89cb9a64d4d5.jpg",
+        "caption": {
+          "en": {
+            "justification": "The pilgrimage bottle with the coat-of-arms of King Philip II of Spain is an example of imperial expansion to the East, when Spain had limited access to China via the Philippines."
+          }
+        }
+      },
+      {
+        "id": "b2f01795-06d0-53f5-977b-6664d2f2de6b",
+        "display_order": 5,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/7530e54b-8146-5b48-a5e8-01ec1f44ba5e.jpg",
+        "caption": {
+          "en": {
+            "justification": "The ceremonial around exotic drinks was enacted according to strict etiquette and according to the hierarchy of the Joanine court as a world-power. Chocolate and coffee became extremely fashionable among the Portuguese aristocracy and throughout the rest of Europe."
+          }
+        }
+      },
+      {
+        "id": "c9d97b65-0be6-5a7c-984a-641093ced2e4",
+        "display_order": 6,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/5e7a9e8b-965a-5d5f-a4c2-f92c02d77f39.jpg",
+        "caption": {
+          "en": {
+            "justification": "The spontaneity and light-heartedness of this portrait corresponds with the personality of the youth (later the Moravian Provincial Governor) who was known to be a devotee of “aristocratic” pastimes, such as dancing, horseriding, fencing and playing the guitar."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "92692332-c183-5670-be01-d013cd70257d",
+    "type": "theme",
+    "purpose": null,
+    "internal_name": "mwnf3_exhibition_theme_150",
+    "backward_compatibility": "mwnf3:exhibition_themes:150",
+    "parent_id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+    "country_id": null,
+    "display_order": 2,
+    "latitude": null,
+    "longitude": null,
+    "images": [],
+    "items": []
+  },
+  {
+    "id": "271a2a0b-8455-5966-8c11-4a5450f4fcf5",
+    "type": "theme",
+    "purpose": null,
+    "internal_name": "mwnf3_exhibition_page_351",
+    "backward_compatibility": "mwnf3:exhibition_pages:351",
+    "parent_id": "3e811dec-b59d-5e61-933b-b312951931b8",
+    "country_id": null,
+    "display_order": 3,
+    "latitude": null,
+    "longitude": null,
+    "images": [],
+    "items": [
+      {
+        "id": "6857e440-8f5f-5412-a588-b0da5f2afb45",
+        "display_order": 1,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/b92e35a2-0ca7-522e-ba1a-50617d117179.jpg",
+        "caption": {
+          "en": {
+            "justification": "When in 1605 Paul V became Pope, he immediately made his nephew, Scipione, a cardinal, promoting him to a position comparable to secretary of state. This enormous power allowed the cardinal-nephew to create within a decade, in a somewhat unorthodox manner, a splendid home and a marvellous art collection. He oversaw the cultural policy of the papal court, and with a sensitive instinct for artistic quality, Scipione hastened the birth of the Baroque."
+          }
+        }
+      },
+      {
+        "id": "6f46e756-ebc7-53f0-b7ab-a41b14c33d87",
+        "display_order": 2,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/adac8ea4-bf61-51c3-a675-adc207a4e71e.jpg",
+        "caption": {
+          "en": {
+            "justification": "Cabinets of curiosities and different collections, later mostly of art, were an important medium of self-presentation. These collections not only demonstrated the wealth of their owners, but simultaneously, displayed the owner’s power and intellect. The themes of these collections often correspond with political programmes, the celebration of the dynasty, while also representing the birth of Rome. By analogy it acquired an historical and theological value: ancient Rome and the Roman Church. While the flight of Aeneas was understood in relation to the Christian ideal, the heroic figure symbolised the political role assumed by Scipione during the papacy of his age."
+          }
+        }
+      },
+      {
+        "id": "ada03f89-9e12-51a6-b251-a9bcbfe3a40c",
+        "display_order": 3,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/7db7e385-4cde-5e4d-a8ac-58528ab62657.jpg",
+        "caption": {
+          "en": {
+            "detail_name": "Triumphal arches",
+            "justification": "Two triumphal arches linking the three rooms create a multiplicity of images that draw the eye to the portrait of King João V. His portrait overlooks the library like an altar in a church."
+          }
+        }
+      },
+      {
+        "id": "ada03f89-9e12-51a6-b251-a9bcbfe3a40c",
+        "display_order": 3,
+        "variant_order": 2,
+        "details": [
+          {
+            "id": "fb3fdb2d-573f-563d-9108-61663265d16a",
+            "image_url": "https://inventory.metanull.eu/pub/02e9d587-28bf-5777-9fc1-86421da5cf49.jpg",
+            "caption": {
+              "en": {
+                "justification": "The celebration of wisdom played an important role in the dissemination of propaganda. The university library of King João V was built to accommodate new books on theology, philosophy and law received in response to the university’s new curricula."
+              }
+            }
+          },
+          {
+            "id": "fb2c16ce-05ab-5038-b941-2740a8a0e2cb",
+            "image_url": "https://inventory.metanull.eu/pub/55d6e554-ed5e-518e-8ac9-8f3a3219f931.jpg",
+            "caption": {
+              "en": {
+                "justification": "Royal, political and artistic programmes can be seen in the decoration of the rooms."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "15bccd45-62bd-5223-aede-d19f579db48c",
+        "display_order": 4,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/8599dd81-d755-5a5b-9876-847225315bfd.jpg",
+        "caption": {
+          "en": {
+            "justification": "This compilation of literary pieces was read to the Assembly of Academia Literaria de Valencia on 13 October 1686 to commemorate the recapture of Buda. The poems glorify Pope Innocent XI, the Emperor Leopold I Habsburg, members of the Sacra Lega, the chief commanders, Charles Duke V of Lorraine and Maximilian II Emanuel the Bavarian Elector, the soldiers, the glorious siege and the decisive day of recapture on 2 September 1686 and the new cardinals nominated on the same day."
+          }
+        }
+      },
+      {
+        "id": "b0926d7c-2c0b-52f5-9714-d64d818e9564",
+        "display_order": 5,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/b8629f5d-a7b6-557e-899c-14ba0c2ad577.jpg",
+        "caption": {
+          "en": {
+            "justification": "The huge complex combines a prince elector’s residence and an abbey to demonstrate the sacred nature of the reign."
+          }
+        }
+      },
+      {
+        "id": "b0926d7c-2c0b-52f5-9714-d64d818e9564",
+        "display_order": 5,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/3deb0121-95c3-5a3e-ab43-8a4b4782ea4f.jpg",
+        "caption": {
+          "en": {
+            "justification": "The monastery church."
+          }
+        }
+      },
+      {
+        "id": "64f432a6-c566-5a3d-ae84-2b8ffe891d07",
+        "display_order": 6,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/1d1cd2b6-ffab-5a16-afed-161803ad7341.jpg",
+        "caption": {
+          "en": {
+            "justification": "A magnificent cathedral replaced the small Gothic chapel of Évora following a royal visit."
+          }
+        }
+      },
+      {
+        "id": "64f432a6-c566-5a3d-ae84-2b8ffe891d07",
+        "display_order": 6,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/b42ac0e6-0487-5552-8a8e-c8045c282ac5.jpg",
+        "caption": {
+          "en": {
+            "justification": "Evora Cathedral."
+          }
+        }
+      },
+      {
+        "id": "64f432a6-c566-5a3d-ae84-2b8ffe891d07",
+        "display_order": 6,
+        "variant_order": 3,
+        "details": [
+          {
+            "id": "ed2e5596-037a-5738-8eaa-d795beb82ba9",
+            "image_url": "https://inventory.metanull.eu/pub/451f14c7-f460-51a7-a9d4-e04733e7be73.jpg",
+            "caption": {
+              "en": {
+                "justification": "The statues of the virtues, the pediment of the main arch and the busts of *St. Peter* and *St. Paul* symbolise the profane and spiritual virtues and represent the means by which mere mortals can reach them."
+              }
+            }
+          },
+          {
+            "id": "795a67c4-4c3c-5df0-8c64-eacfd926fc71",
+            "image_url": "https://inventory.metanull.eu/pub/08873764-e661-56db-b047-38799a811a0e.jpg",
+            "caption": {
+              "en": {
+                "justification": "Built to a design typical of the reign of King João V, and located in one of the most important diocese of his reign, the cathedral pays homage to the former church."
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "418a00d5-57a8-5171-ba47-7899c6f1fcdd",
+    "type": "theme",
+    "purpose": null,
+    "internal_name": "mwnf3_exhibition_page_354",
+    "backward_compatibility": "mwnf3:exhibition_pages:354",
+    "parent_id": "92692332-c183-5670-be01-d013cd70257d",
+    "country_id": null,
+    "display_order": 3,
+    "latitude": null,
+    "longitude": null,
+    "images": [],
+    "items": [
+      {
+        "id": "c7f458b2-850c-5c8f-8395-02a7a28d585e",
+        "display_order": 1,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/32fe00c8-a3aa-534f-a4bd-57409d464b96.jpg",
+        "caption": {
+          "en": {
+            "justification": "A *maison de plaisance* that not only served the nobles' penchant for luxury but also became the official building for administration of the Habsburg monarchy, which meant the Holy Roman Empire as well."
+          }
+        }
+      },
+      {
+        "id": "c7f458b2-850c-5c8f-8395-02a7a28d585e",
+        "display_order": 1,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/50ba49a3-c6bb-54b8-b211-6610d2c5a807.jpg",
+        "caption": {
+          "en": {
+            "justification": "The gallery of mythological figures along with with the Savoy family’s coat-of-arms on the main façade commemorates the glory of a victorious military leader in the war against the Turks."
+          }
+        }
+      },
+      {
+        "id": "c7f458b2-850c-5c8f-8395-02a7a28d585e",
+        "display_order": 1,
+        "variant_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/253f654d-bb3d-5f90-9abb-15e97b2b9255.jpg",
+        "caption": {
+          "en": {
+            "justification": "A *maison de plaisance* that not only served the nobles' penchant for luxury but also became the official building for administration of the Habsburg monarchy, which meant the Holy Roman Empire as well."
+          }
+        }
+      },
+      {
+        "id": "204d3403-6441-5819-b1d0-984860476398",
+        "display_order": 2,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/45e61f42-199b-5224-8457-03c05256167b.jpg",
+        "caption": {
+          "en": {
+            "justification": "A country house built in the style of the Viennese court for a noble Hungarian family."
+          }
+        }
+      },
+      {
+        "id": "204d3403-6441-5819-b1d0-984860476398",
+        "display_order": 2,
+        "variant_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/54ec530c-b94c-5de5-a9a6-2c19298a3e0d.jpg",
+        "caption": {
+          "en": {
+            "detail_name": "Banqueting hall",
+            "justification": "A series of oil-on-canvas portraits praise the Habsburg dynasty and the Esterházy family."
+          }
+        }
+      },
+      {
+        "id": "204d3403-6441-5819-b1d0-984860476398",
+        "display_order": 2,
+        "variant_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/174294f9-9e7a-546b-9054-a1b2a7f7e874.jpg",
+        "caption": {
+          "en": {
+            "detail_name": "Banqueting hall",
+            "justification": "The Triumph of Apollo and the Four Continents are typical motifs used in the decoration of *maison de plaisance*."
+          }
+        }
+      },
+      {
+        "id": "9f186000-f429-588b-b1a7-58bcf82d6a8f",
+        "display_order": 3,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/0d213f4f-477a-5eab-b3ee-ebd9a786bfa0.jpg",
+        "caption": {
+          "en": {
+            "justification": "The royal summer palace and gardens were used to entertain officials."
+          }
+        }
+      },
+      {
+        "id": "9f186000-f429-588b-b1a7-58bcf82d6a8f",
+        "display_order": 3,
+        "variant_order": 2,
+        "details": [
+          {
+            "id": "b9abc8a0-1fc1-59ad-9b41-3194b57afd27",
+            "image_url": "https://inventory.metanull.eu/pub/ab92654d-60e1-5d1b-85f6-fb0eef2dae14.jpg",
+            "caption": {
+              "en": {
+                "justification": "The so-called Great Room is the largest of the palace’s three state rooms. The paintings on the ceiling depict Faith, Sun, Hope, War, Justice and Charity and are typical of Imperial symbolism."
+              }
+            }
+          },
+          {
+            "id": "bf8d5dd6-621c-537a-a14f-13c5c7464cea",
+            "image_url": "https://inventory.metanull.eu/pub/9144098e-0778-525a-891e-9abea0317a1f.jpg",
+            "caption": {
+              "en": {
+                "justification": "The residence combines French and Italian influences such as that seen at Trianon palace in Versailles or in the scenic landscapes of Bosco Parrasio in Rome."
+              }
+            }
+          },
+          {
+            "id": "c4949ddb-d9d5-551d-b5df-1849fe2e8307",
+            "image_url": "https://inventory.metanull.eu/pub/025dab66-ab42-5ead-89d5-3e40e79108b9.jpg",
+            "caption": {
+              "en": {
+                "justification": "The ceremonial façade."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "702f1ab0-167b-5b57-9f33-ce9e777561cf",
+        "display_order": 4,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/5a155772-9ad4-5473-a1a3-b22aa2357788.jpg",
+        "caption": {
+          "en": {
+            "justification": "*Maison de plaisance* in the French Late-Regency style was very popular in Central Europe in the latter half of the 18th century."
+          }
+        }
+      },
+      {
+        "id": "d6242828-53d8-51c8-a66d-cb1f54b10ff7",
+        "display_order": 5,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/443fe95a-7de2-51a8-9765-f1e455ce2566.jpg",
+        "caption": {
+          "en": {
+            "justification": "Allegories representing the Four Seasons, Four Stages of Man, Four Elements, Four Tempers and the Four Senses exemplify the interior decoration of aristocratic manors."
+          }
+        }
+      },
+      {
+        "id": "d6242828-53d8-51c8-a66d-cb1f54b10ff7",
+        "display_order": 5,
+        "variant_order": 2,
+        "details": [
+          {
+            "id": "c033a142-ba63-5940-81e3-bdf3db2aed83",
+            "image_url": "https://inventory.metanull.eu/pub/285961b3-52e7-5892-a162-575d9946d004.jpg",
+            "caption": {
+              "en": {
+                "justification": "Allegories representing the Four Seasons, Four Stages of Man, Four Elements, Four Tempers and the Four Senses exemplify the interior decoration of aristocratic manors."
+              }
+            }
+          },
+          {
+            "id": "4794de30-313e-53cb-8def-1b482c7a40ea",
+            "image_url": "https://inventory.metanull.eu/pub/2f3771db-459e-5948-abf7-28c4a082cd02.jpg",
+            "caption": {
+              "en": {
+                "justification": "Allegories representing the Four Seasons, Four Stages of Man, Four Elements, Four Tempers and the Four Senses exemplify the interior decoration of aristocratic manors."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "505c37b6-7bee-5937-b910-98b2c8b15fe5",
+        "display_order": 6,
+        "variant_order": 1,
+        "details": [
+          {
+            "id": "46bb4fb6-c314-5cbe-a7dc-30c998b1dfb1",
+            "image_url": "https://inventory.metanull.eu/pub/63515ef5-5490-5d49-933c-f1bda7610f84.jpg",
+            "caption": {
+              "en": {
+                "location": "Židlochovice Chateau",
+                "justification": "The château is an example of the influences of cultural exchange brought about by politics: the “correspondence” plan drawn up by the court architect in Paris was then reinterpreted by a local practitioner to suit local conditions."
+              }
+            }
+          },
+          {
+            "id": "38ad57d4-b61f-536a-8b64-9601d38d1e4e",
+            "image_url": "https://inventory.metanull.eu/pub/394c144f-017d-5aa4-8467-7c484517b236.jpg",
+            "caption": {
+              "en": {
+                "location": "Židlochovice Chateau",
+                "justification": "The owner of the château was the chancellor of the Supreme Court. He took part in several peace negotiations with the French king and was a general superintendent of the Vienna Academy."
+              }
+            }
+          },
+          {
+            "id": "d57919ad-92e5-5973-9707-042b48266da3",
+            "image_url": "https://inventory.metanull.eu/pub/67cbfdea-3da7-5b0f-a30a-59308b7245b1.jpg",
+            "caption": {
+              "en": {
+                "location": "Židlochovice Chateau",
+                "justification": "The front façade of the château is punctuated with windows and niches. In the niches are figures of the four seasons and the ancient gods."
+              }
+            }
+          },
+          {
+            "id": "5e5ff728-46b9-5dbd-a88e-16ce672bc4f4",
+            "image_url": "https://inventory.metanull.eu/pub/8d281080-8bdf-5bb0-8533-203e2283f63a.jpg",
+            "caption": {
+              "en": {
+                "location": "Židlochovice Chateau",
+                "justification": "In the “representative” chapel interior, the mass and the individual’s belonging in the Christian community are celebrated."
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1ca8656f-b47e-5c02-b4c3-4b700b98a3bd",
+    "type": "theme",
+    "purpose": null,
+    "internal_name": "mwnf3_exhibition_page_357",
+    "backward_compatibility": "mwnf3:exhibition_pages:357",
+    "parent_id": "4c2f5ce9-d444-5756-8c05-5d3d3c624715",
+    "country_id": null,
+    "display_order": 3,
+    "latitude": null,
+    "longitude": null,
+    "images": [],
+    "items": [
+      {
+        "id": "8c4696e3-5efb-53c9-9b91-0ce041e3c7ce",
+        "display_order": 1,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/156d462e-f8b4-5971-ab7c-d2cbfabe544a.jpg",
+        "caption": {
+          "en": {
+            "justification": "Livio Odescalchi was from a wealthy and influential Italian family known to have produced many important historical figures such as bankers, bishops, cardinals and Pope Innocent XI. As a reward for the Pope’s help in the battle against the Turks, Emperor Leopold I named the Pope’s nephew, Livio, Duke of Sriem. Livio was a great collector and patron of the arts who decorated his residences with fine artworks."
+          }
+        }
+      },
+      {
+        "id": "baeb2f18-d363-5177-9890-45fa4c7ce945",
+        "display_order": 2,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/0a1355bb-c7a0-5c95-9827-82ed697f82d9.jpg",
+        "caption": {
+          "en": {
+            "justification": "Monarchs throughout Europe – from Lisbon to Dresden; England to Naples – wore jewellery to reinforce their majesty and political power."
+          }
+        }
+      },
+      {
+        "id": "1e902b54-02bc-52d4-a41f-4b3abe60ea34",
+        "display_order": 3,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/e59cd081-2bc3-5ef6-8532-e537c173494f.jpg",
+        "caption": {
+          "en": {
+            "justification": "Cardinal Borghese elected himself protector of painting and music, sensitivity to which was seen as a typical characteristic of “good rule”. The Sybil is portrayed as the vehicle of Divine Revelation."
+          }
+        }
+      },
+      {
+        "id": "fcdf9f09-6ccb-53ef-8eb1-9593c8000973",
+        "display_order": 4,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/d7970120-6d8e-556b-bb9b-e0db33fe1ae9.jpg",
+        "caption": {
+          "en": {
+            "justification": "The fine tableware was commissioned by the Portuguese diplomat Count Aveiras from a famous French goldsmith. Commissioning such works was common practice among European nobility and royal households. These pieces bear the coat-of-arms of the count, and at one time belonged to Empress Catherine II of Russia."
+          }
+        }
+      },
+      {
+        "id": "fb4db280-b1e8-5792-9924-ea1569ecf8e4",
+        "display_order": 5,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/411ba684-6c5e-5239-8356-3a94418233c2.jpg",
+        "caption": {
+          "en": {
+            "justification": "This portrait of one of Slavonia’s most important foreign noblemen of the Austrian court’s diplomatic core, was commissioned on the occasion of a double family jubilee: Hilleprand-Prandau’s 75th birthday and the transition of the Valpovo estate into the family’s permanent ownership."
+          }
+        }
+      },
+      {
+        "id": "937a5805-f2ea-558b-93c8-f14401779d14",
+        "display_order": 6,
+        "variant_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/2e211dc6-8813-5c07-a392-039e6c0c32f7.jpg",
+        "caption": {
+          "en": {
+            "name": "Tomb of  Diego de Alarcòn",
+            "date": "About 1727",
+            "location": "Sacred Heart of Our Lady chapel, Porto Azzurro, Isola d'Elba, Italy",
+            "artist": "Unknown artist",
+            "justification": "Alarcòn was the Governor of Longone (Porto Azzurro) during the 18th century. In 1727 he ordered a chapel to be built in the name of the Heart of Our Lady. His tomb was built inside the chapel."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "4c2f5ce9-d444-5756-8c05-5d3d3c624715",
+    "type": "theme",
+    "purpose": null,
+    "internal_name": "mwnf3_exhibition_theme_151",
+    "backward_compatibility": "mwnf3:exhibition_themes:151",
+    "parent_id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+    "country_id": null,
+    "display_order": 3,
+    "latitude": null,
+    "longitude": null,
+    "images": [],
+    "items": []
+  }
+]

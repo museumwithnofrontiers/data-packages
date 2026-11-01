@@ -1,0 +1,92 @@
+[
+  {
+    "id": "31de84d4-3de2-5ea1-b1d4-c8712cbcb314",
+    "type": "museum",
+    "backward_compatibility": "mwnf3:museums:Mus11:hr",
+    "country_id": "hrv",
+    "latitude": 45.8094338,
+    "longitude": 15.9686207,
+    "map_zoom": 17,
+    "monument_item_id": null,
+    "level": "partner",
+    "parent_id": null,
+    "project_uuids": [
+      "76eaf6c2-8025-53bc-9e39-106803a3917e"
+    ],
+    "item_count": 12,
+    "featured": true,
+    "languages": [
+      "en"
+    ],
+    "contact_persons": [
+      {
+        "fax": "+385 1 4828088",
+        "name": "Miroslav Gašparović",
+        "email": "miroslav.gasparovic@muo.hr",
+        "phone": "+385 1 4882118",
+        "title": "Director"
+      },
+      {
+        "name": "Jasmina Fuckan",
+        "email": "jasmina.fuckan@muo.hr",
+        "phone": "+385 1 4882143",
+        "title": "Senior Curator, Head of the Ivory Collection and Sculpture Collection"
+      }
+    ],
+    "additional_urls": [
+      {
+        "url": "https://baroqueart.museumwnf.org/pm_partner.php?id=Mus11;hr&type=museum&theme=BAR&",
+        "title": "Muzej za umjetnost I obrt Museum of Arts and Crafts"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/84dcea55-061a-5977-82dc-58db53f8d940.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/b2ada042-07ed-5bd1-bf11-5667cde34da2.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/1c0c6390-98d0-5ec4-8570-d78e2d2825ef.jpg",
+        "alt_text": null,
+        "display_order": 3,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/a8809f6d-7c62-54dc-8ccd-06124251888e.jpg",
+        "logo_type": "primary",
+        "alt_text": "Museum of Arts and Crafts - primary logo",
+        "display_order": 1
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/museums/hr/11/logos/2.jpg",
+        "logo_type": "secondary",
+        "alt_text": "Museum of Arts and Crafts - secondary logo",
+        "display_order": 2
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/museums/hr/11/logos/3.jpg",
+        "logo_type": "tertiary",
+        "alt_text": "Museum of Arts and Crafts - tertiary logo",
+        "display_order": 3
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/86b6bf62-f496-5985-ac4d-fb54af50f88f.jpg",
+        "logo_type": "quaternary",
+        "alt_text": "Museum of Arts and Crafts - quaternary logo",
+        "display_order": 4
+      }
+    ]
+  }
+]

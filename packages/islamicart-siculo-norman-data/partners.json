@@ -1,0 +1,68 @@
+[
+  {
+    "id": "2970af60-fdee-5b70-8e87-7b8865a0c88d",
+    "type": "museum",
+    "backward_compatibility": "mwnf3:museums:Mus01:it",
+    "country_id": "ita",
+    "latitude": 41.832924,
+    "longitude": 12.47178,
+    "map_zoom": 16,
+    "monument_item_id": null,
+    "level": "partner",
+    "parent_id": null,
+    "project_uuids": [
+      "61c122ac-ea86-5462-8bab-6b86138c49b2"
+    ],
+    "item_count": 32,
+    "featured": true,
+    "languages": [
+      "ar",
+      "en",
+      "es",
+      "fr",
+      "it"
+    ],
+    "contact_persons": [
+      {
+        "name": "Andrea Viliani",
+        "title": "Director"
+      },
+      {
+        "name": "Adriano Napoli",
+        "email": "adriano.napoli@cultura.gov.it",
+        "phone": "+39 06 5495267",
+        "title": "Curator Islamic Art"
+      }
+    ],
+    "additional_urls": [
+      {
+        "url": "https://islamicart.museumwnf.org/pm_partner.php?id=Mus01;it&type=museum&theme=ISL&",
+        "title": "Museo delle Civiltà | Museo d’arte orientale “Giuseppe Tucci”"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/e50b58ed-4d18-5a16-920b-772b6bcc1ec3.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": "Museo delle Civiltà"
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/30b9f2df-0c67-506f-8364-5ca985cbb758.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": "Mario Mineo",
+        "copyright": "Museo delle Civiltà"
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/aa3e6e04-fca3-5e13-8bb0-a07b6615ae0b.jpg",
+        "logo_type": "primary",
+        "alt_text": "Museo Nazionale d'Arte Orientale  - primary logo",
+        "display_order": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "f446146a-791c-5ab5-a762-4bd0263541be",
+    "type": "museum",
+    "backward_compatibility": "mwnf3:museums:Mus11:cz",
+    "country_id": "cze",
+    "latitude": 49.1943572,
+    "longitude": 16.604836,
+    "map_zoom": 17,
+    "monument_item_id": null,
+    "level": "partner",
+    "parent_id": null,
+    "project_uuids": [
+      "76eaf6c2-8025-53bc-9e39-106803a3917e"
+    ],
+    "item_count": 35,
+    "featured": true,
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "contact_persons": [
+      {
+        "name": "Mgr. Petr Tomášek",
+        "email": "petr.tomasek@moravska-galerie.cz",
+        "phone": "+420 532 169 320"
+      }
+    ],
+    "additional_urls": [
+      {
+        "url": "https://baroqueart.museumwnf.org/pm_partner.php?id=Mus11;cz&type=museum&theme=BAR&"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/fffa23b4-178a-5809-aa11-5fcbf1a141aa.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/dafcd367-31a8-5f4d-bf70-2abcd900886f.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/61500cdc-09ba-5fd4-8f6b-b681ff6159d4.jpg",
+        "alt_text": null,
+        "display_order": 3,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/00852a43-6260-5753-9984-f9c518e8c1f8.jpg",
+        "logo_type": "primary",
+        "alt_text": "Moravian Gallery - primary logo",
+        "display_order": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "fae81dae-0250-52ec-acc1-171da28b9eef",
+    "type": "museum",
+    "backward_compatibility": "mwnf3:museums:Mus11:it",
+    "country_id": "ita",
+    "latitude": 41.9142103,
+    "longitude": 12.4921442,
+    "map_zoom": 17,
+    "monument_item_id": null,
+    "level": "partner",
+    "parent_id": null,
+    "project_uuids": [
+      "76eaf6c2-8025-53bc-9e39-106803a3917e"
+    ],
+    "item_count": 50,
+    "featured": true,
+    "languages": [
+      "en"
+    ],
+    "contact_persons": [
+      {
+        "fax": "+39 06 8840756",
+        "name": "Maria Assunta Sorrentino",
+        "email": "mariaassunta.sorrentino@beniculturali.it",
+        "phone": "+39 06 8413979",
+        "title": "Coordinator Conservation Department"
+      },
+      {
+        "fax": "+39 06 8840756",
+        "name": "Marina Minozzi",
+        "email": "marina.minozzi@beniculturali.it",
+        "phone": "+39 06 8413979, 06 8417645",
+        "title": "Art Historian Head Coordinator"
+      }
+    ],
+    "additional_urls": [
+      {
+        "url": "https://baroqueart.museumwnf.org/pm_partner.php?id=Mus11;it&type=museum&theme=BAR&"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/185eab45-4c4b-527b-aec9-7ab145e082af.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/461df192-20e9-5b04-a1ae-451811e2876e.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/6eb49b73-1ec3-5a03-9b44-0be083f2e884.jpg",
+        "logo_type": "primary",
+        "alt_text": "Borghese Gallery - primary logo",
+        "display_order": 1
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/7081a24a-7456-541d-968e-f47d157555e8.jpg",
+        "logo_type": "quaternary",
+        "alt_text": "Borghese Gallery - quaternary logo",
+        "display_order": 4
+      }
+    ]
+  }
+]

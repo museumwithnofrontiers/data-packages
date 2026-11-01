@@ -1,0 +1,78 @@
+{
+  "projectKeys": [
+    "BAR"
+  ],
+  "projectIds": [
+    "76eaf6c2-8025-53bc-9e39-106803a3917e"
+  ],
+  "version": "1.0.0",
+  "rights": {
+    "rights_holder": "Museum Ohne Grenzen e.V. (Museum With No Frontiers)",
+    "terms_url": "https://www.museumwnf.org/about/legal-notice",
+    "attribution": "Content © Museum With No Frontiers, used under the MWNF legal notice."
+  },
+  "site": {
+    "key": "baroqueart",
+    "languages": [
+      {
+        "code": "cs",
+        "label": "Czech"
+      },
+      {
+        "code": "de",
+        "label": "Deutsch"
+      },
+      {
+        "code": "en",
+        "label": "English"
+      },
+      {
+        "code": "it",
+        "label": "Italiano"
+      },
+      {
+        "code": "pt",
+        "label": "Português"
+      }
+    ],
+    "names": {
+      "en": "Discover Baroque Art",
+      "fr": "Découvrir l'Art Baroque",
+      "it": "Discover Baroque Art",
+      "pt": "Discover Baroque Art"
+    }
+  },
+  "languages": [
+    "ar",
+    "cs",
+    "de",
+    "el",
+    "en",
+    "fa",
+    "fr",
+    "he",
+    "hr",
+    "hu",
+    "it",
+    "pt",
+    "ru",
+    "si",
+    "es",
+    "se",
+    "tr",
+    "ch"
+  ],
+  "projects": {
+    "76eaf6c2-8025-53bc-9e39-106803a3917e": {
+      "name": {
+        "en": "Discover Baroque Art",
+        "fr": "Découvrir l'Art Baroque",
+        "it": "Discover Baroque Art",
+        "pt": "Discover Baroque Art"
+      },
+      "site_url": "https://baroqueart.museumwnf.org",
+      "related_database_url": "https://baroqueart.museumwnf.org/database.php",
+      "artistic_introduction_url": null
+    }
+  }
+}
