@@ -51,7 +51,7 @@
     ],
     "related_items": [
       {
-        "id": "4df720fc-29e6-59ab-9430-1945b274992e",
+        "id": "a9696cec-e2a4-5df3-86c8-4f47e45be0d4",
         "justifications": {
           "ar": "أسلوب وطريقة الزينة هذه القطع متشابهان.",
           "en": "These pieces share a decorative style and technique.",
@@ -60,7 +60,7 @@
         }
       },
       {
-        "id": "a9696cec-e2a4-5df3-86c8-4f47e45be0d4",
+        "id": "4df720fc-29e6-59ab-9430-1945b274992e",
         "justifications": {
           "ar": "أسلوب وطريقة الزينة هذه القطع متشابهان.",
           "en": "These pieces share a decorative style and technique.",
@@ -430,10 +430,6 @@
     ],
     "related_items": [
       {
-        "id": "4df720fc-29e6-59ab-9430-1945b274992e",
-        "justifications": {}
-      },
-      {
         "id": "a9696cec-e2a4-5df3-86c8-4f47e45be0d4",
         "justifications": {
           "ar": "على خلاف دبوس الزينة المخرم الظاهر هنا فإن هذه الحلية المتدلية مصنوعة من الذهب و مزينة بأرابيسك ذو ميناء و كتابات منقوشة.",
@@ -444,6 +440,10 @@
       },
       {
         "id": "cfe5bd9c-e197-550b-b7be-fc5f83730d8f",
+        "justifications": {}
+      },
+      {
+        "id": "4df720fc-29e6-59ab-9430-1945b274992e",
         "justifications": {}
       },
       {
@@ -1071,15 +1071,6 @@
     ],
     "related_items": [
       {
-        "id": "153c5ddb-dd1d-5e3c-9e80-de0b66684f95",
-        "justifications": {
-          "ar": "التشابهات واضحة  في المواد المستخدمة و التقنيات المطبقة على تصنيع الألواح الخشبية.",
-          "en": "Similarities are evident in the materials used and techniques applied to wooden panelling.",
-          "fr": "Matériau et technique s’apparentent. La décoration et la sculpture en bois se rapprochent également.",
-          "es": "Las similitudes son evidentes en los materiales utilizados y en técnicas aplicadas a paneles de madera."
-        }
-      },
-      {
         "id": "b55d65e0-7851-5d7f-94f3-89e36361d38d",
         "justifications": {
           "ar": "تقنيات الحفر المستخدمة هي مميزة للفن الفاطمي المصري.",
@@ -1095,6 +1086,15 @@
           "en": "The carving techniques used are typical of Egyptian Fatimid art.",
           "fr": "Sculpture et techniques sont typiques de l’art fatimide d’Égypte.",
           "es": "Aquí nos damos cuenta de que las técnicas de talla utilizadas son típicas del arte fatimí egipcio."
+        }
+      },
+      {
+        "id": "153c5ddb-dd1d-5e3c-9e80-de0b66684f95",
+        "justifications": {
+          "ar": "التشابهات واضحة  في المواد المستخدمة و التقنيات المطبقة على تصنيع الألواح الخشبية.",
+          "en": "Similarities are evident in the materials used and techniques applied to wooden panelling.",
+          "fr": "Matériau et technique s’apparentent. La décoration et la sculpture en bois se rapprochent également.",
+          "es": "Las similitudes son evidentes en los materiales utilizados y en técnicas aplicadas a paneles de madera."
         }
       }
     ],
@@ -1230,7 +1230,25 @@
     ],
     "related_items": [
       {
-        "id": "24c4d60c-f039-586c-b878-b41f99dc6b12",
+        "id": "afc571f4-5986-5e46-b1ec-3dde40394350",
+        "justifications": {
+          "ar": "تم التبرع بأبواب هذا المسجد من قبل الخليفة الفاطمي الحاكم بأمر الله.",
+          "en": "The doors were donated to this mosque by the Fatimid Caliph Hakim bi Amrillah.",
+          "fr": "Cette mosquée a été construite par le calife fatimide Hakim bi Amrillah, qui légua la porte à la mosquée al-Azhar.",
+          "es": "Las puertas fueron donadas a esta mezquita por el califa fatimí al-Hakim bi Amrillah."
+        }
+      },
+      {
+        "id": "9376bc61-32e6-5f4f-9d2c-ec28ad8f8fe4",
+        "justifications": {
+          "ar": "بنى هذا المسجد من قبل الخليفة الفاطمي الحاكم بأمر الله، الذي تبرع بالباب لمسجد الأزهر.",
+          "en": "This mosque was built by the Fatimid Caliph Hakim bi Amrillah, who donated the door to the al-Azhar Mosque.",
+          "fr": "Cette mosquée a été construite par le calife fatimide Hakim bi Amrillah, qui légua la porte à la mosquée al-Azhar.",
+          "es": "Esta mezquita fue construida por el califa fatimí al-Hakim bi Amrillah, quien donó la puerta a la mezquita al-Azhar."
+        }
+      },
+      {
+        "id": "d4d8f026-9350-59c7-985e-107aaa7a0acb",
         "justifications": {
           "ar": "تتبع هذه القطعة ايضا أسلوب الزينة الفاطمي لنحت الخشب, الخاص بالفترة الطولونية.",
           "en": "The piece also follows the Fatimid style of decorative woodcarving, distinctive of the Tulunid period.",
@@ -1248,25 +1266,7 @@
         }
       },
       {
-        "id": "9376bc61-32e6-5f4f-9d2c-ec28ad8f8fe4",
-        "justifications": {
-          "ar": "بنى هذا المسجد من قبل الخليفة الفاطمي الحاكم بأمر الله، الذي تبرع بالباب لمسجد الأزهر.",
-          "en": "This mosque was built by the Fatimid Caliph Hakim bi Amrillah, who donated the door to the al-Azhar Mosque.",
-          "fr": "Cette mosquée a été construite par le calife fatimide Hakim bi Amrillah, qui légua la porte à la mosquée al-Azhar.",
-          "es": "Esta mezquita fue construida por el califa fatimí al-Hakim bi Amrillah, quien donó la puerta a la mezquita al-Azhar."
-        }
-      },
-      {
-        "id": "afc571f4-5986-5e46-b1ec-3dde40394350",
-        "justifications": {
-          "ar": "تم التبرع بأبواب هذا المسجد من قبل الخليفة الفاطمي الحاكم بأمر الله.",
-          "en": "The doors were donated to this mosque by the Fatimid Caliph Hakim bi Amrillah.",
-          "fr": "Cette mosquée a été construite par le calife fatimide Hakim bi Amrillah, qui légua la porte à la mosquée al-Azhar.",
-          "es": "Las puertas fueron donadas a esta mezquita por el califa fatimí al-Hakim bi Amrillah."
-        }
-      },
-      {
-        "id": "d4d8f026-9350-59c7-985e-107aaa7a0acb",
+        "id": "24c4d60c-f039-586c-b878-b41f99dc6b12",
         "justifications": {
           "ar": "تتبع هذه القطعة ايضا أسلوب الزينة الفاطمي لنحت الخشب, الخاص بالفترة الطولونية.",
           "en": "The piece also follows the Fatimid style of decorative woodcarving, distinctive of the Tulunid period.",
@@ -1390,21 +1390,21 @@
     ],
     "related_items": [
       {
-        "id": "539cc0cc-894e-5945-b4c9-b62fae0a412d",
-        "justifications": {
-          "ar": "مثال آخر على نحت من الكريستال الصخري الفاطمي الفاخر.",
-          "en": "Another example of Fatimid luxury rock crystal carving.",
-          "fr": "Autre exemple de luxueuse sculpture fatimide en cristal de roche.",
-          "es": "Otro ejemplo de talla en cristal de roca fatimí."
-        }
-      },
-      {
         "id": "9bf8a3f3-f2b5-587e-9b91-0d1241828349",
         "justifications": {
           "ar": "قارورة زجاجية التي زخرفتها المنحوتة مشابهة للأعمال المعاصرة من الكريستال الصخري.",
           "en": "A glass bottle whose carved decoration is similar to contemporary works in rock crystal.",
           "fr": "Bouteille de verre dont la décoration est similaire à celles d’œuvres contemporaines en cristal de roche.",
           "es": "Una botella de vidrio con una decoración similar a los trabajos contemporáneos de cristal de roca."
+        }
+      },
+      {
+        "id": "539cc0cc-894e-5945-b4c9-b62fae0a412d",
+        "justifications": {
+          "ar": "مثال آخر على نحت من الكريستال الصخري الفاطمي الفاخر.",
+          "en": "Another example of Fatimid luxury rock crystal carving.",
+          "fr": "Autre exemple de luxueuse sculpture fatimide en cristal de roche.",
+          "es": "Otro ejemplo de talla en cristal de roca fatimí."
         }
       }
     ],
@@ -1510,10 +1510,6 @@
         }
       },
       {
-        "id": "2ce846c0-44cf-593b-a417-5ec441dd4212",
-        "justifications": {}
-      },
-      {
         "id": "33a6c84f-b10f-5856-b654-7f8c5f9a715b",
         "justifications": {
           "ar": "في الأوعية الفاطمية البراقة  يجد المرء أيضا صور راقصين و موسيقيين.",
@@ -1530,6 +1526,10 @@
           "fr": "Des animaux peints de manière très vivante se trouvent aussi sur certains récipients fatimides en verre.",
           "es": "También encontramos animales vívidamente pintados en recipientes de vidrio en la época fatimí."
         }
+      },
+      {
+        "id": "2ce846c0-44cf-593b-a417-5ec441dd4212",
+        "justifications": {}
       }
     ],
     "tags": [
@@ -1915,21 +1915,21 @@
     ],
     "related_items": [
       {
-        "id": "2a768548-ee78-5645-b436-21f2d9bcf5cd",
-        "justifications": {
-          "ar": "العديد من الأقمشة ليس فقط  عبارة عن أطر الكتابات و لكن أيضا قلادات ذات حيوانات.",
-          "en": "Many textiles not only have bands of inscriptions but also medalllions with animals.",
-          "fr": "De nombreux textiles n’ont pas seulement des bandes décoratives, mais aussi des médaillons à motif animalier.",
-          "es": "Muchos textiles no solo poseen cenefas con inscripciones, también animales dentro de medallones."
-        }
-      },
-      {
         "id": "d1baf7da-b838-5564-a184-03f1f16c1457",
         "justifications": {
           "ar": "مصر كانت دائما شهيرة بصناعة القماش و شرائط الزخرفة أيضا تميز هذا القماش من  إخميم.",
           "en": "Egypt was always famous for its textile industry. Decorative bands are also a feature of this textile from Akhmim.",
           "fr": "L’Égypte a toujours été réputée pour son industrie textile. Les bandes décoratives sont aussi une caractéristique de ce tissu d’Akhmim.",
           "es": "Egipto siempre ha sido famoso por su industria textil. Las cenefas decorativas también son una característica de este tejido de Ajmín."
+        }
+      },
+      {
+        "id": "2a768548-ee78-5645-b436-21f2d9bcf5cd",
+        "justifications": {
+          "ar": "العديد من الأقمشة ليس فقط  عبارة عن أطر الكتابات و لكن أيضا قلادات ذات حيوانات.",
+          "en": "Many textiles not only have bands of inscriptions but also medalllions with animals.",
+          "fr": "De nombreux textiles n’ont pas seulement des bandes décoratives, mais aussi des médaillons à motif animalier.",
+          "es": "Muchos textiles no solo poseen cenefas con inscripciones, también animales dentro de medallones."
         }
       }
     ],
@@ -2595,19 +2595,7 @@
     ],
     "related_items": [
       {
-        "id": "2686bfec-8eb0-5ef5-b318-9e3c7c3c966a",
-        "justifications": {}
-      },
-      {
         "id": "9bf8a3f3-f2b5-587e-9b91-0d1241828349",
-        "justifications": {}
-      },
-      {
-        "id": "e69c15fd-110a-59c2-9a6e-7ae708a7ea8e",
-        "justifications": {}
-      },
-      {
-        "id": "e918c2ab-31e1-5d30-a10e-dc11b5fe5e5f",
         "justifications": {}
       },
       {
@@ -2615,7 +2603,19 @@
         "justifications": {}
       },
       {
+        "id": "2686bfec-8eb0-5ef5-b318-9e3c7c3c966a",
+        "justifications": {}
+      },
+      {
         "id": "fe5a75ec-3604-55c2-8c21-6b4f292e10cd",
+        "justifications": {}
+      },
+      {
+        "id": "e918c2ab-31e1-5d30-a10e-dc11b5fe5e5f",
+        "justifications": {}
+      },
+      {
+        "id": "e69c15fd-110a-59c2-9a6e-7ae708a7ea8e",
         "justifications": {}
       }
     ],
@@ -3076,16 +3076,7 @@
     ],
     "related_items": [
       {
-        "id": "05e7e5aa-01c1-5eb2-8d63-892574f025d5",
-        "justifications": {
-          "ar": "أسلوب الزينة والإنتاج متشابه.",
-          "en": "Similar decorative style and manufacture.",
-          "fr": "La relation entre ces objets tient à leur style décoratif et à leur fabrication.",
-          "es": "Estilo decorativo y fabricación similar."
-        }
-      },
-      {
-        "id": "2a768548-ee78-5645-b436-21f2d9bcf5cd",
+        "id": "d1baf7da-b838-5564-a184-03f1f16c1457",
         "justifications": {
           "ar": "أسلوب الزينة والإنتاج متشابه.",
           "en": "Similar decorative style and manufacture.",
@@ -3103,7 +3094,16 @@
         }
       },
       {
-        "id": "d1baf7da-b838-5564-a184-03f1f16c1457",
+        "id": "2a768548-ee78-5645-b436-21f2d9bcf5cd",
+        "justifications": {
+          "ar": "أسلوب الزينة والإنتاج متشابه.",
+          "en": "Similar decorative style and manufacture.",
+          "fr": "La relation entre ces objets tient à leur style décoratif et à leur fabrication.",
+          "es": "Estilo decorativo y fabricación similar."
+        }
+      },
+      {
+        "id": "05e7e5aa-01c1-5eb2-8d63-892574f025d5",
         "justifications": {
           "ar": "أسلوب الزينة والإنتاج متشابه.",
           "en": "Similar decorative style and manufacture.",
@@ -3416,20 +3416,20 @@
     ],
     "related_items": [
       {
-        "id": "20a5b8ea-ca93-57ec-988d-ddcba1b332c4",
-        "justifications": {
-          "ar": "تصميم مشابه لحيوانات يمكن أن توجد على مجموعة أبواق عاجية  مرتبطة.",
-          "en": "A similar repertoire of animals can be found on a group of related oliphants.",
-          "es": "Se puede encontrar un repertorio similar de animales en un conjunto de olifantes relacionados."
-        }
-      },
-      {
         "id": "f934a965-24ae-5b22-965c-17838c6cb895",
         "justifications": {
           "ar": "في مصر الفاطمية أيضا كانت تصور الحيوانات التي تنبض بالحياة من اجل الرسم على الزجاج.",
           "en": "In Fatimid Egypt lively rendered animals were also a feature of painting on glass.",
           "fr": "Dans l’Égypte fatimide, des animaux au rendu très vivant servaient aussi de motif à la peinture sur verre.",
           "es": "En el Egipto fatimí la representación vivida de animales también fue una característica de la pintura sobre vidrio."
+        }
+      },
+      {
+        "id": "20a5b8ea-ca93-57ec-988d-ddcba1b332c4",
+        "justifications": {
+          "ar": "تصميم مشابه لحيوانات يمكن أن توجد على مجموعة أبواق عاجية  مرتبطة.",
+          "en": "A similar repertoire of animals can be found on a group of related oliphants.",
+          "es": "Se puede encontrar un repertorio similar de animales en un conjunto de olifantes relacionados."
         }
       }
     ],
@@ -3856,21 +3856,21 @@
     ],
     "related_items": [
       {
-        "id": "153c5ddb-dd1d-5e3c-9e80-de0b66684f95",
-        "justifications": {
-          "ar": "تظهر هذه القطع بأن أسلوب الزينة المنفذ على الخشب يرجع للعصر الفاطمي",
-          "en": "In these pieces a decorative style appears which was executed on wood in the Fatimid period.",
-          "fr": "Sur ces pièces apparaît un style décoratif qui était exécuté sur bois à l’époque fatimide.",
-          "es": "El estilo decorativo en madera de estas piezas pertenece al periodo fatimí."
-        }
-      },
-      {
         "id": "6568b7c0-a3a3-5d41-9f89-21aa75b86c2f",
         "justifications": {
           "ar": "ضريح السيدة رقية الذي تم بناء المحراب من اجله.",
           "en": "The tomb of Sayyida Ruqayya for which the prayer niche was built",
           "fr": "Tombe de Sayyida Rqayya pour laquelle le *mihrab* a été construit.",
           "es": "La tumba de Sayyida Ruqayya, persona para la cual se construyó este nicho."
+        }
+      },
+      {
+        "id": "153c5ddb-dd1d-5e3c-9e80-de0b66684f95",
+        "justifications": {
+          "ar": "تظهر هذه القطع بأن أسلوب الزينة المنفذ على الخشب يرجع للعصر الفاطمي",
+          "en": "In these pieces a decorative style appears which was executed on wood in the Fatimid period.",
+          "fr": "Sur ces pièces apparaît un style décoratif qui était exécuté sur bois à l’époque fatimide.",
+          "es": "El estilo decorativo en madera de estas piezas pertenece al periodo fatimí."
         }
       }
     ],
@@ -4097,11 +4097,20 @@
     ],
     "related_items": [
       {
-        "id": "16551d17-12a4-5f03-9ee7-aeb60bdf3479",
-        "justifications": {}
+        "id": "a9696cec-e2a4-5df3-86c8-4f47e45be0d4",
+        "justifications": {
+          "ar": "بينما المجوهرات و اللآلئ تزين القرط فإن هذه الحلية المتدلية مزينة بميناء ملون.",
+          "en": "While jewels and pearls decorate the earring, this gold pendant is decorated with coloured enamel.",
+          "fr": "Alors que joyaux et perles décorent la boucle d’oreille, ce pendentif en or est décoré d’émail coloré.",
+          "es": "Mientras que las joyas y las perlas decoran el pendiente, este colgante de oro está decorado con esmalte de colores."
+        }
       },
       {
         "id": "4df720fc-29e6-59ab-9430-1945b274992e",
+        "justifications": {}
+      },
+      {
+        "id": "16551d17-12a4-5f03-9ee7-aeb60bdf3479",
         "justifications": {}
       },
       {
@@ -4111,15 +4120,6 @@
           "en": "Fatimid jewellery is renowned for its filigree technique. Both the earrings illustrated here include spherical shapes woven together with gold thread.",
           "fr": "La joaillerie fatimide est renommée pour sa technique du filigrane. Les deux boucles d’oreille incluent des formes sphériques tressées de fils d’or.",
           "es": "La orfebrería fatimí es celebre por su técnica de filigrana. Ambos pendientes ilustrados aquí incluyen formas esféricas entrelazadas con hilo de oro."
-        }
-      },
-      {
-        "id": "a9696cec-e2a4-5df3-86c8-4f47e45be0d4",
-        "justifications": {
-          "ar": "بينما المجوهرات و اللآلئ تزين القرط فإن هذه الحلية المتدلية مزينة بميناء ملون.",
-          "en": "While jewels and pearls decorate the earring, this gold pendant is decorated with coloured enamel.",
-          "fr": "Alors que joyaux et perles décorent la boucle d’oreille, ce pendentif en or est décoré d’émail coloré.",
-          "es": "Mientras que las joyas y las perlas decoran el pendiente, este colgante de oro está decorado con esmalte de colores."
         }
       }
     ],
@@ -4449,10 +4449,6 @@
     ],
     "related_items": [
       {
-        "id": "16551d17-12a4-5f03-9ee7-aeb60bdf3479",
-        "justifications": {}
-      },
-      {
         "id": "63ca903e-e911-5013-b005-27189e25dc6f",
         "justifications": {
           "ar": "على خلاف الزوج المخرم المدور من الأقراط الظاهر هنا فإن هذا الزوج من الأقراط من الفترة الفاطمية له طائرين جاثمين مسطحين مزينين بحبيبات.",
@@ -4462,6 +4458,14 @@
         }
       },
       {
+        "id": "cfe5bd9c-e197-550b-b7be-fc5f83730d8f",
+        "justifications": {}
+      },
+      {
+        "id": "16551d17-12a4-5f03-9ee7-aeb60bdf3479",
+        "justifications": {}
+      },
+      {
         "id": "9cd3c434-a84c-5e25-9be3-4b5d88eaa44c",
         "justifications": {
           "ar": "الطيور كانت موضوعا شائعا في المجوهرات الإسلامية وغالبا تستخدم بشكل أزواج و هي جاثمة على شجرة الحياة أو تزود بإضافات التي تصلصل لتذكر بغناء الطيور.",
@@ -4469,10 +4473,6 @@
           "fr": "Les oiseaux sont un thème populaire de la joaillerie islamique, souvent représentés en paire et perchés sur l’arbre de vie, ou dotés d’extensions qui tintent pour rappeler les chants d’oiseaux.",
           "es": "Los pájaros son una temática popular en la joyería islámica, a veces se presentan en pares colocados en el Árbol de la Vida o con accesorios que tintinean y que recuerda al canto de los pájaros."
         }
-      },
-      {
-        "id": "cfe5bd9c-e197-550b-b7be-fc5f83730d8f",
-        "justifications": {}
       }
     ],
     "tags": [
@@ -4939,7 +4939,7 @@
         }
       },
       {
-        "id": "9cd3c434-a84c-5e25-9be3-4b5d88eaa44c",
+        "id": "cfe5bd9c-e197-550b-b7be-fc5f83730d8f",
         "justifications": {
           "ar": "هذه القطع من المجوهرات هي دليل على الحرفية و التنوع في صنع الذهب المخرم في العصر الفاطمي.",
           "en": "These pieces of jewellery are evidence of the finesse and variety found in the gold filigree work of the Fatimid era.",
@@ -4948,7 +4948,7 @@
         }
       },
       {
-        "id": "cfe5bd9c-e197-550b-b7be-fc5f83730d8f",
+        "id": "9cd3c434-a84c-5e25-9be3-4b5d88eaa44c",
         "justifications": {
           "ar": "هذه القطع من المجوهرات هي دليل على الحرفية و التنوع في صنع الذهب المخرم في العصر الفاطمي.",
           "en": "These pieces of jewellery are evidence of the finesse and variety found in the gold filigree work of the Fatimid era.",
@@ -5163,23 +5163,6 @@
     ],
     "related_items": [
       {
-        "id": "16551d17-12a4-5f03-9ee7-aeb60bdf3479",
-        "justifications": {}
-      },
-      {
-        "id": "4df720fc-29e6-59ab-9430-1945b274992e",
-        "justifications": {
-          "ar": "المجوهرات الفاطمية غالبًا ما كانت تتميز بزوج من الطيور المتواجهة بتصميم متماثل، وتشكل هذه الأقراط زوجًا متقابلًا عند ارتدائها.",
-          "en": "Fatimid jewellery often features a pair of birds facing each other in a symmetrical design; these earrings form a facing pair when worn.",
-          "fr": "Les bijoux fatimides présentent souvent une paire d’oiseaux se faisant face symétriquement ; ces boucles d’oreille forment une paire d’oiseaux se faisant vis à vis lorsqu’elles sont portées.",
-          "es": "La joyería fatimí suele presentar un par de pájaros que se miran en un diseño simétrico; estos forman uno al usarse."
-        }
-      },
-      {
-        "id": "5aeefe19-f129-5cd0-9a57-c3e72577cfaa",
-        "justifications": {}
-      },
-      {
         "id": "63c1b0eb-c6f5-5394-abeb-d76e3c3b5dca",
         "justifications": {
           "ar": "مثل قلادة المتحف البريطاني، فإن هذه الأقراط لها شكل هلال ومزخرفة بأعمال تخريمية.",
@@ -5187,6 +5170,14 @@
           "fr": "À l’instar du pendant du British Museum, ces boucles d’oreille sont en forme de croissant et décorées d’un filigrane ornemental.",
           "es": "Como el colgante del Museo Británico, estos pendientes de forma de medialuna están decorados con filigrana."
         }
+      },
+      {
+        "id": "5aeefe19-f129-5cd0-9a57-c3e72577cfaa",
+        "justifications": {}
+      },
+      {
+        "id": "a9696cec-e2a4-5df3-86c8-4f47e45be0d4",
+        "justifications": {}
       },
       {
         "id": "63ca903e-e911-5013-b005-27189e25dc6f",
@@ -5198,6 +5189,19 @@
         }
       },
       {
+        "id": "4df720fc-29e6-59ab-9430-1945b274992e",
+        "justifications": {
+          "ar": "المجوهرات الفاطمية غالبًا ما كانت تتميز بزوج من الطيور المتواجهة بتصميم متماثل، وتشكل هذه الأقراط زوجًا متقابلًا عند ارتدائها.",
+          "en": "Fatimid jewellery often features a pair of birds facing each other in a symmetrical design; these earrings form a facing pair when worn.",
+          "fr": "Les bijoux fatimides présentent souvent une paire d’oiseaux se faisant face symétriquement ; ces boucles d’oreille forment une paire d’oiseaux se faisant vis à vis lorsqu’elles sont portées.",
+          "es": "La joyería fatimí suele presentar un par de pájaros que se miran en un diseño simétrico; estos forman uno al usarse."
+        }
+      },
+      {
+        "id": "16551d17-12a4-5f03-9ee7-aeb60bdf3479",
+        "justifications": {}
+      },
+      {
         "id": "69b67921-210d-5179-a7f6-620452e75cc6",
         "justifications": {
           "ar": "مثال آخر على قطعة من المجوهرات الفاطمية الذي عملت بدقة والمصنوعة من خيوط الذهب الخالص.",
@@ -5205,10 +5209,6 @@
           "fr": "Autre exemple d’un bijou très finement exécuté ; beau travail de filigrane d’or.",
           "es": "Otro ejemplo de una fina pieza de joyería fatimí hecha de oro afiligranado."
         }
-      },
-      {
-        "id": "a9696cec-e2a4-5df3-86c8-4f47e45be0d4",
-        "justifications": {}
       }
     ],
     "tags": [
@@ -5410,21 +5410,21 @@
     ],
     "related_items": [
       {
-        "id": "24c4d60c-f039-586c-b878-b41f99dc6b12",
-        "justifications": {
-          "ar": "لوحة خشبية تطهر  أسلوب مشابه لزينة النحت الخشبي",
-          "en": "Wooden panel showing similar decorative woodcarving style.",
-          "fr": "The pieces are similar in decorative style executed as engravings on ivory and depicting subjects that reflect everyday life in the Seljuq and Fatimid periods.",
-          "es": "Tablero de madera que muestra un tallado decorativo similar."
-        }
-      },
-      {
         "id": "57c9e92a-cab4-5c9c-a712-2d7757fdd1cc",
         "justifications": {
           "ar": "تتشابه القطع بأسلوب الزينة المنفذ كزخارف على القطع العاجية والمصورة التي تعكس الحياة اليومية في العصر السلجوقي والفاطمي.",
           "en": "The pieces are similar in decorative style executed as engravings on ivory and depicting subjects that reflect everyday life in the Seljuq and Fatimid periods.",
           "fr": "The pieces are similar in decorative style executed as engravings on ivory and depicting subjects that reflect everyday life in the Seljuq and Fatimid periods.",
           "es": "Las piezas tienen un estilo decorativo similar que se talló sobre marfil y refleja la vida cotidiana en el periodo fatimí y selyuqí."
+        }
+      },
+      {
+        "id": "24c4d60c-f039-586c-b878-b41f99dc6b12",
+        "justifications": {
+          "ar": "لوحة خشبية تطهر  أسلوب مشابه لزينة النحت الخشبي",
+          "en": "Wooden panel showing similar decorative woodcarving style.",
+          "fr": "The pieces are similar in decorative style executed as engravings on ivory and depicting subjects that reflect everyday life in the Seljuq and Fatimid periods.",
+          "es": "Tablero de madera que muestra un tallado decorativo similar."
         }
       }
     ],
@@ -5657,16 +5657,16 @@
         }
       },
       {
-        "id": "539cc0cc-894e-5945-b4c9-b62fae0a412d",
-        "justifications": {}
-      },
-      {
         "id": "fe5a75ec-3604-55c2-8c21-6b4f292e10cd",
         "justifications": {
           "ar": "القارورة ذات التصميم بالكتابات دليل مهم على إنتاج الزجاج الفاطمي في هذه المنطقة.",
           "en": "This bottle with an epigraphic design is a valuable clue to Fatimid glass production in this area.",
           "es": "Esta botella con diseño epigráfico aporta valiosas pistas sobre la producción de vidrio de la época fatimí en esta zona."
         }
+      },
+      {
+        "id": "539cc0cc-894e-5945-b4c9-b62fae0a412d",
+        "justifications": {}
       }
     ],
     "tags": [
@@ -6111,7 +6111,7 @@
     ],
     "related_items": [
       {
-        "id": "16551d17-12a4-5f03-9ee7-aeb60bdf3479",
+        "id": "4df720fc-29e6-59ab-9430-1945b274992e",
         "justifications": {
           "ar": "قطعة أخرى مرتبطة بتجميل النساء وتتبع أسلوب زخرفة مشابه",
           "en": "Another item associated with the beautification of women and following a similar style of embellishment.",
@@ -6120,7 +6120,7 @@
         }
       },
       {
-        "id": "4df720fc-29e6-59ab-9430-1945b274992e",
+        "id": "16551d17-12a4-5f03-9ee7-aeb60bdf3479",
         "justifications": {
           "ar": "قطعة أخرى مرتبطة بتجميل النساء وتتبع أسلوب زخرفة مشابه",
           "en": "Another item associated with the beautification of women and following a similar style of embellishment.",
@@ -6224,15 +6224,6 @@
     ],
     "related_items": [
       {
-        "id": "153c5ddb-dd1d-5e3c-9e80-de0b66684f95",
-        "justifications": {
-          "ar": "تتميز القطعة باستخدام الزخارف النباتية.",
-          "en": "This piece is distinctive in its use of vegetal decoration.",
-          "fr": "Ces pièces se distinguent par l’emploi de la décoration animale et végétale.",
-          "es": "Esta pieza se distingue por su uso de decoración vegetal."
-        }
-      },
-      {
         "id": "33a6c84f-b10f-5856-b654-7f8c5f9a715b",
         "justifications": {
           "ar": "تتميز القطعة باستخدام الزخارف النباتية والحيوانية.",
@@ -6248,6 +6239,15 @@
           "en": "This piece is distinctive in its use of animal and vegetal decoration.",
           "fr": "Ces pièces se distinguent par l’emploi de la décoration animale et végétale.",
           "es": "Esta pieza se distingue por su uso de decoración animal y vegetal."
+        }
+      },
+      {
+        "id": "153c5ddb-dd1d-5e3c-9e80-de0b66684f95",
+        "justifications": {
+          "ar": "تتميز القطعة باستخدام الزخارف النباتية.",
+          "en": "This piece is distinctive in its use of vegetal decoration.",
+          "fr": "Ces pièces se distinguent par l’emploi de la décoration animale et végétale.",
+          "es": "Esta pieza se distingue por su uso de decoración vegetal."
         }
       }
     ],
