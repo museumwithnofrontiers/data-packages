@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate packages
+    runs-on: ubuntu-latest
+    steps:
+      # Full history without blobs: the check diffs against the base branch
+      # and reads the base's package.json, and fetches only what it reads.
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+          filter: blob:none
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - name: Check the packages this pull request changes
+        if: github.event_name == 'pull_request'
+        run: node scripts/check.mjs "origin/${{ github.base_ref }}"
+      - name: Check every package's layout
+        if: github.event_name != 'pull_request'
+        run: node scripts/check.mjs
+      - name: Publish dry run of the packages this pull request changes
+        if: github.event_name == 'pull_request'
+        run: |
+          for folder in $(git diff --name-only "origin/${{ github.base_ref }}...HEAD" -- packages/ | cut -d/ -f2 | sort -u); do
+            [ -d "packages/$folder" ] || continue
+            (cd "packages/$folder" && npm pack --dry-run --silent > /dev/null) && echo "packs  $folder"
+          done
