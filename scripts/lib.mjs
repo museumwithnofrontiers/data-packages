@@ -1,6 +1,6 @@
 // What the check, the release and the seed scripts share: where packages live,
 // the one JSON layout the repository accepts, and what the registry holds.
-import { readFileSync, readdirSync, statSync } from 'node:fs'
+import { existsSync, readFileSync, readdirSync, statSync } from 'node:fs'
 import { join, relative } from 'node:path'
 import { spawnSync } from 'node:child_process'
 import { fileURLToPath } from 'node:url'
@@ -32,6 +32,7 @@ export function readJson(path) {
 }
 
 export function packageFolders() {
+  if (!existsSync(PACKAGES_DIR)) return []
   return readdirSync(PACKAGES_DIR)
     .filter((name) => statSync(join(PACKAGES_DIR, name)).isDirectory())
     .sort()
