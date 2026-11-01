@@ -52,13 +52,30 @@ All of them need Node 24 and run from the repository root.
 |---|---|
 | `node scripts/check.mjs [<base-ref>]` | What CI runs. With a base ref, it checks the packages changed since it, versions included. Without one, it checks every package's layout. |
 | `node scripts/publish.mjs [--dry-run]` | What the release workflow runs. |
+| `node scripts/publish.mjs --first <folder> [--dry-run]` | Publishes a new package's first version by hand (see below). It refuses a package npmjs already has. |
 | `node scripts/seed.mjs <name>...` | Creates a package folder from the latest version npmjs holds. It is used once per package, when the package moves here. |
 
 ## A new package
 
 Trusted publishing cannot create a package on npmjs, so a new package's first
-version is published by hand. After that:
+version is published by hand, by someone logged in to npm:
 
-1. Its trusted publisher is set on npmjs, naming this repository and
-   `release.yml`.
-2. It is seeded here with `scripts/seed.mjs`.
+1. On a branch, the exporter stages the package's folder (`--publish`), and
+   the folder is committed.
+2. From that branch, its first version is published:
+   `node scripts/publish.mjs --first <folder>`. It is published the way the
+   workflow publishes, without provenance, which only a workflow can sign.
+3. Its trusted publisher is set on npmjs, naming this repository and
+   `release.yml`:
+
+   ```bash
+   npm trust github @museumwnf/<folder> --repository museumwithnofrontiers/data-packages --file release.yml --allow-publish
+   ```
+
+4. The branch goes through a pull request as usual. CI accepts a new folder
+   whose version is the one npmjs holds, and the release run skips it.
+
+Every version after the first is published by the release workflow.
+
+A package that was published before this repository existed is seeded from
+npmjs instead, with `scripts/seed.mjs`, once its trusted publisher is set.
