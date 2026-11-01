@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ara",
+    "code": "ar",
+    "is_default": false,
+    "site_language": true,
+    "names": {
+      "ar": "العربية",
+      "en": "Arabic",
+      "fr": "Arabe",
+      "it": "Arabo",
+      "pt": "Árabe",
+      "es": "Árabe"
+    }
+  },
+  {
+    "id": "ces",
+    "code": "cs",
+    "is_default": false,
+    "site_language": false,
+    "names": {
+      "ar": "Czech",
+      "cs": "Czech",
+      "en": "Czech",
+      "fr": "Tchèque",
+      "it": "Czech",
+      "pt": "Czech",
+      "es": "Czech"
+    }
+  },
+  {
+    "id": "eng",
+    "code": "en",
+    "is_default": true,
+    "site_language": true,
+    "names": {
+      "ar": "الانجليزية",
+      "en": "English",
+      "fr": "Anglais",
+      "it": "Inglese",
+      "pt": "Inglês",
+      "es": "Inglés"
+    }
+  },
+  {
+    "id": "fra",
+    "code": "fr",
+    "is_default": false,
+    "site_language": true,
+    "names": {
+      "ar": "الفرنسية",
+      "en": "French",
+      "fr": "Français",
+      "it": "Francese",
+      "pt": "Francês",
+      "es": "Francés"
+    }
+  },
+  {
+    "id": "ita",
+    "code": "it",
+    "is_default": false,
+    "site_language": false,
+    "names": {
+      "ar": "الايطالية",
+      "en": "Italian",
+      "fr": "Italien",
+      "it": "Italiano",
+      "pt": "Italiano",
+      "es": "Italiano"
+    }
+  },
+  {
+    "id": "por",
+    "code": "pt",
+    "is_default": false,
+    "site_language": false,
+    "names": {
+      "ar": "البرتغالية",
+      "en": "Portuguese",
+      "fr": "Portugais",
+      "it": "Portoghese",
+      "pt": "Português",
+      "es": "Portugués"
+    }
+  },
+  {
+    "id": "spa",
+    "code": "es",
+    "is_default": false,
+    "site_language": true,
+    "names": {
+      "ar": "الاسبانية",
+      "en": "Spanish",
+      "fr": "Espagnol",
+      "it": "Spagnolo",
+      "pt": "Espanhol",
+      "es": "Español"
+    }
+  }
+]

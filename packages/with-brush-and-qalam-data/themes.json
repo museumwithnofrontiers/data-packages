@@ -1,0 +1,533 @@
+[
+  {
+    "id": "39d3011d-76b8-59a2-9889-3c98a526967c",
+    "backward_compatibility": "mwnf3_thematic_gallery:theme:50:0",
+    "internal_name": "theme_50_0",
+    "display_order": 1,
+    "cover_picture_item_id": null,
+    "pictures": [
+      {
+        "picture_item_id": "e126398d-5a5c-5245-9ef0-c269fec3f813",
+        "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:2:1",
+        "parent_item_id": "cb87e713-9725-5036-a0d3-fcc95696ca30",
+        "parent_in_package": true,
+        "display_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/020d54b3-5bc5-53f9-9a1c-c6fb20762341.jpg",
+        "related": [
+          {
+            "picture_item_id": "8c39affa-7959-553b-8c8a-ee261f0232f9",
+            "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:54:11",
+            "descriptions": {
+              "en": "Relating the two items"
+            },
+            "reciprocal_descriptions": {}
+          },
+          {
+            "picture_item_id": "18785363-926c-5d10-a843-2578f2ef4f6f",
+            "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:54:11",
+            "descriptions": {
+              "en": "Relating the items"
+            },
+            "reciprocal_descriptions": {}
+          },
+          {
+            "picture_item_id": "0e44c339-1aaa-5553-a63d-b8fa65c192d7",
+            "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:54:11",
+            "descriptions": {
+              "en": "Relating the items"
+            },
+            "reciprocal_descriptions": {}
+          }
+        ]
+      }
+    ],
+    "sub_themes": []
+  },
+  {
+    "id": "326ddb0c-d7a1-53f5-bcaa-8516c0c93859",
+    "backward_compatibility": "mwnf3_thematic_gallery:theme:50:1",
+    "internal_name": "theme_50_1",
+    "display_order": 2,
+    "cover_picture_item_id": "55e007cf-909f-578a-9394-dff7adecbfc1",
+    "pictures": [
+      {
+        "picture_item_id": "55e007cf-909f-578a-9394-dff7adecbfc1",
+        "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:3:1",
+        "parent_item_id": "f6235379-448e-5847-8d66-127ab7a5d450",
+        "parent_in_package": true,
+        "display_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/e2ccf8c4-3198-5975-ba05-5b9e1662ea0a.jpg",
+        "related": []
+      }
+    ],
+    "sub_themes": [
+      {
+        "id": "7aa652f9-3d7a-5950-ae09-62acd79f2cba",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:50:2",
+        "internal_name": "theme_50_2",
+        "display_order": 1,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "ec24795e-4c52-5403-99fc-ff3935edc7bf",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:4:1",
+            "parent_item_id": "f5500008-7897-52cc-bf99-362d3081b035",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/5b2aac70-53ca-56c8-b802-7eeaf17b433c.jpg",
+            "related": []
+          }
+        ]
+      },
+      {
+        "id": "c4623145-c923-5a92-840e-59a70f5c5044",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:50:3",
+        "internal_name": "theme_50_3",
+        "display_order": 2,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "63a9c944-232a-5c6e-8804-eee8c8c65263",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:5:1",
+            "parent_item_id": "f51131bf-c7b8-5f90-82d9-e4a221fbddca",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/e2ed0331-d6e2-5c0c-bb73-b5b240e8f43c.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "bc38590e-fba0-5e97-843a-60dd599d56a7",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:6:1",
+            "parent_item_id": "4731d4cb-b399-5499-95e0-8992f8ed0c48",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/571098ce-3117-5e8c-915a-251df70af47b.jpg",
+            "related": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e35e5041-aa99-5b57-93cb-323e3b124b7c",
+    "backward_compatibility": "mwnf3_thematic_gallery:theme:50:4",
+    "internal_name": "theme_50_4",
+    "display_order": 3,
+    "cover_picture_item_id": "a460f527-a8f8-57d1-95f8-eebfafbe25a3",
+    "pictures": [
+      {
+        "picture_item_id": "a460f527-a8f8-57d1-95f8-eebfafbe25a3",
+        "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:7:1",
+        "parent_item_id": "240a9072-6ba4-5c4c-a51c-8739e4ee03f9",
+        "parent_in_package": true,
+        "display_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/b9c6872f-f685-5cee-9fb4-acebc9fe1a6c.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "95a0c2bd-3850-5277-b49b-1dbb41b2f124",
+        "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:8:1",
+        "parent_item_id": "112d56d2-756e-5b32-915c-31387a510643",
+        "parent_in_package": true,
+        "display_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/14454aaf-7e05-59e6-baf2-a9e8054bcb2c.jpg",
+        "related": []
+      }
+    ],
+    "sub_themes": [
+      {
+        "id": "d730136a-6126-5248-9219-65c05233157b",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:50:5",
+        "internal_name": "theme_50_5",
+        "display_order": 1,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "377a9301-5bea-53c9-9cfc-36380c835fd2",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:9:1",
+            "parent_item_id": "65d727fa-f4a0-5ab9-9f61-747c086b56f5",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/03d04929-a5c4-5fe3-98fe-9d8fb290fadd.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "951f7050-799c-5e4e-b12b-bf8287e38253",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:10:1",
+            "parent_item_id": "153324a8-e519-57d8-9ec7-0ef9e9514731",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/ff35647a-1b1f-541e-ac78-bc853d5cc1d0.jpg",
+            "related": []
+          }
+        ]
+      },
+      {
+        "id": "aecff04f-7897-545e-919c-e5f7a5f6651e",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:50:6",
+        "internal_name": "theme_50_6",
+        "display_order": 2,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "32e57aa4-4312-5cb8-a9d4-69e443cb91cf",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:11:1",
+            "parent_item_id": "7bb81c6e-f156-5c85-97c7-6d4ff9c72d2f",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/f8115e36-50eb-5a6e-85b5-26a449be697a.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "5691fa59-da4c-5276-94b8-cf70aa140d96",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:12:1",
+            "parent_item_id": "9c63fa72-bce6-5d58-8940-da1b2314128d",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/69aad09a-1bf6-5ba9-87fc-36f4a1ca27f4.jpg",
+            "related": []
+          }
+        ]
+      },
+      {
+        "id": "2a2c0daa-4c6a-509a-bda8-8d14fc7fd851",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:50:7",
+        "internal_name": "theme_50_7",
+        "display_order": 3,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "75d390f1-8da7-5c99-8f47-58bb1cf11663",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:13:1",
+            "parent_item_id": "c9adaa19-4c93-5160-9d47-37f844b58907",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/5363cccb-48b9-5907-8267-c027758dbd3f.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "8a26240d-8b81-56dd-8fdd-b0c41ca83c1e",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:14:1",
+            "parent_item_id": "af6ac5cc-3edf-56af-8d68-ceff2105c2e3",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/609ecc1d-da6c-5da5-87ea-b8ab59d65e8a.jpg",
+            "related": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "307e2c0b-7541-540b-8098-779634923cdc",
+    "backward_compatibility": "mwnf3_thematic_gallery:theme:50:8",
+    "internal_name": "theme_50_8",
+    "display_order": 4,
+    "cover_picture_item_id": "4319a945-47c3-5777-948f-95dfc3602e9d",
+    "pictures": [
+      {
+        "picture_item_id": "4319a945-47c3-5777-948f-95dfc3602e9d",
+        "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:15:1",
+        "parent_item_id": "16f64c35-4b93-51aa-8db9-030e2f96635f",
+        "parent_in_package": true,
+        "display_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/09d3bb53-b460-5d61-8fec-84cf7be4e43b.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "ec610f7f-e1e0-55e6-85da-dac2f587090f",
+        "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:16:1",
+        "parent_item_id": "8217b5c6-5b57-59fe-a372-ac8131ed56b8",
+        "parent_in_package": true,
+        "display_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/19847bd8-f96e-53e6-b0d6-2c782d1676f0.jpg",
+        "related": []
+      }
+    ],
+    "sub_themes": [
+      {
+        "id": "3cca71b6-8430-5074-87d7-d7fc23a6441e",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:50:9",
+        "internal_name": "theme_50_9",
+        "display_order": 1,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "3893a3e4-948a-5952-ab0d-aa60f448ad7f",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:17:1",
+            "parent_item_id": "877c71fc-8b32-59f3-839c-5592790f5cab",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/02ab05f2-2c23-5e8c-9896-ce8555c21ae8.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "63daa69b-3042-59be-93ed-fd7228543cde",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:18:1",
+            "parent_item_id": "b1d831f0-2247-53ad-9ab8-efefb50f5e70",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/2da223bb-f958-5d1e-a105-02ec69f86704.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "041f2f0f-0ce5-5561-b76e-3e1d149aa270",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:19:1",
+            "parent_item_id": "12f2de8e-9c90-5eb6-a757-3a97d8bb8e5c",
+            "parent_in_package": true,
+            "display_order": 3,
+            "image_url": "https://inventory.metanull.eu/pub/6b8bd39d-1e0c-572a-861e-f6bd2043c7ce.jpg",
+            "related": []
+          }
+        ]
+      },
+      {
+        "id": "305c1d8e-112c-5d15-83c6-e4bfbf3d348e",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:50:10",
+        "internal_name": "theme_50_10",
+        "display_order": 2,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "a3382610-7331-549f-904d-a64de28eda74",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:20:1",
+            "parent_item_id": "8219a976-856d-576b-8a8e-9a1913eb82a6",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/d2f09e9a-f6b9-5b84-8213-e73bd997ac4f.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "f3938016-f6d6-5f46-aefe-67d41bef8db7",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:21:1",
+            "parent_item_id": "60a920a8-d327-5399-8518-671641d2e4a8",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/8f7fdaa5-9fe1-57a9-be28-92e1a52a3181.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "49a45cb6-1796-569c-a24a-b86d09510fcf",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:22:1",
+            "parent_item_id": "4f520570-5e30-5e56-b170-0e080f496fd2",
+            "parent_in_package": true,
+            "display_order": 3,
+            "image_url": "https://inventory.metanull.eu/pub/df915950-1caa-5a52-af25-dba6f1db732d.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "f5086ecb-71b3-5d55-8c2f-9357d415260e",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:23:1",
+            "parent_item_id": "febafe4c-21f1-50da-9cf8-a2a694a8df97",
+            "parent_in_package": true,
+            "display_order": 4,
+            "image_url": "https://inventory.metanull.eu/pub/63fb526c-9fc6-5918-99d9-186e3ceaa489.jpg",
+            "related": []
+          }
+        ]
+      },
+      {
+        "id": "ab0ea891-6907-5c56-bf8c-bda2a6378a90",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:50:11",
+        "internal_name": "theme_50_11",
+        "display_order": 3,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "92d70f6d-c3c1-5abb-a818-808c772f6c0d",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:24:1",
+            "parent_item_id": "85cc20cd-a461-5167-878a-c3c21396146d",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/f8a629a3-4fe5-546f-bbb3-b4c7ca1a6623.jpg",
+            "related": []
+          }
+        ]
+      },
+      {
+        "id": "d0d91b52-4de7-5a36-8160-5f3eaaf261b4",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:50:16",
+        "internal_name": "theme_50_16",
+        "display_order": 4,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "4c1624cf-8d13-5c7c-9b99-22983b52a5f4",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:25:1",
+            "parent_item_id": "8265fb5f-a38e-5161-b5d4-12564e7a63a3",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/b8024bc1-7e9f-59d4-9af2-63e6a7cf8671.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "a460f527-a8f8-57d1-95f8-eebfafbe25a3",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:7:1",
+            "parent_item_id": "240a9072-6ba4-5c4c-a51c-8739e4ee03f9",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/b9c6872f-f685-5cee-9fb4-acebc9fe1a6c.jpg",
+            "related": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "63f893e2-4d29-5a06-9725-39a71cf2389c",
+    "backward_compatibility": "mwnf3_thematic_gallery:theme:50:12",
+    "internal_name": "theme_50_12",
+    "display_order": 5,
+    "cover_picture_item_id": "a49920df-f828-517d-8780-1f197f95a37f",
+    "pictures": [
+      {
+        "picture_item_id": "a49920df-f828-517d-8780-1f197f95a37f",
+        "backward_compatibility": "mwnf3:objects_pictures:epm:uk:Mus22:48:1",
+        "parent_item_id": "377425e8-db47-571b-85e2-27702d394d1d",
+        "parent_in_package": true,
+        "display_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/c955db9b-0341-54ee-a9cc-ea7c50b7136a.jpg",
+        "related": []
+      }
+    ],
+    "sub_themes": [
+      {
+        "id": "7854ada7-a8f9-53bf-a243-8dd5b2277f24",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:50:13",
+        "internal_name": "theme_50_13",
+        "display_order": 1,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "a8212443-de03-58b7-9021-21f134722984",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:kw:Mus21:44:1",
+            "parent_item_id": "470d797e-486d-5fa3-a961-b3a1527eec07",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/70566eb2-cd67-54f1-ab58-80ae465c11d5.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "0f85afa3-997f-528c-a150-a5a36dc82530",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:qt:Mus22:23:1",
+            "parent_item_id": "d56fbc83-d137-562e-8b49-e4ffd202595c",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/f6fac9b0-f1f9-57f5-a92f-b580ae937468.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "a47379d9-5553-5a81-878b-718e7127dd35",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:qt:Mus22:34:1",
+            "parent_item_id": "45b19a0c-0267-54d0-a134-624669d15108",
+            "parent_in_package": true,
+            "display_order": 3,
+            "image_url": "https://inventory.metanull.eu/pub/4e22fa89-f711-599c-b024-bc57c256bf80.jpg",
+            "related": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "48cdda94-75f8-517d-875e-082064d5ec30",
+    "backward_compatibility": "mwnf3_thematic_gallery:theme:50:14",
+    "internal_name": "theme_50_14",
+    "display_order": 6,
+    "cover_picture_item_id": "87c5eac3-4ecb-57fa-a830-3236ae822458",
+    "pictures": [
+      {
+        "picture_item_id": "87c5eac3-4ecb-57fa-a830-3236ae822458",
+        "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:26:1",
+        "parent_item_id": "ef5a49c6-6507-582d-a7dd-488fe165b36a",
+        "parent_in_package": true,
+        "display_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/a65492f5-c5b4-54aa-a0b8-969ba466f89e.jpg",
+        "related": []
+      }
+    ],
+    "sub_themes": [
+      {
+        "id": "017d3ecc-7621-534c-a446-8ff49e50e583",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:50:15",
+        "internal_name": "theme_50_15",
+        "display_order": 1,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "e12203fa-44e6-591e-ac1b-e9442f09f6e4",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:27:1",
+            "parent_item_id": "c3f71147-7b35-5602-a9cf-2b10eae4e8bc",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/d530bc5e-b98d-5b67-803e-c86fbbaa7c6a.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "a5be0e44-2375-518d-a113-818198dfe849",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:28:1",
+            "parent_item_id": "9f32f495-7efd-5361-b956-96c4eb2d3e09",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/2a77d5cb-c6c6-5e8f-a22f-a59f7306cddf.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "1bacf588-4e1c-55b8-8b36-2e97b50b37db",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:29:1",
+            "parent_item_id": "e2295cee-4515-5f3e-9a13-826967d81f74",
+            "parent_in_package": true,
+            "display_order": 3,
+            "image_url": "https://inventory.metanull.eu/pub/d6117eb6-7790-5742-8101-882000d64d18.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "3f15d2df-8285-58f4-be92-fd45369f1afe",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:30:1",
+            "parent_item_id": "2d0ab34f-6c97-5be0-adec-c434b7c0d438",
+            "parent_in_package": true,
+            "display_order": 4,
+            "image_url": "https://inventory.metanull.eu/pub/bcd87629-abf0-548e-b8f5-16ad6a1d1b97.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "d3c82aa2-3c83-5dcd-8c88-44242cd7735f",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:31:1",
+            "parent_item_id": "1326e39f-55ad-5c14-b5cc-14c0c3ba914a",
+            "parent_in_package": true,
+            "display_order": 5,
+            "image_url": "https://inventory.metanull.eu/pub/5fbf73fa-c70b-5042-ba25-6e530cf70dd8.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "a3382610-7331-549f-904d-a64de28eda74",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:20:1",
+            "parent_item_id": "8219a976-856d-576b-8a8e-9a1913eb82a6",
+            "parent_in_package": true,
+            "display_order": 6,
+            "image_url": "https://inventory.metanull.eu/pub/d2f09e9a-f6b9-5b84-8213-e73bd997ac4f.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "49a45cb6-1796-569c-a24a-b86d09510fcf",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:22:1",
+            "parent_item_id": "4f520570-5e30-5e56-b170-0e080f496fd2",
+            "parent_in_package": true,
+            "display_order": 7,
+            "image_url": "https://inventory.metanull.eu/pub/df915950-1caa-5a52-af25-dba6f1db732d.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "87c5eac3-4ecb-57fa-a830-3236ae822458",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:26:1",
+            "parent_item_id": "ef5a49c6-6507-582d-a7dd-488fe165b36a",
+            "parent_in_package": true,
+            "display_order": 8,
+            "image_url": "https://inventory.metanull.eu/pub/a65492f5-c5b4-54aa-a0b8-969ba466f89e.jpg",
+            "related": []
+          }
+        ]
+      }
+    ]
+  }
+]

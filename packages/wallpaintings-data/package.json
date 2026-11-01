@@ -1,0 +1,28 @@
+{
+  "name": "@museumwnf/wallpaintings-data",
+  "version": "1.0.16",
+  "type": "module",
+  "private": false,
+  "description": "Static data export for wall_paintings_and_frescoes",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "main": "./manifest.json",
+  "exports": {
+    ".": "./manifest.json",
+    "./*.json": "./*.json",
+    "./translations/*": "./translations/*"
+  },
+  "files": [
+    "*.json",
+    "translations/*.json",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/museumwithnofrontiers/data-packages.git",
+    "directory": "packages/wallpaintings-data"
+  }
+}

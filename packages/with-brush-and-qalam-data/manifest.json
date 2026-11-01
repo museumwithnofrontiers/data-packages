@@ -1,0 +1,59 @@
+{
+  "version": "1.0.0",
+  "rights": {
+    "rights_holder": "Museum Ohne Grenzen e.V. (Museum With No Frontiers)",
+    "terms_url": "https://www.museumwnf.org/about/legal-notice",
+    "attribution": "Content © Museum With No Frontiers, used under the MWNF legal notice."
+  },
+  "site": {
+    "key": "with-brush-and-qalam",
+    "languages": [
+      {
+        "code": "en",
+        "label": "English"
+      }
+    ],
+    "names": {
+      "en": "With Brush and Qalam"
+    }
+  },
+  "kind": "exhibition",
+  "exhibition": {
+    "id": "bac76311-0d8c-5065-8693-bc1720e569db",
+    "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:50",
+    "slug": "with_brush_and_qalam",
+    "mwnf3_project_id": "EXWIT",
+    "project_id": "0ca36c45-f02c-5743-aa86-fe3cce6e8a36"
+  },
+  "languages": [
+    "en"
+  ],
+  "itemCount": 34,
+  "themeCount": 17,
+  "projects": {
+    "0ca36c45-f02c-5743-aa86-fe3cce6e8a36": {
+      "name": {
+        "en": "With Brush and Qalam"
+      },
+      "site_url": null,
+      "related_database_url": null,
+      "artistic_introduction_url": null
+    },
+    "928f5e0d-53e3-5f53-b9c2-5af389c30dd4": {
+      "name": {
+        "ar": "Explore Islamic Art Collections",
+        "de": "Explore Islamic Art Collections",
+        "el": "Περιηγηθείτε στις συλλογές ισλαμικής τέχνης",
+        "en": "Explore Islamic Art Collections",
+        "fr": "Explore Islamic Art Collections",
+        "it": "Explore Islamic Art Collections",
+        "pt": "Explore Islamic Art Collections",
+        "es": "Explore Islamic Art Collections",
+        "tr": "Explore Islamic Art Collections"
+      },
+      "site_url": "https://islamicart.museumwnf.org",
+      "related_database_url": "https://islamicart.museumwnf.org/database.php",
+      "artistic_introduction_url": "https://islamicart.museumwnf.org/gai/ISL/"
+    }
+  }
+}

@@ -1,0 +1,148 @@
+[
+  {
+    "id": "3b73a306-1129-5c8d-acba-8e34a39e132f",
+    "type": "museum",
+    "backward_compatibility": "mwnf3:museums:Mus01:uk",
+    "country_id": "gbr",
+    "latitude": 51.5194133,
+    "longitude": -0.1269566,
+    "map_zoom": 17,
+    "monument_item_id": null,
+    "level": "partner",
+    "parent_id": null,
+    "project_uuids": [
+      "61c122ac-ea86-5462-8bab-6b86138c49b2"
+    ],
+    "item_count": 50,
+    "featured": true,
+    "languages": [
+      "ar",
+      "en",
+      "es",
+      "fr"
+    ],
+    "contact_persons": [
+      {
+        "fax": "+44 20 7323 8489",
+        "name": "Dr. Fahmida Suleman",
+        "email": "fsuleman@thebritishmuseum.ac.uk",
+        "phone": "+44 20 7323 8474",
+        "title": "Curator Modern Middle East, Dept. of the Middle East"
+      },
+      {
+        "fax": "+44 20 7323 8489",
+        "name": "Dr. Venetia Porter",
+        "email": "vporter@thebritishmuseum.ac.uk",
+        "phone": "+44 20 7323 8843",
+        "title": "Curator Islamic and contemporary Middle East, Dept. of the Middle East"
+      }
+    ],
+    "additional_urls": [
+      {
+        "url": "https://islamicart.museumwnf.org/pm_partner.php?id=Mus01;uk&type=museum&theme=ISL&",
+        "title": "The British Museum"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/835109bc-1b08-561b-bce0-c865f3823fe1.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/aee33b1d-b03c-5342-bb4c-480b71eeabd3.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/b7833a26-ce46-5c1e-bf62-8d89a1ec21bc.jpg",
+        "alt_text": null,
+        "display_order": 3,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/ba707062-7dca-53ca-bec2-0c66ceccd351.jpg",
+        "logo_type": "primary",
+        "alt_text": "British Museum - primary logo",
+        "display_order": 1
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/d21695aa-11bd-5433-8c56-0885752b7b7e.jpg",
+        "logo_type": "quaternary",
+        "alt_text": "British Museum - quaternary logo",
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "f6a3053d-d710-547e-be54-96097d448f7a",
+    "type": "museum",
+    "backward_compatibility": "mwnf3:museums:Mus01:sy",
+    "country_id": "syr",
+    "latitude": 33.511951,
+    "longitude": 36.289773,
+    "map_zoom": 15,
+    "monument_item_id": null,
+    "level": "partner",
+    "parent_id": null,
+    "project_uuids": [
+      "61c122ac-ea86-5462-8bab-6b86138c49b2"
+    ],
+    "item_count": 44,
+    "featured": true,
+    "languages": [
+      "ar",
+      "en",
+      "es",
+      "fr"
+    ],
+    "contact_persons": [
+      {
+        "name": "Mrs Mona Al-Moadin"
+      }
+    ],
+    "additional_urls": [
+      {
+        "url": "https://islamicart.museumwnf.org/pm_partner.php?id=Mus01;sy&type=museum&theme=ISL&"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/125bca6a-ea8f-53d9-abd1-4269b85e2549.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/935927cb-a2ac-59cf-a5be-b16ac9f141e6.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/fb92212b-7211-5a0b-a7bb-81a5834401aa.jpg",
+        "alt_text": null,
+        "display_order": 3,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/1fb8e157-a5ec-571f-8459-079554ad4646.jpg",
+        "logo_type": "primary",
+        "alt_text": "National Museum of Damascus - primary logo",
+        "display_order": 1
+      }
+    ]
+  }
+]

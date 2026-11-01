@@ -1,0 +1,70 @@
+[
+  {
+    "id": "4df52263-9f4f-577a-8758-36bd2784101b",
+    "type": "museum",
+    "backward_compatibility": "mwnf3:museums:Mus12:pt",
+    "country_id": "prt",
+    "latitude": 38.7247424,
+    "longitude": -9.1141428,
+    "map_zoom": 17,
+    "monument_item_id": null,
+    "level": "partner",
+    "parent_id": null,
+    "project_uuids": [
+      "76eaf6c2-8025-53bc-9e39-106803a3917e"
+    ],
+    "item_count": 1,
+    "featured": false,
+    "languages": [
+      "en"
+    ],
+    "contact_persons": [
+      {
+        "fax": "+351 21 8100369",
+        "name": "Maria Antónia Pinto de Matos",
+        "email": "mapmatos@mnazulejo.dgpc.pt",
+        "phone": "+351 21 8100340",
+        "title": "Director"
+      },
+      {
+        "fax": "+351 21 8100369",
+        "name": "Alexandra Curvelo",
+        "email": "alexandra.curvelo@gmail.com",
+        "phone": "+351 21 8100340",
+        "title": "Curator"
+      }
+    ],
+    "additional_urls": [],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/c1bdc11e-94cc-56bd-bbef-6665b0a23f78.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/3e4dac39-cbc3-5136-b231-da41b642f521.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/8077703c-f18d-57a7-9f50-890e470a1e95.jpg",
+        "alt_text": null,
+        "display_order": 3,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/ecca285a-8493-5d2c-8150-5c0435b8e732.jpg",
+        "logo_type": "primary",
+        "alt_text": "Museu Nacional do Azulejo - primary logo",
+        "display_order": 1
+      }
+    ]
+  }
+]

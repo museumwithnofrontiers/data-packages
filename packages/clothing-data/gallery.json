@@ -1,0 +1,607 @@
+{
+  "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+  "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+  "kind": "gallery",
+  "slug": "clothing_and_costume",
+  "legacy_host": "https://clothing.museumwnf.org",
+  "mwnf3_project_id": "CLO",
+  "project_id": null,
+  "languages": [
+    "ar",
+    "en",
+    "es",
+    "fr"
+  ],
+  "names": {
+    "ar": "ملابس و أزياء",
+    "en": "Clothing and Costume",
+    "fr": "Vêtements et costumes",
+    "es": "Ropa y vestuario"
+  },
+  "banner_item_id": "9f475267-426c-5190-b0b3-f114b5dfce94",
+  "homepage_item_id": null,
+  "image_path": "thematic_gallery/thg_galleries/12/1.jpg",
+  "banner_image_path": "thematic_gallery/thg_galleries/12/banner.jpg",
+  "homepage_image_path": null,
+  "has_timeline": false,
+  "has_country_timeline": false,
+  "featured": false,
+  "hidden": false,
+  "live_date": "2022-12-01T00:00:00.000Z",
+  "sibling_galleries": [
+    {
+      "id": "2d8735bb-4fae-5cce-ac94-058edd1c9b0e",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:11",
+      "slug": "ceramics",
+      "legacy_host": "https://ceramics.museumwnf.org",
+      "names": {
+        "ar": "خزف",
+        "en": "Ceramics",
+        "fr": "Céramique",
+        "es": "Cerámica"
+      },
+      "image_path": "thematic_gallery/thg_galleries/11/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "80c45a07-c4a2-5ddb-acad-8a2515210c35",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:13",
+      "slug": "coins_and_medals",
+      "legacy_host": "https://coins-medals.museumwnf.org",
+      "names": {
+        "ar": "قطع نقدية و قلائد",
+        "en": "Coins and Medals",
+        "fr": "Monnaies et médailles",
+        "es": "Monedas y medallas"
+      },
+      "image_path": "thematic_gallery/thg_galleries/13/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+      "slug": "communication_and_transportation",
+      "legacy_host": "https://communication.museumwnf.org",
+      "names": {
+        "ar": "الاتصال و النقل",
+        "en": "Communication and Transportation",
+        "fr": "Communication et transport",
+        "es": "Comunicación y transporte"
+      },
+      "image_path": "thematic_gallery/thg_galleries/14/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+      "slug": "funerary_objects",
+      "legacy_host": "https://funerary-objects.museumwnf.org",
+      "names": {
+        "ar": "قطع جنائزية",
+        "en": "Funerary objects",
+        "fr": "Objets funéraires",
+        "es": "Objetos funerarios"
+      },
+      "image_path": "thematic_gallery/thg_galleries/16/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:17",
+      "slug": "furniture_and_woodwork",
+      "legacy_host": "https://woodwork.museumwnf.org",
+      "names": {
+        "ar": "أثاث و أعمال خشبية",
+        "en": "Furniture and woodwork",
+        "fr": "Meubles et boiseries",
+        "es": "Muebles y carpintería"
+      },
+      "image_path": "thematic_gallery/thg_galleries/17/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "44587d84-d4bb-5db4-8fd3-bdaf8bbcb30a",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:18",
+      "slug": "glass",
+      "legacy_host": "https://glass.museumwnf.org",
+      "names": {
+        "ar": "زجاج",
+        "en": "Glass",
+        "fr": "Verre",
+        "es": "Vidrio"
+      },
+      "image_path": "thematic_gallery/thg_galleries/18/1.jpg",
+      "featured": true,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "811a0bf9-c44b-5000-bc70-749a8f69ab02",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:19",
+      "slug": "gold_and_silver",
+      "legacy_host": "https://gold-silver.museumwnf.org",
+      "names": {
+        "ar": "ذهب و فضة",
+        "en": "Gold and Silver",
+        "fr": "Or et argent",
+        "es": "Oro y plata"
+      },
+      "image_path": "thematic_gallery/thg_galleries/19/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+      "slug": "ivory",
+      "legacy_host": "https://ivory.museumwnf.org",
+      "names": {
+        "ar": "عاج",
+        "en": "Ivory",
+        "fr": "Ivoire",
+        "es": "Marfil"
+      },
+      "image_path": "thematic_gallery/thg_galleries/20/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
+      "slug": "jewellery",
+      "legacy_host": "https://jewellery.museumwnf.org",
+      "names": {
+        "ar": "مجوهرات",
+        "en": "Jewellery",
+        "fr": "Bijoux",
+        "es": "Joyería"
+      },
+      "image_path": "thematic_gallery/thg_galleries/21/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "a2313f76-4eef-542a-9570-c97b2bd331f2",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:22",
+      "slug": "landscapes",
+      "legacy_host": "https://landscapes.museumwnf.org",
+      "names": {
+        "ar": "مناظر طبيعية",
+        "en": "Landscapes",
+        "fr": "Paysages",
+        "es": "Paisajes"
+      },
+      "image_path": "thematic_gallery/thg_galleries/22/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "4716e71f-dab6-558c-a08e-b28114a24fff",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:23",
+      "slug": "leatherwork",
+      "legacy_host": "https://leatherworks.museumwnf.org",
+      "names": {
+        "ar": "أعمال جلدية",
+        "en": "Leatherwork",
+        "fr": "Maroquinerie",
+        "es": "Marroquinería"
+      },
+      "image_path": "thematic_gallery/thg_galleries/23/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "c8032017-c33f-55e1-a151-e29f5fc4d134",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:24",
+      "slug": "manuscripts",
+      "legacy_host": "https://manuscripts.museumwnf.org",
+      "names": {
+        "ar": "مخطوطات",
+        "en": "Manuscripts",
+        "fr": "Manuscrits",
+        "es": "Manuscritos"
+      },
+      "image_path": "thematic_gallery/thg_galleries/24/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "7a233a08-8cc7-5372-98a7-a3ba85059928",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:25",
+      "slug": "metalwork",
+      "legacy_host": "https://metalwork.museumwnf.org",
+      "names": {
+        "ar": "مشغولات معدنية",
+        "en": "Metalwork",
+        "fr": "Ferronerie",
+        "es": "Metalistería"
+      },
+      "image_path": "thematic_gallery/thg_galleries/25/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+      "slug": "mosaics",
+      "legacy_host": "https://mosaics.museumwnf.org",
+      "names": {
+        "ar": "فسيفساء",
+        "en": "Mosaics",
+        "fr": "Mosaïques",
+        "es": "Mosaicos"
+      },
+      "image_path": "thematic_gallery/thg_galleries/26/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "c6c119d5-13c9-58c9-b0c4-fb412854b0f2",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:27",
+      "slug": "musical_instruments",
+      "legacy_host": "https://musical-instruments.museumwnf.org",
+      "names": {
+        "ar": "آلات موسيقية",
+        "en": "Musical instruments",
+        "fr": "Instruments de musique",
+        "es": "Instrumentos musicales"
+      },
+      "image_path": "thematic_gallery/thg_galleries/27/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "1fc8e6d4-c8c9-55d3-9f11-5d456fadc8df",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:28",
+      "slug": "paintings",
+      "legacy_host": "https://paintings.museumwnf.org",
+      "names": {
+        "ar": "لوحات",
+        "en": "Paintings",
+        "fr": "Peinture",
+        "es": "Pinturas"
+      },
+      "image_path": "thematic_gallery/thg_galleries/28/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
+      "slug": "photographs",
+      "legacy_host": "https://photographs.museumwnf.org",
+      "names": {
+        "ar": "صور",
+        "en": "Photographs",
+        "fr": "Photographie",
+        "es": "Fotografías"
+      },
+      "image_path": "thematic_gallery/thg_galleries/29/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+      "slug": "porcelain",
+      "legacy_host": "https://porcelain.museumwnf.org",
+      "names": {
+        "ar": "بورسلين",
+        "en": "Porcelain",
+        "fr": "Porcelaine",
+        "es": "Porcelana"
+      },
+      "image_path": "thematic_gallery/thg_galleries/30/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+      "slug": "portraits",
+      "legacy_host": "https://portraits.museumwnf.org",
+      "names": {
+        "ar": "صور شخصية (بورتريه)",
+        "en": "Portraits",
+        "fr": "Portraits",
+        "es": "Retratos"
+      },
+      "image_path": "thematic_gallery/thg_galleries/31/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
+      "slug": "prints_and_drawings",
+      "legacy_host": "https://prints-drawings.museumwnf.org",
+      "names": {
+        "ar": "طبعات ورسوم",
+        "en": "Prints and drawings",
+        "fr": "Estampes et dessins",
+        "es": "Impresiones y dibujos"
+      },
+      "image_path": "thematic_gallery/thg_galleries/32/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
+      "slug": "religious_life",
+      "legacy_host": "https://religious-life.museumwnf.org",
+      "names": {
+        "ar": "الحياة الدينية",
+        "en": "Religious life",
+        "fr": "Vie religieuse",
+        "es": "Vida religiosa"
+      },
+      "image_path": "thematic_gallery/thg_galleries/33/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "500eb08d-ca5d-5483-9b2c-5d57ef2ed72e",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:34",
+      "slug": "scientific_objects",
+      "legacy_host": "https://scientific-objects.museumwnf.org",
+      "names": {
+        "ar": "قطع علمية",
+        "en": "Scientific objects",
+        "fr": "Objets scientifiques",
+        "es": "Objetos científicos"
+      },
+      "image_path": "thematic_gallery/thg_galleries/34/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "decbe529-2594-59e2-ba50-d15b9ea9381b",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:35",
+      "slug": "sculptures",
+      "legacy_host": "https://sculptures.museumwnf.org",
+      "names": {
+        "ar": "تماثيل منحوتات /منحوتات",
+        "en": "Sculptures",
+        "fr": "Sculptures",
+        "es": "Esculturas"
+      },
+      "image_path": "thematic_gallery/thg_galleries/35/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "03bb8011-e888-5310-8a5e-e58f63ccf810",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:37",
+      "slug": "textiles",
+      "legacy_host": "https://textiles.museumwnf.org",
+      "names": {
+        "ar": "أقمشة",
+        "en": "Textiles",
+        "fr": "Textiles",
+        "es": "Textiles"
+      },
+      "image_path": "thematic_gallery/thg_galleries/37/1.jpg",
+      "featured": true,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "101ffdb9-f3e9-5a1d-9247-a3badbd0feff",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:38",
+      "slug": "theatre",
+      "legacy_host": "https://theatre.museumwnf.org",
+      "names": {
+        "ar": "مسرح",
+        "en": "Theatre",
+        "fr": "Théâtre",
+        "es": "Teatro"
+      },
+      "image_path": "thematic_gallery/thg_galleries/38/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "8b4360a6-1411-52d0-b673-7295e3c3fed6",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:39",
+      "slug": "toys",
+      "legacy_host": "https://toys-games.museumwnf.org",
+      "names": {
+        "ar": "دمى و ألعاب",
+        "en": "Toys and Games",
+        "fr": "Jouets et jeux",
+        "es": "Jugetes y juegos"
+      },
+      "image_path": "thematic_gallery/thg_galleries/39/1.jpg",
+      "featured": true,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+      "slug": "amulets_and_talismans",
+      "legacy_host": "https://amulets.museumwnf.org",
+      "names": {
+        "ar": "تعويذات وطلاسم",
+        "en": "Amulets and Talismans",
+        "fr": "Amulettes et talismans",
+        "es": "Amuletos y talismanes"
+      },
+      "image_path": "thematic_gallery/thg_galleries/4/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+      "slug": "wall_paintings_and_frescoes",
+      "legacy_host": "https://wallpaintings.museumwnf.org",
+      "names": {
+        "ar": "لوحات جدارية و جصية",
+        "en": "Wall paintings and frescoes",
+        "fr": "Peintures murales et fresques",
+        "es": "Pinturas de pared y frescos"
+      },
+      "image_path": "thematic_gallery/thg_galleries/40/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+      "slug": "weights_and_measures",
+      "legacy_host": "https://weights-measures.museumwnf.org",
+      "names": {
+        "ar": "أوزان و مقاييس",
+        "en": "Weights and measures",
+        "fr": "Poids et mesures",
+        "es": "Pesos y medidas"
+      },
+      "image_path": "thematic_gallery/thg_galleries/41/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "6b8c4c9c-4762-5c85-9684-e30288082992",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:46",
+      "slug": "precious_stones",
+      "legacy_host": "https://precious-stones.museumwnf.org",
+      "names": {
+        "en": "Precious Stones"
+      },
+      "image_path": "thematic_gallery/thg_galleries/46/1.jpg",
+      "featured": true,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "a3dc581c-2547-57ee-906c-0d1a3a1699f3",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:49",
+      "slug": "historical_cars",
+      "legacy_host": "https://cars.museumwnf.org",
+      "names": {
+        "ar": "Historical Cars",
+        "de": "Historical Cars",
+        "en": "Historical Cars",
+        "fr": "Historical Cars",
+        "es": "Historical Cars"
+      },
+      "image_path": "thematic_gallery/thg_galleries/49/1.jpg",
+      "featured": true,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
+      "slug": "archaeological_objects",
+      "legacy_host": "https://archaeology.museumwnf.org",
+      "names": {
+        "ar": "قطع أثرية",
+        "en": "Archaeological Objects",
+        "fr": "Objets archéologiques",
+        "es": "Objetos arqueológicos"
+      },
+      "image_path": "thematic_gallery/thg_galleries/5/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "7e6bf0d0-fc65-528e-a454-e02f4928bf91",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:6",
+      "slug": "architectural_elements",
+      "legacy_host": "https://architectural-elements.museumwnf.org",
+      "names": {
+        "ar": "عناصر معمارية",
+        "en": "Architectural Elements",
+        "fr": "Eléments architecturaux",
+        "es": "Elmentos arquitectónicos"
+      },
+      "image_path": "thematic_gallery/thg_galleries/6/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+      "slug": "arms_and_armoury",
+      "legacy_host": "https://arms-armoury.museumwnf.org",
+      "names": {
+        "ar": "أسلحة ودروع",
+        "en": "Arms and Armoury",
+        "fr": "Ames et armurerie",
+        "es": "Armas y armería"
+      },
+      "image_path": "thematic_gallery/thg_galleries/7/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
+      "slug": "calligraphy",
+      "legacy_host": "https://calligraphy.museumwnf.org",
+      "names": {
+        "ar": "تخطيط",
+        "en": "Calligraphy",
+        "fr": "Calligraphie",
+        "es": "Caligrafía"
+      },
+      "image_path": "thematic_gallery/thg_galleries/8/1.jpg",
+      "featured": false,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "743fd119-f663-54ae-b92a-933fc1fdbfd8",
+      "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:9",
+      "slug": "carpets",
+      "legacy_host": "https://carpets.museumwnf.org",
+      "names": {
+        "ar": "سجاد",
+        "en": "Carpets",
+        "fr": "Tapis",
+        "es": "Tapices"
+      },
+      "image_path": "thematic_gallery/thg_galleries/9/1.jpg",
+      "featured": true,
+      "hidden": false,
+      "live_date": "2022-12-01T00:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,1018 @@
+[
+  {
+    "id": "6c8e1f1c-aa9e-591c-be20-dd9a5adb7865",
+    "backward_compatibility": "mwnf3_thematic_gallery:theme:54:0",
+    "internal_name": "theme_54_0",
+    "display_order": 1,
+    "cover_picture_item_id": null,
+    "pictures": [
+      {
+        "picture_item_id": "d2c84ca4-9f68-5119-8b77-485398594610",
+        "backward_compatibility": "mwnf3:monuments_pictures:bar:hr:Mon11:30:1",
+        "parent_item_id": "aba7996a-fd1e-5045-baaa-28186fd15f15",
+        "parent_in_package": true,
+        "display_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/48536b17-b425-5044-9758-79a846368dcc.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "1d0acffb-d39b-5bdc-84e8-ca103de231be",
+        "backward_compatibility": "mwnf3_explore:monument_picture:1389:_:3",
+        "parent_item_id": "d86b5a46-c8b4-516d-9217-cf87d4e19e81",
+        "parent_in_package": true,
+        "display_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/2439376d-26f3-5a09-aa5d-4ba6715429d0.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "72a3f59d-67f1-55d7-a73b-49b6d0f6d1e1",
+        "backward_compatibility": "mwnf3:objects_pictures:epm:qt:Mus21:19:1",
+        "parent_item_id": "776becd1-b151-59c4-9e46-f120b2d7a354",
+        "parent_in_package": true,
+        "display_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/b01f495b-203b-5bef-8120-7f21ce23d1b5.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "1cd1e47d-ffed-5dbf-8d7e-dc47fd88301d",
+        "backward_compatibility": "mwnf3:monuments_pictures:isl:ma:Mon01:1:10",
+        "parent_item_id": "7ac3ea27-a8cb-553d-b1c3-19067190a3c3",
+        "parent_in_package": true,
+        "display_order": 4,
+        "image_url": "https://inventory.metanull.eu/pub/4e51b9cc-b4a4-5b8d-be78-51558a765a74.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "ad8298fc-c10d-5e6d-91dc-35d2eee89553",
+        "backward_compatibility": "mwnf3_explore:monument_picture:1793:_:2",
+        "parent_item_id": "bee6c70e-fa47-513b-9a23-33bf239df2e8",
+        "parent_in_package": true,
+        "display_order": 5,
+        "image_url": "https://inventory.metanull.eu/pub/e7a87867-e3a0-570b-9e95-d0abafc60ac9.jpg",
+        "related": []
+      }
+    ],
+    "sub_themes": []
+  },
+  {
+    "id": "76712036-29c9-525a-b38e-99ca6250d129",
+    "backward_compatibility": "mwnf3_thematic_gallery:theme:54:1",
+    "internal_name": "theme_54_1",
+    "display_order": 2,
+    "cover_picture_item_id": "23a7259d-dd28-5e58-b8be-7b92f8b325b4",
+    "pictures": [
+      {
+        "picture_item_id": "23a7259d-dd28-5e58-b8be-7b92f8b325b4",
+        "backward_compatibility": "mwnf3:objects_pictures:bar:cz:Mus11_B:20:3",
+        "parent_item_id": "e07117dd-950e-5f5f-9ae1-7e9e6b78feb2",
+        "parent_in_package": true,
+        "display_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/447a8fcf-b8aa-5a3e-b52c-a788f066b47f.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "c6654d83-b0d4-5ea8-9d0d-ca1e16dcf6cf",
+        "backward_compatibility": "mwnf3:objects_pictures:galex6:es:Mus81:2:1",
+        "parent_item_id": "a9aec9e3-3257-571d-870d-3f39027411af",
+        "parent_in_package": true,
+        "display_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/a5547716-ede8-50e5-a25a-48f312406103.jpg",
+        "related": []
+      }
+    ],
+    "sub_themes": [
+      {
+        "id": "5d19ad8f-0894-591b-8df7-ad85c5422ba7",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:54:2",
+        "internal_name": "theme_54_2",
+        "display_order": 1,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "86e3ec73-f527-5aed-bba0-3921f6f66e0b",
+            "backward_compatibility": "mwnf3:monuments_pictures:bar:at:Mon11:7:2",
+            "parent_item_id": "26c1489b-c2e7-5be3-a2bf-7cb92673ce68",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/1e846ff7-8fc4-538f-98b9-d3f771e373bc.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "0a52b474-99e9-5262-bfe5-b274188a612e",
+            "backward_compatibility": "mwnf3:monuments_pictures:bar:at:Mon11:6:1",
+            "parent_item_id": "40212b79-f658-57bd-80ad-e8fd0a514a98",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/e6479241-87af-5a66-bb8e-dacca3c1fb2e.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "579ada1c-21e5-5cd9-b61a-f8c7d458c64c",
+            "backward_compatibility": "mwnf3:monument_detail_pictures:BAR:hr:Mon11:30:2:1",
+            "parent_item_id": "5f332f17-e8a7-58cc-a40e-537c14714d94",
+            "parent_in_package": false,
+            "display_order": 3,
+            "image_url": "https://inventory.metanull.eu/pub/6eb9856a-7dd1-5105-9f4f-41ebd0b05e20.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "7e87b9e7-560e-5aef-826b-1649920da541",
+            "backward_compatibility": "mwnf3:monument_detail_pictures:BAR:hr:Mon11:33:4:1",
+            "parent_item_id": "7015959d-b802-5549-a4a7-81818e774e68",
+            "parent_in_package": false,
+            "display_order": 4,
+            "image_url": "https://inventory.metanull.eu/pub/a48fb84c-7f90-5dcc-8eba-c30d9bc81912.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "d8c4b7a2-64a0-5c49-9669-e372f265f582",
+            "backward_compatibility": "mwnf3:monuments_pictures:ISL:dz:Mon01:1:1",
+            "parent_item_id": "cf78c574-7208-5c14-a505-10a6c1bbdb24",
+            "parent_in_package": true,
+            "display_order": 5,
+            "image_url": "https://inventory.metanull.eu/pub/4ebd8046-074a-5154-af7b-63b733ff27c2.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "fed81e33-3b85-563e-a926-faaf3bb46782",
+            "backward_compatibility": "mwnf3_sharing_history:sh_monument_images:awe:de:1:_:3",
+            "parent_item_id": "b1a53072-23dd-58c0-b8c4-495759373b61",
+            "parent_in_package": true,
+            "display_order": 6,
+            "image_url": "https://inventory.metanull.eu/pub/fa46f09d-5f2a-5613-860e-dee1700e90c2.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "20ef4f35-9584-560b-84f7-292df95ff596",
+            "backward_compatibility": "mwnf3_explore:monument_picture:1571:_:2",
+            "parent_item_id": "d588c32c-3527-5a31-988e-7869b0fe01f1",
+            "parent_in_package": true,
+            "display_order": 7,
+            "image_url": "https://inventory.metanull.eu/pub/4c01b1e6-b9bb-50fe-9cd8-21be44abf989.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "269436b2-38da-529b-a737-5a2a1489dfef",
+            "backward_compatibility": "mwnf3:objects_pictures:exhcolour:uk:Mus51:3:1",
+            "parent_item_id": "b02909ff-72bb-5ea9-97d5-753e9289377f",
+            "parent_in_package": true,
+            "display_order": 8,
+            "image_url": "https://inventory.metanull.eu/pub/4b737bb1-1d3f-54f6-bcb6-76387e1e7bcb.jpg",
+            "related": [
+              {
+                "picture_item_id": "4f64e0bf-64fc-5892-a88c-4dc68c3f13e0",
+                "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:47:12",
+                "descriptions": {
+                  "en": "The item depicts garments of same purpose."
+                },
+                "reciprocal_descriptions": {}
+              },
+              {
+                "picture_item_id": "cb398250-021d-5b12-9216-d89df673c152",
+                "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:47:12",
+                "descriptions": {
+                  "en": "Same type of object, and is of the same nature."
+                },
+                "reciprocal_descriptions": {}
+              },
+              {
+                "picture_item_id": "d18b7f6a-6e27-5a69-adae-03299ca4744e",
+                "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:47:12",
+                "descriptions": {
+                  "en": "The item is of the same purpose."
+                },
+                "reciprocal_descriptions": {}
+              }
+            ]
+          },
+          {
+            "picture_item_id": "c930f613-3892-5e46-84da-696b8994777b",
+            "backward_compatibility": "mwnf3:objects_pictures:exaid:pl:Mus51:1:1",
+            "parent_item_id": "e16f9c2d-d57c-528f-a389-0f2f2612e49e",
+            "parent_in_package": true,
+            "display_order": 9,
+            "image_url": "https://inventory.metanull.eu/pub/a951a503-2bc6-5626-94e4-6b746f05a156.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "139191da-c698-5703-abe8-a2a3e74dd3a1",
+            "backward_compatibility": "mwnf3:monuments_pictures:bar:at:Mon11:43:1",
+            "parent_item_id": "998e991a-2cc4-5639-8635-5be3bb4c0eb9",
+            "parent_in_package": true,
+            "display_order": 10,
+            "image_url": "https://inventory.metanull.eu/pub/1cdd231c-03ed-5002-82e4-7d69ae9f6ee6.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "c6654d83-b0d4-5ea8-9d0d-ca1e16dcf6cf",
+            "backward_compatibility": "mwnf3:objects_pictures:galex6:es:Mus81:2:1",
+            "parent_item_id": "a9aec9e3-3257-571d-870d-3f39027411af",
+            "parent_in_package": true,
+            "display_order": 11,
+            "image_url": "https://inventory.metanull.eu/pub/a5547716-ede8-50e5-a25a-48f312406103.jpg",
+            "related": []
+          }
+        ]
+      },
+      {
+        "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:54:3",
+        "internal_name": "theme_54_3",
+        "display_order": 2,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "9446995d-9696-5414-9ed1-429468cf3728",
+            "backward_compatibility": "mwnf3_explore:monument_picture:1791:_:1",
+            "parent_item_id": "5bef360d-cbce-5189-8632-6be76610606e",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/f83311c0-23e2-5867-9ec5-50cadcafb9d9.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "5e8898ca-50e9-53a6-98c2-8079a28d26d4",
+            "backward_compatibility": "mwnf3_explore:monument_picture:1793:_:3",
+            "parent_item_id": "bee6c70e-fa47-513b-9a23-33bf239df2e8",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/2b30a6b8-25be-57f7-91d9-60af7d604434.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "a638c604-1c79-5cfd-9683-a12957c26efa",
+            "backward_compatibility": "mwnf3_explore:monument_picture:1789:_:1",
+            "parent_item_id": "c7e32992-cf9b-52e7-9700-1b6de93e648a",
+            "parent_in_package": true,
+            "display_order": 3,
+            "image_url": "https://inventory.metanull.eu/pub/3cec70d0-d0e4-51df-9238-1ceaff3448eb.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "856aa691-5835-591e-997f-899178c72fdf",
+            "backward_compatibility": "mwnf3_explore:monument_picture:1334:_:5",
+            "parent_item_id": "7b744cc2-ef33-5790-89ca-8f7102883e0f",
+            "parent_in_package": true,
+            "display_order": 4,
+            "image_url": "https://inventory.metanull.eu/pub/2234d8d6-ad7a-560b-84d0-db32e208f7a9.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "31ca7d77-4433-587f-9656-f33fb1092fb0",
+            "backward_compatibility": "mwnf3_explore:monument_picture:1373:_:8",
+            "parent_item_id": "6ac2d7e0-2777-5886-9469-75bb16529e0a",
+            "parent_in_package": true,
+            "display_order": 5,
+            "image_url": "https://inventory.metanull.eu/pub/ec10fb16-41bd-5e21-b1f2-5bff6787b34c.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "82adf4cc-5822-5a69-8d3f-249fca264fb7",
+            "backward_compatibility": "mwnf3_explore:monument_picture:1389:_:2",
+            "parent_item_id": "d86b5a46-c8b4-516d-9217-cf87d4e19e81",
+            "parent_in_package": true,
+            "display_order": 6,
+            "image_url": "https://inventory.metanull.eu/pub/69fb58df-7b79-509f-ba78-93931b679e9b.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "c5cea6f7-6396-52ff-b8db-0960e38347fc",
+            "backward_compatibility": "mwnf3_explore:monument_picture:1419:_:1",
+            "parent_item_id": "d4b21bad-0844-5f2e-b159-aec16bf2fb08",
+            "parent_in_package": true,
+            "display_order": 7,
+            "image_url": "https://inventory.metanull.eu/pub/bbcba5d3-df2e-5243-865b-cd9fb0c93639.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "a33ca796-e0d9-5b13-945b-8023c1548f44",
+            "backward_compatibility": "mwnf3:objects_pictures:bar:cz:Mus11_B:20:2",
+            "parent_item_id": "e07117dd-950e-5f5f-9ae1-7e9e6b78feb2",
+            "parent_in_package": true,
+            "display_order": 8,
+            "image_url": "https://inventory.metanull.eu/pub/b547536a-4b35-55eb-a707-0c14c17167d6.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "62bc2783-06df-592a-8994-4c9b6a85ff34",
+            "backward_compatibility": "mwnf3:objects_pictures:galleries:pa:Mus02:5:1",
+            "parent_item_id": "d7822972-f602-5f72-804b-41aadb287492",
+            "parent_in_package": true,
+            "display_order": 9,
+            "image_url": "https://inventory.metanull.eu/pub/daeca25d-e9aa-5434-8fb1-7b1eac64bf1b.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "0e891d64-5ea7-552a-862f-68e33b9ab0db",
+            "backward_compatibility": "mwnf3_sharing_history:sh_object_images:awe:mc:2:_:1",
+            "parent_item_id": "29f9716b-3b17-5ea5-b1e6-06de5e5b0e3e",
+            "parent_in_package": true,
+            "display_order": 10,
+            "image_url": "https://inventory.metanull.eu/pub/c2b27138-3242-5aa4-9b44-c1b3af538b3a.jpg",
+            "related": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+    "backward_compatibility": "mwnf3_thematic_gallery:theme:54:4",
+    "internal_name": "theme_54_4",
+    "display_order": 3,
+    "cover_picture_item_id": "8e16eab4-3c56-58b3-b82b-0f97ce0952b9",
+    "pictures": [
+      {
+        "picture_item_id": "78b17d04-26d8-5fac-ba3e-6ff0da4923e1",
+        "backward_compatibility": "mwnf3:objects_pictures:exthe:fr:Mus71:10:1",
+        "parent_item_id": "fa4916ad-b0f5-5f83-898a-6d97cf9229fd",
+        "parent_in_package": true,
+        "display_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/d890fcb6-0b3b-57e3-8502-69664b930fb0.jpg",
+        "related": [
+          {
+            "picture_item_id": "4d10d489-5cd2-5f67-9c15-f31af08d9943",
+            "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:52:32",
+            "descriptions": {
+              "en": "Another type of vase or ewer used during feasts."
+            },
+            "reciprocal_descriptions": {}
+          }
+        ]
+      },
+      {
+        "picture_item_id": "8e16eab4-3c56-58b3-b82b-0f97ce0952b9",
+        "backward_compatibility": "mwnf3:monuments_pictures:isl:jo:Mon01:33:2",
+        "parent_item_id": "67da3bf9-1dff-5d68-9ebd-67e76ff4f866",
+        "parent_in_package": true,
+        "display_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/e555cdf4-1164-5e25-83a2-b534214b6226.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "46ae5cd5-c04a-5686-ab87-2e6e551e3c49",
+        "backward_compatibility": "mwnf3:objects_pictures:exthe:az:Mus71:4:1",
+        "parent_item_id": "9ae96ed6-bd10-5baf-ba3d-16ece349d35e",
+        "parent_in_package": true,
+        "display_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/df106dad-2e39-515a-a842-895349926e16.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "ccae61c0-8c82-5f42-9e3a-18a8d7b16875",
+        "backward_compatibility": "mwnf3:monuments_pictures:isl:pa:Mon01:3:1",
+        "parent_item_id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "parent_in_package": true,
+        "display_order": 4,
+        "image_url": "https://inventory.metanull.eu/pub/5bec9bea-ba86-5cee-a36e-17af4f5acc84.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "29810752-515b-5537-a6d4-a7c39a100e40",
+        "backward_compatibility": "mwnf3:objects_pictures:epm:at:Mus24:27:2",
+        "parent_item_id": "6cd1576c-84dc-565e-8f5b-d3d3ed636ea8",
+        "parent_in_package": true,
+        "display_order": 5,
+        "image_url": "https://inventory.metanull.eu/pub/063641a8-42d4-53af-9e23-17cd8b2d5d21.jpg",
+        "related": []
+      }
+    ],
+    "sub_themes": [
+      {
+        "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:54:6",
+        "internal_name": "theme_54_6",
+        "display_order": 1,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "72a3f59d-67f1-55d7-a73b-49b6d0f6d1e1",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:qt:Mus21:19:1",
+            "parent_item_id": "776becd1-b151-59c4-9e46-f120b2d7a354",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/b01f495b-203b-5bef-8120-7f21ce23d1b5.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "a3353473-587d-5f1e-9cf9-a7c24708b2a0",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:us:Mus21:1:2",
+            "parent_item_id": "34fa4908-e715-5899-b8b5-002b54cad2c5",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/95638626-1169-5266-9dc6-5eaf3386d7ad.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "7607e6ae-a105-59dd-8fb4-c772017d6612",
+            "backward_compatibility": "mwnf3:objects_pictures:isl:jo:Mus01:6:4",
+            "parent_item_id": "17666a11-01b4-52c2-96f9-bcfc12f3f7f7",
+            "parent_in_package": true,
+            "display_order": 3,
+            "image_url": "https://inventory.metanull.eu/pub/9e3527d5-35af-5dc5-ae0e-7772073b99d2.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "6fe7e9ff-71ad-5f40-8533-2daa4773d5fe",
+            "backward_compatibility": "mwnf3:monuments_pictures:isl:ma:Mon01:1:14",
+            "parent_item_id": "7ac3ea27-a8cb-553d-b1c3-19067190a3c3",
+            "parent_in_package": true,
+            "display_order": 4,
+            "image_url": "https://inventory.metanull.eu/pub/a3b901f0-f900-5f8f-96f2-5bfd6c55d9a4.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "7cacbb23-f324-5fc0-9b67-b10cc4035fd9",
+            "backward_compatibility": "mwnf3:monuments_pictures:isl:pa:Mon01:6:3",
+            "parent_item_id": "bea26544-aced-52fd-b07c-079721229f74",
+            "parent_in_package": true,
+            "display_order": 5,
+            "image_url": "https://inventory.metanull.eu/pub/5f36bd4c-1d48-59e0-838c-d6a82e9a2352.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "74ec0c42-ea4f-5848-b3e3-57aacec61402",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:at:Mus24:15:1",
+            "parent_item_id": "12c86eff-6117-5981-a2db-6fc7d1b3ebdb",
+            "parent_in_package": true,
+            "display_order": 6,
+            "image_url": "https://inventory.metanull.eu/pub/95836dfd-7f52-5489-a3d5-3c143dbd7d56.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "b1b40c1a-5194-5fda-a369-826d6eca7319",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:at:Mus24:15:2",
+            "parent_item_id": "12c86eff-6117-5981-a2db-6fc7d1b3ebdb",
+            "parent_in_package": true,
+            "display_order": 7,
+            "image_url": "https://inventory.metanull.eu/pub/9a60a729-3171-5572-90cb-7567ea820594.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "456310ec-3123-56bc-95ce-08e27930cf68",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:at:Mus24:15:3",
+            "parent_item_id": "12c86eff-6117-5981-a2db-6fc7d1b3ebdb",
+            "parent_in_package": true,
+            "display_order": 8,
+            "image_url": "https://inventory.metanull.eu/pub/fc18a04f-e7a3-556f-961f-906937f67c1b.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "8aef72a4-8b76-5ec0-9234-1515252a8b56",
+            "backward_compatibility": "mwnf3:monuments_pictures:isl:pa:Mon01:3:3",
+            "parent_item_id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+            "parent_in_package": true,
+            "display_order": 9,
+            "image_url": "https://inventory.metanull.eu/pub/397e1c6e-4097-575f-b49d-a7d8b81e0802.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "f4f28084-b9d4-5cf7-9690-2924b4745a7b",
+            "backward_compatibility": "mwnf3:monuments_pictures:isl:pa:Mon01:3:5",
+            "parent_item_id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+            "parent_in_package": true,
+            "display_order": 10,
+            "image_url": "https://inventory.metanull.eu/pub/803d69fa-9ce3-5560-8760-ede028cca721.jpg",
+            "related": [
+              {
+                "picture_item_id": "e42b5f6d-1f1e-529e-8169-b651efab4460",
+                "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:54:6",
+                "descriptions": {},
+                "reciprocal_descriptions": {}
+              }
+            ]
+          },
+          {
+            "picture_item_id": "e42b5f6d-1f1e-529e-8169-b651efab4460",
+            "backward_compatibility": "mwnf3:monuments_pictures:isl:pa:Mon01:3:6",
+            "parent_item_id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+            "parent_in_package": true,
+            "display_order": 11,
+            "image_url": "https://inventory.metanull.eu/pub/5798cd09-f42f-5071-93c9-8239dc84a574.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "ee22c5fb-1844-5931-a950-73472639f506",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:at:Mus24:27:1",
+            "parent_item_id": "6cd1576c-84dc-565e-8f5b-d3d3ed636ea8",
+            "parent_in_package": true,
+            "display_order": 12,
+            "image_url": "https://inventory.metanull.eu/pub/db537b4e-4443-5ea7-83d1-7c4d26618410.jpg",
+            "related": [
+              {
+                "picture_item_id": "372ff1a6-aeec-540c-9408-e2079a5d4451",
+                "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:54:6",
+                "descriptions": {},
+                "reciprocal_descriptions": {}
+              },
+              {
+                "picture_item_id": "29810752-515b-5537-a6d4-a7c39a100e40",
+                "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:54:6",
+                "descriptions": {},
+                "reciprocal_descriptions": {}
+              }
+            ]
+          },
+          {
+            "picture_item_id": "29810752-515b-5537-a6d4-a7c39a100e40",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:at:Mus24:27:2",
+            "parent_item_id": "6cd1576c-84dc-565e-8f5b-d3d3ed636ea8",
+            "parent_in_package": true,
+            "display_order": 13,
+            "image_url": "https://inventory.metanull.eu/pub/063641a8-42d4-53af-9e23-17cd8b2d5d21.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "372ff1a6-aeec-540c-9408-e2079a5d4451",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:at:Mus24:27:3",
+            "parent_item_id": "6cd1576c-84dc-565e-8f5b-d3d3ed636ea8",
+            "parent_in_package": true,
+            "display_order": 14,
+            "image_url": "https://inventory.metanull.eu/pub/9b7b3edb-fb32-5eed-85f5-d09d30690a29.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "8ad64c79-162f-55f2-94e9-b33cf394e2b0",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:at:Mus24:27:4",
+            "parent_item_id": "6cd1576c-84dc-565e-8f5b-d3d3ed636ea8",
+            "parent_in_package": true,
+            "display_order": 15,
+            "image_url": "https://inventory.metanull.eu/pub/17b79b75-b046-5937-ad11-98db89397f79.jpg",
+            "related": []
+          }
+        ]
+      },
+      {
+        "id": "16626953-50ef-56fa-bd57-e9dc1cfa848a",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:54:7",
+        "internal_name": "theme_54_7",
+        "display_order": 2,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "5bfc7748-ae46-56ef-a181-5473fec373fe",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:at:Mus24:15:4",
+            "parent_item_id": "12c86eff-6117-5981-a2db-6fc7d1b3ebdb",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/1dc79b7a-58d3-54ee-93b7-236736053d7e.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "c918e63f-95b9-514f-ab7c-6c8af40ed696",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:at:Mus24:15:5",
+            "parent_item_id": "12c86eff-6117-5981-a2db-6fc7d1b3ebdb",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/6cc8adf3-7adf-542b-937a-a3360cf3bfe4.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "269436b2-38da-529b-a737-5a2a1489dfef",
+            "backward_compatibility": "mwnf3:objects_pictures:exhcolour:uk:Mus51:3:1",
+            "parent_item_id": "b02909ff-72bb-5ea9-97d5-753e9289377f",
+            "parent_in_package": true,
+            "display_order": 3,
+            "image_url": "https://inventory.metanull.eu/pub/4b737bb1-1d3f-54f6-bcb6-76387e1e7bcb.jpg",
+            "related": [
+              {
+                "picture_item_id": "4f64e0bf-64fc-5892-a88c-4dc68c3f13e0",
+                "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:47:12",
+                "descriptions": {
+                  "en": "The item depicts garments of same purpose."
+                },
+                "reciprocal_descriptions": {}
+              },
+              {
+                "picture_item_id": "cb398250-021d-5b12-9216-d89df673c152",
+                "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:47:12",
+                "descriptions": {
+                  "en": "Same type of object, and is of the same nature."
+                },
+                "reciprocal_descriptions": {}
+              },
+              {
+                "picture_item_id": "d18b7f6a-6e27-5a69-adae-03299ca4744e",
+                "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:47:12",
+                "descriptions": {
+                  "en": "The item is of the same purpose."
+                },
+                "reciprocal_descriptions": {}
+              }
+            ]
+          },
+          {
+            "picture_item_id": "54fbc458-0ca5-588a-a0cd-d5d62ccfb111",
+            "backward_compatibility": "mwnf3:objects_pictures:exhcolour:uk:Mus51:1:1",
+            "parent_item_id": "35c8d4f3-55f5-55eb-8e9b-97e79ecdf9fb",
+            "parent_in_package": true,
+            "display_order": 4,
+            "image_url": "https://inventory.metanull.eu/pub/3e8d2e81-57de-5ed2-ae25-594d553f4d10.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "51af052d-8d26-56ec-9175-33dd9449126b",
+            "backward_compatibility": "mwnf3:monuments_pictures:isl:pa:Mon01:3:2",
+            "parent_item_id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+            "parent_in_package": true,
+            "display_order": 5,
+            "image_url": "https://inventory.metanull.eu/pub/f9f9d49c-ebc5-5cd1-80fd-da4ec30d3bf8.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "154f0962-9f8c-50e6-9879-c3c20d154cff",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:at:Mus24:27:5",
+            "parent_item_id": "6cd1576c-84dc-565e-8f5b-d3d3ed636ea8",
+            "parent_in_package": true,
+            "display_order": 6,
+            "image_url": "https://inventory.metanull.eu/pub/f57f4698-9076-589a-964b-2e83426f391b.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "05f83e07-0728-5a27-9512-77acd6d827fb",
+            "backward_compatibility": "mwnf3:objects_pictures:epm:at:Mus24:36:1",
+            "parent_item_id": "5d9c4672-e793-561a-835c-cda69931fe09",
+            "parent_in_package": true,
+            "display_order": 7,
+            "image_url": "https://inventory.metanull.eu/pub/47ee4b2c-8d56-5e51-aa60-ed1309d63506.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "9a0d382d-4125-5c8f-9445-0d072ae06e68",
+            "backward_compatibility": "mwnf3_travels:monument_picture:iam:pa:1:i:1:c:_:3",
+            "parent_item_id": "861d0f2b-5399-52a3-9e8c-542cf19e001d",
+            "parent_in_package": true,
+            "display_order": 8,
+            "image_url": "https://inventory.metanull.eu/pub/11dde93c-d3ef-5314-8e73-ef437668a743.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "3629b650-170d-5094-91ce-47860366bbcc",
+            "backward_compatibility": "mwnf3_travels:monument_picture:iam:pa:1:i:1:c:_:6",
+            "parent_item_id": "861d0f2b-5399-52a3-9e8c-542cf19e001d",
+            "parent_in_package": true,
+            "display_order": 9,
+            "image_url": "https://inventory.metanull.eu/pub/6cb558ad-0e61-5d53-8d49-435de7e979d0.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "1a439128-03ca-5402-a722-c2a17fc32d3d",
+            "backward_compatibility": "mwnf3:objects_pictures:exhcolour:uk:Mus52:1:1",
+            "parent_item_id": "901912af-e2dd-5692-a2e7-be09e9e75334",
+            "parent_in_package": true,
+            "display_order": 10,
+            "image_url": "https://inventory.metanull.eu/pub/cd27340f-35f7-5901-a083-bbd884de9570.jpg",
+            "related": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6688d259-e149-5de4-963a-0c384207c06c",
+    "backward_compatibility": "mwnf3_thematic_gallery:theme:54:5",
+    "internal_name": "theme_54_5",
+    "display_order": 4,
+    "cover_picture_item_id": "0da21ea7-7831-5160-ab4f-babb2cfb1188",
+    "pictures": [
+      {
+        "picture_item_id": "8e0868ce-86a4-5379-8d23-d5da06693d54",
+        "backward_compatibility": "mwnf3:monuments_pictures:isl:es:Mon01:1:1",
+        "parent_item_id": "d6af3a01-5c17-5b63-869f-1432f1ceb8af",
+        "parent_in_package": true,
+        "display_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/6e536977-857a-5ab4-ae4b-90d2ef2244dc.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "4d503613-8c69-5e50-a6dc-8ab87acd8e5f",
+        "backward_compatibility": "mwnf3:monuments_pictures:isl:es:Mon01:1:2",
+        "parent_item_id": "d6af3a01-5c17-5b63-869f-1432f1ceb8af",
+        "parent_in_package": true,
+        "display_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/85ddc27c-8798-5850-b63b-815da6663f3b.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "06a17585-c167-5b8a-98fc-9718763dfec3",
+        "backward_compatibility": "mwnf3:monuments_pictures:isl:es:Mon01:1:3",
+        "parent_item_id": "d6af3a01-5c17-5b63-869f-1432f1ceb8af",
+        "parent_in_package": true,
+        "display_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/de88e5da-1028-5e8c-a7d3-2575f8808aac.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "78b17d04-26d8-5fac-ba3e-6ff0da4923e1",
+        "backward_compatibility": "mwnf3:objects_pictures:exthe:fr:Mus71:10:1",
+        "parent_item_id": "fa4916ad-b0f5-5f83-898a-6d97cf9229fd",
+        "parent_in_package": true,
+        "display_order": 4,
+        "image_url": "https://inventory.metanull.eu/pub/d890fcb6-0b3b-57e3-8502-69664b930fb0.jpg",
+        "related": [
+          {
+            "picture_item_id": "4d10d489-5cd2-5f67-9c15-f31af08d9943",
+            "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:52:32",
+            "descriptions": {
+              "en": "Another type of vase or ewer used during feasts."
+            },
+            "reciprocal_descriptions": {}
+          }
+        ]
+      },
+      {
+        "picture_item_id": "0da21ea7-7831-5160-ab4f-babb2cfb1188",
+        "backward_compatibility": "mwnf3:objects_pictures:exthe:fr:Mus71:10:2",
+        "parent_item_id": "fa4916ad-b0f5-5f83-898a-6d97cf9229fd",
+        "parent_in_package": true,
+        "display_order": 5,
+        "image_url": "https://inventory.metanull.eu/pub/379dcc2d-93bf-5d74-a221-1ba36792b14d.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "663a6b98-d6d0-50ed-8410-026c64fe5505",
+        "backward_compatibility": "mwnf3:objects_pictures:epm:de:Mus21:2:1",
+        "parent_item_id": "06e39036-25f9-536a-9b12-08f6aedd1b8a",
+        "parent_in_package": true,
+        "display_order": 6,
+        "image_url": "https://inventory.metanull.eu/pub/25da4ac0-4186-50d9-ac62-769ee065cdc8.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "c9a2a449-d2e2-5f01-b46a-02728ea5e1fc",
+        "backward_compatibility": "mwnf3:monuments_pictures:isl:es:Mon01:15:5",
+        "parent_item_id": "991bde22-6f40-5b6e-800e-44dfdaba422f",
+        "parent_in_package": true,
+        "display_order": 7,
+        "image_url": "https://inventory.metanull.eu/pub/c8be2810-0ed0-58b2-b6c2-8f2682108eff.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "1c697791-60fc-523b-8386-9f648b704ee3",
+        "backward_compatibility": "mwnf3_sharing_history:sh_object_images:awe:at:13:_:1",
+        "parent_item_id": "75ecd1ca-690e-54ec-ae5c-583c92e90430",
+        "parent_in_package": true,
+        "display_order": 8,
+        "image_url": "https://inventory.metanull.eu/pub/25f30c3e-fbc8-5f93-8768-84a400c09091.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "4ce615bb-ff14-528f-b0e9-20cd2f126e4e",
+        "backward_compatibility": "mwnf3_travels:monument_picture:iam:pa:1:i:1:c:_:12",
+        "parent_item_id": "861d0f2b-5399-52a3-9e8c-542cf19e001d",
+        "parent_in_package": true,
+        "display_order": 9,
+        "image_url": "https://inventory.metanull.eu/pub/cd293e0b-ddc7-5fbd-a80a-ab9c5097651f.jpg",
+        "related": []
+      }
+    ],
+    "sub_themes": [
+      {
+        "id": "b29d3c22-7432-5299-8bf4-fcf6f4ea551c",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:54:8",
+        "internal_name": "theme_54_8",
+        "display_order": 1,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "4efd0958-7267-5605-81fb-9cd76daf79e3",
+            "backward_compatibility": "mwnf3:objects_pictures:exthe:on:Mus71:3:1",
+            "parent_item_id": "670eba93-83b0-54bf-987d-360af123a3ea",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/93b98489-3f47-5d92-a322-423647d73ae8.jpg",
+            "related": [
+              {
+                "picture_item_id": "372ff1a6-aeec-540c-9408-e2079a5d4451",
+                "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:54:8",
+                "descriptions": {},
+                "reciprocal_descriptions": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "0446259a-6e19-5a60-b07c-ed263100ae84",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:54:9",
+        "internal_name": "theme_54_9",
+        "display_order": 2,
+        "cover_picture_item_id": null,
+        "pictures": []
+      },
+      {
+        "id": "b1836200-a169-5585-94c1-c887c5fd5b2b",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:54:10",
+        "internal_name": "theme_54_10",
+        "display_order": 3,
+        "cover_picture_item_id": null,
+        "pictures": []
+      }
+    ]
+  },
+  {
+    "id": "058816c6-5b8b-59ac-a0a8-45684a40b485",
+    "backward_compatibility": "mwnf3_thematic_gallery:theme:54:11",
+    "internal_name": "theme_54_11",
+    "display_order": 5,
+    "cover_picture_item_id": "ec24795e-4c52-5403-99fc-ff3935edc7bf",
+    "pictures": [
+      {
+        "picture_item_id": "e126398d-5a5c-5245-9ef0-c269fec3f813",
+        "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:2:1",
+        "parent_item_id": "cb87e713-9725-5036-a0d3-fcc95696ca30",
+        "parent_in_package": true,
+        "display_order": 1,
+        "image_url": "https://inventory.metanull.eu/pub/020d54b3-5bc5-53f9-9a1c-c6fb20762341.jpg",
+        "related": [
+          {
+            "picture_item_id": "8c39affa-7959-553b-8c8a-ee261f0232f9",
+            "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:54:11",
+            "descriptions": {
+              "en": "Relating the two items"
+            },
+            "reciprocal_descriptions": {}
+          },
+          {
+            "picture_item_id": "18785363-926c-5d10-a843-2578f2ef4f6f",
+            "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:54:11",
+            "descriptions": {
+              "en": "Relating the items"
+            },
+            "reciprocal_descriptions": {}
+          },
+          {
+            "picture_item_id": "0e44c339-1aaa-5553-a63d-b8fa65c192d7",
+            "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:54:11",
+            "descriptions": {
+              "en": "Relating the items"
+            },
+            "reciprocal_descriptions": {}
+          }
+        ]
+      },
+      {
+        "picture_item_id": "55e007cf-909f-578a-9394-dff7adecbfc1",
+        "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:3:1",
+        "parent_item_id": "f6235379-448e-5847-8d66-127ab7a5d450",
+        "parent_in_package": true,
+        "display_order": 2,
+        "image_url": "https://inventory.metanull.eu/pub/e2ccf8c4-3198-5975-ba05-5b9e1662ea0a.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "ec24795e-4c52-5403-99fc-ff3935edc7bf",
+        "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:4:1",
+        "parent_item_id": "f5500008-7897-52cc-bf99-362d3081b035",
+        "parent_in_package": true,
+        "display_order": 3,
+        "image_url": "https://inventory.metanull.eu/pub/5b2aac70-53ca-56c8-b802-7eeaf17b433c.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "63a9c944-232a-5c6e-8804-eee8c8c65263",
+        "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:5:1",
+        "parent_item_id": "f51131bf-c7b8-5f90-82d9-e4a221fbddca",
+        "parent_in_package": true,
+        "display_order": 4,
+        "image_url": "https://inventory.metanull.eu/pub/e2ed0331-d6e2-5c0c-bb73-b5b240e8f43c.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "bc38590e-fba0-5e97-843a-60dd599d56a7",
+        "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:6:1",
+        "parent_item_id": "4731d4cb-b399-5499-95e0-8992f8ed0c48",
+        "parent_in_package": true,
+        "display_order": 5,
+        "image_url": "https://inventory.metanull.eu/pub/571098ce-3117-5e8c-915a-251df70af47b.jpg",
+        "related": []
+      },
+      {
+        "picture_item_id": "a460f527-a8f8-57d1-95f8-eebfafbe25a3",
+        "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:7:1",
+        "parent_item_id": "240a9072-6ba4-5c4c-a51c-8739e4ee03f9",
+        "parent_in_package": true,
+        "display_order": 6,
+        "image_url": "https://inventory.metanull.eu/pub/b9c6872f-f685-5cee-9fb4-acebc9fe1a6c.jpg",
+        "related": []
+      }
+    ],
+    "sub_themes": [
+      {
+        "id": "4b21cdf8-ea82-5bb5-9fa1-e85d2b24dcaa",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:54:12",
+        "internal_name": "theme_54_12",
+        "display_order": 1,
+        "cover_picture_item_id": "ec24795e-4c52-5403-99fc-ff3935edc7bf",
+        "pictures": [
+          {
+            "picture_item_id": "e126398d-5a5c-5245-9ef0-c269fec3f813",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:2:1",
+            "parent_item_id": "cb87e713-9725-5036-a0d3-fcc95696ca30",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/020d54b3-5bc5-53f9-9a1c-c6fb20762341.jpg",
+            "related": [
+              {
+                "picture_item_id": "8c39affa-7959-553b-8c8a-ee261f0232f9",
+                "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:54:11",
+                "descriptions": {
+                  "en": "Relating the two items"
+                },
+                "reciprocal_descriptions": {}
+              },
+              {
+                "picture_item_id": "18785363-926c-5d10-a843-2578f2ef4f6f",
+                "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:54:11",
+                "descriptions": {
+                  "en": "Relating the items"
+                },
+                "reciprocal_descriptions": {}
+              },
+              {
+                "picture_item_id": "0e44c339-1aaa-5553-a63d-b8fa65c192d7",
+                "theme_backward_compatibility": "mwnf3_thematic_gallery:theme:54:11",
+                "descriptions": {
+                  "en": "Relating the items"
+                },
+                "reciprocal_descriptions": {}
+              }
+            ]
+          },
+          {
+            "picture_item_id": "55e007cf-909f-578a-9394-dff7adecbfc1",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:3:1",
+            "parent_item_id": "f6235379-448e-5847-8d66-127ab7a5d450",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/e2ccf8c4-3198-5975-ba05-5b9e1662ea0a.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "ec24795e-4c52-5403-99fc-ff3935edc7bf",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:4:1",
+            "parent_item_id": "f5500008-7897-52cc-bf99-362d3081b035",
+            "parent_in_package": true,
+            "display_order": 3,
+            "image_url": "https://inventory.metanull.eu/pub/5b2aac70-53ca-56c8-b802-7eeaf17b433c.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "63a9c944-232a-5c6e-8804-eee8c8c65263",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:5:1",
+            "parent_item_id": "f51131bf-c7b8-5f90-82d9-e4a221fbddca",
+            "parent_in_package": true,
+            "display_order": 4,
+            "image_url": "https://inventory.metanull.eu/pub/e2ed0331-d6e2-5c0c-bb73-b5b240e8f43c.jpg",
+            "related": []
+          }
+        ]
+      },
+      {
+        "id": "eafc68e4-60c9-5ab8-8fe1-1fdaf0e60e26",
+        "backward_compatibility": "mwnf3_thematic_gallery:theme:54:13",
+        "internal_name": "theme_54_13",
+        "display_order": 2,
+        "cover_picture_item_id": null,
+        "pictures": [
+          {
+            "picture_item_id": "bc38590e-fba0-5e97-843a-60dd599d56a7",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:6:1",
+            "parent_item_id": "4731d4cb-b399-5499-95e0-8992f8ed0c48",
+            "parent_in_package": true,
+            "display_order": 1,
+            "image_url": "https://inventory.metanull.eu/pub/571098ce-3117-5e8c-915a-251df70af47b.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "a460f527-a8f8-57d1-95f8-eebfafbe25a3",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:7:1",
+            "parent_item_id": "240a9072-6ba4-5c4c-a51c-8739e4ee03f9",
+            "parent_in_package": true,
+            "display_order": 2,
+            "image_url": "https://inventory.metanull.eu/pub/b9c6872f-f685-5cee-9fb4-acebc9fe1a6c.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "377a9301-5bea-53c9-9cfc-36380c835fd2",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:9:1",
+            "parent_item_id": "65d727fa-f4a0-5ab9-9f61-747c086b56f5",
+            "parent_in_package": true,
+            "display_order": 3,
+            "image_url": "https://inventory.metanull.eu/pub/03d04929-a5c4-5fe3-98fe-9d8fb290fadd.jpg",
+            "related": []
+          },
+          {
+            "picture_item_id": "95a0c2bd-3850-5277-b49b-1dbb41b2f124",
+            "backward_compatibility": "mwnf3:objects_pictures:exwit:de:Mus61:8:1",
+            "parent_item_id": "112d56d2-756e-5b32-915c-31387a510643",
+            "parent_in_package": true,
+            "display_order": 4,
+            "image_url": "https://inventory.metanull.eu/pub/14454aaf-7e05-59e6-baf2-a9e8054bcb2c.jpg",
+            "related": []
+          }
+        ]
+      }
+    ]
+  }
+]

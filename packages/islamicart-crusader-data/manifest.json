@@ -1,0 +1,136 @@
+{
+  "projectKeys": [
+    "ISL",
+    "EPM"
+  ],
+  "projectIds": [
+    "61c122ac-ea86-5462-8bab-6b86138c49b2",
+    "928f5e0d-53e3-5f53-b9c2-5af389c30dd4"
+  ],
+  "version": "1.0.0",
+  "rights": {
+    "rights_holder": "Museum Ohne Grenzen e.V. (Museum With No Frontiers)",
+    "terms_url": "https://www.museumwnf.org/about/legal-notice",
+    "attribution": "Content © Museum With No Frontiers, used under the MWNF legal notice."
+  },
+  "site": {
+    "key": "islamicart-crusader",
+    "languages": [
+      {
+        "code": "ar",
+        "label": "العربية"
+      },
+      {
+        "code": "de",
+        "label": "Deutsch"
+      },
+      {
+        "code": "en",
+        "label": "English"
+      },
+      {
+        "code": "es",
+        "label": "Español"
+      },
+      {
+        "code": "fr",
+        "label": "Français"
+      },
+      {
+        "code": "it",
+        "label": "Italiano"
+      },
+      {
+        "code": "pt",
+        "label": "Português"
+      },
+      {
+        "code": "se",
+        "label": "Svenska"
+      },
+      {
+        "code": "tr",
+        "label": "Türkçe"
+      }
+    ],
+    "names": {
+      "ar": "الفرنجة: الصليبيون في المشرق",
+      "de": "Al-Frandsch: Die Kreuzfahrer in der Levante",
+      "en": "Al-Franj: the Crusaders in the Levant",
+      "es": "Al-frany, los cruzados en el Levante",
+      "fr": "Al-Franj : les Croisés au Levant",
+      "it": "Al-Franj: I Crociati nel Levante",
+      "pt": "Al-franj, os cruzados no Levante",
+      "se": "*Al-Franj*: the Crusaders in the Levant",
+      "tr": "El-Frenc: Levant’ta Haçlılar"
+    },
+    "root_collection_id": "4c126e80-2567-5abd-9191-3d40f380e81f",
+    "legacy_url": "https://islamicart.museumwnf.org/exhibitions/ISL/crusader/",
+    "parent": {
+      "key": "islamicart",
+      "names": {
+        "ar": "اكتشف الفن الإسلامي",
+        "de": "Discover Islamic Art",
+        "en": "Discover Islamic Art",
+        "es": "Descubrir el Arte Islámico",
+        "fr": "Découvrir l’art islamique",
+        "it": "Discover Islamic Art",
+        "pt": "Descobrir a Arte Islâmica",
+        "tr": "İslam Sanatını Keşfedin"
+      }
+    }
+  },
+  "languages": [
+    "ar",
+    "cs",
+    "de",
+    "el",
+    "en",
+    "fa",
+    "fr",
+    "he",
+    "hr",
+    "hu",
+    "it",
+    "pt",
+    "ru",
+    "si",
+    "es",
+    "se",
+    "tr",
+    "ch"
+  ],
+  "projects": {
+    "61c122ac-ea86-5462-8bab-6b86138c49b2": {
+      "name": {
+        "ar": "اكتشف الفن الإسلامي",
+        "de": "Discover Islamic Art",
+        "en": "Discover Islamic Art",
+        "fr": "Découvrir l’art islamique",
+        "it": "Discover Islamic Art",
+        "pt": "Descobrir a Arte Islâmica",
+        "es": "Descubrir el Arte Islámico",
+        "tr": "İslam Sanatını Keşfedin"
+      },
+      "site_url": "https://islamicart.museumwnf.org",
+      "related_database_url": "https://islamicart.museumwnf.org/database.php",
+      "artistic_introduction_url": "https://islamicart.museumwnf.org/gai/ISL/"
+    },
+    "928f5e0d-53e3-5f53-b9c2-5af389c30dd4": {
+      "name": {
+        "ar": "Explore Islamic Art Collections",
+        "de": "Explore Islamic Art Collections",
+        "el": "Περιηγηθείτε στις συλλογές ισλαμικής τέχνης",
+        "en": "Explore Islamic Art Collections",
+        "fr": "Explore Islamic Art Collections",
+        "it": "Explore Islamic Art Collections",
+        "pt": "Explore Islamic Art Collections",
+        "es": "Explore Islamic Art Collections",
+        "tr": "Explore Islamic Art Collections"
+      },
+      "site_url": "https://islamicart.museumwnf.org",
+      "related_database_url": "https://islamicart.museumwnf.org/database.php",
+      "artistic_introduction_url": "https://islamicart.museumwnf.org/gai/ISL/"
+    }
+  }
+}

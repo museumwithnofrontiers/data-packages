@@ -1,0 +1,76 @@
+{
+  "projectKeys": [
+    "awe"
+  ],
+  "projectIds": [
+    "0f031e22-6dc6-5ce6-b94b-9bb88345140c"
+  ],
+  "version": "1.0.0",
+  "rights": {
+    "rights_holder": "Museum Ohne Grenzen e.V. (Museum With No Frontiers)",
+    "terms_url": "https://www.museumwnf.org/about/legal-notice",
+    "attribution": "Content © Museum With No Frontiers, used under the MWNF legal notice."
+  },
+  "site": {
+    "key": "sharinghistory-international-exhibitions",
+    "languages": [
+      {
+        "code": "en",
+        "label": "English"
+      }
+    ],
+    "names": {
+      "en": "International Exhibitions"
+    },
+    "root_collection_id": "c3a68819-dcf2-5be4-8f9b-dcc45c8848e4",
+    "legacy_url": "https://sharinghistory.museumwnf.org/exhibitions/AWE/exh_items.php?eId=7",
+    "parent": {
+      "key": "sharinghistory",
+      "names": {
+        "ar": "Sharing History",
+        "de": "Sharing History",
+        "en": "Sharing History - Arab-Ottoman-European relations in the 19th century.",
+        "es": "Sharing History",
+        "fr": "Sharing History",
+        "it": "Sharing History",
+        "pt": "Sharing History"
+      }
+    }
+  },
+  "languages": [
+    "ar",
+    "cs",
+    "de",
+    "el",
+    "en",
+    "fa",
+    "fr",
+    "he",
+    "hr",
+    "hu",
+    "it",
+    "pt",
+    "ru",
+    "si",
+    "es",
+    "se",
+    "tr",
+    "ch"
+  ],
+  "projects": {
+    "0f031e22-6dc6-5ce6-b94b-9bb88345140c": {
+      "name": {
+        "ar": "Sharing History",
+        "de": "Sharing History",
+        "en": "Sharing History - Arab-Ottoman-European relations in the 19th century.",
+        "fr": "Sharing History",
+        "it": "Sharing History",
+        "pt": "Sharing History",
+        "es": "Sharing History"
+      },
+      "site_url": "https://sharinghistory.museumwnf.org",
+      "related_database_url": "https://sharinghistory.museumwnf.org/database.php",
+      "artistic_introduction_url": null
+    }
+  }
+}

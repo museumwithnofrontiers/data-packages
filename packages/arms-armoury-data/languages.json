@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ara",
+    "code": "ar",
+    "is_default": false,
+    "site_language": true,
+    "names": {
+      "ar": "العربية",
+      "de": "Arabisch",
+      "en": "Arabic",
+      "fr": "Arabe",
+      "it": "Arabo",
+      "pt": "Árabe",
+      "es": "Árabe"
+    }
+  },
+  {
+    "id": "deu",
+    "code": "de",
+    "is_default": false,
+    "site_language": false,
+    "names": {
+      "ar": "الالمانية",
+      "de": "Deutsch",
+      "en": "German",
+      "fr": "Allemand",
+      "it": "Tedesco",
+      "pt": "Alemão",
+      "es": "Alemán"
+    }
+  },
+  {
+    "id": "eng",
+    "code": "en",
+    "is_default": true,
+    "site_language": true,
+    "names": {
+      "ar": "الانجليزية",
+      "de": "Englisch",
+      "en": "English",
+      "fr": "Anglais",
+      "it": "Inglese",
+      "pt": "Inglês",
+      "es": "Inglés"
+    }
+  },
+  {
+    "id": "fra",
+    "code": "fr",
+    "is_default": false,
+    "site_language": true,
+    "names": {
+      "ar": "الفرنسية",
+      "de": "Französisch",
+      "en": "French",
+      "fr": "Français",
+      "it": "Francese",
+      "pt": "Francês",
+      "es": "Francés"
+    }
+  },
+  {
+    "id": "ita",
+    "code": "it",
+    "is_default": false,
+    "site_language": false,
+    "names": {
+      "ar": "الايطالية",
+      "de": "Italienisch",
+      "en": "Italian",
+      "fr": "Italien",
+      "it": "Italiano",
+      "pt": "Italiano",
+      "es": "Italiano"
+    }
+  },
+  {
+    "id": "por",
+    "code": "pt",
+    "is_default": false,
+    "site_language": false,
+    "names": {
+      "ar": "البرتغالية",
+      "de": "Portugiesisch",
+      "en": "Portuguese",
+      "fr": "Portugais",
+      "it": "Portoghese",
+      "pt": "Português",
+      "es": "Portugués"
+    }
+  },
+  {
+    "id": "spa",
+    "code": "es",
+    "is_default": false,
+    "site_language": true,
+    "names": {
+      "ar": "الاسبانية",
+      "de": "Spanisch",
+      "en": "Spanish",
+      "fr": "Espagnol",
+      "it": "Spagnolo",
+      "pt": "Espanhol",
+      "es": "Español"
+    }
+  }
+]

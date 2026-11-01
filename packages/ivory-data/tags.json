@@ -1,0 +1,786 @@
+[
+  {
+    "id": "2062772e-678d-5d10-97f8-6b226be9a82c",
+    "backward_compatibility": "thg:tags:artist_1dbf",
+    "legacy_tag_id": "artist_1dbf",
+    "category": "artist",
+    "label": "Abd Al-Rahman Bin Zaywan"
+  },
+  {
+    "id": "371c1914-6f29-5271-8ceb-51f3041edbef",
+    "backward_compatibility": "thg:tags:artist_1fb4",
+    "legacy_tag_id": "artist_1fb4",
+    "category": "artist",
+    "label": "Ahmad Bin Hasan Qalib-i Fani"
+  },
+  {
+    "id": "76c1c0fc-af7d-5bbd-a0c8-4e3066e16013",
+    "backward_compatibility": "thg:tags:artist_1fd0",
+    "legacy_tag_id": "artist_1fd0",
+    "category": "artist",
+    "label": "Ali Üsküdari"
+  },
+  {
+    "id": "0ae1effb-658f-5054-956e-ee31941e928c",
+    "backward_compatibility": "thg:tags:artist_1f3e",
+    "legacy_tag_id": "artist_1f3e",
+    "category": "artist",
+    "label": "Unknown Sinhala-Portuguese Artist"
+  },
+  {
+    "id": "a0f3510d-1b5c-5522-9c91-a91eb12320cc",
+    "backward_compatibility": "thg:tags:dynasty_1cd8",
+    "legacy_tag_id": "dynasty_1cd8",
+    "category": "dynasty",
+    "label": "Abbasid"
+  },
+  {
+    "id": "41731c32-973f-5fc8-b1a5-4ba4d883879d",
+    "backward_compatibility": "thg:tags:dynasty_2119",
+    "legacy_tag_id": "dynasty_2119",
+    "category": "dynasty",
+    "label": "Al-Busaid"
+  },
+  {
+    "id": "de5dfca4-6b3b-5b96-bcc3-581119d2f3c1",
+    "backward_compatibility": "thg:tags:dynasty_1c6b",
+    "legacy_tag_id": "dynasty_1c6b",
+    "category": "dynasty",
+    "label": "Almoravid"
+  },
+  {
+    "id": "33d67858-2db4-5357-939c-ee157f628913",
+    "backward_compatibility": "thg:tags:dynasty_1eb0",
+    "legacy_tag_id": "dynasty_1eb0",
+    "category": "dynasty",
+    "label": "Arab-Norman Art"
+  },
+  {
+    "id": "0ed88afc-17e4-5f1b-9561-80dd6f10b8e4",
+    "backward_compatibility": "thg:tags:dynasty_1d7b",
+    "legacy_tag_id": "dynasty_1d7b",
+    "category": "dynasty",
+    "label": "Fatimid"
+  },
+  {
+    "id": "e964533f-5908-5365-8d9d-aef12a9ec695",
+    "backward_compatibility": "thg:tags:dynasty_1b2b",
+    "legacy_tag_id": "dynasty_1b2b",
+    "category": "dynasty",
+    "label": "Mamluk"
+  },
+  {
+    "id": "66800a11-d506-5c74-9052-3a693173543f",
+    "backward_compatibility": "thg:tags:dynasty_1b37",
+    "legacy_tag_id": "dynasty_1b37",
+    "category": "dynasty",
+    "label": "Mughal"
+  },
+  {
+    "id": "87afeb2f-620a-5b0e-86e8-05319890da80",
+    "backward_compatibility": "thg:tags:dynasty_1cdc",
+    "legacy_tag_id": "dynasty_1cdc",
+    "category": "dynasty",
+    "label": "Norman"
+  },
+  {
+    "id": "a192d3cd-8c84-5f57-b39a-1c80115ad0e5",
+    "backward_compatibility": "thg:tags:dynasty_1b2c",
+    "legacy_tag_id": "dynasty_1b2c",
+    "category": "dynasty",
+    "label": "Ottoman"
+  },
+  {
+    "id": "61be4f7e-2416-56c9-b3bd-f44b282ee1bf",
+    "backward_compatibility": "thg:tags:dynasty_2015",
+    "legacy_tag_id": "dynasty_2015",
+    "category": "dynasty",
+    "label": "Siculo-Norman"
+  },
+  {
+    "id": "4ce86859-2c98-5724-8e71-8c92c91170cd",
+    "backward_compatibility": "thg:tags:dynasty_1c99",
+    "legacy_tag_id": "dynasty_1c99",
+    "category": "dynasty",
+    "label": "Taifa Kingdoms"
+  },
+  {
+    "id": "efccf6b3-f0b0-5fde-890d-78cedce04177",
+    "backward_compatibility": "thg:tags:dynasty_1b44",
+    "legacy_tag_id": "dynasty_1b44",
+    "category": "dynasty",
+    "label": "Umayyad"
+  },
+  {
+    "id": "3e66bf23-5e9e-58d0-8170-3cdfb9535a48",
+    "backward_compatibility": "thg:tags:dynasty_1d82",
+    "legacy_tag_id": "dynasty_1d82",
+    "category": "dynasty",
+    "label": "Umayyads Of Al-Andalus"
+  },
+  {
+    "id": "aedb0397-d879-5d64-8451-5640d4a9245f",
+    "backward_compatibility": "thg:tags:material_2024",
+    "legacy_tag_id": "material_2024",
+    "category": "material",
+    "label": "Agate"
+  },
+  {
+    "id": "092b02d4-198b-55d4-bc1a-80f165073c79",
+    "backward_compatibility": "thg:tags:material_1b59",
+    "legacy_tag_id": "material_1b59",
+    "category": "material",
+    "label": "Beads"
+  },
+  {
+    "id": "186db0b1-03d7-5505-a932-69fba2d2f30f",
+    "backward_compatibility": "thg:tags:material_1bc5",
+    "legacy_tag_id": "material_1bc5",
+    "category": "material",
+    "label": "Bone"
+  },
+  {
+    "id": "adc69ef0-c944-5ddc-945d-e7eb89c16207",
+    "backward_compatibility": "thg:tags:material_1ac6",
+    "legacy_tag_id": "material_1ac6",
+    "category": "material",
+    "label": "Brass"
+  },
+  {
+    "id": "ae50b0d8-05f0-50a7-8878-68cf70493ddd",
+    "backward_compatibility": "thg:tags:material_1ae8",
+    "legacy_tag_id": "material_1ae8",
+    "category": "material",
+    "label": "Bronze"
+  },
+  {
+    "id": "1d31973e-4e4c-5e6f-a8f8-20930d9ea796",
+    "backward_compatibility": "thg:tags:material_1ae7",
+    "legacy_tag_id": "material_1ae7",
+    "category": "material",
+    "label": "Cardboard"
+  },
+  {
+    "id": "c340ead6-3ef8-5581-a534-9af48b99a067",
+    "backward_compatibility": "thg:tags:material_1a66",
+    "legacy_tag_id": "material_1a66",
+    "category": "material",
+    "label": "Carving"
+  },
+  {
+    "id": "b2e5f1c7-8fb1-53b9-82d0-71a85acf72d8",
+    "backward_compatibility": "thg:tags:material_1ba2",
+    "legacy_tag_id": "material_1ba2",
+    "category": "material",
+    "label": "Casting"
+  },
+  {
+    "id": "52a192ed-086b-57bd-9bc2-6317f135d067",
+    "backward_compatibility": "thg:tags:material_1a58",
+    "legacy_tag_id": "material_1a58",
+    "category": "material",
+    "label": "Copper"
+  },
+  {
+    "id": "3ed815da-8416-5062-acd9-dbdb92743768",
+    "backward_compatibility": "thg:tags:material_1d60",
+    "legacy_tag_id": "material_1d60",
+    "category": "material",
+    "label": "Cutting"
+  },
+  {
+    "id": "aa8b5e79-966b-5e1b-9acf-4cc5d83764d8",
+    "backward_compatibility": "thg:tags:material_1c8f",
+    "legacy_tag_id": "material_1c8f",
+    "category": "material",
+    "label": "Damascening"
+  },
+  {
+    "id": "a2a3d9bd-28e3-5e58-9d34-79d60e2e4154",
+    "backward_compatibility": "thg:tags:material_2027",
+    "legacy_tag_id": "material_2027",
+    "category": "material",
+    "label": "Diamond"
+  },
+  {
+    "id": "f9249642-934c-5eb8-8e5b-d016ecc1f095",
+    "backward_compatibility": "thg:tags:material_1ab6",
+    "legacy_tag_id": "material_1ab6",
+    "category": "material",
+    "label": "Enamel"
+  },
+  {
+    "id": "8f1747b9-af5e-5dea-92e1-e47675234aa4",
+    "backward_compatibility": "thg:tags:material_1adc",
+    "legacy_tag_id": "material_1adc",
+    "category": "material",
+    "label": "Engraving"
+  },
+  {
+    "id": "ae00ec97-371f-50a0-a793-494d36453d82",
+    "backward_compatibility": "thg:tags:material_1b0c",
+    "legacy_tag_id": "material_1b0c",
+    "category": "material",
+    "label": "Gilding"
+  },
+  {
+    "id": "948da355-bd1d-52a5-8a6b-d605931327a5",
+    "backward_compatibility": "thg:tags:material_1ab4",
+    "legacy_tag_id": "material_1ab4",
+    "category": "material",
+    "label": "Glass"
+  },
+  {
+    "id": "fa0deb2b-6423-58bb-ae98-288cf61756c8",
+    "backward_compatibility": "thg:tags:material_1adf",
+    "legacy_tag_id": "material_1adf",
+    "category": "material",
+    "label": "Gold"
+  },
+  {
+    "id": "0a767820-4ea9-5cb9-bf4a-d8b6d28fe7ea",
+    "backward_compatibility": "thg:tags:material_2128",
+    "legacy_tag_id": "material_2128",
+    "category": "material",
+    "label": "Gold Thread"
+  },
+  {
+    "id": "8fbac68c-c0e7-564c-a4aa-d7b0f11239de",
+    "backward_compatibility": "thg:tags:material_1bf2",
+    "legacy_tag_id": "material_1bf2",
+    "category": "material",
+    "label": "Incision"
+  },
+  {
+    "id": "9085c1a9-ebbf-525e-be07-f831b2097551",
+    "backward_compatibility": "thg:tags:material_1a5a",
+    "legacy_tag_id": "material_1a5a",
+    "category": "material",
+    "label": "Inlay"
+  },
+  {
+    "id": "7297e7ea-0eea-5322-b799-72687ac18a05",
+    "backward_compatibility": "thg:tags:material_1ade",
+    "legacy_tag_id": "material_1ade",
+    "category": "material",
+    "label": "Iron"
+  },
+  {
+    "id": "043383ab-82a5-5f14-b025-a0414fbaee28",
+    "backward_compatibility": "thg:tags:material_1ac3",
+    "legacy_tag_id": "material_1ac3",
+    "category": "material",
+    "label": "Ivory"
+  },
+  {
+    "id": "4a0c0dd1-3f15-5c5d-b44e-cce7469eff77",
+    "backward_compatibility": "thg:tags:material_1fb8",
+    "legacy_tag_id": "material_1fb8",
+    "category": "material",
+    "label": "Kalemişi"
+  },
+  {
+    "id": "248f843b-f48e-5634-9c07-ff35aa6dd69c",
+    "backward_compatibility": "thg:tags:material_1ba0",
+    "legacy_tag_id": "material_1ba0",
+    "category": "material",
+    "label": "Lead"
+  },
+  {
+    "id": "0e3ac004-1d90-5f5e-8d11-48dce1a11138",
+    "backward_compatibility": "thg:tags:material_1b0b",
+    "legacy_tag_id": "material_1b0b",
+    "category": "material",
+    "label": "Leather"
+  },
+  {
+    "id": "397ca18d-1072-52a3-bad6-0eedbae10f14",
+    "backward_compatibility": "thg:tags:material_1c6a",
+    "legacy_tag_id": "material_1c6a",
+    "category": "material",
+    "label": "Marquetry"
+  },
+  {
+    "id": "7a7f9e12-d9f4-5b73-a1e7-25b50c97ad4a",
+    "backward_compatibility": "thg:tags:material_1fbc",
+    "legacy_tag_id": "material_1fbc",
+    "category": "material",
+    "label": "Mastic"
+  },
+  {
+    "id": "7885402e-007c-59e7-a5ad-9d3f1d49fe3b",
+    "backward_compatibility": "thg:tags:material_1a5d",
+    "legacy_tag_id": "material_1a5d",
+    "category": "material",
+    "label": "Metal"
+  },
+  {
+    "id": "f326dd19-8dce-5d76-ae2f-229bb088df72",
+    "backward_compatibility": "thg:tags:material_1be1",
+    "legacy_tag_id": "material_1be1",
+    "category": "material",
+    "label": "Moulding"
+  },
+  {
+    "id": "32d684aa-8ca1-5c35-91d0-e16a074b87b4",
+    "backward_compatibility": "thg:tags:material_1c9a",
+    "legacy_tag_id": "material_1c9a",
+    "category": "material",
+    "label": "Niello"
+  },
+  {
+    "id": "02a7e12a-e58f-5a90-ad18-72ff6668610b",
+    "backward_compatibility": "thg:tags:material_1c29",
+    "legacy_tag_id": "material_1c29",
+    "category": "material",
+    "label": "Openwork"
+  },
+  {
+    "id": "f8463181-43db-52ad-8645-e6bfbcf61982",
+    "backward_compatibility": "thg:tags:material_1cef",
+    "legacy_tag_id": "material_1cef",
+    "category": "material",
+    "label": "Pigments"
+  },
+  {
+    "id": "9cd133c0-dc79-5ff7-872b-336c5caf792b",
+    "backward_compatibility": "thg:tags:material_1ae0",
+    "legacy_tag_id": "material_1ae0",
+    "category": "material",
+    "label": "Precious Stones"
+  },
+  {
+    "id": "6ea37da5-be1f-523f-bceb-3f301232489d",
+    "backward_compatibility": "thg:tags:material_1ac4",
+    "legacy_tag_id": "material_1ac4",
+    "category": "material",
+    "label": "Relief"
+  },
+  {
+    "id": "ad4bd392-b432-5106-91fa-4832d1f85eb9",
+    "backward_compatibility": "thg:tags:material_1cc0",
+    "legacy_tag_id": "material_1cc0",
+    "category": "material",
+    "label": "Repoussé"
+  },
+  {
+    "id": "9730aa30-6a7d-550f-bf5f-a9292f650d1d",
+    "backward_compatibility": "thg:tags:material_1a59",
+    "legacy_tag_id": "material_1a59",
+    "category": "material",
+    "label": "Silver"
+  },
+  {
+    "id": "71614111-d97c-5f20-9680-1e8f6829e74c",
+    "backward_compatibility": "thg:tags:material_1b14",
+    "legacy_tag_id": "material_1b14",
+    "category": "material",
+    "label": "Steel"
+  },
+  {
+    "id": "039af720-af8c-5da6-afaf-350512330f72",
+    "backward_compatibility": "thg:tags:material_1aec",
+    "legacy_tag_id": "material_1aec",
+    "category": "material",
+    "label": "Stone"
+  },
+  {
+    "id": "c425d611-8cc7-5f18-80da-b439cc305224",
+    "backward_compatibility": "thg:tags:material_1df1",
+    "legacy_tag_id": "material_1df1",
+    "category": "material",
+    "label": "Tortoiseshell"
+  },
+  {
+    "id": "5bd3e884-d803-57d6-89e0-8b64adeda9fa",
+    "backward_compatibility": "thg:tags:material_1a4e",
+    "legacy_tag_id": "material_1a4e",
+    "category": "material",
+    "label": "Velvet"
+  },
+  {
+    "id": "c9ffe50d-72c3-570b-a933-acbb6dd08760",
+    "backward_compatibility": "thg:tags:material_2182",
+    "legacy_tag_id": "material_2182",
+    "category": "material",
+    "label": "Whale Baleen"
+  },
+  {
+    "id": "b59fc744-962c-54ef-a0a3-3afe199c94a2",
+    "backward_compatibility": "thg:tags:material_1a65",
+    "legacy_tag_id": "material_1a65",
+    "category": "material",
+    "label": "Wood"
+  },
+  {
+    "id": "a1b100f6-e824-56d7-8d94-aad5bfa516ee",
+    "backward_compatibility": "thg:tags:subject_1af7",
+    "legacy_tag_id": "subject_1af7",
+    "category": "subject",
+    "label": "Allegorical And Symbolical Figures"
+  },
+  {
+    "id": "58a27427-3c25-56d9-bf0d-007ac4b64143",
+    "backward_compatibility": "thg:tags:subject_1bfe",
+    "legacy_tag_id": "subject_1bfe",
+    "category": "subject",
+    "label": "Allegorical Scenes"
+  },
+  {
+    "id": "e59cf7ef-c321-5024-8de8-3fc16e53e489",
+    "backward_compatibility": "thg:tags:subject_1aa9",
+    "legacy_tag_id": "subject_1aa9",
+    "category": "subject",
+    "label": "Animal Scenes"
+  },
+  {
+    "id": "8c7e10c0-9d94-59c6-993b-761e35791dd4",
+    "backward_compatibility": "thg:tags:subject_1b35",
+    "legacy_tag_id": "subject_1b35",
+    "category": "subject",
+    "label": "Biblical Stories"
+  },
+  {
+    "id": "1d1d6e9f-4e5d-503d-bee5-f8335534067a",
+    "backward_compatibility": "thg:tags:subject_1b31",
+    "legacy_tag_id": "subject_1b31",
+    "category": "subject",
+    "label": "Court"
+  },
+  {
+    "id": "f7c154be-0030-51ed-bd0c-b99efa1835d8",
+    "backward_compatibility": "thg:tags:subject_1b33",
+    "legacy_tag_id": "subject_1b33",
+    "category": "subject",
+    "label": "Garden"
+  },
+  {
+    "id": "ce5de689-0923-5aa2-9dc0-374230c8c13c",
+    "backward_compatibility": "thg:tags:subject_1b30",
+    "legacy_tag_id": "subject_1b30",
+    "category": "subject",
+    "label": "Hunting"
+  },
+  {
+    "id": "9c9c77b7-7ed5-532d-b899-7a18ea1755c6",
+    "backward_compatibility": "thg:tags:subject_1f44",
+    "legacy_tag_id": "subject_1f44",
+    "category": "subject",
+    "label": "HuntingThe Tree Of Life"
+  },
+  {
+    "id": "e055d917-5b35-5a5f-a560-3101debd7c10",
+    "backward_compatibility": "thg:tags:subject_1b32",
+    "legacy_tag_id": "subject_1b32",
+    "category": "subject",
+    "label": "Imaginary Animals"
+  },
+  {
+    "id": "7aa120c1-bb96-5773-b4b3-2f5418a79f68",
+    "backward_compatibility": "thg:tags:subject_1b5f",
+    "legacy_tag_id": "subject_1b5f",
+    "category": "subject",
+    "label": "Life Of Jesus"
+  },
+  {
+    "id": "0a3e1257-4e18-5cb6-b167-76283c996d97",
+    "backward_compatibility": "thg:tags:subject_1adb",
+    "legacy_tag_id": "subject_1adb",
+    "category": "subject",
+    "label": "Military Life"
+  },
+  {
+    "id": "d81a1dc7-4657-5cb2-a77e-f7f7f11697dd",
+    "backward_compatibility": "thg:tags:subject_1ada",
+    "legacy_tag_id": "subject_1ada",
+    "category": "subject",
+    "label": "Military Scenes"
+  },
+  {
+    "id": "babea4b9-10ad-55d7-9bf4-f7bfbc6784dd",
+    "backward_compatibility": "thg:tags:subject_1b63",
+    "legacy_tag_id": "subject_1b63",
+    "category": "subject",
+    "label": "Religious Iconography"
+  },
+  {
+    "id": "8176b656-034d-519e-9cc9-5046e89a4aa1",
+    "backward_compatibility": "thg:tags:subject_1b85",
+    "legacy_tag_id": "subject_1b85",
+    "category": "subject",
+    "label": "The Tree Of Life"
+  },
+  {
+    "id": "5fa04b48-0e33-59f4-a255-e4bb733b684b",
+    "backward_compatibility": "thg:tags:type_1b81",
+    "legacy_tag_id": "type_1b81",
+    "category": "type",
+    "label": "Amulet"
+  },
+  {
+    "id": "b04596eb-32ac-556f-9880-007e34936668",
+    "backward_compatibility": "thg:tags:type_1ef4",
+    "legacy_tag_id": "type_1ef4",
+    "category": "type",
+    "label": "Armchair"
+  },
+  {
+    "id": "5b97ff1e-3003-503e-b636-be048870538b",
+    "backward_compatibility": "thg:tags:type_1ed6",
+    "legacy_tag_id": "type_1ed6",
+    "category": "type",
+    "label": "Belt"
+  },
+  {
+    "id": "96c7d92c-0913-57dc-a389-318ebd0a0e33",
+    "backward_compatibility": "thg:tags:type_1ac7",
+    "legacy_tag_id": "type_1ac7",
+    "category": "type",
+    "label": "Box"
+  },
+  {
+    "id": "d43ffb7e-3ce8-5667-9dde-1f0ce3aed2f7",
+    "backward_compatibility": "thg:tags:type_1d94",
+    "legacy_tag_id": "type_1d94",
+    "category": "type",
+    "label": "Cabinet"
+  },
+  {
+    "id": "9a0698ba-4635-51d0-b447-063d20187328",
+    "backward_compatibility": "thg:tags:type_1cdd",
+    "legacy_tag_id": "type_1cdd",
+    "category": "type",
+    "label": "Case"
+  },
+  {
+    "id": "97e3c443-1ae5-583b-9a65-cab52ebde73e",
+    "backward_compatibility": "thg:tags:type_1d7e",
+    "legacy_tag_id": "type_1d7e",
+    "category": "type",
+    "label": "Casket"
+  },
+  {
+    "id": "20f2417e-02e3-5eeb-a8d8-07864ff5218b",
+    "backward_compatibility": "thg:tags:type_1ef5",
+    "legacy_tag_id": "type_1ef5",
+    "category": "type",
+    "label": "Chairs"
+  },
+  {
+    "id": "ad87c139-1b34-5747-afc7-a498431f7119",
+    "backward_compatibility": "thg:tags:type_2183",
+    "legacy_tag_id": "type_2183",
+    "category": "type",
+    "label": "Chauri"
+  },
+  {
+    "id": "26cf16a2-0cda-5b48-a3c9-ba9ec46868bd",
+    "backward_compatibility": "thg:tags:type_1d7f",
+    "legacy_tag_id": "type_1d7f",
+    "category": "type",
+    "label": "Chess Piece"
+  },
+  {
+    "id": "9cb2a90b-0890-53f6-bf4f-de55821fa636",
+    "backward_compatibility": "thg:tags:type_1ab3",
+    "legacy_tag_id": "type_1ab3",
+    "category": "type",
+    "label": "Chest"
+  },
+  {
+    "id": "fec7a972-2e7f-5d47-b4fb-1e2c1cdccd6f",
+    "backward_compatibility": "thg:tags:type_1c8c",
+    "legacy_tag_id": "type_1c8c",
+    "category": "type",
+    "label": "Container"
+  },
+  {
+    "id": "03ca16c4-1204-548e-91b2-9ea61f6c817a",
+    "backward_compatibility": "thg:tags:type_1cc3",
+    "legacy_tag_id": "type_1cc3",
+    "category": "type",
+    "label": "Dagger"
+  },
+  {
+    "id": "bb55f07c-4e0c-5a9c-b953-509698a300f3",
+    "backward_compatibility": "thg:tags:type_1c43",
+    "legacy_tag_id": "type_1c43",
+    "category": "type",
+    "label": "Doll"
+  },
+  {
+    "id": "997b86c0-0b43-5d91-b0da-ff4dfad7f754",
+    "backward_compatibility": "thg:tags:type_1d88",
+    "legacy_tag_id": "type_1d88",
+    "category": "type",
+    "label": "Door"
+  },
+  {
+    "id": "810e4898-86dd-5074-95a7-cd0a458bd889",
+    "backward_compatibility": "thg:tags:type_1c44",
+    "legacy_tag_id": "type_1c44",
+    "category": "type",
+    "label": "Figurine"
+  },
+  {
+    "id": "3f51f047-7510-5799-9f31-d948316b9784",
+    "backward_compatibility": "thg:tags:type_1a92",
+    "legacy_tag_id": "type_1a92",
+    "category": "type",
+    "label": "Flask"
+  },
+  {
+    "id": "540d44f5-985b-556d-8e59-d12e4d315e30",
+    "backward_compatibility": "thg:tags:type_20f8",
+    "legacy_tag_id": "type_20f8",
+    "category": "type",
+    "label": "Fly Whisk"
+  },
+  {
+    "id": "90325d62-9479-543d-a286-bf13e25cf8a9",
+    "backward_compatibility": "thg:tags:type_1d80",
+    "legacy_tag_id": "type_1d80",
+    "category": "type",
+    "label": "Game"
+  },
+  {
+    "id": "6a3a0524-6485-50fa-93c4-ea98b765054a",
+    "backward_compatibility": "thg:tags:type_200f",
+    "legacy_tag_id": "type_200f",
+    "category": "type",
+    "label": "Handle"
+  },
+  {
+    "id": "2e1afe07-c41c-58f3-a3eb-7839ed95e13f",
+    "backward_compatibility": "thg:tags:type_1d7d",
+    "legacy_tag_id": "type_1d7d",
+    "category": "type",
+    "label": "Horn"
+  },
+  {
+    "id": "87046407-6bb7-5465-8a2e-e74258eb10a8",
+    "backward_compatibility": "thg:tags:type_1cb7",
+    "legacy_tag_id": "type_1cb7",
+    "category": "type",
+    "label": "Insignia"
+  },
+  {
+    "id": "f62b29af-fb09-5344-876e-841cb75b31e1",
+    "backward_compatibility": "thg:tags:type_1a64",
+    "legacy_tag_id": "type_1a64",
+    "category": "type",
+    "label": "Jewellery"
+  },
+  {
+    "id": "dc6d84d2-a996-539d-b347-e68a28da45da",
+    "backward_compatibility": "thg:tags:type_1da1",
+    "legacy_tag_id": "type_1da1",
+    "category": "type",
+    "label": "M'kihla"
+  },
+  {
+    "id": "484873e4-cb15-5fca-9d00-a0611197af6e",
+    "backward_compatibility": "thg:tags:type_1cbf",
+    "legacy_tag_id": "type_1cbf",
+    "category": "type",
+    "label": "Mace"
+  },
+  {
+    "id": "2de295b4-14a4-5f15-b4bc-0f7fc14b7541",
+    "backward_compatibility": "thg:tags:type_1bc7",
+    "legacy_tag_id": "type_1bc7",
+    "category": "type",
+    "label": "Needle"
+  },
+  {
+    "id": "3a29422e-f63e-5171-a3f1-8a6adabb29d5",
+    "backward_compatibility": "thg:tags:type_1d7c",
+    "legacy_tag_id": "type_1d7c",
+    "category": "type",
+    "label": "Oliphant"
+  },
+  {
+    "id": "845e6c7e-1e5f-5ee2-8b62-fecdd0d52548",
+    "backward_compatibility": "thg:tags:type_1a9a",
+    "legacy_tag_id": "type_1a9a",
+    "category": "type",
+    "label": "Panel"
+  },
+  {
+    "id": "a826c8bd-bbc6-55c7-a0c3-3a5ab5f40192",
+    "backward_compatibility": "thg:tags:type_1da0",
+    "legacy_tag_id": "type_1da0",
+    "category": "type",
+    "label": "Plaque"
+  },
+  {
+    "id": "2674f80b-6412-566f-82c2-bde8dd84d9cd",
+    "backward_compatibility": "thg:tags:type_1dbe",
+    "legacy_tag_id": "type_1dbe",
+    "category": "type",
+    "label": "Pot"
+  },
+  {
+    "id": "c5d7797f-3ddd-53a0-8c80-eebfab28f95c",
+    "backward_compatibility": "thg:tags:type_1d79",
+    "legacy_tag_id": "type_1d79",
+    "category": "type",
+    "label": "Pyxis"
+  },
+  {
+    "id": "8c640896-096c-5da4-9cf4-4bbc79407246",
+    "backward_compatibility": "thg:tags:type_1aea",
+    "legacy_tag_id": "type_1aea",
+    "category": "type",
+    "label": "Sculpture"
+  },
+  {
+    "id": "7d67a64b-dff7-5b34-a7f4-e5580dd8e7c9",
+    "backward_compatibility": "thg:tags:type_20ed",
+    "legacy_tag_id": "type_20ed",
+    "category": "type",
+    "label": "Staghorn"
+  },
+  {
+    "id": "518db4e3-4ec2-54c8-bf75-26a2f9b89993",
+    "backward_compatibility": "thg:tags:type_1ae9",
+    "legacy_tag_id": "type_1ae9",
+    "category": "type",
+    "label": "Statue"
+  },
+  {
+    "id": "6e8d3c7c-ee62-50a4-9ef1-b543f03c2adc",
+    "backward_compatibility": "thg:tags:type_1ce5",
+    "legacy_tag_id": "type_1ce5",
+    "category": "type",
+    "label": "Talisman"
+  },
+  {
+    "id": "91e6803b-4c88-58b0-8b9e-911283eb9145",
+    "backward_compatibility": "thg:tags:type_1ae2",
+    "legacy_tag_id": "type_1ae2",
+    "category": "type",
+    "label": "Weapon"
+  },
+  {
+    "id": "05b58e11-b9c9-5c3e-a839-eb2a8020d680",
+    "backward_compatibility": "thg:tags:type_2129",
+    "legacy_tag_id": "type_2129",
+    "category": "type",
+    "label": "Weaponry"
+  },
+  {
+    "id": "14f95360-2682-50fa-8295-8d2aa044b25f",
+    "backward_compatibility": "thg:tags:type_1a69",
+    "legacy_tag_id": "type_1a69",
+    "category": "type",
+    "label": "Woodwork"
+  },
+  {
+    "id": "4f2fc1a8-be5c-529a-a9f7-0c71bcabecd5",
+    "backward_compatibility": "thg:tags:type_1fd1",
+    "legacy_tag_id": "type_1fd1",
+    "category": "type",
+    "label": "Writing Set"
+  }
+]

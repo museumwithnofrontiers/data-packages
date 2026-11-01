@@ -1,0 +1,81 @@
+[
+  {
+    "id": "ara",
+    "code": "ar",
+    "is_default": false,
+    "site_language": true,
+    "names": {
+      "ar": "العربية",
+      "en": "Arabic",
+      "fr": "Arabe",
+      "it": "Arabo",
+      "es": "Árabe"
+    }
+  },
+  {
+    "id": "ces",
+    "code": "cs",
+    "is_default": false,
+    "site_language": false,
+    "names": {
+      "ar": "Czech",
+      "cs": "Czech",
+      "en": "Czech",
+      "fr": "Tchèque",
+      "it": "Czech",
+      "es": "Czech"
+    }
+  },
+  {
+    "id": "eng",
+    "code": "en",
+    "is_default": true,
+    "site_language": true,
+    "names": {
+      "ar": "الانجليزية",
+      "en": "English",
+      "fr": "Anglais",
+      "it": "Inglese",
+      "es": "Inglés"
+    }
+  },
+  {
+    "id": "fra",
+    "code": "fr",
+    "is_default": false,
+    "site_language": true,
+    "names": {
+      "ar": "الفرنسية",
+      "en": "French",
+      "fr": "Français",
+      "it": "Francese",
+      "es": "Francés"
+    }
+  },
+  {
+    "id": "ita",
+    "code": "it",
+    "is_default": false,
+    "site_language": false,
+    "names": {
+      "ar": "الايطالية",
+      "en": "Italian",
+      "fr": "Italien",
+      "it": "Italiano",
+      "es": "Italiano"
+    }
+  },
+  {
+    "id": "spa",
+    "code": "es",
+    "is_default": false,
+    "site_language": true,
+    "names": {
+      "ar": "الاسبانية",
+      "en": "Spanish",
+      "fr": "Espagnol",
+      "it": "Spagnolo",
+      "es": "Español"
+    }
+  }
+]
