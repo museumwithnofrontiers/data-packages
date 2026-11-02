@@ -10,6 +10,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [
       {
         "url": "https://inventory.metanull.eu/pub/003af3d3-ea3a-55e4-8fe2-0ef1b0c9de81.jpg",
@@ -48,12 +49,14 @@
       {
         "id": "00eecee6-1a79-5ca4-885a-64eb797adc19",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "025b84b0-d00d-5c21-a749-98f3596f9d77",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "0801264d-8475-5c87-a800-17b6d0cc190e",
@@ -69,17 +72,20 @@
             "curator": null,
             "partner": "Redécouverte des sites archéologiques algériens."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "1028751a-07f0-53c2-8d14-e1b298d6e008",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "18fa1217-5885-554f-bf5c-aed5d4898cb0",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "240766f1-2bff-5c21-abf7-80992ebf2e6a",
@@ -90,12 +96,14 @@
             "curator": null,
             "partner": "Material evidence and casts coming from Spain displayed in the Baths of Diocletian in Rome on the occasion of the International Exhibition in 1911."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "31d6ea38-653b-5a59-a9cf-3d860d963ea6",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "4aea7da2-77b0-548c-ab58-60e5f4c3f6e5",
@@ -105,12 +113,14 @@
       {
         "id": "4b5af6a4-7de4-5e18-87de-8bf5e62763db",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "5441d082-5cb2-51aa-a412-66acc0afe4b5",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "62681131-068c-54e3-b1f2-e3e7012285ab",
@@ -126,12 +136,14 @@
             "curator": null,
             "partner": "Redécouverte des sites archéologiques tunisiens."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "884ca90f-561a-57c1-913d-b4aab82da583",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "94535829-1f7a-57f3-91f8-a5b331e4d1a1",
@@ -141,7 +153,8 @@
       {
         "id": "a6e39000-fe68-56fd-a598-f2bd48c41311",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "a7c8b211-e332-5686-9c0a-beed901d97e7",
@@ -152,7 +165,8 @@
             "curator": null,
             "partner": "The photo shows archaeological materials and casts displayed in the room dedicated to Austria inside the Baths of Diocletian in Rome on the occasion of the International Exhibition in 1911."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "abac828d-5728-5fdb-8767-366c5beb8fa5",
@@ -163,7 +177,8 @@
             "curator": null,
             "partner": "Un café particulièrement réputé pour son architecture en plein Souk de la médina: le souk des turcs."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "cb836758-5e12-5a3f-adea-db7c9212b700",
@@ -174,12 +189,14 @@
             "curator": null,
             "partner": "Visite du site archéologique de Bi-Suton (Kurdistan, ancien empire perse)."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "d1b0dbb9-a089-5201-b98d-4ec5ca02951f",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "d2153895-57ef-583f-b177-30f75fa578f2",
@@ -190,7 +207,8 @@
             "curator": null,
             "partner": "The painting is part of a series of studies carried out in Pompei and Paestum in order to document the excavations promoted by the new Italian State."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "d8832d40-d884-5998-a0e8-a3f9f85b3dea",
@@ -206,42 +224,49 @@
             "curator": null,
             "partner": "Material evidence and casts coming from Greece displayed in the Baths of Diocletian in Rome on the occasion of the International Exhibition in 1911."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "f30a52d1-4558-58b4-bdf7-91782044f03c",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "fe6fa089-3083-5936-9e90-9d863dea6475",
         "display_order": 1,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/4956953e-511c-56e7-884f-ece8324047ba.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/4956953e-511c-56e7-884f-ece8324047ba.jpg",
+        "curator_status": "N"
       },
       {
         "id": "0e467a26-3229-554d-8707-115f086aa0be",
         "display_order": 2,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/86ce9e29-38d8-5cca-87c7-c21646575b4c.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/86ce9e29-38d8-5cca-87c7-c21646575b4c.jpg",
+        "curator_status": "N"
       },
       {
         "id": "5838c354-7008-5b83-99dc-80cbba207468",
         "display_order": 3,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/ba794ebe-c8b4-54ed-a5bc-38bbcc1b3d4e.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/ba794ebe-c8b4-54ed-a5bc-38bbcc1b3d4e.jpg",
+        "curator_status": "N"
       },
       {
         "id": "39343989-0847-535d-82c3-ecbf42c6b4d6",
         "display_order": 4,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/223fa0e5-efbc-5336-aae1-3b8f8e6997c9.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/223fa0e5-efbc-5336-aae1-3b8f8e6997c9.jpg",
+        "curator_status": "N"
       },
       {
         "id": "4bacddd8-1bf3-5cf7-ae4b-b8ebd6e26987",
         "display_order": 5,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/7d954581-e1fe-5cea-897d-41f7e943b4ad.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/7d954581-e1fe-5cea-897d-41f7e943b4ad.jpg",
+        "curator_status": "N"
       }
     ]
   },
@@ -256,6 +281,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -491,6 +517,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -611,6 +638,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -808,6 +836,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1798,6 +1827,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2015,6 +2045,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2095,6 +2126,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2245,6 +2277,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2622,6 +2655,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2774,6 +2808,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3304,6 +3339,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3402,6 +3438,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3756,6 +3793,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -4005,6 +4043,7 @@
     "display_order": 5,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -4105,6 +4144,7 @@
     "display_order": 6,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -4263,6 +4303,7 @@
     "display_order": 7,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {

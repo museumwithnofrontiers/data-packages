@@ -10,6 +10,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -207,6 +208,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -365,6 +367,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -562,6 +565,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -942,6 +946,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -989,6 +994,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1173,6 +1179,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1312,6 +1319,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1509,6 +1517,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1900,6 +1909,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2179,6 +2189,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2233,6 +2244,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2326,6 +2338,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2445,6 +2458,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2732,6 +2746,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2897,6 +2912,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3068,6 +3084,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3213,6 +3230,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3306,6 +3324,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3477,6 +3496,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3711,6 +3731,7 @@
     "display_order": 5,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3843,6 +3864,7 @@
     "display_order": 5,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -4067,6 +4089,7 @@
     "display_order": 6,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -4186,6 +4209,7 @@
     "display_order": 7,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -4370,6 +4394,7 @@
     "display_order": 8,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -4528,6 +4553,7 @@
     "display_order": 9,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [
       {
         "url": "https://inventory.metanull.eu/pub/5b84a346-8f37-5c40-874d-6b90a7d590fc.jpg",
@@ -4574,19 +4600,22 @@
         "id": "179f9d9d-6b5a-52fc-8dea-c159da198fd5",
         "display_order": 1,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/746e5dc1-0e1e-5932-8ff6-fdc7cd766a84.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/746e5dc1-0e1e-5932-8ff6-fdc7cd766a84.jpg",
+        "curator_status": "N"
       },
       {
         "id": "56bae231-ad09-5568-8e83-1f1aa7115444",
         "display_order": 2,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/ffb2e26a-a091-5779-ace0-0efe3b30b8e7.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/ffb2e26a-a091-5779-ace0-0efe3b30b8e7.jpg",
+        "curator_status": "N"
       },
       {
         "id": "2e2c6f60-7eec-5d13-9b2d-03e45b5cd72a",
         "display_order": 3,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/573d44df-e908-50c2-a9ba-cdcae04d3c59.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/573d44df-e908-50c2-a9ba-cdcae04d3c59.jpg",
+        "curator_status": "N"
       }
     ]
   }

@@ -10,6 +10,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -207,6 +208,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -335,6 +337,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -571,6 +574,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -658,6 +662,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -841,6 +846,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1138,6 +1144,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1388,6 +1395,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1624,6 +1632,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1717,6 +1726,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1850,6 +1860,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2015,6 +2026,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2134,6 +2146,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2306,6 +2319,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2420,6 +2434,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2526,6 +2541,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2635,6 +2651,7 @@
     "display_order": 10,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [
       {
         "url": "https://inventory.metanull.eu/pub/a0f358b8-76e1-5cc5-9c72-6b6539b15672.jpg",
@@ -2673,42 +2690,50 @@
       {
         "id": "0ba2e663-9318-562e-9c2a-099d167e8112",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "0e7a0149-6b93-507e-b4df-dc55cdc5bd9f",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "0fa95d00-46ca-5bec-8348-9b86a0617d78",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "11568132-d5af-54cf-9a3f-f663abfb4f5b",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "24e0347f-f9f3-5254-ba16-aef618e16ba6",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "30b8ffa8-c9e2-5376-85c7-4955c327cf33",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "37bd3973-7cb4-5186-ac03-98cda4500caf",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "3cd68daa-dde5-568b-8623-dcdb17c2cf59",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "427b0484-9935-51b8-bf73-9f3ed319e742",
@@ -2718,172 +2743,205 @@
       {
         "id": "4974cb0e-719c-5e1f-975e-0b6646dd1058",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "4d5b7131-33fe-5c5d-8076-ab9568f98e94",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "52bc1f5c-19f1-5c15-8794-630ecd367289",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "54310c6d-87ca-585e-b552-bcb1c5951fe3",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "73e736ab-49ec-5eea-8f27-af65046fe133",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "83550dcd-d5fe-53bf-ba81-33534dbf86ed",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "888046f7-3ef2-5941-9017-769431669b16",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "8d188108-655f-550e-b130-a0eb24f32b9c",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "9b0fa536-0fe5-5f95-ba19-41b4f81e9fd4",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "9b7f13f5-9188-59a0-bf2d-8b4f7c9b66cb",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "a46e70b6-0a07-57b9-ad2a-d974179b2424",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "b72f10b9-2459-52a4-9f0f-f0a69230148a",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "b7d0545b-be32-5c47-ab91-272824042882",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "bd9ac0b4-17dd-5d2a-86a5-baadbae9f621",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "c0d03656-54de-5836-824e-12905a80c7a5",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "c1679a4a-eb18-5ec1-bd6f-8c176785d5ff",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "ca59fd60-c057-5dbf-a2fa-484dcab24b97",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "cc3eb98f-be74-5f38-85da-465d5c36d52e",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "cdba4d4e-0b47-593b-9836-4ab0f782f5e0",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "dbf4dc13-3f6b-5da9-bf05-cfabe7876ad3",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "ddd75581-2e37-5baa-8483-63c54f368af5",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "dff63501-6388-5281-9baf-bb1a3d253e7f",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "e24c667e-3e74-52ad-9357-51224ea2c3d0",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "e8fc4581-ee8f-583c-a11e-54b1e44bda1a",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "f0667100-6159-569b-9a0e-84fec1b968f0",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "f5a5076a-5db4-51ca-8079-bb3a7252511c",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "f918b78f-57d9-5c0d-a75f-075ce7156c35",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "f9783bd6-7a5b-5ca2-8a70-781a2af32872",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "61817120-0f01-5c48-bcf7-a52ed14728f7",
         "display_order": 1,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/d130bb5e-6356-5f54-9b3f-0187f6f7ff57.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/d130bb5e-6356-5f54-9b3f-0187f6f7ff57.jpg",
+        "curator_status": "N"
       },
       {
         "id": "5417f6b5-cc8c-53f1-96de-52e25282f580",
         "display_order": 2,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/7661c7d0-66a3-5beb-b089-0778e7b9c58e.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/7661c7d0-66a3-5beb-b089-0778e7b9c58e.jpg",
+        "curator_status": "N"
       },
       {
         "id": "2a226eef-1a17-51ae-9e21-911b78e227e7",
         "display_order": 3,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/ba61a35d-b10c-5598-8d60-f5fd010c1b50.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/ba61a35d-b10c-5598-8d60-f5fd010c1b50.jpg",
+        "curator_status": "N"
       },
       {
         "id": "9f4dd257-a6bc-5852-b6b1-45af52c3e4f7",
         "display_order": 4,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/c054211c-e4f2-5c03-a47f-f7204e92fe53.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/c054211c-e4f2-5c03-a47f-f7204e92fe53.jpg",
+        "curator_status": "N"
       },
       {
         "id": "6cc37690-74bf-5956-9550-3a0a66b523c8",
         "display_order": 5,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/644ef6a3-e591-5ac2-933c-1603db59d6ed.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/644ef6a3-e591-5ac2-933c-1603db59d6ed.jpg",
+        "curator_status": "N"
       },
       {
         "id": "355b8a63-ea50-5b91-9873-7e2c8152cab8",
