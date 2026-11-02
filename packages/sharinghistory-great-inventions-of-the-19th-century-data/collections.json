@@ -10,6 +10,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -90,6 +91,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -275,6 +277,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -355,6 +358,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -566,6 +570,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -796,6 +801,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -967,6 +973,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1390,6 +1397,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1509,6 +1517,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1628,6 +1637,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1781,6 +1791,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1835,6 +1846,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1948,6 +1960,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2106,6 +2119,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2225,6 +2239,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2481,6 +2496,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [
       {
         "url": "https://inventory.metanull.eu/pub/17f942e8-3501-53b3-9625-a3d24dcc9843.jpg",
@@ -2527,31 +2543,36 @@
         "id": "be44b9c0-4045-581b-a6e2-85c0f3bcd137",
         "display_order": 1,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/3b2a8449-6c7e-5967-a856-2e9348d7ff08.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/3b2a8449-6c7e-5967-a856-2e9348d7ff08.jpg",
+        "curator_status": "N"
       },
       {
         "id": "343b5161-2634-5e60-ba87-3693490baf83",
         "display_order": 2,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/4193103b-fdf0-536a-ab77-14adfc12d866.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/4193103b-fdf0-536a-ab77-14adfc12d866.jpg",
+        "curator_status": "N"
       },
       {
         "id": "efe60dc6-7155-5eb3-a180-d0bfbd548106",
         "display_order": 3,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/04634c04-645f-55b3-96c2-c111a93b8a3d.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/04634c04-645f-55b3-96c2-c111a93b8a3d.jpg",
+        "curator_status": "N"
       },
       {
         "id": "cb597bd9-06a6-5ba9-b5db-5eea1c140fcc",
         "display_order": 4,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/ade7cdde-a61b-5a8c-af79-5b48b6841650.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/ade7cdde-a61b-5a8c-af79-5b48b6841650.jpg",
+        "curator_status": "N"
       },
       {
         "id": "a63d4087-1cd4-5ec4-b4ee-b445f990556b",
         "display_order": 5,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/c6e8df84-6fe0-5726-89d2-098d2966790e.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/c6e8df84-6fe0-5726-89d2-098d2966790e.jpg",
+        "curator_status": "N"
       }
     ]
   },
@@ -2566,6 +2587,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2848,6 +2870,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3142,6 +3165,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3300,6 +3324,7 @@
     "display_order": 5,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {

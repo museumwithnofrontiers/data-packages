@@ -10,6 +10,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -103,6 +104,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -404,6 +406,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -694,6 +697,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -865,6 +869,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -939,6 +944,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1045,6 +1051,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1223,6 +1230,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1394,6 +1402,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1700,6 +1709,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1780,6 +1790,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1939,6 +1950,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2052,6 +2064,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2147,6 +2160,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2344,6 +2358,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2411,6 +2426,7 @@
     "display_order": 7,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [
       {
         "url": "https://inventory.metanull.eu/pub/2d184ae7-1cdb-59b4-9e2e-d328d504dce9.jpg",
@@ -2442,7 +2458,8 @@
       {
         "id": "0a06094f-646e-5da9-8071-e4fb40e88bc7",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "401e4018-e1ee-5a6d-87f6-467eb15b5da9",
@@ -2453,7 +2470,8 @@
             "curator": null,
             "partner": "In 1911 Turin organized the International Exhibition of \"Industry and Labour\" in order to separate it from the archaeological and artistic one taking place in Rome in the same year. Both exhibitions were meant to celebrate the 50th anniversary of Italian Unification. Within the fair in Turin, one of the most successful attractions was the so-called \"Kermesse Orientale\"."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "b8fd5a61-6e87-5479-8b87-53c6a66033f2",
@@ -2464,7 +2482,8 @@
             "curator": null,
             "partner": "The huge interest in Islamic objects, coming from Romantic Orientalism, brought to a massive studio of manufacts and decorative motives especially interesting for Decorative Arts Schools."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "c369fdd9-b766-5049-9f4f-a257d2df3d50",
@@ -2475,72 +2494,84 @@
             "curator": null,
             "partner": "Within the International Exhibition of Rome in 1911 related to the celebrations for the 50th anniversary of the Unification of Italy, in Piazza d’Armi was arranged the \"Forum of Regions\". The architect Ernesto Basile (1857–1932), author of the project for the Sicilian Pavillion, took inspiration from the Arab-Norman architecture in Sicily, in particular from Zisa Palace, the church of Saint John of the Hermits and the Cathedral of Monreale."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "ebc1fbff-c25e-5ca5-86ba-1be3dbc34cbf",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "5f222398-8b87-5911-b8a7-1ddf81006b0c",
         "display_order": 1,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/c0877ad1-d488-5c54-bbde-2fd90e77d356.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/c0877ad1-d488-5c54-bbde-2fd90e77d356.jpg",
+        "curator_status": "N"
       },
       {
         "id": "f175d1d2-4ea7-502d-8b4f-2dbcdf510fc9",
         "display_order": 2,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/aa70c69a-3a7f-5b8b-8288-c3579e31b2b2.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/aa70c69a-3a7f-5b8b-8288-c3579e31b2b2.jpg",
+        "curator_status": "N"
       },
       {
         "id": "90b30aa0-1bcb-5a10-80c9-1a254c7529d3",
         "display_order": 3,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/e564782a-5894-5b06-8df6-5bfba8d99c14.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/e564782a-5894-5b06-8df6-5bfba8d99c14.jpg",
+        "curator_status": "N"
       },
       {
         "id": "e38d66f4-10f9-566e-84d8-1278b05a6847",
         "display_order": 4,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/79655a7b-7283-56d5-929b-547c024f0bcf.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/79655a7b-7283-56d5-929b-547c024f0bcf.jpg",
+        "curator_status": "N"
       },
       {
         "id": "2ae3984e-4d68-5007-ab52-077d0d39f896",
         "display_order": 5,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/e06fedd1-db33-5175-8ef6-5e114e964a2b.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/e06fedd1-db33-5175-8ef6-5e114e964a2b.jpg",
+        "curator_status": "N"
       },
       {
         "id": "750a06a9-2d0d-5ed4-96b6-1e5b28d3634e",
         "display_order": 10,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/0bcfbacc-005e-51e2-9e72-f3d6a2f5e711.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/0bcfbacc-005e-51e2-9e72-f3d6a2f5e711.jpg",
+        "curator_status": "N"
       },
       {
         "id": "d2c53ee5-ac01-5efd-bfd6-0baaae928208",
         "display_order": 11,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/63b68756-b284-54fd-98d2-2fc45173cf7b.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/63b68756-b284-54fd-98d2-2fc45173cf7b.jpg",
+        "curator_status": "N"
       },
       {
         "id": "a7f5c0c6-53c4-5240-ae78-34f4ac89dbbc",
         "display_order": 19,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/0a700578-522b-5919-8166-b7664647297e.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/0a700578-522b-5919-8166-b7664647297e.jpg",
+        "curator_status": "N"
       },
       {
         "id": "e696126e-a8d7-5829-87b8-1372eb83e64c",
         "display_order": 42,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/6a06b0b5-6b20-5ab2-b5bd-c24738f70f7c.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/6a06b0b5-6b20-5ab2-b5bd-c24738f70f7c.jpg",
+        "curator_status": "N"
       },
       {
         "id": "2ea1c843-e974-5276-8455-c507ef6d058b",
         "display_order": 63,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/a6137d06-bba8-5cd3-a485-b711edbd79ac.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/a6137d06-bba8-5cd3-a485-b711edbd79ac.jpg",
+        "curator_status": "N"
       },
       {
         "id": "86f5889a-6b8e-56da-8202-c0ca7f73045b",
@@ -2552,7 +2583,8 @@
             "curator": null,
             "partner": "Within the context of the International Exhibition in Paris, 1878, in the park next to Trocadero Pavilion were performed commercial activities typical of the colony. Working activities were part of the project of the reconstruction of an hypothetical neighbourhood."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "eb38e940-7f0e-59a0-8e60-897613089325",
@@ -2564,7 +2596,8 @@
             "curator": null,
             "partner": "Within the context of the International Exhibition in Paris, 1878, in the park next to Trocadero Pavilion were performed commercial activities typical of the colony. Working activities were part of the project of the reconstruction of an hypothetical neighbourhood."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "0f0a80ba-ac59-5cc2-9963-b390e49608d0",
@@ -2576,7 +2609,8 @@
             "curator": null,
             "partner": "Within the context of the International Exhibition in Paris, 1878, in the park next to Trocadero Pavilion were performed commercial activities typical of the colony. Working activities were part of the project of the reconstruction of an hypothetical neighbourhood."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "5dc7ada7-555b-5b55-b162-ac8e969fa698",
@@ -2588,55 +2622,64 @@
             "curator": null,
             "partner": "Within the context of the International Exhibition in Paris, 1878, in the park next to Trocadero Pavilion were performed commercial activities typical of the colony. Working activities were part of the project of the reconstruction of an hypothetical neighbourhood."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "b98b5c58-b52f-54a7-85fa-fdea8460caf3",
         "display_order": 86,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/4eb97224-a566-5360-83b3-c5f425eb3e04.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/4eb97224-a566-5360-83b3-c5f425eb3e04.jpg",
+        "curator_status": "N"
       },
       {
         "id": "35645306-e708-561a-ae81-24e697df6d15",
         "display_order": 87,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/0ee2c8af-6c4a-52ad-b7d4-8cc20bae0d54.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/0ee2c8af-6c4a-52ad-b7d4-8cc20bae0d54.jpg",
+        "curator_status": "N"
       },
       {
         "id": "88ae5c68-848d-500a-a14d-08612e65ec15",
         "display_order": 88,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/e9c16d81-b4cd-5b23-9337-1c83e47a0bcd.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/e9c16d81-b4cd-5b23-9337-1c83e47a0bcd.jpg",
+        "curator_status": "N"
       },
       {
         "id": "8b996198-d4aa-5ddf-8793-9747fc36a20c",
         "display_order": 91,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/30368752-4758-5133-89e1-2ec04c4fa9f3.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/30368752-4758-5133-89e1-2ec04c4fa9f3.jpg",
+        "curator_status": "N"
       },
       {
         "id": "29092d3e-f7b7-5e75-a750-72b4e7e7bbd1",
         "display_order": 92,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/2a2cf508-854e-508c-8510-5d30aeab8c73.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/2a2cf508-854e-508c-8510-5d30aeab8c73.jpg",
+        "curator_status": "N"
       },
       {
         "id": "58fe74cf-18fc-5029-b7a5-11247965159d",
         "display_order": 93,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/4a56454d-cf63-5f80-8831-f80b4cbfcd0c.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/4a56454d-cf63-5f80-8831-f80b4cbfcd0c.jpg",
+        "curator_status": "N"
       },
       {
         "id": "d27f7bc1-9e5e-581e-a7d7-9666172ce6a8",
         "display_order": 94,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/7ae233c0-bdeb-56ff-b272-3bc73d3212ab.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/7ae233c0-bdeb-56ff-b272-3bc73d3212ab.jpg",
+        "curator_status": "N"
       },
       {
         "id": "459c2899-4ce2-5ffd-a17b-a43ffa91c9bc",
         "display_order": 95,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/fcb3a4be-4f21-527c-99dd-278a0e353940.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/fcb3a4be-4f21-527c-99dd-278a0e353940.jpg",
+        "curator_status": "N"
       },
       {
         "id": "21ba2a39-e5d5-58c6-a42b-e97edf24cfc5",
@@ -2648,7 +2691,8 @@
             "curator": null,
             "partner": "Ecole professionnelle Emile Loubet qui a participé à la foire internationale de Paris en exposant les réalisations de ses élèves travaux du bois, fer, reliure…L’école a reçu la médaille d’or de la foire."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "76c35457-f8ff-5bff-9a85-a95ba8087f82",

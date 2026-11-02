@@ -10,6 +10,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -276,6 +277,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -489,6 +491,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -747,6 +750,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1010,6 +1014,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1255,6 +1260,7 @@
     "display_order": 1,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1514,6 +1520,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -1661,6 +1668,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2091,6 +2099,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2324,6 +2333,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2782,6 +2792,7 @@
     "display_order": 2,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -2997,6 +3008,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3092,6 +3104,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3460,6 +3473,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3592,6 +3606,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -3802,6 +3817,7 @@
     "display_order": 3,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -4050,6 +4066,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -4377,6 +4394,7 @@
     "display_order": 4,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -4496,6 +4514,7 @@
     "display_order": 5,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [],
     "items": [
       {
@@ -4701,6 +4720,7 @@
     "display_order": 11,
     "latitude": null,
     "longitude": null,
+    "published": true,
     "images": [
       {
         "url": "https://inventory.metanull.eu/pub/102a054f-2cc7-50dd-b32d-00f989cf4718.jpg",
@@ -4746,7 +4766,8 @@
       {
         "id": "26e9ef4b-0b68-5435-8e38-53a259f9cdaf",
         "display_order": null,
-        "variant_order": null
+        "variant_order": null,
+        "curator_status": "N"
       },
       {
         "id": "8aa9aed7-b2ea-50bd-90ad-08ec6d53d8f4",
@@ -4757,37 +4778,43 @@
             "curator": null,
             "partner": "Pour plus de commodités mais aussi de manière symbolique, les voyageurs adoptaient parfois le costume oriental."
           }
-        }
+        },
+        "curator_status": "N"
       },
       {
         "id": "04fa7b6d-59fb-50fb-92d9-dd7283af4ad2",
         "display_order": 1,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/d95c890b-829b-5af8-812a-fc555809c086.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/d95c890b-829b-5af8-812a-fc555809c086.jpg",
+        "curator_status": "N"
       },
       {
         "id": "b3ad190f-fed9-546e-924a-e3b7f2699f23",
         "display_order": 2,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/73b54bee-bf96-539f-89af-4146a54f457a.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/73b54bee-bf96-539f-89af-4146a54f457a.jpg",
+        "curator_status": "N"
       },
       {
         "id": "6c58855f-349e-59d4-b95b-645e69fbce46",
         "display_order": 3,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/5a878dee-cb25-506e-9948-a86485f60ba6.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/5a878dee-cb25-506e-9948-a86485f60ba6.jpg",
+        "curator_status": "N"
       },
       {
         "id": "61ad80a0-d9ba-5d8f-bcc7-7486cbcc59a7",
         "display_order": 4,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/1f86afb6-62df-5e6e-a2c7-a96d44b06197.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/1f86afb6-62df-5e6e-a2c7-a96d44b06197.jpg",
+        "curator_status": "N"
       },
       {
         "id": "8ed8ff70-e171-5817-8b08-6644fc9a000d",
         "display_order": 10,
         "variant_order": null,
-        "image_url": "https://inventory.metanull.eu/pub/0e3c9283-5d4f-5251-96e4-f21d3f47b9a6.jpg"
+        "image_url": "https://inventory.metanull.eu/pub/0e3c9283-5d4f-5251-96e4-f21d3f47b9a6.jpg",
+        "curator_status": "N"
       },
       {
         "id": "9c39a32f-844c-5e79-9249-d24aa6612ad5",
