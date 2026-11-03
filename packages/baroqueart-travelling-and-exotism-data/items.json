@@ -3699,10 +3699,65 @@
     "media": [],
     "details": [
       {
+        "id": "9779dbd4-5cc7-5f2e-8017-625b454897d3",
+        "internal_name": "High altar",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:11:1",
+        "display_order": 1,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/12bbe905-9a75-5b5f-9219-96d14319cd77.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Peter Heinrich Jahn",
+              "en": "Peter Heinrich Jahn"
+            },
+            "photographer": null,
+            "copyright": "Peter Heinrich Jahn"
+          }
+        ],
+        "artist_names": [
+          "Bartholomäus Steinle (1580–1628/29)",
+          "Benedikt Meggas",
+          "Entwurf: Hans Krumpper (1570-1634)",
+          "Hans Krumpper (1570–1634)",
+          "Johann Baptist Straub (1704–1784)",
+          "Kistlerarbeiten: Benedikt Meggas",
+          "Skulpturen: Bartholomäus Steinle (1580-1628/29)",
+          "Tabernakel: Johann Baptist Straub (1704-1784)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "cfe4e76b-dae8-5b07-88b5-6d61d4cac871",
+        "internal_name": "Relic chapel",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:11:2",
+        "display_order": 2,
+        "images": [],
+        "artist_names": [
+          "Altarwand und Stuck: Tassilo Zöpf (1723-1807)",
+          "Johann Baptist Baader (1717–1780)",
+          "Malerei: Johann Baptist Baader (1717–1780)",
+          "Tassilo Zöpf (1723–1807)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
         "id": "bfde98ff-c1bf-5790-801d-18b84b741f38",
         "internal_name": "Ceiling frescos: *Care of the Arts* – *Theological Truth* – *Profane Truth*",
         "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:11:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/46b0c09a-0c5e-5a5c-953d-8ec0c31ce9c9.jpg",
@@ -3771,61 +3826,6 @@
         ],
         "artist_names": [
           "Johann Baptist Baader (1717–1780)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "9779dbd4-5cc7-5f2e-8017-625b454897d3",
-        "internal_name": "High altar",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:11:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/12bbe905-9a75-5b5f-9219-96d14319cd77.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Peter Heinrich Jahn",
-              "en": "Peter Heinrich Jahn"
-            },
-            "photographer": null,
-            "copyright": "Peter Heinrich Jahn"
-          }
-        ],
-        "artist_names": [
-          "Bartholomäus Steinle (1580–1628/29)",
-          "Benedikt Meggas",
-          "Entwurf: Hans Krumpper (1570-1634)",
-          "Hans Krumpper (1570–1634)",
-          "Johann Baptist Straub (1704–1784)",
-          "Kistlerarbeiten: Benedikt Meggas",
-          "Skulpturen: Bartholomäus Steinle (1580-1628/29)",
-          "Tabernakel: Johann Baptist Straub (1704-1784)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "cfe4e76b-dae8-5b07-88b5-6d61d4cac871",
-        "internal_name": "Relic chapel",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:11:2",
-        "display_order": null,
-        "images": [],
-        "artist_names": [
-          "Altarwand und Stuck: Tassilo Zöpf (1723-1807)",
-          "Johann Baptist Baader (1717–1780)",
-          "Malerei: Johann Baptist Baader (1717–1780)",
-          "Tassilo Zöpf (1723–1807)"
         ],
         "languages": [
           "de",
@@ -4408,52 +4408,14 @@
     "media": [],
     "details": [
       {
-        "id": "fb2c16ce-05ab-5038-b941-2740a8a0e2cb",
-        "internal_name": "Detail of ceiling painting",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:5",
-        "display_order": null,
+        "id": "14cf3ac9-f201-5ffe-96c6-9da83f2f8352",
+        "internal_name": "Library Façade",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:1",
+        "display_order": 1,
         "images": [
           {
-            "url": "https://inventory.metanull.eu/pub/d9f62de7-c0fc-5f7d-9b10-3f7aa9b67844.jpg",
+            "url": "https://inventory.metanull.eu/pub/688eef96-0d7b-5cff-8814-36759bf76a18.jpg",
             "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Paulo Mendes",
-              "pt": "Paulo Mendes"
-            },
-            "copyrights": {
-              "en": "Biblioteca Geral Universidade Coimbra",
-              "pt": "Biblioteca Geral Universidade Coimbra"
-            },
-            "photographer": "Paulo Mendes",
-            "copyright": "Biblioteca Geral Universidade Coimbra"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/55d6e554-ed5e-518e-8ac9-8f3a3219f931.jpg",
-            "display_order": 2,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Paulo Mendes",
-              "pt": "Paulo Mendes"
-            },
-            "copyrights": {
-              "en": "Biblioteca Geral Universidade Coimbra",
-              "pt": "Biblioteca Geral Universidade Coimbra"
-            },
-            "photographer": "Paulo Mendes",
-            "copyright": "Biblioteca Geral Universidade Coimbra"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/abf62e35-294e-5a41-8d77-ec613bb1d477.jpg",
-            "display_order": 3,
             "languages": [
               "en",
               "pt"
@@ -4472,8 +4434,8 @@
           }
         ],
         "artist_names": [
-          "António Simões Ribeiro and Vicente Nunes [n.d.]",
-          "António Simões Ribeiro e Vicente Nunes"
+          "Attributed to Claude Laprade [n.d.]",
+          "Claude Laprade (atr.)"
         ],
         "languages": [
           "en",
@@ -4484,7 +4446,7 @@
         "id": "1a5ad99e-4e60-596e-9113-8c0b78eebfe2",
         "internal_name": "Large reading tables",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/f7a7a141-bda9-5140-a5c3-61228d9420bb.jpg",
@@ -4554,45 +4516,10 @@
         ]
       },
       {
-        "id": "14cf3ac9-f201-5ffe-96c6-9da83f2f8352",
-        "internal_name": "Library Façade",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/688eef96-0d7b-5cff-8814-36759bf76a18.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Paulo Mendes",
-              "pt": "Paulo Mendes"
-            },
-            "copyrights": {
-              "en": "Biblioteca Geral Universidade Coimbra",
-              "pt": "Biblioteca Geral Universidade Coimbra"
-            },
-            "photographer": "Paulo Mendes",
-            "copyright": "Biblioteca Geral Universidade Coimbra"
-          }
-        ],
-        "artist_names": [
-          "Attributed to Claude Laprade [n.d.]",
-          "Claude Laprade (atr.)"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
         "id": "c27eb774-cc9f-55db-b3e3-343e34b005f2",
         "internal_name": "Middle room balcony railings",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/9fb3ded1-1761-57ef-b92e-25f834e0260b.jpg",
@@ -4706,7 +4633,7 @@
         "id": "fb3fdb2d-573f-563d-9108-61663265d16a",
         "internal_name": "Portrait of João V",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/8b766bcf-4db5-598d-8826-615a01d46b25.jpg",
@@ -4750,6 +4677,79 @@
         "artist_names": [
           "Giorgio Domenico Duprà",
           "Giorgio Domenico Duprà [n.d.]"
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
+        "id": "fb2c16ce-05ab-5038-b941-2740a8a0e2cb",
+        "internal_name": "Detail of ceiling painting",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:5",
+        "display_order": 5,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/d9f62de7-c0fc-5f7d-9b10-3f7aa9b67844.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Paulo Mendes",
+              "pt": "Paulo Mendes"
+            },
+            "copyrights": {
+              "en": "Biblioteca Geral Universidade Coimbra",
+              "pt": "Biblioteca Geral Universidade Coimbra"
+            },
+            "photographer": "Paulo Mendes",
+            "copyright": "Biblioteca Geral Universidade Coimbra"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/55d6e554-ed5e-518e-8ac9-8f3a3219f931.jpg",
+            "display_order": 2,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Paulo Mendes",
+              "pt": "Paulo Mendes"
+            },
+            "copyrights": {
+              "en": "Biblioteca Geral Universidade Coimbra",
+              "pt": "Biblioteca Geral Universidade Coimbra"
+            },
+            "photographer": "Paulo Mendes",
+            "copyright": "Biblioteca Geral Universidade Coimbra"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/abf62e35-294e-5a41-8d77-ec613bb1d477.jpg",
+            "display_order": 3,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Paulo Mendes",
+              "pt": "Paulo Mendes"
+            },
+            "copyrights": {
+              "en": "Biblioteca Geral Universidade Coimbra",
+              "pt": "Biblioteca Geral Universidade Coimbra"
+            },
+            "photographer": "Paulo Mendes",
+            "copyright": "Biblioteca Geral Universidade Coimbra"
+          }
+        ],
+        "artist_names": [
+          "António Simões Ribeiro and Vicente Nunes [n.d.]",
+          "António Simões Ribeiro e Vicente Nunes"
         ],
         "languages": [
           "en",
@@ -5078,10 +5078,248 @@
     "media": [],
     "details": [
       {
+        "id": "7d79aec6-af13-5110-a27e-45a7ec8a4d19",
+        "internal_name": "Fountain of the Five Holy Wounds",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:33:1",
+        "display_order": 1,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/bf4d4c57-5413-5a8f-bea6-51a1957494e9.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "copyrights": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "photographer": "Confraria do Bom Jesus do Monte",
+            "copyright": "Confraria do Bom Jesus do Monte"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/41b4894d-6d13-55c1-b0e3-b90c29b49b22.jpg",
+            "display_order": 2,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Nuno Calvet",
+              "pt": "Nuno Calvet"
+            },
+            "copyrights": {
+              "en": "Turismo de Portugal",
+              "pt": "Turismo de Portugal"
+            },
+            "photographer": "Nuno Calvet",
+            "copyright": "Turismo de Portugal"
+          }
+        ],
+        "artist_names": [
+          "Desconhecido",
+          "Unknown artist"
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
+        "id": "6f0f07b0-eee8-503e-a5b8-02651b202a00",
+        "internal_name": "General view of the Stairway of the Five Senses and the Fountain of Vision  and of  Taste",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:33:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/3cd87647-57a8-529f-8049-e6b92fc50bc7.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "copyrights": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "photographer": "Confraria do Bom Jesus do Monte",
+            "copyright": "Confraria do Bom Jesus do Monte"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/37dab272-99e3-5614-adb1-db3b8181bb16.jpg",
+            "display_order": 2,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "copyrights": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "photographer": "Confraria do Bom Jesus do Monte",
+            "copyright": "Confraria do Bom Jesus do Monte"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/24b2f81c-eb55-57d2-a5f4-49d7b87b8b5c.jpg",
+            "display_order": 3,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "copyrights": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "photographer": "Confraria do Bom Jesus do Monte",
+            "copyright": "Confraria do Bom Jesus do Monte"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/46f01cd3-55fb-5626-b56d-2dedfa9ffa2f.jpg",
+            "display_order": 4,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "José Carlos Peixoto",
+              "pt": "José Carlos Peixoto"
+            },
+            "copyrights": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "photographer": "José Carlos Peixoto",
+            "copyright": "Confraria do Bom Jesus do Monte"
+          }
+        ],
+        "artist_names": [
+          "Desconhecidos",
+          "Unknown artist"
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
+        "id": "c2fa115e-3ff1-53bd-a4fb-c6aa6c675900",
+        "internal_name": "Examples of *Via Crucis* chapels: Chapel of the Flagellation and the Mercury Fountain; Chapel of the Crucifixion and the interior of the Chapel of the Falls",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:33:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/3b1daee4-0aa0-593e-956e-27850d053ec8.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "copyrights": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "photographer": "Confraria do Bom Jesus do Monte",
+            "copyright": "Confraria do Bom Jesus do Monte"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/8f3ba462-39ba-5fe0-869c-225589aab317.jpg",
+            "display_order": 2,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "copyrights": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "photographer": "Confraria do Bom Jesus do Monte",
+            "copyright": "Confraria do Bom Jesus do Monte"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/4831b1ff-e3d2-50d7-a8d7-6967bfbe8697.jpg",
+            "display_order": 3,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "copyrights": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "photographer": "Confraria do Bom Jesus do Monte",
+            "copyright": "Confraria do Bom Jesus do Monte"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/6fe19f3a-b491-56f0-a255-d53e5ddb053f.jpg",
+            "display_order": 4,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "José Peixoto",
+              "pt": "José Peixoto"
+            },
+            "copyrights": {
+              "en": "Confraria do Bom Jesus do Monte",
+              "pt": "Confraria do Bom Jesus do Monte"
+            },
+            "photographer": "José Peixoto",
+            "copyright": "Confraria do Bom Jesus do Monte"
+          }
+        ],
+        "artist_names": [
+          "Desconhecido",
+          "Unknown artist"
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
         "id": "e8770573-d328-5834-b1d9-a0c8ce5da0f6",
         "internal_name": "Bom Jesus Church",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:33:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/9374f3ad-1ef6-5961-942f-09294bb6c750.jpg",
@@ -5188,248 +5426,10 @@
         ]
       },
       {
-        "id": "c2fa115e-3ff1-53bd-a4fb-c6aa6c675900",
-        "internal_name": "Examples of *Via Crucis* chapels: Chapel of the Flagellation and the Mercury Fountain; Chapel of the Crucifixion and the interior of the Chapel of the Falls",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:33:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/3b1daee4-0aa0-593e-956e-27850d053ec8.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "copyrights": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "photographer": "Confraria do Bom Jesus do Monte",
-            "copyright": "Confraria do Bom Jesus do Monte"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/8f3ba462-39ba-5fe0-869c-225589aab317.jpg",
-            "display_order": 2,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "copyrights": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "photographer": "Confraria do Bom Jesus do Monte",
-            "copyright": "Confraria do Bom Jesus do Monte"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/4831b1ff-e3d2-50d7-a8d7-6967bfbe8697.jpg",
-            "display_order": 3,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "copyrights": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "photographer": "Confraria do Bom Jesus do Monte",
-            "copyright": "Confraria do Bom Jesus do Monte"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/6fe19f3a-b491-56f0-a255-d53e5ddb053f.jpg",
-            "display_order": 4,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "José Peixoto",
-              "pt": "José Peixoto"
-            },
-            "copyrights": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "photographer": "José Peixoto",
-            "copyright": "Confraria do Bom Jesus do Monte"
-          }
-        ],
-        "artist_names": [
-          "Desconhecido",
-          "Unknown artist"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
-        "id": "7d79aec6-af13-5110-a27e-45a7ec8a4d19",
-        "internal_name": "Fountain of the Five Holy Wounds",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:33:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/bf4d4c57-5413-5a8f-bea6-51a1957494e9.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "copyrights": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "photographer": "Confraria do Bom Jesus do Monte",
-            "copyright": "Confraria do Bom Jesus do Monte"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/41b4894d-6d13-55c1-b0e3-b90c29b49b22.jpg",
-            "display_order": 2,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Nuno Calvet",
-              "pt": "Nuno Calvet"
-            },
-            "copyrights": {
-              "en": "Turismo de Portugal",
-              "pt": "Turismo de Portugal"
-            },
-            "photographer": "Nuno Calvet",
-            "copyright": "Turismo de Portugal"
-          }
-        ],
-        "artist_names": [
-          "Desconhecido",
-          "Unknown artist"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
-        "id": "6f0f07b0-eee8-503e-a5b8-02651b202a00",
-        "internal_name": "General view of the Stairway of the Five Senses and the Fountain of Vision  and of  Taste",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:33:2",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/3cd87647-57a8-529f-8049-e6b92fc50bc7.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "copyrights": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "photographer": "Confraria do Bom Jesus do Monte",
-            "copyright": "Confraria do Bom Jesus do Monte"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/37dab272-99e3-5614-adb1-db3b8181bb16.jpg",
-            "display_order": 2,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "copyrights": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "photographer": "Confraria do Bom Jesus do Monte",
-            "copyright": "Confraria do Bom Jesus do Monte"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/24b2f81c-eb55-57d2-a5f4-49d7b87b8b5c.jpg",
-            "display_order": 3,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "copyrights": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "photographer": "Confraria do Bom Jesus do Monte",
-            "copyright": "Confraria do Bom Jesus do Monte"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/46f01cd3-55fb-5626-b56d-2dedfa9ffa2f.jpg",
-            "display_order": 4,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "José Carlos Peixoto",
-              "pt": "José Carlos Peixoto"
-            },
-            "copyrights": {
-              "en": "Confraria do Bom Jesus do Monte",
-              "pt": "Confraria do Bom Jesus do Monte"
-            },
-            "photographer": "José Carlos Peixoto",
-            "copyright": "Confraria do Bom Jesus do Monte"
-          }
-        ],
-        "artist_names": [
-          "Desconhecidos",
-          "Unknown artist"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
         "id": "4245f4f1-ced8-58b2-8737-09920f72fa22",
         "internal_name": "Interior",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:33:5",
-        "display_order": null,
+        "display_order": 5,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/d1ee74eb-48fd-5c50-a43a-2049ddfc70c2.jpg",
@@ -5802,47 +5802,10 @@
     "media": [],
     "details": [
       {
-        "id": "f2e3163a-4308-51ca-8274-354207600f17",
-        "internal_name": "General view of the Sacristy",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:2:5",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/73ee1ef4-5ee2-5fb5-ae20-4da87dc375d0.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "José Pessoa",
-              "pt": "José Pessoa"
-            },
-            "copyrights": {
-              "en": "DDF/IMC,IP",
-              "pt": "DDF/IMC,IP"
-            },
-            "photographer": "José Pessoa",
-            "copyright": "DDF/IMC,IP"
-          }
-        ],
-        "artist_names": [
-          "Entalhador: Félix Adauto da Cunha (activo 1746–1759)",
-          "painter André Gonçalves (1685–1762)",
-          "pintor: André Gonçalves (1685–1762)",
-          "woodcarver: Félix Adauto da Cunha (1649–c.1703)"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
         "id": "37d69274-1d0d-51a0-8b8a-bd4be92b778e",
         "internal_name": "Paintings and *azulejos* of the nave and main chapel",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:2:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/db893906-636e-5797-964e-501188021417.jpg",
@@ -5958,10 +5921,42 @@
         ]
       },
       {
+        "id": "32b1e458-9669-5b2a-91d1-0cb33372a953",
+        "internal_name": "The lateral altars of the Chapterhouse",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:2:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/a7087195-7462-5c8f-99c6-08e172bc974b.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "José Pessoa",
+              "pt": "José Pessoa"
+            },
+            "copyrights": {
+              "en": "DDF/IMC,IP",
+              "pt": "DDF/IMC,IP"
+            },
+            "photographer": "José Pessoa",
+            "copyright": "DDF/IMC,IP"
+          }
+        ],
+        "artist_names": [],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
         "id": "fc094f04-ed4e-5c5a-b47f-7bcc11b75d8f",
         "internal_name": "The Chapel of Santo António  or Ante-Choir",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:2:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/3f539ef3-449a-5721-b021-fa228eaf034b.jpg",
@@ -6054,7 +6049,7 @@
         "id": "0d0e56db-22c0-5b6c-94fa-3c424bf11d56",
         "internal_name": "The Choir or Sala do Tesouro",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:2:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/89fd7b9a-123c-5274-b5ac-5e960839d4cc.jpg",
@@ -6106,13 +6101,13 @@
         ]
       },
       {
-        "id": "32b1e458-9669-5b2a-91d1-0cb33372a953",
-        "internal_name": "The lateral altars of the Chapterhouse",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:2:2",
-        "display_order": null,
+        "id": "f2e3163a-4308-51ca-8274-354207600f17",
+        "internal_name": "General view of the Sacristy",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:2:5",
+        "display_order": 5,
         "images": [
           {
-            "url": "https://inventory.metanull.eu/pub/a7087195-7462-5c8f-99c6-08e172bc974b.jpg",
+            "url": "https://inventory.metanull.eu/pub/73ee1ef4-5ee2-5fb5-ae20-4da87dc375d0.jpg",
             "display_order": 1,
             "languages": [
               "en",
@@ -6131,7 +6126,12 @@
             "copyright": "DDF/IMC,IP"
           }
         ],
-        "artist_names": [],
+        "artist_names": [
+          "Entalhador: Félix Adauto da Cunha (activo 1746–1759)",
+          "painter André Gonçalves (1685–1762)",
+          "pintor: André Gonçalves (1685–1762)",
+          "woodcarver: Félix Adauto da Cunha (1649–c.1703)"
+        ],
         "languages": [
           "en",
           "pt"
@@ -6516,10 +6516,138 @@
     "media": [],
     "details": [
       {
+        "id": "6a906d8b-0bc1-5f1f-959d-21eda46497c4",
+        "internal_name": "Gilded carvings",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:5:1",
+        "display_order": 1,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/afcca78f-1bfb-5b34-810d-333eb5f6a8e9.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "José Guedes da Silva e António Pacheco",
+              "pt": "José Guedes da Silva e António Pacheco"
+            },
+            "copyrights": {
+              "en": "Dir.Reg.Cult./Governo Regional Açores",
+              "pt": "Dir.Reg.Cult./Governo Regional Açores"
+            },
+            "photographer": "José Guedes da Silva e António Pacheco",
+            "copyright": "Dir.Reg.Cult./Governo Regional Açores"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/6d08a4b5-1d21-5094-a221-dbe06cc15ab8.jpg",
+            "display_order": 2,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "José Guedes da Silva e António Pacheco",
+              "pt": "José Guedes da Silva e António Pacheco"
+            },
+            "copyrights": {
+              "en": "Dir.Reg.Cult./Governo Regional Açores",
+              "pt": "Dir.Reg.Cult./Governo Regional Açores"
+            },
+            "photographer": "José Guedes da Silva e António Pacheco",
+            "copyright": "Dir.Reg.Cult./Governo Regional Açores"
+          }
+        ],
+        "artist_names": [
+          "Mestres escultores locais desconhecidos",
+          "Unknown local wood carvers"
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
+        "id": "976874d7-3e8f-5368-ba10-5054c2f2a238",
+        "internal_name": "Oil paintings",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:5:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/ad0c642d-c237-57c5-b6cd-c2b62174247d.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "José Guedes da Silva e António Pacheco",
+              "pt": "José Guedes da Silva e António Pacheco"
+            },
+            "copyrights": {
+              "en": "Dir.Reg.Cult./Governo Regional Açores",
+              "pt": "Dir.Reg.Cult./Governo Regional Açores"
+            },
+            "photographer": "José Guedes da Silva e António Pacheco",
+            "copyright": "Dir.Reg.Cult./Governo Regional Açores"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/d0bd7efa-9135-5692-b7e6-d9ea5b0c12b0.jpg",
+            "display_order": 2,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "José Guedes da Silva e António Pacheco",
+              "pt": "José Guedes da Silva e António Pacheco"
+            },
+            "copyrights": {
+              "en": "Dir.Reg.Cult./Governo Regional Açores",
+              "pt": "Dir.Reg.Cult./Governo Regional Açores"
+            },
+            "photographer": "José Guedes da Silva e António Pacheco",
+            "copyright": "Dir.Reg.Cult./Governo Regional Açores"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/e2943e63-6097-5ff8-9f45-5ddf408329bc.jpg",
+            "display_order": 3,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "José Guedes da Silva e António Pacheco",
+              "pt": "José Guedes da Silva e António Pacheco"
+            },
+            "copyrights": {
+              "en": "Dir.Reg.Cult./Governo Regional Açores",
+              "pt": "Dir.Reg.Cult./Governo Regional Açores"
+            },
+            "photographer": "José Guedes da Silva e António Pacheco",
+            "copyright": "Dir.Reg.Cult./Governo Regional Açores"
+          }
+        ],
+        "artist_names": [
+          "Atribuídas à oficina de Bento Coelho da Silveira (1648–1708)",
+          "Attributed to Bento Coelho da Silveira's workshop",
+          "Lisbon (1648–1708)"
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
         "id": "d1138bd2-9ece-57a8-a87f-358caf766c14",
         "internal_name": "*Azulejos*",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:5:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/5086535d-553a-57d5-b66c-27fabe97325e.jpg",
@@ -6612,7 +6740,7 @@
         "id": "ab9ca50b-155a-5181-83a8-a7d112c0581e",
         "internal_name": "Figure of the Divine Emperor",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:5:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/26adfc78-0388-5ee6-98d0-e232df2e088e.jpg",
@@ -6663,138 +6791,10 @@
         ]
       },
       {
-        "id": "6a906d8b-0bc1-5f1f-959d-21eda46497c4",
-        "internal_name": "Gilded carvings",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:5:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/afcca78f-1bfb-5b34-810d-333eb5f6a8e9.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "José Guedes da Silva e António Pacheco",
-              "pt": "José Guedes da Silva e António Pacheco"
-            },
-            "copyrights": {
-              "en": "Dir.Reg.Cult./Governo Regional Açores",
-              "pt": "Dir.Reg.Cult./Governo Regional Açores"
-            },
-            "photographer": "José Guedes da Silva e António Pacheco",
-            "copyright": "Dir.Reg.Cult./Governo Regional Açores"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/6d08a4b5-1d21-5094-a221-dbe06cc15ab8.jpg",
-            "display_order": 2,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "José Guedes da Silva e António Pacheco",
-              "pt": "José Guedes da Silva e António Pacheco"
-            },
-            "copyrights": {
-              "en": "Dir.Reg.Cult./Governo Regional Açores",
-              "pt": "Dir.Reg.Cult./Governo Regional Açores"
-            },
-            "photographer": "José Guedes da Silva e António Pacheco",
-            "copyright": "Dir.Reg.Cult./Governo Regional Açores"
-          }
-        ],
-        "artist_names": [
-          "Mestres escultores locais desconhecidos",
-          "Unknown local wood carvers"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
-        "id": "976874d7-3e8f-5368-ba10-5054c2f2a238",
-        "internal_name": "Oil paintings",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:5:2",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/ad0c642d-c237-57c5-b6cd-c2b62174247d.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "José Guedes da Silva e António Pacheco",
-              "pt": "José Guedes da Silva e António Pacheco"
-            },
-            "copyrights": {
-              "en": "Dir.Reg.Cult./Governo Regional Açores",
-              "pt": "Dir.Reg.Cult./Governo Regional Açores"
-            },
-            "photographer": "José Guedes da Silva e António Pacheco",
-            "copyright": "Dir.Reg.Cult./Governo Regional Açores"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/d0bd7efa-9135-5692-b7e6-d9ea5b0c12b0.jpg",
-            "display_order": 2,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "José Guedes da Silva e António Pacheco",
-              "pt": "José Guedes da Silva e António Pacheco"
-            },
-            "copyrights": {
-              "en": "Dir.Reg.Cult./Governo Regional Açores",
-              "pt": "Dir.Reg.Cult./Governo Regional Açores"
-            },
-            "photographer": "José Guedes da Silva e António Pacheco",
-            "copyright": "Dir.Reg.Cult./Governo Regional Açores"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/e2943e63-6097-5ff8-9f45-5ddf408329bc.jpg",
-            "display_order": 3,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "José Guedes da Silva e António Pacheco",
-              "pt": "José Guedes da Silva e António Pacheco"
-            },
-            "copyrights": {
-              "en": "Dir.Reg.Cult./Governo Regional Açores",
-              "pt": "Dir.Reg.Cult./Governo Regional Açores"
-            },
-            "photographer": "José Guedes da Silva e António Pacheco",
-            "copyright": "Dir.Reg.Cult./Governo Regional Açores"
-          }
-        ],
-        "artist_names": [
-          "Atribuídas à oficina de Bento Coelho da Silveira (1648–1708)",
-          "Attributed to Bento Coelho da Silveira's workshop",
-          "Lisbon (1648–1708)"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
         "id": "1d2c211d-2700-5a80-817e-a40c9d14229c",
         "internal_name": "Oratories",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:5:5",
-        "display_order": null,
+        "display_order": 5,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/145ddf01-3549-56c5-a926-3d7588114441.jpg",
@@ -7171,10 +7171,119 @@
     "media": [],
     "details": [
       {
+        "id": "9cf9544c-47c2-5741-bf3e-5d928fd5cfa2",
+        "internal_name": "Chapel of Our Lady of Piety",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:12:1",
+        "display_order": 1,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/195b0eaa-b0e5-52b1-a7b1-7f2adf923a93.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Julio Marques",
+              "pt": "Julio Marques"
+            },
+            "copyrights": {
+              "en": "Santa Casa da Misericórdia de Lisboa",
+              "pt": "Santa Casa da Misericórdia de Lisboa"
+            },
+            "photographer": "Julio Marques",
+            "copyright": "Santa Casa da Misericórdia de Lisboa"
+          }
+        ],
+        "artist_names": [
+          "O retábulo é da autoria do mestre entalhador Bento da Fonseca de Azevedo (século XVIII).",
+          "The retable was made by the 18th-century master carver Bento da Fonseca de Azevedo"
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
+        "id": "9a119226-14e5-5c76-9358-4559912ca023",
+        "internal_name": "Chapel of Our Lady of the Doctrine",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:12:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/937dd185-4c50-5b1c-a8a5-6274b59ff418.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Julio Marques",
+              "pt": "Julio Marques"
+            },
+            "copyrights": {
+              "en": "Santa Casa da Misericórdia de Lisboa",
+              "pt": "Santa Casa da Misericórdia de Lisboa"
+            },
+            "photographer": "Julio Marques",
+            "copyright": "Santa Casa da Misericórdia de Lisboa"
+          }
+        ],
+        "artist_names": [
+          "de acordo com um contrato escrito entre este mestre entalhador e a Irmandade. O trabalho de pedraria foi executado pelos mestres pedreiros Manuel Antunes e João Teixeira.",
+          "Manuel Antunes and João Teixeira",
+          "O trabalho é atribuído a José Rodrigues Ramalho",
+          "The woodwork is by José Rodrigues Ramalho (1660–1721) according to a contract dated 1688 between him and the Brotherhood. The stonework was executed by master masons",
+          "whose exact dates are unknown."
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
+        "id": "74c6cc96-1064-598d-8fdd-a09d0c9171cf",
+        "internal_name": "Chapel of St. John the Baptist",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:12:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/cd186f7e-a414-5d8a-a427-d01870e556db.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Julio Marques",
+              "pt": "Julio Marques"
+            },
+            "copyrights": {
+              "en": "Santa Casa da Misericórdia de Lisboa",
+              "pt": "Santa Casa da Misericórdia de Lisboa"
+            },
+            "photographer": "Julio Marques",
+            "copyright": "Santa Casa da Misericórdia de Lisboa"
+          }
+        ],
+        "artist_names": [
+          "Floor mosaic: Enrico Enuo.",
+          "In Rome architects Luigi Vanvitelli (1700–1773) and Niccolò Salvi (1697–1751) directed hundreds of artists and craftsmen",
+          "Mosaic: Agostino Masucci (1691–1758) and Mattia Moretti (d. 1779)"
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
         "id": "95109161-87b5-5953-88a1-413967eb4236",
         "internal_name": "Ceiling Painting",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:12:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/8f2164f9-5c13-568c-8581-8ff5abd60d7c.jpg",
@@ -7226,119 +7335,10 @@
         ]
       },
       {
-        "id": "9cf9544c-47c2-5741-bf3e-5d928fd5cfa2",
-        "internal_name": "Chapel of Our Lady of Piety",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:12:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/195b0eaa-b0e5-52b1-a7b1-7f2adf923a93.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Julio Marques",
-              "pt": "Julio Marques"
-            },
-            "copyrights": {
-              "en": "Santa Casa da Misericórdia de Lisboa",
-              "pt": "Santa Casa da Misericórdia de Lisboa"
-            },
-            "photographer": "Julio Marques",
-            "copyright": "Santa Casa da Misericórdia de Lisboa"
-          }
-        ],
-        "artist_names": [
-          "O retábulo é da autoria do mestre entalhador Bento da Fonseca de Azevedo (século XVIII).",
-          "The retable was made by the 18th-century master carver Bento da Fonseca de Azevedo"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
-        "id": "9a119226-14e5-5c76-9358-4559912ca023",
-        "internal_name": "Chapel of Our Lady of the Doctrine",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:12:2",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/937dd185-4c50-5b1c-a8a5-6274b59ff418.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Julio Marques",
-              "pt": "Julio Marques"
-            },
-            "copyrights": {
-              "en": "Santa Casa da Misericórdia de Lisboa",
-              "pt": "Santa Casa da Misericórdia de Lisboa"
-            },
-            "photographer": "Julio Marques",
-            "copyright": "Santa Casa da Misericórdia de Lisboa"
-          }
-        ],
-        "artist_names": [
-          "de acordo com um contrato escrito entre este mestre entalhador e a Irmandade. O trabalho de pedraria foi executado pelos mestres pedreiros Manuel Antunes e João Teixeira.",
-          "Manuel Antunes and João Teixeira",
-          "O trabalho é atribuído a José Rodrigues Ramalho",
-          "The woodwork is by José Rodrigues Ramalho (1660–1721) according to a contract dated 1688 between him and the Brotherhood. The stonework was executed by master masons",
-          "whose exact dates are unknown."
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
-        "id": "74c6cc96-1064-598d-8fdd-a09d0c9171cf",
-        "internal_name": "Chapel of St. John the Baptist",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:12:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/cd186f7e-a414-5d8a-a427-d01870e556db.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Julio Marques",
-              "pt": "Julio Marques"
-            },
-            "copyrights": {
-              "en": "Santa Casa da Misericórdia de Lisboa",
-              "pt": "Santa Casa da Misericórdia de Lisboa"
-            },
-            "photographer": "Julio Marques",
-            "copyright": "Santa Casa da Misericórdia de Lisboa"
-          }
-        ],
-        "artist_names": [
-          "Floor mosaic: Enrico Enuo.",
-          "In Rome architects Luigi Vanvitelli (1700–1773) and Niccolò Salvi (1697–1751) directed hundreds of artists and craftsmen",
-          "Mosaic: Agostino Masucci (1691–1758) and Mattia Moretti (d. 1779)"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
         "id": "f2fd7abc-465f-5f55-a1af-5082af90fafa",
         "internal_name": "Sacristy",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:12:5",
-        "display_order": null,
+        "display_order": 5,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/0e3c6434-7a4d-538d-9882-69fc974e7252.jpg",
@@ -7830,13 +7830,13 @@
     "media": [],
     "details": [
       {
-        "id": "49f2b9ac-02d2-5d5a-b795-331d46920de1",
-        "internal_name": "Altar of St. Cajetan",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:3:4",
-        "display_order": null,
+        "id": "92a08715-2350-530f-b788-77727a9408e0",
+        "internal_name": "Sculptures of the chancel screen",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:3:1",
+        "display_order": 1,
         "images": [
           {
-            "url": "https://inventory.metanull.eu/pub/d7e7210e-5808-5545-b862-f166696b755f.jpg",
+            "url": "https://inventory.metanull.eu/pub/b559c792-c69b-5c71-aab6-8ef2975388c2.jpg",
             "display_order": 1,
             "languages": [
               "de",
@@ -7845,14 +7845,14 @@
             "captions": {},
             "photographers": {},
             "copyrights": {
-              "de": "Peter Heinrich Jahn",
-              "en": "Peter Heinrich Jahn"
+              "de": "Bernhard Weise",
+              "en": "Bernhard Weise"
             },
             "photographer": null,
-            "copyright": "Peter Heinrich Jahn"
+            "copyright": "Bernhard Weise"
           },
           {
-            "url": "https://inventory.metanull.eu/pub/54db7dfc-ad2e-5929-b78a-d5436d050f54.jpg",
+            "url": "https://inventory.metanull.eu/pub/fe1cbd2d-eed0-5a17-be98-ef43839e1e80.jpg",
             "display_order": 2,
             "languages": [
               "de",
@@ -7861,14 +7861,14 @@
             "captions": {},
             "photographers": {},
             "copyrights": {
-              "de": "Peter Heinrich Jahn",
-              "en": "Peter Heinrich Jahn"
+              "de": "Bernhard Weise",
+              "en": "Bernhard Weise"
             },
             "photographer": null,
-            "copyright": "Peter Heinrich Jahn"
+            "copyright": "Bernhard Weise"
           },
           {
-            "url": "https://inventory.metanull.eu/pub/de5b8656-4c7c-5f5b-9d8a-41b55de8205f.jpg",
+            "url": "https://inventory.metanull.eu/pub/7326b5e3-d6c7-5e44-ab22-0cccb8c747d1.jpg",
             "display_order": 3,
             "languages": [
               "de",
@@ -7877,15 +7877,31 @@
             "captions": {},
             "photographers": {},
             "copyrights": {
-              "de": "Peter Heinrich Jahn",
-              "en": "Peter Heinrich Jahn"
+              "de": "Bernhard Weise",
+              "en": "Bernhard Weise"
             },
             "photographer": null,
-            "copyright": "Peter Heinrich Jahn"
+            "copyright": "Bernhard Weise"
           },
           {
-            "url": "https://inventory.metanull.eu/pub/1b663b50-b228-5763-922d-c6ecb86df4b2.jpg",
+            "url": "https://inventory.metanull.eu/pub/b7f539a7-a397-594c-988b-baad16884402.jpg",
             "display_order": 4,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Bernhard Weise",
+              "en": "Bernhard Weise"
+            },
+            "photographer": null,
+            "copyright": "Bernhard Weise"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/ac9f7ad5-779c-52e9-a484-c4064b41c757.jpg",
+            "display_order": 5,
             "languages": [
               "de",
               "en"
@@ -7901,8 +7917,72 @@
           }
         ],
         "artist_names": [
-          "Altarblatt: Joachim von Sandrart (1606-1688)",
-          "Joachim von Sandrart (1606–1688)"
+          "Balthasar Ableithner (1614-1705)",
+          "Balthasar Ableithner (1614–1705)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "0f4907e8-1bfe-5be4-9774-f6308f10d7a4",
+        "internal_name": "Pulpit",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:3:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/a736b336-803b-5e9f-923e-f47505ff1717.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Peter Heinrich Jahn",
+              "en": "Peter Heinrich Jahn"
+            },
+            "photographer": null,
+            "copyright": "Peter Heinrich Jahn"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/d42af9e8-a50c-56b8-aee4-ab50e0824209.jpg",
+            "display_order": 2,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Bernhard Weise",
+              "en": "Bernhard Weise"
+            },
+            "photographer": null,
+            "copyright": "Bernhard Weise"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/15cf2e6e-ca2e-535e-84a5-7b5b9b245a72.jpg",
+            "display_order": 3,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Bernhard Weise",
+              "en": "Bernhard Weise"
+            },
+            "photographer": null,
+            "copyright": "Bernhard Weise"
+          }
+        ],
+        "artist_names": [
+          "Andreas Faistenberger (1646-1735)",
+          "Andreas Faistenberger (1646–1735)"
         ],
         "languages": [
           "de",
@@ -7913,7 +7993,7 @@
         "id": "d721d07e-af8d-5c90-a2d1-60b3a0ac2fd3",
         "internal_name": "Altar of the Holy Kinship",
         "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:3:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/b83586ae-af37-5ebe-9ad6-e2a35f58d9cb.jpg",
@@ -8006,13 +8086,13 @@
         ]
       },
       {
-        "id": "0f4907e8-1bfe-5be4-9774-f6308f10d7a4",
-        "internal_name": "Pulpit",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:3:2",
-        "display_order": null,
+        "id": "49f2b9ac-02d2-5d5a-b795-331d46920de1",
+        "internal_name": "Altar of St. Cajetan",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:3:4",
+        "display_order": 4,
         "images": [
           {
-            "url": "https://inventory.metanull.eu/pub/a736b336-803b-5e9f-923e-f47505ff1717.jpg",
+            "url": "https://inventory.metanull.eu/pub/d7e7210e-5808-5545-b862-f166696b755f.jpg",
             "display_order": 1,
             "languages": [
               "de",
@@ -8028,7 +8108,7 @@
             "copyright": "Peter Heinrich Jahn"
           },
           {
-            "url": "https://inventory.metanull.eu/pub/d42af9e8-a50c-56b8-aee4-ab50e0824209.jpg",
+            "url": "https://inventory.metanull.eu/pub/54db7dfc-ad2e-5929-b78a-d5436d050f54.jpg",
             "display_order": 2,
             "languages": [
               "de",
@@ -8037,14 +8117,14 @@
             "captions": {},
             "photographers": {},
             "copyrights": {
-              "de": "Bernhard Weise",
-              "en": "Bernhard Weise"
+              "de": "Peter Heinrich Jahn",
+              "en": "Peter Heinrich Jahn"
             },
             "photographer": null,
-            "copyright": "Bernhard Weise"
+            "copyright": "Peter Heinrich Jahn"
           },
           {
-            "url": "https://inventory.metanull.eu/pub/15cf2e6e-ca2e-535e-84a5-7b5b9b245a72.jpg",
+            "url": "https://inventory.metanull.eu/pub/de5b8656-4c7c-5f5b-9d8a-41b55de8205f.jpg",
             "display_order": 3,
             "languages": [
               "de",
@@ -8053,78 +8133,14 @@
             "captions": {},
             "photographers": {},
             "copyrights": {
-              "de": "Bernhard Weise",
-              "en": "Bernhard Weise"
+              "de": "Peter Heinrich Jahn",
+              "en": "Peter Heinrich Jahn"
             },
             "photographer": null,
-            "copyright": "Bernhard Weise"
-          }
-        ],
-        "artist_names": [
-          "Andreas Faistenberger (1646-1735)",
-          "Andreas Faistenberger (1646–1735)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "92a08715-2350-530f-b788-77727a9408e0",
-        "internal_name": "Sculptures of the chancel screen",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:3:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/b559c792-c69b-5c71-aab6-8ef2975388c2.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Bernhard Weise",
-              "en": "Bernhard Weise"
-            },
-            "photographer": null,
-            "copyright": "Bernhard Weise"
+            "copyright": "Peter Heinrich Jahn"
           },
           {
-            "url": "https://inventory.metanull.eu/pub/fe1cbd2d-eed0-5a17-be98-ef43839e1e80.jpg",
-            "display_order": 2,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Bernhard Weise",
-              "en": "Bernhard Weise"
-            },
-            "photographer": null,
-            "copyright": "Bernhard Weise"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/7326b5e3-d6c7-5e44-ab22-0cccb8c747d1.jpg",
-            "display_order": 3,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Bernhard Weise",
-              "en": "Bernhard Weise"
-            },
-            "photographer": null,
-            "copyright": "Bernhard Weise"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/b7f539a7-a397-594c-988b-baad16884402.jpg",
+            "url": "https://inventory.metanull.eu/pub/1b663b50-b228-5763-922d-c6ecb86df4b2.jpg",
             "display_order": 4,
             "languages": [
               "de",
@@ -8138,27 +8154,11 @@
             },
             "photographer": null,
             "copyright": "Bernhard Weise"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/ac9f7ad5-779c-52e9-a484-c4064b41c757.jpg",
-            "display_order": 5,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Bernhard Weise",
-              "en": "Bernhard Weise"
-            },
-            "photographer": null,
-            "copyright": "Bernhard Weise"
           }
         ],
         "artist_names": [
-          "Balthasar Ableithner (1614-1705)",
-          "Balthasar Ableithner (1614–1705)"
+          "Altarblatt: Joachim von Sandrart (1606-1688)",
+          "Joachim von Sandrart (1606–1688)"
         ],
         "languages": [
           "de",
@@ -8442,10 +8442,58 @@
     "media": [],
     "details": [
       {
+        "id": "8b96a363-f446-5109-9d02-c46824b4fd8c",
+        "internal_name": "Entrance portal",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_E:2:1",
+        "display_order": 1,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/a74462de-795d-525c-bc55-5fdc6c9dbb1d.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {},
+            "photographer": null,
+            "copyright": null
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/5290c9f0-beac-5a83-8551-ec448732d025.jpg",
+            "display_order": 2,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "cs": "Klára Hodanová",
+              "en": "Klára Hodanová"
+            },
+            "copyrights": {
+              "cs": "Národní památkový ústav v Telči",
+              "en": "Národní památkový ústav v Telči"
+            },
+            "photographer": "Klára Hodanová",
+            "copyright": "Národní památkový ústav v Telči"
+          }
+        ],
+        "artist_names": [
+          "Giovanni Pietro Tencalla (1629 Bissone? – 1702 Vídeň?)",
+          "Giovanni Pietro Tencalla (1629 Bissone? – 1702 Vienna?)"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
         "id": "7bb2bdb2-91ed-584a-9b73-434103abc508",
         "internal_name": "*Sala terrena*",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_E:2:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/77e2b0c1-c469-5956-9352-e5832817567e.jpg",
@@ -8555,58 +8603,10 @@
         ]
       },
       {
-        "id": "8b96a363-f446-5109-9d02-c46824b4fd8c",
-        "internal_name": "Entrance portal",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_E:2:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/a74462de-795d-525c-bc55-5fdc6c9dbb1d.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {},
-            "photographer": null,
-            "copyright": null
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/5290c9f0-beac-5a83-8551-ec448732d025.jpg",
-            "display_order": 2,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "cs": "Klára Hodanová",
-              "en": "Klára Hodanová"
-            },
-            "copyrights": {
-              "cs": "Národní památkový ústav v Telči",
-              "en": "Národní památkový ústav v Telči"
-            },
-            "photographer": "Klára Hodanová",
-            "copyright": "Národní památkový ústav v Telči"
-          }
-        ],
-        "artist_names": [
-          "Giovanni Pietro Tencalla (1629 Bissone? – 1702 Vídeň?)",
-          "Giovanni Pietro Tencalla (1629 Bissone? – 1702 Vienna?)"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
         "id": "cb0bfb98-65d7-5e00-ac6e-f7448d4fefe4",
         "internal_name": "Feudal Hall",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_E:2:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/fd73f689-5b28-574b-85d8-f402d2a1f9bb.jpg",
@@ -8719,7 +8719,7 @@
         "id": "16b7443b-221e-5c2f-b518-f5af41d929f0",
         "internal_name": "Large Dining Hall (Assembly Hall)",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_E:2:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/4dd68af5-46ce-5c31-9684-cd58232cc1fb.jpg",
@@ -8755,7 +8755,7 @@
         "id": "0e176e66-89ab-5988-b754-f76492d554b6",
         "internal_name": "Rondel",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_E:2:5",
-        "display_order": null,
+        "display_order": 5,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/c32c0348-de7b-5a23-81ff-dc433323a87b.jpg",
@@ -9425,150 +9425,10 @@
     "media": [],
     "details": [
       {
-        "id": "2dd05ca7-8405-5c54-83a9-e8196103e37b",
-        "internal_name": "Altar of St. Benedict (high altar of the abbey church)",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:19:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/b825e122-26d7-53b1-af35-9b99117d2c18.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Kloster Benediktbeuern",
-              "en": "Kloster Benediktbeuern"
-            },
-            "photographer": null,
-            "copyright": "Kloster Benediktbeuern"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/62052a2f-9919-51da-9bcd-771d89d2dcb6.jpg",
-            "display_order": 2,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Kloster Benediktbeuern",
-              "en": "Kloster Benediktbeuern"
-            },
-            "photographer": null,
-            "copyright": "Kloster Benediktbeuern"
-          }
-        ],
-        "artist_names": [
-          "Altararchitektur: Johann Georg Guggemos (1636-1703)",
-          "Altarblatt: Martin Knoller (1725-1804)",
-          "altarpiece: Martin Knoller (1725–1804)",
-          "Architecture of the altar: Johann Georg Guggemos (1636–1703)",
-          "architecture of the tabernacle: Abbot Eliland Öttl (gov. 1690–1707)",
-          "attic of the retable: Franz Edmund Doll (1744–1824)",
-          "Auszug: Franz Edmund Doll (1744-1824)",
-          "Nischenskulpturen und Engel: Balthasar Ableithner (1614-1705)",
-          "sculptures in niches and angels: Balthasar Ableithner (1614–1705)",
-          "tabernacle figures: Roman Anton Boos (1733–1810)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "1806be4b-9dfd-5bdf-9314-0f98c01bc8cd",
-        "internal_name": "Chapel of St. Anastasia",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:19:5",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/0b4c88e7-075b-5e32-8218-bfd547cf16df.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Gästeinformation Benediktbeuern",
-              "en": "Gästeinformation Benediktbeuern"
-            },
-            "photographer": null,
-            "copyright": "Gästeinformation Benediktbeuern"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/20163ff5-fc78-5fb5-b9ec-516861713814.jpg",
-            "display_order": 2,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Kloster Benediktbeuern",
-              "en": "MWNF"
-            },
-            "photographer": null,
-            "copyright": "Kloster Benediktbeuern"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/04bec944-81e8-5d97-8b44-3f2635b56fd3.jpg",
-            "display_order": 4,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Kloster Benediktbeuern",
-              "en": "Kloster Benediktbeuern"
-            },
-            "photographer": null,
-            "copyright": "Kloster Benediktbeuern"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/d60df2b2-9feb-50a5-bb19-c0c73b3dcd48.jpg",
-            "display_order": 5,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {},
-            "photographer": null,
-            "copyright": null
-          }
-        ],
-        "artist_names": [
-          "Altarblätter des Anastasia- und Immakulata-Altares: Jacopo Amigoni (1682-1752)",
-          "altarpieces for the altars of St. Anastasia and of the Immaculate Conception: Jacopo Amigoni (1682–1752)",
-          "Architecture: Johann Michael Fischer(1692–1766)",
-          "Architektur: Johann Michael Fischer (1692-1766)",
-          "ceiling fresco: Johann Jakob Zeiller (1710–83)",
-          "Fresken: Johann Jakob Zeiller (1710-1783)",
-          "side altars: Ignaz Günther (1725–75)",
-          "stucco and high altar: Johann Michael Feichtmayr (1696–1772)",
-          "Stuck und Hochaltar: Johann Michael Feichtmayr (1696-1772)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
         "id": "9ae03881-78f0-5e63-bd66-5bb57bff8346",
         "internal_name": "Monk’s Choir",
         "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:19:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/66f75381-3f12-5aa9-aafd-c0f2ca07f7e8.jpg",
@@ -9599,74 +9459,10 @@
         ]
       },
       {
-        "id": "d3d037ed-e8e5-5ff3-85c2-555bbabfcf8d",
-        "internal_name": "New Festival Hall (Princely Hall; now the convent chapel of the Salesian monastery)",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:19:4",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/3bd9088b-e3d2-5840-bfdb-5110730d0c60.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Kloster Benediktbeuern",
-              "en": "Kloster Benediktbeuern"
-            },
-            "photographer": null,
-            "copyright": "Kloster Benediktbeuern"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/d63d280c-c7d4-58b1-a46d-592a24c4fcf7.jpg",
-            "display_order": 2,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Kloster Benediktbeuern",
-              "en": "Kloster Benediktbeuern"
-            },
-            "photographer": null,
-            "copyright": "Kloster Benediktbeuern"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/e57ac739-e3a1-581a-adb8-ca2fd7fd8a99.jpg",
-            "display_order": 3,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Kloster Benediktbeuern",
-              "en": "Kloster Benediktbeuern"
-            },
-            "photographer": null,
-            "copyright": "Kloster Benediktbeuern"
-          }
-        ],
-        "artist_names": [
-          "Stucco and frescoes: Johann Baptist (1680–1758) and Johann Joseph (1707–43) Zimmermann",
-          "Stuck und Fresken: Johann Baptist (1680-1758) und Johann Joseph (1707-1743) Zimmermann"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
         "id": "acdb77c0-0663-595b-975d-8751bfd3847c",
         "internal_name": "Old Festival Hall",
         "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:19:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/3753aaac-eb4e-5961-92da-f28e6e4a29fc.jpg",
@@ -9758,6 +9554,210 @@
           "Nicolò Perti or Prospero Brenno",
           "Stucco: Kaspar Feichtmayr the Elder (1639–1704)",
           "Stuck: Kaspar Feichtmayr d.Ä. (1639-1704)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "2dd05ca7-8405-5c54-83a9-e8196103e37b",
+        "internal_name": "Altar of St. Benedict (high altar of the abbey church)",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:19:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/b825e122-26d7-53b1-af35-9b99117d2c18.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Kloster Benediktbeuern",
+              "en": "Kloster Benediktbeuern"
+            },
+            "photographer": null,
+            "copyright": "Kloster Benediktbeuern"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/62052a2f-9919-51da-9bcd-771d89d2dcb6.jpg",
+            "display_order": 2,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Kloster Benediktbeuern",
+              "en": "Kloster Benediktbeuern"
+            },
+            "photographer": null,
+            "copyright": "Kloster Benediktbeuern"
+          }
+        ],
+        "artist_names": [
+          "Altararchitektur: Johann Georg Guggemos (1636-1703)",
+          "Altarblatt: Martin Knoller (1725-1804)",
+          "altarpiece: Martin Knoller (1725–1804)",
+          "Architecture of the altar: Johann Georg Guggemos (1636–1703)",
+          "architecture of the tabernacle: Abbot Eliland Öttl (gov. 1690–1707)",
+          "attic of the retable: Franz Edmund Doll (1744–1824)",
+          "Auszug: Franz Edmund Doll (1744-1824)",
+          "Nischenskulpturen und Engel: Balthasar Ableithner (1614-1705)",
+          "sculptures in niches and angels: Balthasar Ableithner (1614–1705)",
+          "tabernacle figures: Roman Anton Boos (1733–1810)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "d3d037ed-e8e5-5ff3-85c2-555bbabfcf8d",
+        "internal_name": "New Festival Hall (Princely Hall; now the convent chapel of the Salesian monastery)",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:19:4",
+        "display_order": 4,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/3bd9088b-e3d2-5840-bfdb-5110730d0c60.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Kloster Benediktbeuern",
+              "en": "Kloster Benediktbeuern"
+            },
+            "photographer": null,
+            "copyright": "Kloster Benediktbeuern"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/d63d280c-c7d4-58b1-a46d-592a24c4fcf7.jpg",
+            "display_order": 2,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Kloster Benediktbeuern",
+              "en": "Kloster Benediktbeuern"
+            },
+            "photographer": null,
+            "copyright": "Kloster Benediktbeuern"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/e57ac739-e3a1-581a-adb8-ca2fd7fd8a99.jpg",
+            "display_order": 3,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Kloster Benediktbeuern",
+              "en": "Kloster Benediktbeuern"
+            },
+            "photographer": null,
+            "copyright": "Kloster Benediktbeuern"
+          }
+        ],
+        "artist_names": [
+          "Stucco and frescoes: Johann Baptist (1680–1758) and Johann Joseph (1707–43) Zimmermann",
+          "Stuck und Fresken: Johann Baptist (1680-1758) und Johann Joseph (1707-1743) Zimmermann"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "1806be4b-9dfd-5bdf-9314-0f98c01bc8cd",
+        "internal_name": "Chapel of St. Anastasia",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:19:5",
+        "display_order": 5,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/0b4c88e7-075b-5e32-8218-bfd547cf16df.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Gästeinformation Benediktbeuern",
+              "en": "Gästeinformation Benediktbeuern"
+            },
+            "photographer": null,
+            "copyright": "Gästeinformation Benediktbeuern"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/20163ff5-fc78-5fb5-b9ec-516861713814.jpg",
+            "display_order": 2,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Kloster Benediktbeuern",
+              "en": "MWNF"
+            },
+            "photographer": null,
+            "copyright": "Kloster Benediktbeuern"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/04bec944-81e8-5d97-8b44-3f2635b56fd3.jpg",
+            "display_order": 4,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Kloster Benediktbeuern",
+              "en": "Kloster Benediktbeuern"
+            },
+            "photographer": null,
+            "copyright": "Kloster Benediktbeuern"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/d60df2b2-9feb-50a5-bb19-c0c73b3dcd48.jpg",
+            "display_order": 5,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {},
+            "photographer": null,
+            "copyright": null
+          }
+        ],
+        "artist_names": [
+          "Altarblätter des Anastasia- und Immakulata-Altares: Jacopo Amigoni (1682-1752)",
+          "altarpieces for the altars of St. Anastasia and of the Immaculate Conception: Jacopo Amigoni (1682–1752)",
+          "Architecture: Johann Michael Fischer(1692–1766)",
+          "Architektur: Johann Michael Fischer (1692-1766)",
+          "ceiling fresco: Johann Jakob Zeiller (1710–83)",
+          "Fresken: Johann Jakob Zeiller (1710-1783)",
+          "side altars: Ignaz Günther (1725–75)",
+          "stucco and high altar: Johann Michael Feichtmayr (1696–1772)",
+          "Stuck und Hochaltar: Johann Michael Feichtmayr (1696-1772)"
         ],
         "languages": [
           "de",
@@ -9879,7 +9879,7 @@
         "id": "a0121cc0-20a3-5469-8da2-4993a1e95a3a",
         "internal_name": "Main façade",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:17:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/e809677a-dbb1-55f5-bcd1-3529fa827f20.jpg",
@@ -9911,7 +9911,7 @@
         "id": "8817f196-3685-51fa-b249-38607df00ba9",
         "internal_name": "Northern side façade",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:17:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/025b083d-8a8a-5ec6-b8d1-e047fe6b2f00.jpg",
@@ -10039,10 +10039,10 @@
     "media": [],
     "details": [
       {
-        "id": "48d6ab89-fd69-5029-ab77-89ea887fd268",
-        "internal_name": "Façade",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:7:2",
-        "display_order": null,
+        "id": "718b140c-3c37-56e7-9342-578e4be4a043",
+        "internal_name": "Main façade",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:7:1",
+        "display_order": 1,
         "images": [],
         "artist_names": [
           "Anton Gigl",
@@ -10054,10 +10054,10 @@
         ]
       },
       {
-        "id": "718b140c-3c37-56e7-9342-578e4be4a043",
-        "internal_name": "Main façade",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:7:1",
-        "display_order": null,
+        "id": "48d6ab89-fd69-5029-ab77-89ea887fd268",
+        "internal_name": "Façade",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:7:2",
+        "display_order": 2,
         "images": [],
         "artist_names": [
           "Anton Gigl",
@@ -10072,7 +10072,7 @@
         "id": "0c30fb7d-3f55-524f-acdd-1883685cccae",
         "internal_name": "Stucco ceiling",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:7:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/b1f4a429-1915-5d7f-8c72-a37a9fcb3267.jpg",
@@ -10556,10 +10556,68 @@
     "media": [],
     "details": [
       {
+        "id": "bd83431f-3b68-50c1-b369-a3b63fc107e1",
+        "internal_name": "Staircase",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_D:32:1",
+        "display_order": 1,
+        "images": [],
+        "artist_names": [
+          "Domenico Maria Francia",
+          "Giuseppe Camone"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
+        "id": "46629869-175a-5ce1-8e92-45a1b32d5f70",
+        "internal_name": "Hall of the Ancestors",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_D:32:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/790a962e-2dee-5944-8229-33db4c9effd6.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "cs": "Pavel Čech",
+              "en": "Pavel Čech"
+            },
+            "copyrights": {
+              "cs": "Moravská galerie v Brně",
+              "en": "Moravská galerie v Brně"
+            },
+            "photographer": "Pavel Čech",
+            "copyright": "Moravská galerie v Brně"
+          }
+        ],
+        "artist_names": [
+          "Alessandro Ferretti",
+          "Domenico Maria Francia",
+          "Johann Baptist Glunck",
+          "Johann Gotfried Auerbach",
+          "Johann Gotfried Auerbach (1679 Mühlheim – 1743 Vídeň)",
+          "Josef Emanuel Fischer von Erlach (1656 Vídeň – 1742 Vídeň)",
+          "Josef Emanuel Fischer von Erlach (1656–1742 Vienna?)",
+          "Martin Meytens (1695 Stockholm – 1770 Vídeň)",
+          "Martin Meytens (1695 Stockholm – 1770 Vienna)",
+          "Tobias Gravani"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
         "id": "acbcd2fe-73a5-5680-ae25-a6b4c595a3b1",
         "internal_name": "*Sala Terrena*",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_D:32:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/2ea1b44a-1852-5afc-b7bb-86d84375388c.jpg",
@@ -10656,46 +10714,10 @@
         ]
       },
       {
-        "id": "cee30618-4395-58d9-9364-6ae0526dbf95",
-        "internal_name": "Church of St. Margaret",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_D:32:5",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/56c24f1e-2092-5d71-ad25-f420ed997270.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "cs": "Jaroměřice castle",
-              "en": "Jaroměřice castle"
-            },
-            "photographer": null,
-            "copyright": "Jaroměřice castle"
-          }
-        ],
-        "artist_names": [
-          "František Antonín Findt",
-          "Johann Lucas von Hildebrandt (1668 Genoa – 1745 Vienna)",
-          "Johann Lucas von Hildebrandt (1668 Janov – 1745 Vídeň)",
-          "Karel František Tepper",
-          "Karel František Tepper (1682–1738)",
-          "Kaspar Ober"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
         "id": "169326c2-920f-568e-865b-5feb37a401c0",
         "internal_name": "Count’s Study",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_D:32:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/85aa8f0b-c7e5-525e-bf61-5b1c12004a44.jpg",
@@ -10773,57 +10795,35 @@
         ]
       },
       {
-        "id": "46629869-175a-5ce1-8e92-45a1b32d5f70",
-        "internal_name": "Hall of the Ancestors",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_D:32:2",
-        "display_order": null,
+        "id": "cee30618-4395-58d9-9364-6ae0526dbf95",
+        "internal_name": "Church of St. Margaret",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_D:32:5",
+        "display_order": 5,
         "images": [
           {
-            "url": "https://inventory.metanull.eu/pub/790a962e-2dee-5944-8229-33db4c9effd6.jpg",
+            "url": "https://inventory.metanull.eu/pub/56c24f1e-2092-5d71-ad25-f420ed997270.jpg",
             "display_order": 1,
             "languages": [
               "cs",
               "en"
             ],
             "captions": {},
-            "photographers": {
-              "cs": "Pavel Čech",
-              "en": "Pavel Čech"
-            },
+            "photographers": {},
             "copyrights": {
-              "cs": "Moravská galerie v Brně",
-              "en": "Moravská galerie v Brně"
+              "cs": "Jaroměřice castle",
+              "en": "Jaroměřice castle"
             },
-            "photographer": "Pavel Čech",
-            "copyright": "Moravská galerie v Brně"
+            "photographer": null,
+            "copyright": "Jaroměřice castle"
           }
         ],
         "artist_names": [
-          "Alessandro Ferretti",
-          "Domenico Maria Francia",
-          "Johann Baptist Glunck",
-          "Johann Gotfried Auerbach",
-          "Johann Gotfried Auerbach (1679 Mühlheim – 1743 Vídeň)",
-          "Josef Emanuel Fischer von Erlach (1656 Vídeň – 1742 Vídeň)",
-          "Josef Emanuel Fischer von Erlach (1656–1742 Vienna?)",
-          "Martin Meytens (1695 Stockholm – 1770 Vídeň)",
-          "Martin Meytens (1695 Stockholm – 1770 Vienna)",
-          "Tobias Gravani"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
-        "id": "bd83431f-3b68-50c1-b369-a3b63fc107e1",
-        "internal_name": "Staircase",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_D:32:1",
-        "display_order": null,
-        "images": [],
-        "artist_names": [
-          "Domenico Maria Francia",
-          "Giuseppe Camone"
+          "František Antonín Findt",
+          "Johann Lucas von Hildebrandt (1668 Genoa – 1745 Vienna)",
+          "Johann Lucas von Hildebrandt (1668 Janov – 1745 Vídeň)",
+          "Karel František Tepper",
+          "Karel František Tepper (1682–1738)",
+          "Kaspar Ober"
         ],
         "languages": [
           "cs",
@@ -11120,137 +11120,10 @@
     "media": [],
     "details": [
       {
-        "id": "89c05fc9-f779-5631-bd7e-77ed9cf6185a",
-        "internal_name": "Altarpiece: *Baptism of the Indian Nobleman* and *St. Francis Xavier’s Miracle of the Crab*",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:1:4",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/1d114afa-b875-51ff-a5a4-070b22c2773d.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "de": "Martin Raffler",
-              "en": "Martin Raffler"
-            },
-            "copyrights": {
-              "de": "Innsbruck Tourismus",
-              "en": "Innsbruck Tourismus"
-            },
-            "photographer": "Martin Raffler",
-            "copyright": "Innsbruck Tourismus"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/14b00597-2b3e-5a29-be95-afa8a28e1bb1.jpg",
-            "display_order": 2,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "de": "Martin Raffler",
-              "en": "Martin Raffler"
-            },
-            "copyrights": {
-              "de": "Innsbruck Tourismus",
-              "en": "Innsbruck Tourismus"
-            },
-            "photographer": "Martin Raffler",
-            "copyright": "Innsbruck Tourismus"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/2e76e52d-a3fb-545f-a6fb-4062d26491ea.jpg",
-            "display_order": 3,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "de": "Martin Raffler",
-              "en": "Martin Raffler"
-            },
-            "copyrights": {
-              "de": "Innsbruck Tourismus",
-              "en": "Innsbruck Tourismus"
-            },
-            "photographer": "Martin Raffler",
-            "copyright": "Innsbruck Tourismus"
-          }
-        ],
-        "artist_names": [
-          "Johann Heinrich Schönfeld (1609-1684)",
-          "Johann Heinrich Schönfeld (1609–1684)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "b7c0b98d-c15d-53e7-87ca-e9455c41bd5a",
-        "internal_name": "Choir and crossing",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:1:2",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/96759b98-b807-5c92-a8e7-53d2ad4126c3.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "de": "Martin Raffler",
-              "en": "Martin Raffler"
-            },
-            "copyrights": {
-              "de": "Innsbruck Tourismus",
-              "en": "Innsbruck Tourismus"
-            },
-            "photographer": "Martin Raffler",
-            "copyright": "Innsbruck Tourismus"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/2b0b751a-a3f6-5008-912a-9bdbc7ce07ae.jpg",
-            "display_order": 2,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "de": "P. Bruno Niederbacher SJ",
-              "en": "P. Bruno Niederbacher SJ"
-            },
-            "copyrights": {
-              "de": "Jesuitenkirche Innsbruck",
-              "en": "Jesuitenkirche Innsbruck"
-            },
-            "photographer": "P. Bruno Niederbacher SJ",
-            "copyright": "Jesuitenkirche Innsbruck"
-          }
-        ],
-        "artist_names": [
-          "Antonio Balestra (1666–1740)",
-          "Antonio Balestra (Altarblatt)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
         "id": "32a8ad1d-7f6d-50f5-86ce-2904db9b8e81",
         "internal_name": "Façade",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:1:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/23b3b666-996b-5a13-9a32-bc926f375f1e.jpg",
@@ -11320,10 +11193,178 @@
         ]
       },
       {
+        "id": "b7c0b98d-c15d-53e7-87ca-e9455c41bd5a",
+        "internal_name": "Choir and crossing",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:1:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/96759b98-b807-5c92-a8e7-53d2ad4126c3.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "de": "Martin Raffler",
+              "en": "Martin Raffler"
+            },
+            "copyrights": {
+              "de": "Innsbruck Tourismus",
+              "en": "Innsbruck Tourismus"
+            },
+            "photographer": "Martin Raffler",
+            "copyright": "Innsbruck Tourismus"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/2b0b751a-a3f6-5008-912a-9bdbc7ce07ae.jpg",
+            "display_order": 2,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "de": "P. Bruno Niederbacher SJ",
+              "en": "P. Bruno Niederbacher SJ"
+            },
+            "copyrights": {
+              "de": "Jesuitenkirche Innsbruck",
+              "en": "Jesuitenkirche Innsbruck"
+            },
+            "photographer": "P. Bruno Niederbacher SJ",
+            "copyright": "Jesuitenkirche Innsbruck"
+          }
+        ],
+        "artist_names": [
+          "Antonio Balestra (1666–1740)",
+          "Antonio Balestra (Altarblatt)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "53f0ae70-9e34-55bc-bbcb-4ee9c86e09a0",
+        "internal_name": "Stucco",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:1:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/2bc9ffc0-c9fb-5409-bca1-7519b2386099.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "de": "Martin Raffler",
+              "en": "Martin Raffler"
+            },
+            "copyrights": {
+              "de": "Innsbruck Tourismus",
+              "en": "Innsbruck Tourismus"
+            },
+            "photographer": "Martin Raffler",
+            "copyright": "Innsbruck Tourismus"
+          }
+        ],
+        "artist_names": [
+          "Florian Nut",
+          "Florian Nut [n.d.]",
+          "Frair Oswald Kaiser [n.d.]",
+          "Georg Braun",
+          "Georg Braun [n.d.]",
+          "Hans Schor",
+          "Hans Schor (1585–1674)",
+          "Oswald Kaiser"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "89c05fc9-f779-5631-bd7e-77ed9cf6185a",
+        "internal_name": "Altarpiece: *Baptism of the Indian Nobleman* and *St. Francis Xavier’s Miracle of the Crab*",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:1:4",
+        "display_order": 4,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/1d114afa-b875-51ff-a5a4-070b22c2773d.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "de": "Martin Raffler",
+              "en": "Martin Raffler"
+            },
+            "copyrights": {
+              "de": "Innsbruck Tourismus",
+              "en": "Innsbruck Tourismus"
+            },
+            "photographer": "Martin Raffler",
+            "copyright": "Innsbruck Tourismus"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/14b00597-2b3e-5a29-be95-afa8a28e1bb1.jpg",
+            "display_order": 2,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "de": "Martin Raffler",
+              "en": "Martin Raffler"
+            },
+            "copyrights": {
+              "de": "Innsbruck Tourismus",
+              "en": "Innsbruck Tourismus"
+            },
+            "photographer": "Martin Raffler",
+            "copyright": "Innsbruck Tourismus"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/2e76e52d-a3fb-545f-a6fb-4062d26491ea.jpg",
+            "display_order": 3,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "de": "Martin Raffler",
+              "en": "Martin Raffler"
+            },
+            "copyrights": {
+              "de": "Innsbruck Tourismus",
+              "en": "Innsbruck Tourismus"
+            },
+            "photographer": "Martin Raffler",
+            "copyright": "Innsbruck Tourismus"
+          }
+        ],
+        "artist_names": [
+          "Johann Heinrich Schönfeld (1609-1684)",
+          "Johann Heinrich Schönfeld (1609–1684)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
         "id": "6f69a47e-294c-59c1-8a2b-a6157999fccc",
         "internal_name": "Pulpit",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:1:5",
-        "display_order": null,
+        "display_order": 5,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/869c3d64-f9c7-5553-8cc9-d5128029c097.jpg",
@@ -11367,47 +11408,6 @@
         "artist_names": [
           "Fr. Oswald Kaiser",
           "Friar Oswald Kaiser [n.d.]"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "53f0ae70-9e34-55bc-bbcb-4ee9c86e09a0",
-        "internal_name": "Stucco",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:1:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/2bc9ffc0-c9fb-5409-bca1-7519b2386099.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "de": "Martin Raffler",
-              "en": "Martin Raffler"
-            },
-            "copyrights": {
-              "de": "Innsbruck Tourismus",
-              "en": "Innsbruck Tourismus"
-            },
-            "photographer": "Martin Raffler",
-            "copyright": "Innsbruck Tourismus"
-          }
-        ],
-        "artist_names": [
-          "Florian Nut",
-          "Florian Nut [n.d.]",
-          "Frair Oswald Kaiser [n.d.]",
-          "Georg Braun",
-          "Georg Braun [n.d.]",
-          "Hans Schor",
-          "Hans Schor (1585–1674)",
-          "Oswald Kaiser"
         ],
         "languages": [
           "de",
@@ -11676,10 +11676,145 @@
     "media": [],
     "details": [
       {
+        "id": "414c7c6c-2207-59d9-bb8a-cc731e96b803",
+        "internal_name": "Entrance frontage",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:20:1",
+        "display_order": 1,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/46b73026-9859-520d-a651-944e3513cbe3.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "cs": "Moravská galerie v Brně",
+              "en": "Moravská galerie v Brně"
+            },
+            "photographer": null,
+            "copyright": "Moravská galerie v Brně"
+          }
+        ],
+        "artist_names": [
+          "Antonio Gabri",
+          "Mořic Grimm (1669 Achdorf – 1757 Brno)",
+          "Mořic Grimm (1669 Achtdorf – 1757 Brno)"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
+        "id": "5c1e94cf-ce7a-5555-9256-3d473268fb97",
+        "internal_name": "Portal",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:20:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/2eb7d28c-ae55-5711-8d78-e55360b3a33e.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "cs": "Moravská galerie v Brně",
+              "en": "Moravská galerie v Brně"
+            },
+            "photographer": null,
+            "copyright": "Moravská galerie v Brně"
+          }
+        ],
+        "artist_names": [
+          "Jan Křtitel Erna (1625? Brno – 1698 Brno) – Jan Kašpar Pröbstl (? – 1729 Brno)",
+          "Jan Křtitel Erna (1625?, Brno – 1698, Brno) – Jan Kašpar Pröbstl (? – 1729, Brno)"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
+        "id": "81361e9e-cd2c-5f12-afd9-bc76a3a86457",
+        "internal_name": "The Annunciation",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:20:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/ad875d15-cef6-5b97-a3d8-49b361593418.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "cs": "Veronika Skálová",
+              "en": "Veronika Skálová"
+            },
+            "copyrights": {
+              "cs": "Moravská galerie v Brně",
+              "en": "Moravská galerie v Brně"
+            },
+            "photographer": "Veronika Skálová",
+            "copyright": "Moravská galerie v Brně"
+          }
+        ],
+        "artist_names": [
+          "Baldissere di Anna (1560 Benátky – po 1639 Benátky)",
+          "Baldissere di Anna (1560, Venezia – after 1639, Venezia)"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
+        "id": "47be1ddd-0ecd-5944-937b-603bf7067790",
+        "internal_name": "The Virgin Mary as Queen of Heaven",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:20:4",
+        "display_order": 4,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/15047bd7-0426-5ec5-b970-b44e75198d44.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "cs": "Veronika Skálová",
+              "en": "Veronika Skálová"
+            },
+            "copyrights": {
+              "cs": "Moravská galerie v Brně",
+              "en": "Moravská galerie v Brně"
+            },
+            "photographer": "Veronika Skálová",
+            "copyright": "Moravská galerie v Brně"
+          }
+        ],
+        "artist_names": [
+          "Felix Anton Scheffler (1701 Mainburg – 1760 Prague)",
+          "Felix Anton Scheffler (1701 Mainburg – 1760 Praha)"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
         "id": "b3631ca4-4c40-5863-ad39-0d6734c902ed",
         "internal_name": "Blackamoor",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:20:5",
-        "display_order": null,
+        "display_order": 5,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/fc7f344f-7107-5e5f-8f0e-81c409abe27e.jpg",
@@ -11717,141 +11852,6 @@
         "artist_names": [
           "Ondřej Schweigl (1735 Brno – 1812 Brno)",
           "Ondřej Schweigl (1735–1812, Brno)"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
-        "id": "414c7c6c-2207-59d9-bb8a-cc731e96b803",
-        "internal_name": "Entrance frontage",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:20:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/46b73026-9859-520d-a651-944e3513cbe3.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "cs": "Moravská galerie v Brně",
-              "en": "Moravská galerie v Brně"
-            },
-            "photographer": null,
-            "copyright": "Moravská galerie v Brně"
-          }
-        ],
-        "artist_names": [
-          "Antonio Gabri",
-          "Mořic Grimm (1669 Achdorf – 1757 Brno)",
-          "Mořic Grimm (1669 Achtdorf – 1757 Brno)"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
-        "id": "5c1e94cf-ce7a-5555-9256-3d473268fb97",
-        "internal_name": "Portal",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:20:2",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/2eb7d28c-ae55-5711-8d78-e55360b3a33e.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "cs": "Moravská galerie v Brně",
-              "en": "Moravská galerie v Brně"
-            },
-            "photographer": null,
-            "copyright": "Moravská galerie v Brně"
-          }
-        ],
-        "artist_names": [
-          "Jan Křtitel Erna (1625? Brno – 1698 Brno) – Jan Kašpar Pröbstl (? – 1729 Brno)",
-          "Jan Křtitel Erna (1625?, Brno – 1698, Brno) – Jan Kašpar Pröbstl (? – 1729, Brno)"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
-        "id": "81361e9e-cd2c-5f12-afd9-bc76a3a86457",
-        "internal_name": "The Annunciation",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:20:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/ad875d15-cef6-5b97-a3d8-49b361593418.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "cs": "Veronika Skálová",
-              "en": "Veronika Skálová"
-            },
-            "copyrights": {
-              "cs": "Moravská galerie v Brně",
-              "en": "Moravská galerie v Brně"
-            },
-            "photographer": "Veronika Skálová",
-            "copyright": "Moravská galerie v Brně"
-          }
-        ],
-        "artist_names": [
-          "Baldissere di Anna (1560 Benátky – po 1639 Benátky)",
-          "Baldissere di Anna (1560, Venezia – after 1639, Venezia)"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
-        "id": "47be1ddd-0ecd-5944-937b-603bf7067790",
-        "internal_name": "The Virgin Mary as Queen of Heaven",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:20:4",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/15047bd7-0426-5ec5-b970-b44e75198d44.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "cs": "Veronika Skálová",
-              "en": "Veronika Skálová"
-            },
-            "copyrights": {
-              "cs": "Moravská galerie v Brně",
-              "en": "Moravská galerie v Brně"
-            },
-            "photographer": "Veronika Skálová",
-            "copyright": "Moravská galerie v Brně"
-          }
-        ],
-        "artist_names": [
-          "Felix Anton Scheffler (1701 Mainburg – 1760 Prague)",
-          "Felix Anton Scheffler (1701 Mainburg – 1760 Praha)"
         ],
         "languages": [
           "cs",
@@ -11957,7 +11957,7 @@
         "id": "4692d873-94e6-59eb-9dc0-1830c1081690",
         "internal_name": "Ceiling fresco",
         "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:26:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [],
         "artist_names": [
           "Gregorio Guglielmi (1714-1773)",
@@ -11972,7 +11972,7 @@
         "id": "ee0459a7-7135-59f3-8a2f-96ace2250f9f",
         "internal_name": "Ceiling fresco",
         "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:26:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [],
         "artist_names": [
           "Gregorio Guglielmi (1714-1773)",
@@ -12216,25 +12216,10 @@
     "media": [],
     "details": [
       {
-        "id": "bbb068e0-786d-5185-ae89-0a937e547d94",
-        "internal_name": "Ceiling fresco of the Dining Room",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:1:4",
-        "display_order": null,
-        "images": [],
-        "artist_names": [
-          "Fresko: Thomas Christian Wink (1738-1797)",
-          "Thomas Christian Wink (1738–1797)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
         "id": "2eb1f102-370e-5a15-aa76-966aead4921b",
         "internal_name": "Ceiling fresco of the Great Hall",
         "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:1:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/12e912fe-e2ca-5a56-a57e-3d58ffd5d762.jpg",
@@ -12263,41 +12248,10 @@
         ]
       },
       {
-        "id": "1b76ee67-59f5-5426-ae90-e4aff6200791",
-        "internal_name": "Electress’s Private Chapel",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:1:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/93bccf55-4a30-5a66-bf09-b31cf365d496.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Bayerische Schlösserverwaltung",
-              "en": "Bayerische Schlösserverwaltung"
-            },
-            "photographer": null,
-            "copyright": "Bayerische Schlösserverwaltung"
-          }
-        ],
-        "artist_names": [
-          "Fresko: Johann Baptist Zimmermann (1680-1758)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
         "id": "b7aa2d97-f660-5f39-a7c3-53ec68eec878",
         "internal_name": "Victory Hall",
         "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:1:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/beaa2587-477b-5498-9439-f9ea1cee0a55.jpg",
@@ -12372,6 +12326,52 @@
           "Kistlerarbeiten/Schnitzereien: Johann Adam Pichler (um 1690-1761)",
           "Schlachtengemälde: Joachim Beich (1665-1748)",
           "Stuck: Charles Dubut (um 1687-1742)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "1b76ee67-59f5-5426-ae90-e4aff6200791",
+        "internal_name": "Electress’s Private Chapel",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:1:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/93bccf55-4a30-5a66-bf09-b31cf365d496.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Bayerische Schlösserverwaltung",
+              "en": "Bayerische Schlösserverwaltung"
+            },
+            "photographer": null,
+            "copyright": "Bayerische Schlösserverwaltung"
+          }
+        ],
+        "artist_names": [
+          "Fresko: Johann Baptist Zimmermann (1680-1758)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "bbb068e0-786d-5185-ae89-0a937e547d94",
+        "internal_name": "Ceiling fresco of the Dining Room",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:1:4",
+        "display_order": 4,
+        "images": [],
+        "artist_names": [
+          "Fresko: Thomas Christian Wink (1738-1797)",
+          "Thomas Christian Wink (1738–1797)"
         ],
         "languages": [
           "de",
@@ -12557,139 +12557,10 @@
     "media": [],
     "details": [
       {
-        "id": "073a3608-7fb8-5a06-99a1-807b858158d2",
-        "internal_name": "Chapel of Mercy, interior",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:15:4",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/45a5b8eb-0f11-5a14-8927-84798f1eeb0e.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Pfarre Kaltenbrunn",
-              "en": "Pfarre Kaltenbrunn"
-            },
-            "photographer": null,
-            "copyright": "Pfarre Kaltenbrunn"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/12e204c5-f886-5471-b4af-4c8866467b38.jpg",
-            "display_order": 2,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Pfarre Kaltenbrunn",
-              "en": "Pfarre Kaltenbrunn"
-            },
-            "photographer": null,
-            "copyright": "Pfarre Kaltenbrunn"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/5905a5e8-536a-5363-8692-21e9df100fc5.jpg",
-            "display_order": 3,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Pfarre Kaltenbrunn",
-              "en": "Pfarre Kaltenbrunn"
-            },
-            "photographer": null,
-            "copyright": "Pfarre Kaltenbrunn"
-          }
-        ],
-        "artist_names": [
-          "Gallus Gratl (1684–1751)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "4721206d-edec-5f4f-8475-830cfd0d5bb0",
-        "internal_name": "Crucifix",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:15:5",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/eaec09c4-04ae-561c-9d15-41de2fc70a2a.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Pfarre Kaltenbrunn",
-              "en": "Pfarre Kaltenbrunn"
-            },
-            "photographer": null,
-            "copyright": "Pfarre Kaltenbrunn"
-          }
-        ],
-        "artist_names": [
-          "Andreas Thamasch (1639-1697)",
-          "Andreas Thamasch (1639–1697)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "5c94a693-94d2-5ebe-82b9-608c53f0f3fd",
-        "internal_name": "High altar",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:15:2",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/b79d54de-292c-5ef5-baeb-2510f91cf49e.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Pfarre Kaltenbrunn",
-              "en": "Pfarre Kaltenbrunn"
-            },
-            "photographer": null,
-            "copyright": "Pfarre Kaltenbrunn"
-          }
-        ],
-        "artist_names": [
-          "Andreas Kölle",
-          "Andreas Kölle (1680–1755)",
-          "Franz Laukas",
-          "Franz Laukas (1690–1765)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
         "id": "e6d1474a-473c-5669-a0d5-a4ba232d0192",
         "internal_name": "Interior, facing east",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:15:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/25763580-1388-5100-a8b2-dc8ac78e0f4d.jpg",
@@ -12763,10 +12634,44 @@
         ]
       },
       {
+        "id": "5c94a693-94d2-5ebe-82b9-608c53f0f3fd",
+        "internal_name": "High altar",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:15:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/b79d54de-292c-5ef5-baeb-2510f91cf49e.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Pfarre Kaltenbrunn",
+              "en": "Pfarre Kaltenbrunn"
+            },
+            "photographer": null,
+            "copyright": "Pfarre Kaltenbrunn"
+          }
+        ],
+        "artist_names": [
+          "Andreas Kölle",
+          "Andreas Kölle (1680–1755)",
+          "Franz Laukas",
+          "Franz Laukas (1690–1765)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
         "id": "9907ee8c-c9bc-5075-a64d-986d4821b30a",
         "internal_name": "Vault with stucco and ceiling paintings",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:15:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/e4be2ed5-3273-52df-8feb-396ec19fcdef.jpg",
@@ -12839,6 +12744,101 @@
           "Augustin Gigl (dates unknown, active in the first half of the 18th century)",
           "Franz Laukas (1690–1765)",
           "Franz Laukas (Fresken)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "073a3608-7fb8-5a06-99a1-807b858158d2",
+        "internal_name": "Chapel of Mercy, interior",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:15:4",
+        "display_order": 4,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/45a5b8eb-0f11-5a14-8927-84798f1eeb0e.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Pfarre Kaltenbrunn",
+              "en": "Pfarre Kaltenbrunn"
+            },
+            "photographer": null,
+            "copyright": "Pfarre Kaltenbrunn"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/12e204c5-f886-5471-b4af-4c8866467b38.jpg",
+            "display_order": 2,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Pfarre Kaltenbrunn",
+              "en": "Pfarre Kaltenbrunn"
+            },
+            "photographer": null,
+            "copyright": "Pfarre Kaltenbrunn"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/5905a5e8-536a-5363-8692-21e9df100fc5.jpg",
+            "display_order": 3,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Pfarre Kaltenbrunn",
+              "en": "Pfarre Kaltenbrunn"
+            },
+            "photographer": null,
+            "copyright": "Pfarre Kaltenbrunn"
+          }
+        ],
+        "artist_names": [
+          "Gallus Gratl (1684–1751)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "4721206d-edec-5f4f-8475-830cfd0d5bb0",
+        "internal_name": "Crucifix",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:15:5",
+        "display_order": 5,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/eaec09c4-04ae-561c-9d15-41de2fc70a2a.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Pfarre Kaltenbrunn",
+              "en": "Pfarre Kaltenbrunn"
+            },
+            "photographer": null,
+            "copyright": "Pfarre Kaltenbrunn"
+          }
+        ],
+        "artist_names": [
+          "Andreas Thamasch (1639-1697)",
+          "Andreas Thamasch (1639–1697)"
         ],
         "languages": [
           "de",
@@ -13161,10 +13161,42 @@
     "media": [],
     "details": [
       {
+        "id": "8b8d95b0-01c3-5050-9691-e08552b65528",
+        "internal_name": "Scourged Christ",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11:19:1",
+        "display_order": 1,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/8172168d-f8f6-5bc5-bb10-695280480ca4.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "cs": "National Institute for cultural heritage",
+              "en": "National Institute for cultural heritage"
+            },
+            "photographer": null,
+            "copyright": "National Institute for cultural heritage"
+          }
+        ],
+        "artist_names": [
+          "Bavarian carver",
+          "Bavorský řezbář"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
         "id": "5bc76a0c-5131-5c24-99d0-666fd90caf59",
         "internal_name": "Allegory of Salvation",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11:19:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/4c8c8bac-2e6d-52ed-9c14-8d269fcd8aca.jpg",
@@ -13196,7 +13228,7 @@
         "id": "d8c1fd87-1ac6-5fe2-b25b-54927d0e8b27",
         "internal_name": "Ecce Homo (“day’s work” or *giornata* of the presbytery fresco)",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11:19:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/23db8c5d-7c4d-53f4-a47f-407ca416d195.jpg",
@@ -13225,42 +13257,10 @@
         ]
       },
       {
-        "id": "8b8d95b0-01c3-5050-9691-e08552b65528",
-        "internal_name": "Scourged Christ",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11:19:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/8172168d-f8f6-5bc5-bb10-695280480ca4.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "cs": "National Institute for cultural heritage",
-              "en": "National Institute for cultural heritage"
-            },
-            "photographer": null,
-            "copyright": "National Institute for cultural heritage"
-          }
-        ],
-        "artist_names": [
-          "Bavarian carver",
-          "Bavorský řezbář"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
         "id": "130a251d-cd8c-55de-81ca-2e58a7733c0b",
         "internal_name": "St. Gregory",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11:19:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/d45cf444-fcf0-578a-b8f4-a1a20b5e90d5.jpg",
@@ -13293,7 +13293,7 @@
         "id": "040b2846-3c5d-576f-85cf-a8f925d606cd",
         "internal_name": "Virgin Mary with Child Handing the Order Gown to St. Norbert in the Presence of St. Augustine",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11:19:5",
-        "display_order": null,
+        "display_order": 5,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/78eea319-9123-54ae-b730-4348539df830.jpg",
@@ -13624,7 +13624,7 @@
         "id": "c4949ddb-d9d5-551d-b5df-1849fe2e8307",
         "internal_name": "Ceremonial Façade (main façade)",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:25:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/025dab66-ab42-5ead-89d5-3e40e79108b9.jpg",
@@ -13689,10 +13689,178 @@
         ]
       },
       {
+        "id": "b9abc8a0-1fc1-59ad-9b41-3194b57afd27",
+        "internal_name": "Throne Room",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:25:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/ab92654d-60e1-5d1b-85f6-fb0eef2dae14.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Luís Pavão",
+              "pt": "Luís Pavão"
+            },
+            "copyrights": {
+              "en": "IGESPAR/DIDA AF",
+              "pt": "IGESPAR/DIDA AF"
+            },
+            "photographer": "Luís Pavão",
+            "copyright": "IGESPAR/DIDA AF"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/ce37046e-d52e-586c-8fb6-84a2ce9c6c4b.jpg",
+            "display_order": 2,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "en": "DDF/IMC,IP",
+              "pt": "DDF/IMC,IP"
+            },
+            "photographer": null,
+            "copyright": "DDF/IMC,IP"
+          }
+        ],
+        "artist_names": [
+          "António Berardi",
+          "carving: Silvestre de Faria Lobo",
+          "cujas datas são desconhecidas.",
+          "entalhador: Silvestre de Faria Lobo",
+          "Jean Baptiste Robillion (active 1758–1782)",
+          "Jean Baptiste Robillion (activo 1758–1782)",
+          "Manuel da Costa",
+          "Manuel do Nascimento",
+          "painters: João de Freitas Leitão",
+          "pintores: João de Freitas Leitão",
+          "whose dates are unknown."
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
+        "id": "514d8dc0-868f-5204-a073-0bc44b2dabbb",
+        "internal_name": "Robillion Pavilion",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:25:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/1ed7547e-05f8-5bbb-a2d3-cab2b1bede89.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Luís Pavão",
+              "pt": "Luís Pavão"
+            },
+            "copyrights": {
+              "en": "IGESPAR/DIDA AF",
+              "pt": "IGESPAR/DIDA AF"
+            },
+            "photographer": "Luís Pavão",
+            "copyright": "IGESPAR/DIDA AF"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/590cba89-bb1a-56c4-bb81-ddb193864851.jpg",
+            "display_order": 2,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Henrique Ruas",
+              "pt": "Henrique Ruas"
+            },
+            "copyrights": {
+              "en": "IGESPAR/DIDA AF",
+              "pt": "IGESPAR/DIDA AF"
+            },
+            "photographer": "Henrique Ruas",
+            "copyright": "IGESPAR/DIDA AF"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/2b7649a7-8460-53c9-bcae-ba8a616d5e85.jpg",
+            "display_order": 3,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "en": "DDF/IMC,IP",
+              "pt": "DDF/IMC,IP"
+            },
+            "photographer": null,
+            "copyright": "DDF/IMC,IP"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/fa1b42de-4277-53d8-8545-ce4518437424.jpg",
+            "display_order": 4,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Luís Pavão",
+              "pt": "Luís Pavão"
+            },
+            "copyrights": {
+              "en": "IGESPAR/DIDA AF",
+              "pt": "IGESPAR/DIDA AF"
+            },
+            "photographer": "Luís Pavão",
+            "copyright": "IGESPAR/DIDA AF"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/b4c541fd-1e5d-5170-a112-c02f8c9638f5.jpg",
+            "display_order": 5,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "José Pessoa",
+              "pt": "José Pessoa"
+            },
+            "copyrights": {
+              "en": "DDF/IMC,IP",
+              "pt": "DDF/IMC,IP"
+            },
+            "photographer": "José Pessoa",
+            "copyright": "DDF/IMC,IP"
+          }
+        ],
+        "artist_names": [
+          "Jean Baptiste Robillion (active 1758–1782)",
+          "Jean Baptiste Robillion (activo 1758–1782)"
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
         "id": "bf8d5dd6-621c-537a-a14f-13c5c7464cea",
         "internal_name": "Gardens",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:25:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/9144098e-0778-525a-891e-9abea0317a1f.jpg",
@@ -13804,7 +13972,7 @@
         "id": "d0ab1550-cbd5-5935-b8c4-fe0633742da9",
         "internal_name": "Neptune Fountain",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:25:5",
-        "display_order": null,
+        "display_order": 5,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/46f99c0d-d0a7-59a3-bc40-7f06c5accefe.jpg",
@@ -13828,174 +13996,6 @@
         ],
         "artist_names": [
           "Ercole Ferrata (1610–1686)"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
-        "id": "514d8dc0-868f-5204-a073-0bc44b2dabbb",
-        "internal_name": "Robillion Pavilion",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:25:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/1ed7547e-05f8-5bbb-a2d3-cab2b1bede89.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Luís Pavão",
-              "pt": "Luís Pavão"
-            },
-            "copyrights": {
-              "en": "IGESPAR/DIDA AF",
-              "pt": "IGESPAR/DIDA AF"
-            },
-            "photographer": "Luís Pavão",
-            "copyright": "IGESPAR/DIDA AF"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/590cba89-bb1a-56c4-bb81-ddb193864851.jpg",
-            "display_order": 2,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Henrique Ruas",
-              "pt": "Henrique Ruas"
-            },
-            "copyrights": {
-              "en": "IGESPAR/DIDA AF",
-              "pt": "IGESPAR/DIDA AF"
-            },
-            "photographer": "Henrique Ruas",
-            "copyright": "IGESPAR/DIDA AF"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/2b7649a7-8460-53c9-bcae-ba8a616d5e85.jpg",
-            "display_order": 3,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "en": "DDF/IMC,IP",
-              "pt": "DDF/IMC,IP"
-            },
-            "photographer": null,
-            "copyright": "DDF/IMC,IP"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/fa1b42de-4277-53d8-8545-ce4518437424.jpg",
-            "display_order": 4,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Luís Pavão",
-              "pt": "Luís Pavão"
-            },
-            "copyrights": {
-              "en": "IGESPAR/DIDA AF",
-              "pt": "IGESPAR/DIDA AF"
-            },
-            "photographer": "Luís Pavão",
-            "copyright": "IGESPAR/DIDA AF"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/b4c541fd-1e5d-5170-a112-c02f8c9638f5.jpg",
-            "display_order": 5,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "José Pessoa",
-              "pt": "José Pessoa"
-            },
-            "copyrights": {
-              "en": "DDF/IMC,IP",
-              "pt": "DDF/IMC,IP"
-            },
-            "photographer": "José Pessoa",
-            "copyright": "DDF/IMC,IP"
-          }
-        ],
-        "artist_names": [
-          "Jean Baptiste Robillion (active 1758–1782)",
-          "Jean Baptiste Robillion (activo 1758–1782)"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
-        "id": "b9abc8a0-1fc1-59ad-9b41-3194b57afd27",
-        "internal_name": "Throne Room",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:25:2",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/ab92654d-60e1-5d1b-85f6-fb0eef2dae14.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Luís Pavão",
-              "pt": "Luís Pavão"
-            },
-            "copyrights": {
-              "en": "IGESPAR/DIDA AF",
-              "pt": "IGESPAR/DIDA AF"
-            },
-            "photographer": "Luís Pavão",
-            "copyright": "IGESPAR/DIDA AF"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/ce37046e-d52e-586c-8fb6-84a2ce9c6c4b.jpg",
-            "display_order": 2,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "en": "DDF/IMC,IP",
-              "pt": "DDF/IMC,IP"
-            },
-            "photographer": null,
-            "copyright": "DDF/IMC,IP"
-          }
-        ],
-        "artist_names": [
-          "António Berardi",
-          "carving: Silvestre de Faria Lobo",
-          "cujas datas são desconhecidas.",
-          "entalhador: Silvestre de Faria Lobo",
-          "Jean Baptiste Robillion (active 1758–1782)",
-          "Jean Baptiste Robillion (activo 1758–1782)",
-          "Manuel da Costa",
-          "Manuel do Nascimento",
-          "painters: João de Freitas Leitão",
-          "pintores: João de Freitas Leitão",
-          "whose dates are unknown."
         ],
         "languages": [
           "en",
@@ -14225,90 +14225,10 @@
     "media": [],
     "details": [
       {
-        "id": "65e0961f-c135-53b7-936d-31d97f565267",
-        "internal_name": "Ceiling fresco: *The Veneration of St. Charles Borromeo*",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:20:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/a28988ad-6909-5ea7-afdb-075c0e57de19.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Bundesdenkmalamt",
-              "en": "Bundesdenkmalamt"
-            },
-            "photographer": null,
-            "copyright": "Bundesdenkmalamt"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/e099aafc-18c5-5cf0-8b1b-50ae368e965a.jpg",
-            "display_order": 2,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "MWNF",
-              "en": "MWNF"
-            },
-            "photographer": null,
-            "copyright": "MWNF"
-          }
-        ],
-        "artist_names": [
-          "Martin Knoller",
-          "Martin Knoller (1725–1804)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "0e7a534f-4091-5533-9e34-fa83788eea0c",
-        "internal_name": "Chapel of the Sorrowful Mother (Fieger Chapel)",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:20:4",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/c05e7291-8cd5-50b7-99a5-3baa92d7169f.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Bundesdenkmalamt",
-              "en": "Bundesdenkmalamt"
-            },
-            "photographer": null,
-            "copyright": "Bundesdenkmalamt"
-          }
-        ],
-        "artist_names": [
-          "Kaspar Waldmann",
-          "Kaspar Waldmann (1657–1720)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
         "id": "6be75fcb-c136-5464-b836-1965beae6a26",
         "internal_name": "Façade",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:20:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/20b85047-06b7-5046-a49f-ef66d06b8f1a.jpg",
@@ -14356,7 +14276,7 @@
         "id": "9767c365-8093-52c3-83c1-3946d0072faa",
         "internal_name": "View from the east",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:20:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/0337a68e-b3a8-547e-a406-eef0e9490f72.jpg",
@@ -14394,6 +14314,86 @@
         "artist_names": [
           "Hippolytus Guarinonius",
           "Hippolytus Guarinonius (1571–1654)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "65e0961f-c135-53b7-936d-31d97f565267",
+        "internal_name": "Ceiling fresco: *The Veneration of St. Charles Borromeo*",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:20:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/a28988ad-6909-5ea7-afdb-075c0e57de19.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Bundesdenkmalamt",
+              "en": "Bundesdenkmalamt"
+            },
+            "photographer": null,
+            "copyright": "Bundesdenkmalamt"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/e099aafc-18c5-5cf0-8b1b-50ae368e965a.jpg",
+            "display_order": 2,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "MWNF",
+              "en": "MWNF"
+            },
+            "photographer": null,
+            "copyright": "MWNF"
+          }
+        ],
+        "artist_names": [
+          "Martin Knoller",
+          "Martin Knoller (1725–1804)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "0e7a534f-4091-5533-9e34-fa83788eea0c",
+        "internal_name": "Chapel of the Sorrowful Mother (Fieger Chapel)",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:20:4",
+        "display_order": 4,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/c05e7291-8cd5-50b7-99a5-3baa92d7169f.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Bundesdenkmalamt",
+              "en": "Bundesdenkmalamt"
+            },
+            "photographer": null,
+            "copyright": "Bundesdenkmalamt"
+          }
+        ],
+        "artist_names": [
+          "Kaspar Waldmann",
+          "Kaspar Waldmann (1657–1720)"
         ],
         "languages": [
           "de",
