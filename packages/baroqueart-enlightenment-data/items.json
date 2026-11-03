@@ -1713,10 +1713,56 @@
     "media": [],
     "details": [
       {
+        "id": "c18e8d6d-69e1-5154-b742-7142e553dfce",
+        "internal_name": "Stuccowork",
+        "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:1:1",
+        "display_order": 1,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/e470b133-b3f5-5d95-b3a1-2b7c71c575cc.jpg",
+            "display_order": 1,
+            "languages": [
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Mario Braun"
+            },
+            "copyrights": {
+              "en": "Mario Braun"
+            },
+            "photographer": "Mario Braun",
+            "copyright": "Mario Braun"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/d2d53eac-2d88-5230-b557-75f07bc42a81.jpg",
+            "display_order": 2,
+            "languages": [
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Mario Braun"
+            },
+            "copyrights": {
+              "en": "Mario Braun"
+            },
+            "photographer": "Mario Braun",
+            "copyright": "Mario Braun"
+          }
+        ],
+        "artist_names": [
+          "Anton Joseph Quadrio (active c. 1687–1721)"
+        ],
+        "languages": [
+          "en"
+        ]
+      },
+      {
         "id": "aaa73ab6-82bc-549b-89fe-7ef1622228fa",
         "internal_name": "Altar of St. Dionisius (Altar of the Holy Martyrs)",
         "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:1:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/6d687544-1d24-518c-978d-ac1134af53fc.jpg",
@@ -1795,7 +1841,7 @@
         "id": "dd9d98d4-ce14-5cb3-81aa-86c331412c4e",
         "internal_name": "Altar of St. Frances Borgia",
         "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:1:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/f173ce24-7014-54e6-afb8-a94e282d610e.jpg",
@@ -1874,7 +1920,7 @@
         "id": "792acd8a-ec3d-58f9-aac4-9e904aebd7b3",
         "internal_name": "Altar of St. Ignatius",
         "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:1:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/783368f3-18ac-535d-a88a-f3861824b4af.jpg",
@@ -1952,7 +1998,7 @@
         "id": "3833a71f-0ae4-54fa-a584-49250b36be5a",
         "internal_name": "High Altar of St. Catherine of Alexandria",
         "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:1:5",
-        "display_order": null,
+        "display_order": 5,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/6404bf53-8ddb-5114-aef3-0d4c508d859f.jpg",
@@ -1989,52 +2035,6 @@
         ],
         "artist_names": [
           "Krištof Andrej Jelovšek (Ilovšek, Illouscheg; 1729–1776)"
-        ],
-        "languages": [
-          "en"
-        ]
-      },
-      {
-        "id": "c18e8d6d-69e1-5154-b742-7142e553dfce",
-        "internal_name": "Stuccowork",
-        "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:1:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/e470b133-b3f5-5d95-b3a1-2b7c71c575cc.jpg",
-            "display_order": 1,
-            "languages": [
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Mario Braun"
-            },
-            "copyrights": {
-              "en": "Mario Braun"
-            },
-            "photographer": "Mario Braun",
-            "copyright": "Mario Braun"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/d2d53eac-2d88-5230-b557-75f07bc42a81.jpg",
-            "display_order": 2,
-            "languages": [
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Mario Braun"
-            },
-            "copyrights": {
-              "en": "Mario Braun"
-            },
-            "photographer": "Mario Braun",
-            "copyright": "Mario Braun"
-          }
-        ],
-        "artist_names": [
-          "Anton Joseph Quadrio (active c. 1687–1721)"
         ],
         "languages": [
           "en"
@@ -2345,7 +2345,7 @@
         "id": "bbf2ac31-f420-5547-903d-485e39009fa1",
         "internal_name": "Arches over the Alcântara valley",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:27:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/8c4a5ada-b7e2-5044-bf74-be22f775262a.jpg",
@@ -2435,67 +2435,10 @@
         ]
       },
       {
-        "id": "eb7a0351-f4ca-5902-b8bb-572d211a56e6",
-        "internal_name": "Carmo Fountain",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:27:4",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/31fb445a-aeb9-5720-b70b-bc0d1a952d7e.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Fernando Neves",
-              "pt": "Fernando Neves"
-            },
-            "copyrights": {
-              "en": "Museu da Água",
-              "pt": "Museu da Água"
-            },
-            "photographer": "Fernando Neves",
-            "copyright": "Museu da Água"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/b33e9c1d-b914-512f-abfe-0b2bfb80a9a4.jpg",
-            "display_order": 2,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Fernando Neves",
-              "pt": "Fernando Neves"
-            },
-            "copyrights": {
-              "en": "Museu da Água",
-              "pt": "Museu da Água"
-            },
-            "photographer": "Fernando Neves",
-            "copyright": "Museu da Água"
-          }
-        ],
-        "artist_names": [
-          "Atribuída ao engenheiro",
-          "Attributed to the engineer",
-          "Miguel Ângelo Blasco (1769–1770) and the architect",
-          "Miguel Ângelo Blasco (activo 1769–1770) e ao arquitecto Reinaldo Manuel dos Santos [n.d.]",
-          "Reinaldo Manuel dos Santos [n.d.]"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
         "id": "d6106d67-8053-5953-b8d3-21dcd5e36a0d",
         "internal_name": "Mãe d’ Água das Amoreiras reservoir",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:27:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/a5a78fb9-1804-527a-8b45-681de603adcf.jpg",
@@ -2587,7 +2530,7 @@
         "id": "37077acc-2bd2-556b-ada4-0cdd3f56fffb",
         "internal_name": "Rua das Amoreiras Arch",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:27:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/0f2ec239-20d7-58e4-aaa2-b0e2be1112e3.jpg",
@@ -2676,10 +2619,67 @@
         ]
       },
       {
+        "id": "eb7a0351-f4ca-5902-b8bb-572d211a56e6",
+        "internal_name": "Carmo Fountain",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:27:4",
+        "display_order": 4,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/31fb445a-aeb9-5720-b70b-bc0d1a952d7e.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Fernando Neves",
+              "pt": "Fernando Neves"
+            },
+            "copyrights": {
+              "en": "Museu da Água",
+              "pt": "Museu da Água"
+            },
+            "photographer": "Fernando Neves",
+            "copyright": "Museu da Água"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/b33e9c1d-b914-512f-abfe-0b2bfb80a9a4.jpg",
+            "display_order": 2,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Fernando Neves",
+              "pt": "Fernando Neves"
+            },
+            "copyrights": {
+              "en": "Museu da Água",
+              "pt": "Museu da Água"
+            },
+            "photographer": "Fernando Neves",
+            "copyright": "Museu da Água"
+          }
+        ],
+        "artist_names": [
+          "Atribuída ao engenheiro",
+          "Attributed to the engineer",
+          "Miguel Ângelo Blasco (1769–1770) and the architect",
+          "Miguel Ângelo Blasco (activo 1769–1770) e ao arquitecto Reinaldo Manuel dos Santos [n.d.]",
+          "Reinaldo Manuel dos Santos [n.d.]"
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
         "id": "091b9985-830d-5a24-aeb3-8b6403f919cf",
         "internal_name": "St. Paulo Obelisk Fountain",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:27:5",
-        "display_order": null,
+        "display_order": 5,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/8da1bef2-6157-52ec-aa26-f2591bda6d58.jpg",
@@ -3021,10 +3021,65 @@
     "media": [],
     "details": [
       {
+        "id": "9779dbd4-5cc7-5f2e-8017-625b454897d3",
+        "internal_name": "High altar",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:11:1",
+        "display_order": 1,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/12bbe905-9a75-5b5f-9219-96d14319cd77.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Peter Heinrich Jahn",
+              "en": "Peter Heinrich Jahn"
+            },
+            "photographer": null,
+            "copyright": "Peter Heinrich Jahn"
+          }
+        ],
+        "artist_names": [
+          "Bartholomäus Steinle (1580–1628/29)",
+          "Benedikt Meggas",
+          "Entwurf: Hans Krumpper (1570-1634)",
+          "Hans Krumpper (1570–1634)",
+          "Johann Baptist Straub (1704–1784)",
+          "Kistlerarbeiten: Benedikt Meggas",
+          "Skulpturen: Bartholomäus Steinle (1580-1628/29)",
+          "Tabernakel: Johann Baptist Straub (1704-1784)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "cfe4e76b-dae8-5b07-88b5-6d61d4cac871",
+        "internal_name": "Relic chapel",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:11:2",
+        "display_order": 2,
+        "images": [],
+        "artist_names": [
+          "Altarwand und Stuck: Tassilo Zöpf (1723-1807)",
+          "Johann Baptist Baader (1717–1780)",
+          "Malerei: Johann Baptist Baader (1717–1780)",
+          "Tassilo Zöpf (1723–1807)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
         "id": "bfde98ff-c1bf-5790-801d-18b84b741f38",
         "internal_name": "Ceiling frescos: *Care of the Arts* – *Theological Truth* – *Profane Truth*",
         "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:11:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/46b0c09a-0c5e-5a5c-953d-8ec0c31ce9c9.jpg",
@@ -3093,61 +3148,6 @@
         ],
         "artist_names": [
           "Johann Baptist Baader (1717–1780)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "9779dbd4-5cc7-5f2e-8017-625b454897d3",
-        "internal_name": "High altar",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:11:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/12bbe905-9a75-5b5f-9219-96d14319cd77.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Peter Heinrich Jahn",
-              "en": "Peter Heinrich Jahn"
-            },
-            "photographer": null,
-            "copyright": "Peter Heinrich Jahn"
-          }
-        ],
-        "artist_names": [
-          "Bartholomäus Steinle (1580–1628/29)",
-          "Benedikt Meggas",
-          "Entwurf: Hans Krumpper (1570-1634)",
-          "Hans Krumpper (1570–1634)",
-          "Johann Baptist Straub (1704–1784)",
-          "Kistlerarbeiten: Benedikt Meggas",
-          "Skulpturen: Bartholomäus Steinle (1580-1628/29)",
-          "Tabernakel: Johann Baptist Straub (1704-1784)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "cfe4e76b-dae8-5b07-88b5-6d61d4cac871",
-        "internal_name": "Relic chapel",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:11:2",
-        "display_order": null,
-        "images": [],
-        "artist_names": [
-          "Altarwand und Stuck: Tassilo Zöpf (1723-1807)",
-          "Johann Baptist Baader (1717–1780)",
-          "Malerei: Johann Baptist Baader (1717–1780)",
-          "Tassilo Zöpf (1723–1807)"
         ],
         "languages": [
           "de",
@@ -3443,52 +3443,14 @@
     "media": [],
     "details": [
       {
-        "id": "fb2c16ce-05ab-5038-b941-2740a8a0e2cb",
-        "internal_name": "Detail of ceiling painting",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:5",
-        "display_order": null,
+        "id": "14cf3ac9-f201-5ffe-96c6-9da83f2f8352",
+        "internal_name": "Library Façade",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:1",
+        "display_order": 1,
         "images": [
           {
-            "url": "https://inventory.metanull.eu/pub/d9f62de7-c0fc-5f7d-9b10-3f7aa9b67844.jpg",
+            "url": "https://inventory.metanull.eu/pub/688eef96-0d7b-5cff-8814-36759bf76a18.jpg",
             "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Paulo Mendes",
-              "pt": "Paulo Mendes"
-            },
-            "copyrights": {
-              "en": "Biblioteca Geral Universidade Coimbra",
-              "pt": "Biblioteca Geral Universidade Coimbra"
-            },
-            "photographer": "Paulo Mendes",
-            "copyright": "Biblioteca Geral Universidade Coimbra"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/55d6e554-ed5e-518e-8ac9-8f3a3219f931.jpg",
-            "display_order": 2,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Paulo Mendes",
-              "pt": "Paulo Mendes"
-            },
-            "copyrights": {
-              "en": "Biblioteca Geral Universidade Coimbra",
-              "pt": "Biblioteca Geral Universidade Coimbra"
-            },
-            "photographer": "Paulo Mendes",
-            "copyright": "Biblioteca Geral Universidade Coimbra"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/abf62e35-294e-5a41-8d77-ec613bb1d477.jpg",
-            "display_order": 3,
             "languages": [
               "en",
               "pt"
@@ -3507,8 +3469,8 @@
           }
         ],
         "artist_names": [
-          "António Simões Ribeiro and Vicente Nunes [n.d.]",
-          "António Simões Ribeiro e Vicente Nunes"
+          "Attributed to Claude Laprade [n.d.]",
+          "Claude Laprade (atr.)"
         ],
         "languages": [
           "en",
@@ -3519,7 +3481,7 @@
         "id": "1a5ad99e-4e60-596e-9113-8c0b78eebfe2",
         "internal_name": "Large reading tables",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/f7a7a141-bda9-5140-a5c3-61228d9420bb.jpg",
@@ -3589,45 +3551,10 @@
         ]
       },
       {
-        "id": "14cf3ac9-f201-5ffe-96c6-9da83f2f8352",
-        "internal_name": "Library Façade",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/688eef96-0d7b-5cff-8814-36759bf76a18.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Paulo Mendes",
-              "pt": "Paulo Mendes"
-            },
-            "copyrights": {
-              "en": "Biblioteca Geral Universidade Coimbra",
-              "pt": "Biblioteca Geral Universidade Coimbra"
-            },
-            "photographer": "Paulo Mendes",
-            "copyright": "Biblioteca Geral Universidade Coimbra"
-          }
-        ],
-        "artist_names": [
-          "Attributed to Claude Laprade [n.d.]",
-          "Claude Laprade (atr.)"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
         "id": "c27eb774-cc9f-55db-b3e3-343e34b005f2",
         "internal_name": "Middle room balcony railings",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/9fb3ded1-1761-57ef-b92e-25f834e0260b.jpg",
@@ -3741,7 +3668,7 @@
         "id": "fb3fdb2d-573f-563d-9108-61663265d16a",
         "internal_name": "Portrait of João V",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/8b766bcf-4db5-598d-8826-615a01d46b25.jpg",
@@ -3785,6 +3712,79 @@
         "artist_names": [
           "Giorgio Domenico Duprà",
           "Giorgio Domenico Duprà [n.d.]"
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
+        "id": "fb2c16ce-05ab-5038-b941-2740a8a0e2cb",
+        "internal_name": "Detail of ceiling painting",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:11:5",
+        "display_order": 5,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/d9f62de7-c0fc-5f7d-9b10-3f7aa9b67844.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Paulo Mendes",
+              "pt": "Paulo Mendes"
+            },
+            "copyrights": {
+              "en": "Biblioteca Geral Universidade Coimbra",
+              "pt": "Biblioteca Geral Universidade Coimbra"
+            },
+            "photographer": "Paulo Mendes",
+            "copyright": "Biblioteca Geral Universidade Coimbra"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/55d6e554-ed5e-518e-8ac9-8f3a3219f931.jpg",
+            "display_order": 2,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Paulo Mendes",
+              "pt": "Paulo Mendes"
+            },
+            "copyrights": {
+              "en": "Biblioteca Geral Universidade Coimbra",
+              "pt": "Biblioteca Geral Universidade Coimbra"
+            },
+            "photographer": "Paulo Mendes",
+            "copyright": "Biblioteca Geral Universidade Coimbra"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/abf62e35-294e-5a41-8d77-ec613bb1d477.jpg",
+            "display_order": 3,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Paulo Mendes",
+              "pt": "Paulo Mendes"
+            },
+            "copyrights": {
+              "en": "Biblioteca Geral Universidade Coimbra",
+              "pt": "Biblioteca Geral Universidade Coimbra"
+            },
+            "photographer": "Paulo Mendes",
+            "copyright": "Biblioteca Geral Universidade Coimbra"
+          }
+        ],
+        "artist_names": [
+          "António Simões Ribeiro and Vicente Nunes [n.d.]",
+          "António Simões Ribeiro e Vicente Nunes"
         ],
         "languages": [
           "en",
@@ -3845,7 +3845,7 @@
         "id": "92f62471-a6ee-5132-945a-e209fb51da60",
         "internal_name": "Bjelovar Town, the oldest plan",
         "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:29:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/bfca17fd-42c3-56e3-b84c-0046f2e1953e.jpg",
@@ -3883,7 +3883,7 @@
         "id": "db8695fa-b767-530c-a1f1-4338b5a8fa62",
         "internal_name": "Parish Church of St. Theresa",
         "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:29:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/f2020453-9c78-5ae0-920d-c615cd5caf44.jpg",
@@ -4077,61 +4077,10 @@
     "media": [],
     "details": [
       {
-        "id": "b669842e-6ceb-5465-9eca-126b151afac3",
-        "internal_name": "*Assumption and Heavenly Reception of the Virgin Mary*",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:15:4",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/5bf98486-a25c-52cc-ae1f-27218d2dbb1d.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "de": "Stephan de Paly",
-              "en": "Stephan de Paly"
-            },
-            "copyrights": {
-              "de": "Ammergauer Alpen GmbH, Oberammergau Tourismus",
-              "en": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)"
-            },
-            "photographer": "Stephan de Paly",
-            "copyright": "Ammergauer Alpen GmbH, Oberammergau Tourismus"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/e9c783b2-797e-517b-91a5-392d4bfe42b1.jpg",
-            "display_order": 2,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)",
-              "en": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)"
-            },
-            "photographer": null,
-            "copyright": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)"
-          }
-        ],
-        "artist_names": [
-          "Martin Knoller (1725-1804)",
-          "Martin Knoller (1725–1804)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
         "id": "267869f3-46a7-515e-bdba-038ab6a15510",
         "internal_name": "*Glory of the Benedictine Order*",
         "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:15:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/f22aa3d5-bc11-5fe5-956e-1dbecb103070.jpg",
@@ -4214,57 +4163,10 @@
         ]
       },
       {
-        "id": "451de532-a903-5a8c-9c94-39a46adafd1f",
-        "internal_name": "*Presentation of the Miraculous Picture*",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:15:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/37ed5ecb-75a4-525d-924a-4f832e0e6ed2.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)",
-              "en": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)"
-            },
-            "photographer": null,
-            "copyright": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)"
-          }
-        ],
-        "artist_names": [
-          "Johann Jakob Zeiller (1710-1783)",
-          "Johann Jakob Zeiller (1710–1783)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "6110f5b1-3f44-5eb5-b9ee-45cff6f20302",
-        "internal_name": "Relief cycle, *Life of the Virgin Mary*",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:15:5",
-        "display_order": null,
-        "images": [],
-        "artist_names": [
-          "Roman Anton Boos (1733-1810)",
-          "Roman Anton Boos (1733–1810)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
         "id": "17c6b768-948a-514c-ad9b-2dc3c8992cd0",
         "internal_name": "Side altars",
         "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:15:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/336530a3-c03d-5a2f-b8b7-2efcd19398c3.jpg",
@@ -4339,6 +4241,104 @@
           "Johann Jakob Zeiller (1710–1783)",
           "Martin Knoller (1725-1804)",
           "Martin Knoller (1725–1804)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "451de532-a903-5a8c-9c94-39a46adafd1f",
+        "internal_name": "*Presentation of the Miraculous Picture*",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:15:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/37ed5ecb-75a4-525d-924a-4f832e0e6ed2.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)",
+              "en": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)"
+            },
+            "photographer": null,
+            "copyright": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)"
+          }
+        ],
+        "artist_names": [
+          "Johann Jakob Zeiller (1710-1783)",
+          "Johann Jakob Zeiller (1710–1783)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "b669842e-6ceb-5465-9eca-126b151afac3",
+        "internal_name": "*Assumption and Heavenly Reception of the Virgin Mary*",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:15:4",
+        "display_order": 4,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/5bf98486-a25c-52cc-ae1f-27218d2dbb1d.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "de": "Stephan de Paly",
+              "en": "Stephan de Paly"
+            },
+            "copyrights": {
+              "de": "Ammergauer Alpen GmbH, Oberammergau Tourismus",
+              "en": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)"
+            },
+            "photographer": "Stephan de Paly",
+            "copyright": "Ammergauer Alpen GmbH, Oberammergau Tourismus"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/e9c783b2-797e-517b-91a5-392d4bfe42b1.jpg",
+            "display_order": 2,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)",
+              "en": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)"
+            },
+            "photographer": null,
+            "copyright": "Ammergauer Alpen GmbH (www.ammergauer-alpen.de)"
+          }
+        ],
+        "artist_names": [
+          "Martin Knoller (1725-1804)",
+          "Martin Knoller (1725–1804)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "6110f5b1-3f44-5eb5-b9ee-45cff6f20302",
+        "internal_name": "Relief cycle, *Life of the Virgin Mary*",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:15:5",
+        "display_order": 5,
+        "images": [],
+        "artist_names": [
+          "Roman Anton Boos (1733-1810)",
+          "Roman Anton Boos (1733–1810)"
         ],
         "languages": [
           "de",
@@ -4465,42 +4465,10 @@
     "media": [],
     "details": [
       {
-        "id": "c6cb3e56-81b8-5635-ab45-fa274e89c1c4",
-        "internal_name": "Ceiling fresco",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:28:4",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/52a4c55d-418b-5a64-949f-69506a705886.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Herbert und Hans Laiminger",
-              "en": "Herbert und Hans Laiminger"
-            },
-            "photographer": null,
-            "copyright": "Herbert und Hans Laiminger"
-          }
-        ],
-        "artist_names": [
-          "Joseph Schöpf",
-          "Joseph Schöpf (1745–1822)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
         "id": "2a8f2ad2-0175-5d0b-b8ba-1b55369ff2d5",
         "internal_name": "Façade",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:28:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/beec6eb8-71c2-572f-80c6-5e9ed423945d.jpg",
@@ -4547,10 +4515,46 @@
         ]
       },
       {
+        "id": "f97c18af-c344-543d-9c05-9aae43476c0f",
+        "internal_name": "Interior",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:28:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/419e5081-232f-58c8-91c2-13cf97afcd99.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Herbert und Hans Laiminger",
+              "en": "Herbert und Hans Laiminger"
+            },
+            "photographer": null,
+            "copyright": "Herbert und Hans Laiminger"
+          }
+        ],
+        "artist_names": [
+          "Andrä Huber",
+          "Andrä Hueber [n.d.]",
+          "Peter Pflauder",
+          "Peter Pflauder (1733–1811)",
+          "Wolfgang Hagenauer",
+          "Wolfgang Hagenauer (1726–1801)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
         "id": "fcc7b9d9-0238-5ac6-acff-da0ef5f94db3",
         "internal_name": "High altar",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:28:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/706f2102-843d-5fa8-b840-747408d230ae.jpg",
@@ -4601,13 +4605,13 @@
         ]
       },
       {
-        "id": "f97c18af-c344-543d-9c05-9aae43476c0f",
-        "internal_name": "Interior",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:28:2",
-        "display_order": null,
+        "id": "c6cb3e56-81b8-5635-ab45-fa274e89c1c4",
+        "internal_name": "Ceiling fresco",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:28:4",
+        "display_order": 4,
         "images": [
           {
-            "url": "https://inventory.metanull.eu/pub/419e5081-232f-58c8-91c2-13cf97afcd99.jpg",
+            "url": "https://inventory.metanull.eu/pub/52a4c55d-418b-5a64-949f-69506a705886.jpg",
             "display_order": 1,
             "languages": [
               "de",
@@ -4624,12 +4628,8 @@
           }
         ],
         "artist_names": [
-          "Andrä Huber",
-          "Andrä Hueber [n.d.]",
-          "Peter Pflauder",
-          "Peter Pflauder (1733–1811)",
-          "Wolfgang Hagenauer",
-          "Wolfgang Hagenauer (1726–1801)"
+          "Joseph Schöpf",
+          "Joseph Schöpf (1745–1822)"
         ],
         "languages": [
           "de",
@@ -4640,7 +4640,7 @@
         "id": "15a87fb6-8298-5ff6-a114-ee8cde8ea202",
         "internal_name": "Pulpit",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:28:5",
-        "display_order": null,
+        "display_order": 5,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/31eff928-d2dc-58c1-a8ae-910b2df32291.jpg",
@@ -4839,13 +4839,13 @@
     "media": [],
     "details": [
       {
-        "id": "71e649d1-8512-5c78-b45e-dbe9c62e5ac6",
-        "internal_name": "Ceiling fresco: *Glorification of Mary*",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:22:4",
-        "display_order": null,
+        "id": "e617b4a6-da47-5007-89ac-f0ffc254183c",
+        "internal_name": "High altar",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:22:1",
+        "display_order": 1,
         "images": [
           {
-            "url": "https://inventory.metanull.eu/pub/aca86e38-492f-57f1-ac95-8e5273be6d3c.jpg",
+            "url": "https://inventory.metanull.eu/pub/f984a491-eb4e-5ff3-9345-7867879da1f9.jpg",
             "display_order": 1,
             "languages": [
               "de",
@@ -4865,43 +4865,8 @@
           }
         ],
         "artist_names": [
-          "Franz Anton Zeiller",
-          "Franz Anton Zeiller (1716–1794)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "f5088f41-3c02-57b5-88f0-03125f08fe8f",
-        "internal_name": "Ceiling fresco: *St. Gall heals a demoniac*",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:22:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/da3560a7-14ff-547c-b791-e7301c33de35.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "de": "Ossi Arnold",
-              "en": "Ossi Arnold"
-            },
-            "copyrights": {
-              "de": "Ortschronik Weer",
-              "en": "Ortschronik Weer"
-            },
-            "photographer": "Ossi Arnold",
-            "copyright": "Ortschronik Weer"
-          }
-        ],
-        "artist_names": [
-          "Franz Anton Zeiller",
-          "Franz Anton Zeiller (1716–1794)"
+          "Franz Anton Zeiller (1716–1794)",
+          "Franz Anton Zeiller (Altarblatt)"
         ],
         "languages": [
           "de",
@@ -4912,7 +4877,7 @@
         "id": "9d1f5f8c-ef4a-5842-b57a-0d05acb3531b",
         "internal_name": "Ceiling frescos: *St Gall during the building of the monastery*",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:22:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/1ce9de2b-af0f-5ead-b572-35b36865886b.jpg",
@@ -4944,13 +4909,13 @@
         ]
       },
       {
-        "id": "e617b4a6-da47-5007-89ac-f0ffc254183c",
-        "internal_name": "High altar",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:22:1",
-        "display_order": null,
+        "id": "f5088f41-3c02-57b5-88f0-03125f08fe8f",
+        "internal_name": "Ceiling fresco: *St. Gall heals a demoniac*",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:22:3",
+        "display_order": 3,
         "images": [
           {
-            "url": "https://inventory.metanull.eu/pub/f984a491-eb4e-5ff3-9345-7867879da1f9.jpg",
+            "url": "https://inventory.metanull.eu/pub/da3560a7-14ff-547c-b791-e7301c33de35.jpg",
             "display_order": 1,
             "languages": [
               "de",
@@ -4970,8 +4935,43 @@
           }
         ],
         "artist_names": [
-          "Franz Anton Zeiller (1716–1794)",
-          "Franz Anton Zeiller (Altarblatt)"
+          "Franz Anton Zeiller",
+          "Franz Anton Zeiller (1716–1794)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "71e649d1-8512-5c78-b45e-dbe9c62e5ac6",
+        "internal_name": "Ceiling fresco: *Glorification of Mary*",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:22:4",
+        "display_order": 4,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/aca86e38-492f-57f1-ac95-8e5273be6d3c.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "de": "Ossi Arnold",
+              "en": "Ossi Arnold"
+            },
+            "copyrights": {
+              "de": "Ortschronik Weer",
+              "en": "Ortschronik Weer"
+            },
+            "photographer": "Ossi Arnold",
+            "copyright": "Ortschronik Weer"
+          }
+        ],
+        "artist_names": [
+          "Franz Anton Zeiller",
+          "Franz Anton Zeiller (1716–1794)"
         ],
         "languages": [
           "de",
@@ -5157,42 +5157,10 @@
     "media": [],
     "details": [
       {
-        "id": "c256056a-455e-5666-97c9-214e4f117e0d",
-        "internal_name": "Ceiling painting: *Competition of the Magician Simon with Peter and Paul*",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:10:2",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/c04a2d2b-cdf6-5237-9cf7-f83b1eafd142.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Bundesdenkmalamt",
-              "en": "Bundesdenkmalamt"
-            },
-            "photographer": null,
-            "copyright": "Bundesdenkmalamt"
-          }
-        ],
-        "artist_names": [
-          "Matthäus Günther",
-          "Matthäus Günther (1705–1788)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
         "id": "d2984278-366b-5283-9f1a-506cabf83a53",
         "internal_name": "Façade and tower",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:10:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/3ed54fd5-5b92-5ea9-b1fd-1f5504e9607a.jpg",
@@ -5224,10 +5192,42 @@
         ]
       },
       {
+        "id": "c256056a-455e-5666-97c9-214e4f117e0d",
+        "internal_name": "Ceiling painting: *Competition of the Magician Simon with Peter and Paul*",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:10:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/c04a2d2b-cdf6-5237-9cf7-f83b1eafd142.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Bundesdenkmalamt",
+              "en": "Bundesdenkmalamt"
+            },
+            "photographer": null,
+            "copyright": "Bundesdenkmalamt"
+          }
+        ],
+        "artist_names": [
+          "Matthäus Günther",
+          "Matthäus Günther (1705–1788)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
         "id": "254423af-fde7-552f-b490-c82fbb4023ad",
         "internal_name": "High altar",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:10:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/bc2985a6-cf82-5e55-9bbd-ac4ee809388d.jpg",
@@ -5260,7 +5260,7 @@
         "id": "8e48c406-81de-53cf-94cd-3dd8775f331d",
         "internal_name": "Pulpit",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:10:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/87f1f5d4-3dd4-5fcd-8f0e-f8a3a0d12e36.jpg",
@@ -5364,7 +5364,7 @@
         "id": "e776e04a-2c10-552c-8dee-90065c1de43f",
         "internal_name": "Villa Ghisilieri",
         "backward_compatibility": "mwnf3:monument_details:BAR:it:Mon12:29:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/a7fa7c77-7b4b-569c-8127-6761267cf8c6.jpg",
@@ -5399,7 +5399,7 @@
         "id": "ce8830d8-b822-5a73-b84f-3d1865e4c511",
         "internal_name": "Workshops and houses for craftsmen",
         "backward_compatibility": "mwnf3:monument_details:BAR:it:Mon12:29:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/896fae32-cf52-53c8-ac23-9bbad67d1432.jpg",
@@ -5621,13 +5621,13 @@
     "media": [],
     "details": [
       {
-        "id": "84149fe6-4a0e-5c7e-942e-8173633f866e",
-        "internal_name": "*Gaiolas* Building Structure",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:28:5",
-        "display_order": null,
+        "id": "83a35999-406e-5ef3-a9b6-1e038d1d60e2",
+        "internal_name": "Three out of the six original plans with a new layout sympathetic to the old one; final plan and orthophoto of Lisbon",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:28:1",
+        "display_order": 1,
         "images": [
           {
-            "url": "https://inventory.metanull.eu/pub/bf1669b6-37a7-577e-a325-68a0f8bd9457.jpg",
+            "url": "https://inventory.metanull.eu/pub/d65abf72-406f-51b0-9199-16af0a73dcb7.jpg",
             "display_order": 1,
             "languages": [
               "en",
@@ -5635,18 +5635,18 @@
             ],
             "captions": {},
             "photographers": {
-              "en": "José Faria",
-              "pt": "José Faria"
+              "en": "Arquivo Fotográfico Museu da Cidade",
+              "pt": "Arquivo Fotográfico Museu da Cidade"
             },
             "copyrights": {
-              "en": "Museu do Regimento dos Sapadores Bombeiros de Lisboa",
-              "pt": "Museu do Regimento dos Sapadores Bombeiros de Lisboa"
+              "en": "Arquivo Fotográfico Museu da Cidade",
+              "pt": "Arquivo Fotográfico Museu da Cidade"
             },
-            "photographer": "José Faria",
-            "copyright": "Museu do Regimento dos Sapadores Bombeiros de Lisboa"
+            "photographer": "Arquivo Fotográfico Museu da Cidade",
+            "copyright": "Arquivo Fotográfico Museu da Cidade"
           },
           {
-            "url": "https://inventory.metanull.eu/pub/a51bf701-c01b-5d81-8933-1335366bc2c8.jpg",
+            "url": "https://inventory.metanull.eu/pub/796121c0-151f-5634-ba9d-cf58b568b100.jpg",
             "display_order": 2,
             "languages": [
               "en",
@@ -5654,22 +5654,156 @@
             ],
             "captions": {},
             "photographers": {
-              "en": "José Faria",
-              "pt": "José Faria"
+              "en": "Arquivo Fotográfico Museu da Cidade",
+              "pt": "Arquivo Fotográfico Museu da Cidade"
             },
             "copyrights": {
-              "en": "Museu do Regimento dos Sapadores Bombeiros de Lisboa",
-              "pt": "Museu do Regimento dos Sapadores Bombeiros de Lisboa"
+              "en": "Arquivo Fotográfico Museu da Cidade",
+              "pt": "Arquivo Fotográfico Museu da Cidade"
             },
-            "photographer": "José Faria",
-            "copyright": "Museu do Regimento dos Sapadores Bombeiros de Lisboa"
+            "photographer": "Arquivo Fotográfico Museu da Cidade",
+            "copyright": "Arquivo Fotográfico Museu da Cidade"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/349a41c3-22ff-5a7d-9d18-146be93d5f9f.jpg",
+            "display_order": 3,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Arquivo Fotográfico Museu da Cidade",
+              "pt": "Arquivo Fotográfico Museu da Cidade"
+            },
+            "copyrights": {
+              "en": "Arquivo Fotográfico Museu da Cidade",
+              "pt": "Arquivo Fotográfico Museu da Cidade"
+            },
+            "photographer": "Arquivo Fotográfico Museu da Cidade",
+            "copyright": "Arquivo Fotográfico Museu da Cidade"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/9c27c74c-f0f4-5537-b8f0-1f1215e34dd4.jpg",
+            "display_order": 4,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Arquivo Fotográfico Museu da Cidade",
+              "pt": "Arquivo Fotográfico Museu da Cidade"
+            },
+            "copyrights": {
+              "en": "Arquivo Fotográfico Museu da Cidade",
+              "pt": "Arquivo Fotográfico Museu da Cidade"
+            },
+            "photographer": "Arquivo Fotográfico Museu da Cidade",
+            "copyright": "Arquivo Fotográfico Museu da Cidade"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/471b64d5-77f0-5b1f-8174-47343bbb2eb4.jpg",
+            "display_order": 5,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "DIGC Câmara Municipal de Lisboa",
+              "pt": "DIGC Câmara Municipal de Lisboa"
+            },
+            "copyrights": {
+              "en": "DIGC Câmara Municipal de Lisboa",
+              "pt": "DIGC Câmara Municipal de Lisboa"
+            },
+            "photographer": "DIGC Câmara Municipal de Lisboa",
+            "copyright": "DIGC Câmara Municipal de Lisboa"
+          }
+        ],
+        "artist_names": [
+          "Engenheiros militares Manuel da Maia (1677–1766)",
+          "Eugénio dos Santos (1711–1760)",
+          "Military engineers: Manuel da Maia (1677–1766)"
+        ],
+        "languages": [
+          "en",
+          "pt"
+        ]
+      },
+      {
+        "id": "add54831-b132-5b1c-9ed1-5c4eec59a759",
+        "internal_name": "Praça do Comércio",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:28:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/26cea1eb-41ad-5f1e-b264-0c5485bf97fe.jpg",
+            "display_order": 1,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Arquivo Fotográfico Museu da Cidade",
+              "pt": "Arquivo Fotográfico Museu da Cidade"
+            },
+            "copyrights": {
+              "en": "Arquivo Fotográfico Museu da Cidade",
+              "pt": "Arquivo Fotográfico Museu da Cidade"
+            },
+            "photographer": "Arquivo Fotográfico Museu da Cidade",
+            "copyright": "Arquivo Fotográfico Museu da Cidade"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/178ca066-dea9-52c2-95ef-5dfe5aa5b5b5.jpg",
+            "display_order": 2,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Arquivo Fotográfico Museu da Cidade",
+              "pt": "Arquivo Fotográfico Museu da Cidade"
+            },
+            "copyrights": {
+              "en": "Arquivo Fotográfico Museu da Cidade",
+              "pt": "Arquivo Fotográfico Museu da Cidade"
+            },
+            "photographer": "Arquivo Fotográfico Museu da Cidade",
+            "copyright": "Arquivo Fotográfico Museu da Cidade"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/23e63c06-694c-531e-a925-ab2813e4d1cc.jpg",
+            "display_order": 3,
+            "languages": [
+              "en",
+              "pt"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Turismo de Portugal",
+              "pt": "Turismo de Portugal"
+            },
+            "copyrights": {
+              "en": "Turismo de Portugal",
+              "pt": "Turismo de Portugal"
+            },
+            "photographer": "Turismo de Portugal",
+            "copyright": "Turismo de Portugal"
           }
         ],
         "artist_names": [
           "Carlos Mardel (c. 1695–1763)",
-          "Carlos Mardel (c.1695–1763)",
+          "Carlos Mardel (c.1695–1763). Arco triunfal: Veríssimo José da Costa [n.d.]",
+          "coadjuvado por Vítor Bastos (1830–1894) e Anatole C. Calmels (1822–1906)",
           "Eugénio dos Santos (1711–1760)",
-          "Manuel da Maia (1677–1766)"
+          "Initial plans of Praça do Comércio: Manuel da Maia (1677–1766)",
+          "Planos iniciais da Praça do Comércio: Manuel da Maia (1677–1766)",
+          "triumphal arch: Veríssimo José da Costa [n.d.] assisted by Vítor Bastos (1830–1894) and Anatole C. Calmels (1822–1906)"
         ],
         "languages": [
           "en",
@@ -5680,7 +5814,7 @@
         "id": "d2a0bb6d-e271-5430-bd69-fba3a45eaf85",
         "internal_name": "Bronze Equestrian Statue of King José I  \n(copper engraving by Carneiro da Silva made before the unveiling in 1774)",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:28:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/1b879200-0a7a-5cca-90cb-d6531ed20e0d.jpg",
@@ -5790,7 +5924,7 @@
         "id": "767b259b-ec09-5677-98c7-f929983f4b2b",
         "internal_name": "Drawing of  Pombaline Façades",
         "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:28:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/633ffc8a-99a3-5138-b633-d20bda797231.jpg",
@@ -5860,13 +5994,13 @@
         ]
       },
       {
-        "id": "add54831-b132-5b1c-9ed1-5c4eec59a759",
-        "internal_name": "Praça do Comércio",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:28:2",
-        "display_order": null,
+        "id": "84149fe6-4a0e-5c7e-942e-8173633f866e",
+        "internal_name": "*Gaiolas* Building Structure",
+        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:28:5",
+        "display_order": 5,
         "images": [
           {
-            "url": "https://inventory.metanull.eu/pub/26cea1eb-41ad-5f1e-b264-0c5485bf97fe.jpg",
+            "url": "https://inventory.metanull.eu/pub/bf1669b6-37a7-577e-a325-68a0f8bd9457.jpg",
             "display_order": 1,
             "languages": [
               "en",
@@ -5874,18 +6008,18 @@
             ],
             "captions": {},
             "photographers": {
-              "en": "Arquivo Fotográfico Museu da Cidade",
-              "pt": "Arquivo Fotográfico Museu da Cidade"
+              "en": "José Faria",
+              "pt": "José Faria"
             },
             "copyrights": {
-              "en": "Arquivo Fotográfico Museu da Cidade",
-              "pt": "Arquivo Fotográfico Museu da Cidade"
+              "en": "Museu do Regimento dos Sapadores Bombeiros de Lisboa",
+              "pt": "Museu do Regimento dos Sapadores Bombeiros de Lisboa"
             },
-            "photographer": "Arquivo Fotográfico Museu da Cidade",
-            "copyright": "Arquivo Fotográfico Museu da Cidade"
+            "photographer": "José Faria",
+            "copyright": "Museu do Regimento dos Sapadores Bombeiros de Lisboa"
           },
           {
-            "url": "https://inventory.metanull.eu/pub/178ca066-dea9-52c2-95ef-5dfe5aa5b5b5.jpg",
+            "url": "https://inventory.metanull.eu/pub/a51bf701-c01b-5d81-8933-1335366bc2c8.jpg",
             "display_order": 2,
             "languages": [
               "en",
@@ -5893,156 +6027,22 @@
             ],
             "captions": {},
             "photographers": {
-              "en": "Arquivo Fotográfico Museu da Cidade",
-              "pt": "Arquivo Fotográfico Museu da Cidade"
+              "en": "José Faria",
+              "pt": "José Faria"
             },
             "copyrights": {
-              "en": "Arquivo Fotográfico Museu da Cidade",
-              "pt": "Arquivo Fotográfico Museu da Cidade"
+              "en": "Museu do Regimento dos Sapadores Bombeiros de Lisboa",
+              "pt": "Museu do Regimento dos Sapadores Bombeiros de Lisboa"
             },
-            "photographer": "Arquivo Fotográfico Museu da Cidade",
-            "copyright": "Arquivo Fotográfico Museu da Cidade"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/23e63c06-694c-531e-a925-ab2813e4d1cc.jpg",
-            "display_order": 3,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Turismo de Portugal",
-              "pt": "Turismo de Portugal"
-            },
-            "copyrights": {
-              "en": "Turismo de Portugal",
-              "pt": "Turismo de Portugal"
-            },
-            "photographer": "Turismo de Portugal",
-            "copyright": "Turismo de Portugal"
+            "photographer": "José Faria",
+            "copyright": "Museu do Regimento dos Sapadores Bombeiros de Lisboa"
           }
         ],
         "artist_names": [
           "Carlos Mardel (c. 1695–1763)",
-          "Carlos Mardel (c.1695–1763). Arco triunfal: Veríssimo José da Costa [n.d.]",
-          "coadjuvado por Vítor Bastos (1830–1894) e Anatole C. Calmels (1822–1906)",
+          "Carlos Mardel (c.1695–1763)",
           "Eugénio dos Santos (1711–1760)",
-          "Initial plans of Praça do Comércio: Manuel da Maia (1677–1766)",
-          "Planos iniciais da Praça do Comércio: Manuel da Maia (1677–1766)",
-          "triumphal arch: Veríssimo José da Costa [n.d.] assisted by Vítor Bastos (1830–1894) and Anatole C. Calmels (1822–1906)"
-        ],
-        "languages": [
-          "en",
-          "pt"
-        ]
-      },
-      {
-        "id": "83a35999-406e-5ef3-a9b6-1e038d1d60e2",
-        "internal_name": "Three out of the six original plans with a new layout sympathetic to the old one; final plan and orthophoto of Lisbon",
-        "backward_compatibility": "mwnf3:monument_details:BAR:pt:Mon11:28:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/d65abf72-406f-51b0-9199-16af0a73dcb7.jpg",
-            "display_order": 1,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Arquivo Fotográfico Museu da Cidade",
-              "pt": "Arquivo Fotográfico Museu da Cidade"
-            },
-            "copyrights": {
-              "en": "Arquivo Fotográfico Museu da Cidade",
-              "pt": "Arquivo Fotográfico Museu da Cidade"
-            },
-            "photographer": "Arquivo Fotográfico Museu da Cidade",
-            "copyright": "Arquivo Fotográfico Museu da Cidade"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/796121c0-151f-5634-ba9d-cf58b568b100.jpg",
-            "display_order": 2,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Arquivo Fotográfico Museu da Cidade",
-              "pt": "Arquivo Fotográfico Museu da Cidade"
-            },
-            "copyrights": {
-              "en": "Arquivo Fotográfico Museu da Cidade",
-              "pt": "Arquivo Fotográfico Museu da Cidade"
-            },
-            "photographer": "Arquivo Fotográfico Museu da Cidade",
-            "copyright": "Arquivo Fotográfico Museu da Cidade"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/349a41c3-22ff-5a7d-9d18-146be93d5f9f.jpg",
-            "display_order": 3,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Arquivo Fotográfico Museu da Cidade",
-              "pt": "Arquivo Fotográfico Museu da Cidade"
-            },
-            "copyrights": {
-              "en": "Arquivo Fotográfico Museu da Cidade",
-              "pt": "Arquivo Fotográfico Museu da Cidade"
-            },
-            "photographer": "Arquivo Fotográfico Museu da Cidade",
-            "copyright": "Arquivo Fotográfico Museu da Cidade"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/9c27c74c-f0f4-5537-b8f0-1f1215e34dd4.jpg",
-            "display_order": 4,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Arquivo Fotográfico Museu da Cidade",
-              "pt": "Arquivo Fotográfico Museu da Cidade"
-            },
-            "copyrights": {
-              "en": "Arquivo Fotográfico Museu da Cidade",
-              "pt": "Arquivo Fotográfico Museu da Cidade"
-            },
-            "photographer": "Arquivo Fotográfico Museu da Cidade",
-            "copyright": "Arquivo Fotográfico Museu da Cidade"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/471b64d5-77f0-5b1f-8174-47343bbb2eb4.jpg",
-            "display_order": 5,
-            "languages": [
-              "en",
-              "pt"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "DIGC Câmara Municipal de Lisboa",
-              "pt": "DIGC Câmara Municipal de Lisboa"
-            },
-            "copyrights": {
-              "en": "DIGC Câmara Municipal de Lisboa",
-              "pt": "DIGC Câmara Municipal de Lisboa"
-            },
-            "photographer": "DIGC Câmara Municipal de Lisboa",
-            "copyright": "DIGC Câmara Municipal de Lisboa"
-          }
-        ],
-        "artist_names": [
-          "Engenheiros militares Manuel da Maia (1677–1766)",
-          "Eugénio dos Santos (1711–1760)",
-          "Military engineers: Manuel da Maia (1677–1766)"
+          "Manuel da Maia (1677–1766)"
         ],
         "languages": [
           "en",
@@ -6787,31 +6787,14 @@
     "media": [],
     "details": [
       {
-        "id": "aad909a1-b106-56bf-86ee-b7aee4a41eef",
-        "internal_name": "Central ceiling fresco in the Riesensaal",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:5:4",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/4a8ebd1d-7050-561f-b88b-8f9fb0700a93.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Burghauptmannschaft Österreich",
-              "en": "Burghauptmannschaft Österreich"
-            },
-            "photographer": null,
-            "copyright": "Burghauptmannschaft Österreich"
-          }
-        ],
+        "id": "31a2ed6c-a768-5550-a180-6fecff19b3b0",
+        "internal_name": "Exterior, south façade",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:5:1",
+        "display_order": 1,
+        "images": [],
         "artist_names": [
-          "Franz Anton Maulbertsch",
-          "Franz Anton Maulbertsch (1724–1796)"
+          "Johann Martin Gumpp",
+          "Johann Martin Gumpp the younger (1686–1765)"
         ],
         "languages": [
           "de",
@@ -6822,7 +6805,7 @@
         "id": "9d1b3ddb-6a64-5dc1-ae7b-afa6d1da6b9b",
         "internal_name": "Exterior, east façade",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:5:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/066f2521-b537-550a-9523-e0c9ceebda98.jpg",
@@ -6851,57 +6834,10 @@
         ]
       },
       {
-        "id": "31a2ed6c-a768-5550-a180-6fecff19b3b0",
-        "internal_name": "Exterior, south façade",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:5:1",
-        "display_order": null,
-        "images": [],
-        "artist_names": [
-          "Johann Martin Gumpp",
-          "Johann Martin Gumpp the younger (1686–1765)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "31a85a61-1ef8-530b-8b89-bfb3cb6f169d",
-        "internal_name": "Memorial Chapel for Emperor Franz I",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:5:5",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/9b97b454-af8d-5d19-bd66-bea2fd40f42d.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Burghauptmannschaft Österreich",
-              "en": "Burghauptmannschaft Österreich"
-            },
-            "photographer": null,
-            "copyright": "Burghauptmannschaft Österreich"
-          }
-        ],
-        "artist_names": [
-          "Niccolò Pacassi",
-          "Niccolò Pacassi (1716–1790)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
         "id": "4538f38d-a64f-5f64-ba07-d2b5bab3e669",
         "internal_name": "Riesensaal",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:5:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/db16b7ac-5c82-5afc-9e7e-8b08b03c86b2.jpg",
@@ -6939,6 +6875,70 @@
         "artist_names": [
           "Franz Anton Maulbertsch",
           "Franz Anton Maulbertsch (1724–1796)",
+          "Niccolò Pacassi",
+          "Niccolò Pacassi (1716–1790)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "aad909a1-b106-56bf-86ee-b7aee4a41eef",
+        "internal_name": "Central ceiling fresco in the Riesensaal",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:5:4",
+        "display_order": 4,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/4a8ebd1d-7050-561f-b88b-8f9fb0700a93.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Burghauptmannschaft Österreich",
+              "en": "Burghauptmannschaft Österreich"
+            },
+            "photographer": null,
+            "copyright": "Burghauptmannschaft Österreich"
+          }
+        ],
+        "artist_names": [
+          "Franz Anton Maulbertsch",
+          "Franz Anton Maulbertsch (1724–1796)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "31a85a61-1ef8-530b-8b89-bfb3cb6f169d",
+        "internal_name": "Memorial Chapel for Emperor Franz I",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:5:5",
+        "display_order": 5,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/9b97b454-af8d-5d19-bd66-bea2fd40f42d.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Burghauptmannschaft Österreich",
+              "en": "Burghauptmannschaft Österreich"
+            },
+            "photographer": null,
+            "copyright": "Burghauptmannschaft Österreich"
+          }
+        ],
+        "artist_names": [
           "Niccolò Pacassi",
           "Niccolò Pacassi (1716–1790)"
         ],
@@ -7383,10 +7383,94 @@
     "media": [],
     "details": [
       {
+        "id": "cc3d0593-4799-50e0-9f3d-44bc2af39e0e",
+        "internal_name": "Staircase",
+        "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:31:1",
+        "display_order": 1,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/8f15f221-c3e7-507b-9dbe-afdbd24a20ba.jpg",
+            "display_order": 1,
+            "languages": [
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Mario Braun"
+            },
+            "copyrights": {},
+            "photographer": "Mario Braun",
+            "copyright": null
+          }
+        ],
+        "artist_names": [
+          "Unknown architect"
+        ],
+        "languages": [
+          "en"
+        ]
+      },
+      {
+        "id": "9dddcf81-e7ef-57de-826f-00c891445be3",
+        "internal_name": "Imaginary cityscape in the Salon with Panoramic Views",
+        "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:31:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/b03f929b-b666-50f0-b1ce-db179b1f5664.jpg",
+            "display_order": 1,
+            "languages": [
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Mario Braun"
+            },
+            "copyrights": {},
+            "photographer": "Mario Braun",
+            "copyright": null
+          }
+        ],
+        "artist_names": [
+          "Unknown painter"
+        ],
+        "languages": [
+          "en"
+        ]
+      },
+      {
+        "id": "79ee1d89-b25b-54b7-9f77-22260ee5d520",
+        "internal_name": "Vault of the Grand Hall",
+        "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:31:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/90c4b834-ec7c-5851-981f-6f8a08fc4f33.jpg",
+            "display_order": 1,
+            "languages": [
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "en": "Mario Braun"
+            },
+            "copyrights": {},
+            "photographer": "Mario Braun",
+            "copyright": null
+          }
+        ],
+        "artist_names": [
+          "Unknown artist"
+        ],
+        "languages": [
+          "en"
+        ]
+      },
+      {
         "id": "3d279afa-014f-54de-b5b3-c820b9b5e080",
         "internal_name": "Grand Hall",
         "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:31:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/a0b32a6b-1b46-5758-9f58-2af4b74c2812.jpg",
@@ -7433,90 +7517,6 @@
         ],
         "artist_names": [
           "Unknown decorative artist"
-        ],
-        "languages": [
-          "en"
-        ]
-      },
-      {
-        "id": "9dddcf81-e7ef-57de-826f-00c891445be3",
-        "internal_name": "Imaginary cityscape in the Salon with Panoramic Views",
-        "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:31:2",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/b03f929b-b666-50f0-b1ce-db179b1f5664.jpg",
-            "display_order": 1,
-            "languages": [
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Mario Braun"
-            },
-            "copyrights": {},
-            "photographer": "Mario Braun",
-            "copyright": null
-          }
-        ],
-        "artist_names": [
-          "Unknown painter"
-        ],
-        "languages": [
-          "en"
-        ]
-      },
-      {
-        "id": "cc3d0593-4799-50e0-9f3d-44bc2af39e0e",
-        "internal_name": "Staircase",
-        "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:31:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/8f15f221-c3e7-507b-9dbe-afdbd24a20ba.jpg",
-            "display_order": 1,
-            "languages": [
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Mario Braun"
-            },
-            "copyrights": {},
-            "photographer": "Mario Braun",
-            "copyright": null
-          }
-        ],
-        "artist_names": [
-          "Unknown architect"
-        ],
-        "languages": [
-          "en"
-        ]
-      },
-      {
-        "id": "79ee1d89-b25b-54b7-9f77-22260ee5d520",
-        "internal_name": "Vault of the Grand Hall",
-        "backward_compatibility": "mwnf3:monument_details:BAR:hr:Mon11:31:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/90c4b834-ec7c-5851-981f-6f8a08fc4f33.jpg",
-            "display_order": 1,
-            "languages": [
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "en": "Mario Braun"
-            },
-            "copyrights": {},
-            "photographer": "Mario Braun",
-            "copyright": null
-          }
-        ],
-        "artist_names": [
-          "Unknown artist"
         ],
         "languages": [
           "en"
@@ -8013,7 +8013,7 @@
         "id": "914274d1-3d96-57be-befe-0bf0a94e33ac",
         "internal_name": "*Vojslava of Hrádek*",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_F:10:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/ed4b0af8-eb5a-5571-80de-029aaff46575.jpg",
@@ -8045,7 +8045,7 @@
         "id": "9c12405d-2e2a-59f6-85f0-cd79f698c73d",
         "internal_name": "Chapel of St. Anne",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_F:10:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/6c8241b2-582b-5645-bd19-935f76c9a5d8.jpg",
@@ -8114,10 +8114,76 @@
         ]
       },
       {
+        "id": "6be16235-7200-5556-9bd2-0e18c38a6fca",
+        "internal_name": "St. Norbert",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_F:10:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/5efb2997-5b7d-5e07-97c3-a74e435be0a3.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "cs": "Veronika Skálová",
+              "en": "Veronika Skálová"
+            },
+            "copyrights": {
+              "en": "Moravská galerie v Brně"
+            },
+            "photographer": "Veronika Skálová",
+            "copyright": null
+          }
+        ],
+        "artist_names": [
+          "Johann Lucas Kracker (1717 Jager – 1779 Jager)",
+          "Johann Lucas Kracker (1717–1779, Jager)"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
+        "id": "ea9fdd0d-171f-533d-b39d-9aff5b4b8568",
+        "internal_name": "Pulpit",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_F:10:4",
+        "display_order": 4,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/88de7b11-75e2-5989-809a-eb02968bf5f8.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "cs": "Veronika Skálová",
+              "en": "Veronika Skálová"
+            },
+            "copyrights": {
+              "cs": "Moravská galerie v Brně",
+              "en": "Moravská galerie v Brně"
+            },
+            "photographer": "Veronika Skálová",
+            "copyright": "Moravská galerie v Brně"
+          }
+        ],
+        "artist_names": [],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
         "id": "1b3c9fc4-faee-59ed-b3c7-369b7488c0f3",
         "internal_name": "Library",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_F:10:5",
-        "display_order": null,
+        "display_order": 5,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/114f26e4-609b-50bc-9e6c-728155d6931a.jpg",
@@ -8199,72 +8265,6 @@
         "artist_names": [
           "Ignác Mayer st. (kolem 1720 Štýrský Hradec – 1785 Brno)",
           "Ignaz Mayer Sr. (c. 1720 Graz – 1785 Brno)"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
-        "id": "ea9fdd0d-171f-533d-b39d-9aff5b4b8568",
-        "internal_name": "Pulpit",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_F:10:4",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/88de7b11-75e2-5989-809a-eb02968bf5f8.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "cs": "Veronika Skálová",
-              "en": "Veronika Skálová"
-            },
-            "copyrights": {
-              "cs": "Moravská galerie v Brně",
-              "en": "Moravská galerie v Brně"
-            },
-            "photographer": "Veronika Skálová",
-            "copyright": "Moravská galerie v Brně"
-          }
-        ],
-        "artist_names": [],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
-        "id": "6be16235-7200-5556-9bd2-0e18c38a6fca",
-        "internal_name": "St. Norbert",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_F:10:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/5efb2997-5b7d-5e07-97c3-a74e435be0a3.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "cs": "Veronika Skálová",
-              "en": "Veronika Skálová"
-            },
-            "copyrights": {
-              "en": "Moravská galerie v Brně"
-            },
-            "photographer": "Veronika Skálová",
-            "copyright": null
-          }
-        ],
-        "artist_names": [
-          "Johann Lucas Kracker (1717 Jager – 1779 Jager)",
-          "Johann Lucas Kracker (1717–1779, Jager)"
         ],
         "languages": [
           "cs",
@@ -8513,42 +8513,10 @@
     "media": [],
     "details": [
       {
-        "id": "03f0276d-ea71-550e-87b2-3e9d039d58d4",
-        "internal_name": "Amor and Psyche – Garden",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_B:31:5",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/7b898e3d-6232-56d6-ab1d-3e4a1ba35f2a.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "cs": "Slavkov castle",
-              "en": "Slavkov castle"
-            },
-            "photographer": null,
-            "copyright": "Slavkov castle"
-          }
-        ],
-        "artist_names": [
-          "Giovanni Giuliani (1663 Benátky – 1744 Heiligenkreuz)",
-          "Giovanni Giuliani (1663 Venice – 1744 Heiligenkreuz)"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
         "id": "8c6e7a5a-f8b4-50cb-b4d1-b5bba30ca387",
         "internal_name": "Dominik Ondřej Kounic with the Order of the Golden Fleece",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_B:31:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/f186e0d6-644e-5552-90f6-bc50e4f4cba1.jpg",
@@ -8577,10 +8545,74 @@
         ]
       },
       {
+        "id": "f7450b1c-6382-5c9c-a528-e4c11c55aa74",
+        "internal_name": "Ideal design for the residence",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_B:31:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/a09ebe4f-e7a8-5364-86dd-7e2010f01225.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "cs": "Moravská galerie v Brně",
+              "en": "Moravská galerie v Brně"
+            },
+            "photographer": null,
+            "copyright": "Moravská galerie v Brně"
+          }
+        ],
+        "artist_names": [
+          "Václav Petruzzi",
+          "Václav Petruzzi (1700 Uherský Brod – 1752 Slavkov)"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
+        "id": "5b66ccc1-4f4e-5e59-afac-9cb5613ba254",
+        "internal_name": "Staircase",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_B:31:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/bf51a533-010f-5481-8f93-4ae91b69383d.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "cs": "Národní památkový ústav v Brně",
+              "en": "Národní památkový ústav v Brně"
+            },
+            "photographer": null,
+            "copyright": "Národní památkový ústav v Brně"
+          }
+        ],
+        "artist_names": [
+          "Santino Bussi",
+          "Santino Bussi (1664 Bissone – 1736 Vienna)"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
         "id": "724ecf67-8522-5e73-9afd-9978350e2c01",
         "internal_name": "Hall of the Ancestors",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_B:31:4",
-        "display_order": null,
+        "display_order": 4,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/a71ab795-9103-58ad-a4e9-18f6c08f59a6.jpg",
@@ -8628,13 +8660,13 @@
         ]
       },
       {
-        "id": "f7450b1c-6382-5c9c-a528-e4c11c55aa74",
-        "internal_name": "Ideal design for the residence",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_B:31:2",
-        "display_order": null,
+        "id": "03f0276d-ea71-550e-87b2-3e9d039d58d4",
+        "internal_name": "Amor and Psyche – Garden",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_B:31:5",
+        "display_order": 5,
         "images": [
           {
-            "url": "https://inventory.metanull.eu/pub/a09ebe4f-e7a8-5364-86dd-7e2010f01225.jpg",
+            "url": "https://inventory.metanull.eu/pub/7b898e3d-6232-56d6-ab1d-3e4a1ba35f2a.jpg",
             "display_order": 1,
             "languages": [
               "cs",
@@ -8643,48 +8675,16 @@
             "captions": {},
             "photographers": {},
             "copyrights": {
-              "cs": "Moravská galerie v Brně",
-              "en": "Moravská galerie v Brně"
+              "cs": "Slavkov castle",
+              "en": "Slavkov castle"
             },
             "photographer": null,
-            "copyright": "Moravská galerie v Brně"
+            "copyright": "Slavkov castle"
           }
         ],
         "artist_names": [
-          "Václav Petruzzi",
-          "Václav Petruzzi (1700 Uherský Brod – 1752 Slavkov)"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
-        "id": "5b66ccc1-4f4e-5e59-afac-9cb5613ba254",
-        "internal_name": "Staircase",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_B:31:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/bf51a533-010f-5481-8f93-4ae91b69383d.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "cs": "Národní památkový ústav v Brně",
-              "en": "Národní památkový ústav v Brně"
-            },
-            "photographer": null,
-            "copyright": "Národní památkový ústav v Brně"
-          }
-        ],
-        "artist_names": [
-          "Santino Bussi",
-          "Santino Bussi (1664 Bissone – 1736 Vienna)"
+          "Giovanni Giuliani (1663 Benátky – 1744 Heiligenkreuz)",
+          "Giovanni Giuliani (1663 Venice – 1744 Heiligenkreuz)"
         ],
         "languages": [
           "cs",
@@ -9181,10 +9181,73 @@
     "media": [],
     "details": [
       {
+        "id": "5356a6b6-e734-542a-9ab6-73a3c0d9aadd",
+        "internal_name": "The Life of St. John the Baptist",
+        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:7:1",
+        "display_order": 1,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/566f4be8-7f2c-57ca-83e9-e3f4de624c40.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Peter Heinrich Jahn",
+              "en": "Peter Heinrich Jahn"
+            },
+            "photographer": null,
+            "copyright": "Peter Heinrich Jahn"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/08c4e3ff-054b-5dd4-a943-91eaf980366e.jpg",
+            "display_order": 2,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Peter Heinrich Jahn",
+              "en": "Peter Heinrich Jahn"
+            },
+            "photographer": null,
+            "copyright": "Peter Heinrich Jahn"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/d0ab6ad5-53e8-5c01-9e0e-d119ff9faaf2.jpg",
+            "display_order": 3,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Peter Heinrich Jahn",
+              "en": "Peter Heinrich Jahn"
+            },
+            "photographer": null,
+            "copyright": "Peter Heinrich Jahn"
+          }
+        ],
+        "artist_names": [
+          "Johann Baptist Baader"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
         "id": "0b97dc8a-3cf2-52e7-ae54-70cec9694c3e",
         "internal_name": "Main Altar",
         "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:7:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/d2b0fc2a-1a8d-584e-aefc-1ec17b291f7d.jpg",
@@ -9268,7 +9331,7 @@
         "id": "ab501a21-ec14-5a97-af8f-4cbadd1c1cc2",
         "internal_name": "The Altar of St. Agatha",
         "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:7:3",
-        "display_order": null,
+        "display_order": 3,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/c5d69a7d-bc04-5587-aa7d-09ed9e5701a0.jpg",
@@ -9356,69 +9419,6 @@
           "Altar: Thassilo Zöpf (1723–1807)",
           "Sculptor: Franz Xaver Schmädl (1705–77)",
           "Skulpturen: Franz Xaver Schmädl (1705-1777)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "5356a6b6-e734-542a-9ab6-73a3c0d9aadd",
-        "internal_name": "The Life of St. John the Baptist",
-        "backward_compatibility": "mwnf3:monument_details:BAR:de:Mon12:7:1",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/566f4be8-7f2c-57ca-83e9-e3f4de624c40.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Peter Heinrich Jahn",
-              "en": "Peter Heinrich Jahn"
-            },
-            "photographer": null,
-            "copyright": "Peter Heinrich Jahn"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/08c4e3ff-054b-5dd4-a943-91eaf980366e.jpg",
-            "display_order": 2,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Peter Heinrich Jahn",
-              "en": "Peter Heinrich Jahn"
-            },
-            "photographer": null,
-            "copyright": "Peter Heinrich Jahn"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/d0ab6ad5-53e8-5c01-9e0e-d119ff9faaf2.jpg",
-            "display_order": 3,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Peter Heinrich Jahn",
-              "en": "Peter Heinrich Jahn"
-            },
-            "photographer": null,
-            "copyright": "Peter Heinrich Jahn"
-          }
-        ],
-        "artist_names": [
-          "Johann Baptist Baader"
         ],
         "languages": [
           "de",
@@ -9518,90 +9518,10 @@
     "media": [],
     "details": [
       {
-        "id": "65e0961f-c135-53b7-936d-31d97f565267",
-        "internal_name": "Ceiling fresco: *The Veneration of St. Charles Borromeo*",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:20:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/a28988ad-6909-5ea7-afdb-075c0e57de19.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Bundesdenkmalamt",
-              "en": "Bundesdenkmalamt"
-            },
-            "photographer": null,
-            "copyright": "Bundesdenkmalamt"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/e099aafc-18c5-5cf0-8b1b-50ae368e965a.jpg",
-            "display_order": 2,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "MWNF",
-              "en": "MWNF"
-            },
-            "photographer": null,
-            "copyright": "MWNF"
-          }
-        ],
-        "artist_names": [
-          "Martin Knoller",
-          "Martin Knoller (1725–1804)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
-        "id": "0e7a534f-4091-5533-9e34-fa83788eea0c",
-        "internal_name": "Chapel of the Sorrowful Mother (Fieger Chapel)",
-        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:20:4",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/c05e7291-8cd5-50b7-99a5-3baa92d7169f.jpg",
-            "display_order": 1,
-            "languages": [
-              "de",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "de": "Bundesdenkmalamt",
-              "en": "Bundesdenkmalamt"
-            },
-            "photographer": null,
-            "copyright": "Bundesdenkmalamt"
-          }
-        ],
-        "artist_names": [
-          "Kaspar Waldmann",
-          "Kaspar Waldmann (1657–1720)"
-        ],
-        "languages": [
-          "de",
-          "en"
-        ]
-      },
-      {
         "id": "6be75fcb-c136-5464-b836-1965beae6a26",
         "internal_name": "Façade",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:20:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/20b85047-06b7-5046-a49f-ef66d06b8f1a.jpg",
@@ -9649,7 +9569,7 @@
         "id": "9767c365-8093-52c3-83c1-3946d0072faa",
         "internal_name": "View from the east",
         "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:20:2",
-        "display_order": null,
+        "display_order": 2,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/0337a68e-b3a8-547e-a406-eef0e9490f72.jpg",
@@ -9687,6 +9607,86 @@
         "artist_names": [
           "Hippolytus Guarinonius",
           "Hippolytus Guarinonius (1571–1654)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "65e0961f-c135-53b7-936d-31d97f565267",
+        "internal_name": "Ceiling fresco: *The Veneration of St. Charles Borromeo*",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:20:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/a28988ad-6909-5ea7-afdb-075c0e57de19.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Bundesdenkmalamt",
+              "en": "Bundesdenkmalamt"
+            },
+            "photographer": null,
+            "copyright": "Bundesdenkmalamt"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/e099aafc-18c5-5cf0-8b1b-50ae368e965a.jpg",
+            "display_order": 2,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "MWNF",
+              "en": "MWNF"
+            },
+            "photographer": null,
+            "copyright": "MWNF"
+          }
+        ],
+        "artist_names": [
+          "Martin Knoller",
+          "Martin Knoller (1725–1804)"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ]
+      },
+      {
+        "id": "0e7a534f-4091-5533-9e34-fa83788eea0c",
+        "internal_name": "Chapel of the Sorrowful Mother (Fieger Chapel)",
+        "backward_compatibility": "mwnf3:monument_details:BAR:at:Mon11:20:4",
+        "display_order": 4,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/c05e7291-8cd5-50b7-99a5-3baa92d7169f.jpg",
+            "display_order": 1,
+            "languages": [
+              "de",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "de": "Bundesdenkmalamt",
+              "en": "Bundesdenkmalamt"
+            },
+            "photographer": null,
+            "copyright": "Bundesdenkmalamt"
+          }
+        ],
+        "artist_names": [
+          "Kaspar Waldmann",
+          "Kaspar Waldmann (1657–1720)"
         ],
         "languages": [
           "de",
@@ -10305,211 +10305,10 @@
     "media": [],
     "details": [
       {
-        "id": "c9e437ac-0abc-54f8-bdb1-c612628c79a0",
-        "internal_name": "Celebration of the Althann Dynasty",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:30:2",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/c139a80f-d994-59ca-a735-15b8a1520e7e.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "cs": "Pavel Čech",
-              "en": "Pavel Čech"
-            },
-            "copyrights": {
-              "cs": "Moravská galerie v Brně",
-              "en": "Moravská galerie v Brně"
-            },
-            "photographer": "Pavel Čech",
-            "copyright": "Moravská galerie v Brně"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/426e38d9-1f85-5d81-942f-096318b349c0.jpg",
-            "display_order": 2,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "cs": "National Institute for cultural heritage",
-              "en": "National Institute for cultural heritage"
-            },
-            "photographer": null,
-            "copyright": "National Institute for cultural heritage"
-          }
-        ],
-        "artist_names": [
-          "Johann Michael Rottmayer (1654 Laufen – 1730 Vídeň)",
-          "Johann Michael Rottmayer (1654 Laufen – 1730 Vienna)"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
-        "id": "d8289a89-1170-5ec0-a741-c5175017f870",
-        "internal_name": "Chapel of the Holy Trinity",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:30:3",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/44b93ee5-8ccf-5525-9e3b-5002bcf6a637.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "cs": "Pavel Čech",
-              "en": "Pavel Čech"
-            },
-            "copyrights": {
-              "cs": "Moravská galerie v Brně",
-              "en": "Moravská galerie v Brně"
-            },
-            "photographer": "Pavel Čech",
-            "copyright": "Moravská galerie v Brně"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/625056a2-862a-5de2-a456-4d9397851b20.jpg",
-            "display_order": 2,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "cs": "Jihomoravský kraj",
-              "en": "Jihomoravský kraj"
-            },
-            "photographer": null,
-            "copyright": "Jihomoravský kraj"
-          }
-        ],
-        "artist_names": [
-          "Ignác Heinitz  \nz Heinzenthalu (1657 Vídeň – 1742 Vídeň)",
-          "Ignaz Heinitz of Heintzenthal (1657–1742, Vienna)",
-          "Johann Bernhard Fischer von Erlach (1656 Graz – 1723 Vídeň)",
-          "Johann Bernhard Fischer von Erlach (1656 Graz – 1723 Vienna)"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
-        "id": "dbaffd3f-8c80-55c5-8dff-c3db51a61236",
-        "internal_name": "Courtyard",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:30:4",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/7dbeb762-12d8-5e99-93d7-38d175a4649d.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "cs": "Pavel Čech",
-              "en": "Pavel Čech"
-            },
-            "copyrights": {},
-            "photographer": "Pavel Čech",
-            "copyright": null
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/77f679a8-376b-5918-8726-802cad3fff5b.jpg",
-            "display_order": 2,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "cs": "Jihomoravský kraj",
-              "en": "Jihomoravský kraj"
-            },
-            "photographer": null,
-            "copyright": "Jihomoravský kraj"
-          }
-        ],
-        "artist_names": [
-          "Anton Erhard Martinelli (1684 Vídeň – 1747 Vídeň)",
-          "Anton Erhard Martinelli (1684–1747, Vienna)",
-          "Lorenzo Mattielli (1687 Vicenza – 1748 Drážďany)"
-        ],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
-        "id": "4fe53e71-5945-5d6a-9e28-e7a34d244285",
-        "internal_name": "Freemasons’ Room",
-        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:30:5",
-        "display_order": null,
-        "images": [
-          {
-            "url": "https://inventory.metanull.eu/pub/c00af65c-f13c-5b2d-bcd3-134cc391ab03.jpg",
-            "display_order": 1,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {
-              "cs": "Pavel Čech",
-              "en": "Pavel Čech"
-            },
-            "copyrights": {
-              "cs": "Moravská galerie v Brně",
-              "en": "Moravská galerie v Brně"
-            },
-            "photographer": "Pavel Čech",
-            "copyright": "Moravská galerie v Brně"
-          },
-          {
-            "url": "https://inventory.metanull.eu/pub/487033d4-620c-558b-9246-a4fa0fbc3c58.jpg",
-            "display_order": 2,
-            "languages": [
-              "cs",
-              "en"
-            ],
-            "captions": {},
-            "photographers": {},
-            "copyrights": {
-              "cs": "Jihomoravský kraj",
-              "en": "Jihomoravský kraj"
-            },
-            "photographer": null,
-            "copyright": "Jihomoravský kraj"
-          }
-        ],
-        "artist_names": [],
-        "languages": [
-          "cs",
-          "en"
-        ]
-      },
-      {
         "id": "b4d6753b-ee3a-5120-a57e-e35af32589c1",
         "internal_name": "Hall of the Ancestors",
         "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:30:1",
-        "display_order": null,
+        "display_order": 1,
         "images": [
           {
             "url": "https://inventory.metanull.eu/pub/eb3f3c85-628f-5036-9fa7-4b6509b78a7b.jpg",
@@ -10601,6 +10400,207 @@
           "Tobias Kracker (1658 Vídeň – 1736 Vídeň)",
           "Tobias Kracker (1658–1736, Vienna)"
         ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
+        "id": "c9e437ac-0abc-54f8-bdb1-c612628c79a0",
+        "internal_name": "Celebration of the Althann Dynasty",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:30:2",
+        "display_order": 2,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/c139a80f-d994-59ca-a735-15b8a1520e7e.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "cs": "Pavel Čech",
+              "en": "Pavel Čech"
+            },
+            "copyrights": {
+              "cs": "Moravská galerie v Brně",
+              "en": "Moravská galerie v Brně"
+            },
+            "photographer": "Pavel Čech",
+            "copyright": "Moravská galerie v Brně"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/426e38d9-1f85-5d81-942f-096318b349c0.jpg",
+            "display_order": 2,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "cs": "National Institute for cultural heritage",
+              "en": "National Institute for cultural heritage"
+            },
+            "photographer": null,
+            "copyright": "National Institute for cultural heritage"
+          }
+        ],
+        "artist_names": [
+          "Johann Michael Rottmayer (1654 Laufen – 1730 Vídeň)",
+          "Johann Michael Rottmayer (1654 Laufen – 1730 Vienna)"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
+        "id": "d8289a89-1170-5ec0-a741-c5175017f870",
+        "internal_name": "Chapel of the Holy Trinity",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:30:3",
+        "display_order": 3,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/44b93ee5-8ccf-5525-9e3b-5002bcf6a637.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "cs": "Pavel Čech",
+              "en": "Pavel Čech"
+            },
+            "copyrights": {
+              "cs": "Moravská galerie v Brně",
+              "en": "Moravská galerie v Brně"
+            },
+            "photographer": "Pavel Čech",
+            "copyright": "Moravská galerie v Brně"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/625056a2-862a-5de2-a456-4d9397851b20.jpg",
+            "display_order": 2,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "cs": "Jihomoravský kraj",
+              "en": "Jihomoravský kraj"
+            },
+            "photographer": null,
+            "copyright": "Jihomoravský kraj"
+          }
+        ],
+        "artist_names": [
+          "Ignác Heinitz  \nz Heinzenthalu (1657 Vídeň – 1742 Vídeň)",
+          "Ignaz Heinitz of Heintzenthal (1657–1742, Vienna)",
+          "Johann Bernhard Fischer von Erlach (1656 Graz – 1723 Vídeň)",
+          "Johann Bernhard Fischer von Erlach (1656 Graz – 1723 Vienna)"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
+        "id": "dbaffd3f-8c80-55c5-8dff-c3db51a61236",
+        "internal_name": "Courtyard",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:30:4",
+        "display_order": 4,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/7dbeb762-12d8-5e99-93d7-38d175a4649d.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "cs": "Pavel Čech",
+              "en": "Pavel Čech"
+            },
+            "copyrights": {},
+            "photographer": "Pavel Čech",
+            "copyright": null
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/77f679a8-376b-5918-8726-802cad3fff5b.jpg",
+            "display_order": 2,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "cs": "Jihomoravský kraj",
+              "en": "Jihomoravský kraj"
+            },
+            "photographer": null,
+            "copyright": "Jihomoravský kraj"
+          }
+        ],
+        "artist_names": [
+          "Anton Erhard Martinelli (1684 Vídeň – 1747 Vídeň)",
+          "Anton Erhard Martinelli (1684–1747, Vienna)",
+          "Lorenzo Mattielli (1687 Vicenza – 1748 Drážďany)"
+        ],
+        "languages": [
+          "cs",
+          "en"
+        ]
+      },
+      {
+        "id": "4fe53e71-5945-5d6a-9e28-e7a34d244285",
+        "internal_name": "Freemasons’ Room",
+        "backward_compatibility": "mwnf3:monument_details:BAR:cz:Mon11_H:30:5",
+        "display_order": 5,
+        "images": [
+          {
+            "url": "https://inventory.metanull.eu/pub/c00af65c-f13c-5b2d-bcd3-134cc391ab03.jpg",
+            "display_order": 1,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {
+              "cs": "Pavel Čech",
+              "en": "Pavel Čech"
+            },
+            "copyrights": {
+              "cs": "Moravská galerie v Brně",
+              "en": "Moravská galerie v Brně"
+            },
+            "photographer": "Pavel Čech",
+            "copyright": "Moravská galerie v Brně"
+          },
+          {
+            "url": "https://inventory.metanull.eu/pub/487033d4-620c-558b-9246-a4fa0fbc3c58.jpg",
+            "display_order": 2,
+            "languages": [
+              "cs",
+              "en"
+            ],
+            "captions": {},
+            "photographers": {},
+            "copyrights": {
+              "cs": "Jihomoravský kraj",
+              "en": "Jihomoravský kraj"
+            },
+            "photographer": null,
+            "copyright": "Jihomoravský kraj"
+          }
+        ],
+        "artist_names": [],
         "languages": [
           "cs",
           "en"
