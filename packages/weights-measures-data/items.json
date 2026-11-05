@@ -91,7 +91,17 @@
         "kind": "gallery",
         "slug": "ceramics",
         "legacy_host": "https://ceramics.museumwnf.org",
+        "site": "ceramics",
         "name": "Ceramics"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       },
       {
         "id": "a2313f76-4eef-542a-9570-c97b2bd331f2",
@@ -99,6 +109,7 @@
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
       }
     ],
@@ -175,7 +186,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       }
     ],
     "languages": [
@@ -234,11 +255,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
+      },
+      {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:17",
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       }
     ],
@@ -290,11 +321,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -358,11 +399,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -462,7 +513,17 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       }
     ],
     "languages": [
@@ -561,7 +622,17 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       }
     ],
     "languages": [
@@ -717,7 +788,17 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       }
     ],
     "languages": [
@@ -785,11 +866,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -858,7 +949,17 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       }
     ],
     "languages": [
@@ -947,7 +1048,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -955,6 +1066,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -963,6 +1075,7 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
       }
     ],
@@ -1197,7 +1310,17 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       }
     ],
     "languages": [
@@ -1291,6 +1414,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       },
       {
@@ -1299,7 +1423,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       }
     ],
     "languages": [
@@ -1360,6 +1494,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       },
       {
@@ -1368,7 +1503,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       }
     ],
     "languages": [
@@ -1443,7 +1588,17 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       },
       {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
@@ -1451,6 +1606,7 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       }
     ],
@@ -1527,7 +1683,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       }
     ],
     "languages": [
@@ -1590,7 +1756,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       }
     ],
     "languages": [
@@ -1715,7 +1891,17 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       }
     ],
     "languages": [
@@ -1844,7 +2030,17 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -1852,6 +2048,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -1914,7 +2111,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       }
     ],
     "languages": [
@@ -1979,7 +2186,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -1987,6 +2204,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -2049,7 +2267,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -2222,7 +2450,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "911715e0-bf81-5aa4-b8f0-ba3b59c392bd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:41",
+        "kind": "gallery",
+        "slug": "weights_and_measures",
+        "legacy_host": "https://weights-measures.museumwnf.org",
+        "site": "weights-measures",
+        "name": "Weights and measures"
       },
       {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
@@ -2230,6 +2468,7 @@
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],

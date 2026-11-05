@@ -48,6 +48,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -56,7 +57,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -113,7 +124,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -171,7 +192,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -224,7 +255,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -283,7 +324,17 @@
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -338,7 +389,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -390,7 +451,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -446,11 +517,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      },
+      {
         "id": "decbe529-2594-59e2-ba50-d15b9ea9381b",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:35",
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       }
     ],
@@ -508,11 +589,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      },
+      {
         "id": "decbe529-2594-59e2-ba50-d15b9ea9381b",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:35",
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       }
     ],
@@ -572,11 +663,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      },
+      {
         "id": "decbe529-2594-59e2-ba50-d15b9ea9381b",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:35",
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       }
     ],
@@ -628,7 +729,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -681,6 +792,7 @@
         "kind": "gallery",
         "slug": "communication_and_transportation",
         "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
         "name": "Communication and Transportation"
       },
       {
@@ -689,6 +801,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -697,7 +810,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -752,6 +875,7 @@
         "kind": "gallery",
         "slug": "communication_and_transportation",
         "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
         "name": "Communication and Transportation"
       },
       {
@@ -760,6 +884,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -768,7 +893,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -829,7 +964,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "cs",
       "en"
@@ -884,7 +1029,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -946,7 +1101,17 @@
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -1000,7 +1165,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -1115,7 +1290,17 @@
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -1171,7 +1356,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1218,7 +1413,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1357,7 +1562,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1411,7 +1626,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -1470,7 +1695,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -1526,7 +1761,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -1583,7 +1828,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1628,7 +1883,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1714,7 +1979,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -1772,7 +2047,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -1821,7 +2106,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1869,7 +2164,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -1938,7 +2243,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -1988,7 +2303,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2042,6 +2367,7 @@
         "kind": "gallery",
         "slug": "theatre",
         "legacy_host": "https://theatre.museumwnf.org",
+        "site": "theatre",
         "name": "Theatre"
       },
       {
@@ -2050,7 +2376,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -2102,7 +2438,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2158,7 +2504,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -2217,7 +2573,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -2274,7 +2640,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2335,7 +2711,17 @@
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -2388,7 +2774,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -2438,7 +2834,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2492,7 +2898,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -2551,7 +2967,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -2608,7 +3034,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -2656,7 +3092,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2709,7 +3155,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -2760,7 +3216,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2813,7 +3279,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2862,7 +3338,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2921,7 +3407,17 @@
         "kind": "gallery",
         "slug": "theatre",
         "legacy_host": "https://theatre.museumwnf.org",
+        "site": "theatre",
         "name": "Theatre"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -2979,7 +3475,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -3067,7 +3573,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "cs",
       "en"
@@ -3121,7 +3637,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -3181,7 +3707,17 @@
         "kind": "gallery",
         "slug": "theatre",
         "legacy_host": "https://theatre.museumwnf.org",
+        "site": "theatre",
         "name": "Theatre"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -3250,6 +3786,7 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
       },
       {
@@ -3258,7 +3795,17 @@
         "kind": "gallery",
         "slug": "carpets",
         "legacy_host": "https://carpets.museumwnf.org",
+        "site": "carpets",
         "name": "Carpets"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -3348,7 +3895,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "cs",
       "en"
@@ -3401,7 +3958,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -3453,7 +4020,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -3505,7 +4082,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -3588,7 +4175,17 @@
         "kind": "gallery",
         "slug": "theatre",
         "legacy_host": "https://theatre.museumwnf.org",
+        "site": "theatre",
         "name": "Theatre"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -3661,7 +4258,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "cs",
       "en"
@@ -3716,11 +4323,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      },
+      {
         "id": "decbe529-2594-59e2-ba50-d15b9ea9381b",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:35",
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       }
     ],
@@ -3776,7 +4393,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -3839,7 +4466,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       },
       {
         "id": "decbe529-2594-59e2-ba50-d15b9ea9381b",
@@ -3847,6 +4484,7 @@
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       }
     ],
@@ -3901,7 +4539,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -3954,7 +4602,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -4016,7 +4674,17 @@
         "kind": "gallery",
         "slug": "mosaics",
         "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
         "name": "Mosaics"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -4125,7 +4793,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "cs",
       "en"
@@ -4178,7 +4856,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4237,7 +4925,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -4333,7 +5031,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -4387,7 +5095,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -4441,7 +5159,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -4494,7 +5222,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4550,7 +5288,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -4605,7 +5353,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -4660,7 +5418,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4713,7 +5481,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4766,7 +5544,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -4820,7 +5608,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4873,7 +5671,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -4925,7 +5733,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -4975,7 +5793,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -5037,7 +5865,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5098,7 +5936,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5161,7 +6009,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5221,6 +6079,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -5229,7 +6088,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5308,7 +6177,17 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5362,6 +6241,7 @@
         "kind": "gallery",
         "slug": "communication_and_transportation",
         "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
         "name": "Communication and Transportation"
       },
       {
@@ -5370,7 +6250,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5431,7 +6321,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5492,7 +6392,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5552,7 +6462,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5612,7 +6532,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5669,7 +6599,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5724,7 +6664,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5782,7 +6732,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5840,7 +6800,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5894,7 +6864,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -5948,7 +6928,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6004,7 +6994,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6066,7 +7066,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6129,7 +7139,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6190,7 +7210,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       },
       {
         "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
@@ -6198,6 +7228,7 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
       }
     ],
@@ -6261,7 +7292,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6319,7 +7360,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6377,7 +7428,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6436,7 +7497,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6493,6 +7564,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -6501,7 +7573,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6555,6 +7637,7 @@
         "kind": "gallery",
         "slug": "communication_and_transportation",
         "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
         "name": "Communication and Transportation"
       },
       {
@@ -6563,6 +7646,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -6571,7 +7655,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6627,7 +7721,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6732,6 +7836,7 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
       },
       {
@@ -6740,7 +7845,17 @@
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6804,7 +7919,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6861,7 +7986,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6917,6 +8052,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -6925,7 +8061,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -6993,7 +8139,17 @@
         "kind": "gallery",
         "slug": "carpets",
         "legacy_host": "https://carpets.museumwnf.org",
+        "site": "carpets",
         "name": "Carpets"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7048,7 +8204,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7104,7 +8270,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7161,6 +8337,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -7169,7 +8346,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7244,7 +8431,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7301,7 +8498,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7356,7 +8563,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7410,7 +8627,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7464,7 +8691,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7518,7 +8755,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7574,7 +8821,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7630,7 +8887,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7684,7 +8951,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7741,7 +9018,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7798,6 +9085,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -7806,7 +9094,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7862,7 +9160,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7917,7 +9225,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -7972,7 +9290,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8042,6 +9370,7 @@
         "kind": "gallery",
         "slug": "clothing_and_costume",
         "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
         "name": "Clothing and Costume"
       },
       {
@@ -8050,6 +9379,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -8058,7 +9388,17 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8118,7 +9458,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8176,7 +9526,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8236,7 +9596,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8295,7 +9665,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8357,7 +9737,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8443,6 +9833,7 @@
         "kind": "gallery",
         "slug": "clothing_and_costume",
         "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
         "name": "Clothing and Costume"
       },
       {
@@ -8451,6 +9842,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -8459,7 +9851,17 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8516,7 +9918,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8570,7 +9982,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8626,7 +10048,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -8680,7 +10112,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8740,7 +10182,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8797,7 +10249,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8856,7 +10318,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8913,7 +10385,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -8969,7 +10451,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -9025,7 +10517,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -9081,7 +10583,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -9141,7 +10653,17 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       },
       {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
@@ -9149,6 +10671,7 @@
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -9231,7 +10754,17 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       },
       {
         "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
@@ -9239,6 +10772,7 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
       }
     ],
@@ -9296,6 +10830,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -9304,7 +10839,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -9372,7 +10917,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -9439,7 +10994,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -9496,7 +11061,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -9570,7 +11145,17 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       },
       {
         "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
@@ -9578,6 +11163,7 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
       }
     ],
@@ -9701,7 +11287,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -9757,7 +11353,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -9813,7 +11419,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -9873,7 +11489,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -9931,7 +11557,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -9989,7 +11625,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10047,7 +11693,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10114,7 +11770,17 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10171,7 +11837,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10226,7 +11902,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10283,7 +11969,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10340,7 +12036,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10396,7 +12102,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10452,7 +12168,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10508,7 +12234,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10564,7 +12300,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10621,7 +12367,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10678,7 +12434,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10735,7 +12501,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10792,7 +12568,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10849,7 +12635,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10906,7 +12702,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -10963,7 +12769,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -11019,6 +12835,7 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
       },
       {
@@ -11027,6 +12844,7 @@
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       },
       {
@@ -11035,7 +12853,17 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -11108,7 +12936,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -11179,7 +13017,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -11231,7 +13079,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -11286,7 +13144,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -11342,7 +13210,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -11397,6 +13275,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -11405,7 +13284,17 @@
         "kind": "gallery",
         "slug": "historical_cars",
         "legacy_host": "https://cars.museumwnf.org",
+        "site": "historical-cars",
         "name": "Historical Cars"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -11463,7 +13352,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -11517,7 +13416,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -11573,6 +13482,7 @@
         "kind": "gallery",
         "slug": "communication_and_transportation",
         "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
         "name": "Communication and Transportation"
       },
       {
@@ -11581,7 +13491,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -11639,7 +13559,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -11694,7 +13624,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -11749,7 +13689,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -11804,7 +13754,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -11858,6 +13818,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -11866,7 +13827,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -11952,7 +13923,17 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -12006,7 +13987,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -12063,7 +14054,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -12120,7 +14121,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -12177,7 +14188,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -12234,7 +14255,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -12291,7 +14322,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -12348,7 +14389,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -12415,6 +14466,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       },
       {
@@ -12423,7 +14475,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -12480,7 +14542,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -12547,7 +14619,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -12596,7 +14678,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -12651,7 +14743,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -12702,7 +14804,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -12754,7 +14866,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -12811,7 +14933,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -12871,6 +15003,7 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
       },
       {
@@ -12879,7 +15012,17 @@
         "kind": "gallery",
         "slug": "manuscripts",
         "legacy_host": "https://manuscripts.museumwnf.org",
+        "site": "manuscripts",
         "name": "Manuscripts"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -12937,7 +15080,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -13006,6 +15159,7 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
       },
       {
@@ -13014,7 +15168,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -13063,7 +15227,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -13115,7 +15289,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       },
       {
         "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
@@ -13123,6 +15307,7 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
       }
     ],
@@ -13178,7 +15363,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -13229,7 +15424,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -13276,7 +15481,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -13330,7 +15545,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -13389,7 +15614,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -13444,7 +15679,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -13517,7 +15762,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -13599,6 +15854,7 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
       },
       {
@@ -13607,7 +15863,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -13661,7 +15927,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -13718,7 +15994,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -13768,7 +16054,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -13818,7 +16114,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -13874,7 +16180,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -13945,7 +16261,17 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       },
       {
         "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
@@ -13953,6 +16279,7 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
       }
     ],
@@ -14057,7 +16384,17 @@
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -14120,7 +16457,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -14284,7 +16631,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -14378,7 +16735,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -14452,7 +16819,17 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -14540,6 +16917,7 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
       },
       {
@@ -14548,7 +16926,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -14624,7 +17012,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -14681,7 +17079,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -14737,7 +17145,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -14814,7 +17232,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -14874,7 +17302,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -14929,7 +17367,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -14986,7 +17434,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15059,7 +17517,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15125,7 +17593,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15180,7 +17658,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15233,6 +17721,7 @@
         "kind": "gallery",
         "slug": "communication_and_transportation",
         "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
         "name": "Communication and Transportation"
       },
       {
@@ -15241,6 +17730,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -15249,7 +17739,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15304,6 +17804,7 @@
         "kind": "gallery",
         "slug": "communication_and_transportation",
         "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
         "name": "Communication and Transportation"
       },
       {
@@ -15312,6 +17813,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -15320,7 +17822,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15375,6 +17887,7 @@
         "kind": "gallery",
         "slug": "communication_and_transportation",
         "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
         "name": "Communication and Transportation"
       },
       {
@@ -15383,6 +17896,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -15391,7 +17905,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15448,7 +17972,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15508,7 +18042,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15574,7 +18118,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15640,7 +18194,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15706,7 +18270,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15779,7 +18353,17 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15840,7 +18424,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15897,7 +18491,17 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -15951,6 +18555,7 @@
         "kind": "exhibition",
         "slug": "water_in_islam",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "water-in-islam",
         "name": "Water in Islam"
       },
       {
@@ -15959,7 +18564,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -16013,6 +18628,7 @@
         "kind": "exhibition",
         "slug": "water_in_islam",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "water-in-islam",
         "name": "Water in Islam"
       },
       {
@@ -16021,7 +18637,17 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [
@@ -16080,6 +18706,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -16088,7 +18715,17 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
+      },
+      {
+        "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
+        "kind": "gallery",
+        "slug": "portraits",
+        "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
+        "name": "Portraits"
       }
     ],
     "languages": [

@@ -58,7 +58,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -238,7 +248,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
       },
       {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
@@ -246,6 +266,7 @@
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -324,11 +345,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "decbe529-2594-59e2-ba50-d15b9ea9381b",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:35",
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       }
     ],
@@ -395,11 +426,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -408,6 +449,7 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       }
     ],
@@ -501,11 +543,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -560,11 +612,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -624,11 +686,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -794,11 +866,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -913,11 +995,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -991,7 +1083,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -999,6 +1101,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -1053,11 +1156,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -1134,11 +1247,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -1147,6 +1270,7 @@
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       }
     ],
@@ -1293,11 +1417,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "2d8735bb-4fae-5cce-ac94-058edd1c9b0e",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:11",
         "kind": "gallery",
         "slug": "ceramics",
         "legacy_host": "https://ceramics.museumwnf.org",
+        "site": "ceramics",
         "name": "Ceramics"
       },
       {
@@ -1306,6 +1440,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -1400,11 +1535,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -1506,11 +1651,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -1651,7 +1806,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -1887,11 +2052,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -2127,11 +2302,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -2382,11 +2567,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -2481,11 +2676,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -2642,11 +2847,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -2827,11 +3042,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -2908,11 +3133,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -2987,11 +3222,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -3137,11 +3382,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -3215,11 +3470,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -3305,11 +3570,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -3379,11 +3654,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -3455,11 +3740,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -3512,11 +3807,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "decbe529-2594-59e2-ba50-d15b9ea9381b",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:35",
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       },
       {
@@ -3525,6 +3830,7 @@
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -3663,11 +3969,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -3777,11 +4093,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -3845,11 +4171,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "2d8735bb-4fae-5cce-ac94-058edd1c9b0e",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:11",
         "kind": "gallery",
         "slug": "ceramics",
         "legacy_host": "https://ceramics.museumwnf.org",
+        "site": "ceramics",
         "name": "Ceramics"
       },
       {
@@ -3858,6 +4194,7 @@
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -3919,11 +4256,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "decbe529-2594-59e2-ba50-d15b9ea9381b",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:35",
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       }
     ],
@@ -3977,11 +4324,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -4067,11 +4424,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
         "kind": "gallery",
         "slug": "mosaics",
         "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
         "name": "Mosaics"
       }
     ],
@@ -4177,11 +4544,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -4190,6 +4567,7 @@
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       }
     ],
@@ -4363,11 +4741,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -4558,11 +4946,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -4678,11 +5076,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -4795,11 +5203,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -4865,11 +5283,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "7e6bf0d0-fc65-528e-a454-e02f4928bf91",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:6",
         "kind": "gallery",
         "slug": "architectural_elements",
         "legacy_host": "https://architectural-elements.museumwnf.org",
+        "site": "architectural-elements",
         "name": "Architectural Elements"
       }
     ],
@@ -4922,11 +5350,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "decbe529-2594-59e2-ba50-d15b9ea9381b",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:35",
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       },
       {
@@ -4935,6 +5373,7 @@
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -4993,11 +5432,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "7a233a08-8cc7-5372-98a7-a3ba85059928",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:25",
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       }
     ],
@@ -5065,11 +5514,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "decbe529-2594-59e2-ba50-d15b9ea9381b",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:35",
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       },
       {
@@ -5078,6 +5537,7 @@
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -5146,11 +5606,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -5340,11 +5810,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -5353,6 +5833,7 @@
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       }
     ],
@@ -5429,11 +5910,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "2d8735bb-4fae-5cce-ac94-058edd1c9b0e",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:11",
         "kind": "gallery",
         "slug": "ceramics",
         "legacy_host": "https://ceramics.museumwnf.org",
+        "site": "ceramics",
         "name": "Ceramics"
       },
       {
@@ -5442,6 +5933,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -5548,7 +6040,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -5556,6 +6058,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -5661,7 +6164,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -5669,6 +6182,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -5735,11 +6249,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "decbe529-2594-59e2-ba50-d15b9ea9381b",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:35",
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       }
     ],
@@ -5792,11 +6316,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "decbe529-2594-59e2-ba50-d15b9ea9381b",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:35",
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       },
       {
@@ -5805,6 +6339,7 @@
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -5901,7 +6436,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -6000,11 +6545,21 @@
     ],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -6076,11 +6631,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -6150,11 +6715,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -6221,11 +6796,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -6234,6 +6819,7 @@
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -6288,11 +6874,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "05deed77-faa1-5204-91d5-d10a4868760c",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:16",
+        "kind": "gallery",
+        "slug": "funerary_objects",
+        "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
+        "name": "Funerary objects"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],

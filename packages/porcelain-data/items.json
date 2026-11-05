@@ -122,7 +122,17 @@
         "kind": "gallery",
         "slug": "ceramics",
         "legacy_host": "https://ceramics.museumwnf.org",
+        "site": "ceramics",
         "name": "Ceramics"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -289,7 +299,17 @@
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -350,7 +370,17 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -408,7 +438,17 @@
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -470,6 +510,7 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -478,7 +519,17 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -541,7 +592,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -605,6 +666,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -613,7 +675,17 @@
         "kind": "exhibition",
         "slug": "with_brush_and_qalam",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "with-brush-and-qalam",
         "name": "With Brush and Qalam"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -673,7 +745,17 @@
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -736,6 +818,7 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
       },
       {
@@ -744,7 +827,17 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -794,7 +887,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -841,7 +944,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -911,7 +1024,17 @@
         "kind": "gallery",
         "slug": "ceramics",
         "legacy_host": "https://ceramics.museumwnf.org",
+        "site": "ceramics",
         "name": "Ceramics"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -966,7 +1089,17 @@
         "kind": "exhibition",
         "slug": "water_in_islam",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "water-in-islam",
         "name": "Water in Islam"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -1024,7 +1157,17 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -1128,7 +1271,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1185,7 +1338,17 @@
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -1253,6 +1416,7 @@
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       },
       {
@@ -1261,6 +1425,7 @@
         "kind": "exhibition",
         "slug": "water_in_islam",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "water-in-islam",
         "name": "Water in Islam"
       },
       {
@@ -1269,7 +1434,17 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -1333,7 +1508,17 @@
         "kind": "gallery",
         "slug": "ceramics",
         "legacy_host": "https://ceramics.museumwnf.org",
+        "site": "ceramics",
         "name": "Ceramics"
+      },
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
       }
     ],
     "languages": [
@@ -1383,7 +1568,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "ff6e14b8-4eba-5b13-b61f-b5cf68dba1c1",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:30",
+        "kind": "gallery",
+        "slug": "porcelain",
+        "legacy_host": "https://porcelain.museumwnf.org",
+        "site": "porcelain",
+        "name": "Porcelain"
+      }
+    ],
     "languages": [
       "en"
     ]

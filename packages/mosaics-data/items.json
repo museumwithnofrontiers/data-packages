@@ -50,11 +50,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      },
+      {
         "id": "cccc9580-27c1-5e98-bb29-1bc60602153f",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:31",
         "kind": "gallery",
         "slug": "portraits",
         "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
         "name": "Portraits"
       }
     ],
@@ -112,11 +122,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -174,11 +194,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      },
+      {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:17",
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       }
     ],
@@ -235,11 +265,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      },
+      {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:17",
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       }
     ],
@@ -398,11 +438,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -531,7 +581,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -583,11 +643,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      },
+      {
         "id": "7e6bf0d0-fc65-528e-a454-e02f4928bf91",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:6",
         "kind": "gallery",
         "slug": "architectural_elements",
         "legacy_host": "https://architectural-elements.museumwnf.org",
+        "site": "architectural-elements",
         "name": "Architectural Elements"
       },
       {
@@ -596,6 +666,7 @@
         "kind": "exhibition",
         "slug": "water_in_islam",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "water-in-islam",
         "name": "Water in Islam"
       }
     ],
@@ -683,11 +754,21 @@
     ],
     "gallery_references": [
       {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -764,11 +845,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      },
+      {
         "id": "44587d84-d4bb-5db4-8fd3-bdaf8bbcb30a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:18",
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
       }
     ],
@@ -936,11 +1027,21 @@
     ],
     "gallery_references": [
       {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -1019,7 +1120,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -1073,11 +1184,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -1128,7 +1249,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -1189,11 +1320,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -1263,7 +1404,17 @@
         "kind": "gallery",
         "slug": "ceramics",
         "legacy_host": "https://ceramics.museumwnf.org",
+        "site": "ceramics",
         "name": "Ceramics"
+      },
+      {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
       }
     ],
     "languages": [
@@ -1354,7 +1505,17 @@
         "kind": "gallery",
         "slug": "funerary_objects",
         "legacy_host": "https://funerary-objects.museumwnf.org",
+        "site": "funerary-objects",
         "name": "Funerary objects"
+      },
+      {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
       }
     ],
     "languages": [
@@ -1494,11 +1655,21 @@
     ],
     "gallery_references": [
       {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -1571,7 +1742,17 @@
         "kind": "gallery",
         "slug": "ceramics",
         "legacy_host": "https://ceramics.museumwnf.org",
+        "site": "ceramics",
         "name": "Ceramics"
+      },
+      {
+        "id": "37b58be3-f63e-515f-b0e6-1bdfa27095a4",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:26",
+        "kind": "gallery",
+        "slug": "mosaics",
+        "legacy_host": "https://mosaics.museumwnf.org",
+        "site": "mosaics",
+        "name": "Mosaics"
       }
     ],
     "languages": [

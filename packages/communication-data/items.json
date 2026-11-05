@@ -51,7 +51,17 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
+      },
+      {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
       }
     ],
     "languages": [
@@ -103,11 +113,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
         "kind": "gallery",
         "slug": "wall_paintings_and_frescoes",
         "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
         "name": "Wall paintings and frescoes"
       }
     ],
@@ -158,11 +178,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -171,6 +201,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -179,6 +210,7 @@
         "kind": "gallery",
         "slug": "portraits",
         "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
         "name": "Portraits"
       }
     ],
@@ -229,11 +261,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -242,6 +284,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -250,6 +293,7 @@
         "kind": "gallery",
         "slug": "portraits",
         "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
         "name": "Portraits"
       }
     ],
@@ -299,11 +343,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2313f76-4eef-542a-9570-c97b2bd331f2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:22",
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
       },
       {
@@ -312,6 +366,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -360,11 +415,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -373,6 +438,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -473,11 +539,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -486,6 +562,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -543,7 +620,17 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
+      },
+      {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
       },
       {
         "id": "a2313f76-4eef-542a-9570-c97b2bd331f2",
@@ -551,6 +638,7 @@
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
       }
     ],
@@ -602,11 +690,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -615,6 +713,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -672,7 +771,17 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
+      },
+      {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
       },
       {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
@@ -680,6 +789,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -730,11 +840,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -743,6 +863,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -799,7 +920,17 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
+      },
+      {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
       }
     ],
     "languages": [
@@ -850,11 +981,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "7a233a08-8cc7-5372-98a7-a3ba85059928",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:25",
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -863,6 +1004,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -911,11 +1053,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -964,11 +1116,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -977,6 +1139,7 @@
         "kind": "gallery",
         "slug": "portraits",
         "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
         "name": "Portraits"
       }
     ],
@@ -1027,11 +1190,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -1083,11 +1256,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -1136,11 +1319,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -1149,6 +1342,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -1197,11 +1391,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -1210,6 +1414,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -1258,11 +1463,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -1313,11 +1528,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -1366,11 +1591,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -1417,11 +1652,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -1430,6 +1675,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -1479,11 +1725,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -1492,6 +1748,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -1500,6 +1757,7 @@
         "kind": "gallery",
         "slug": "portraits",
         "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
         "name": "Portraits"
       }
     ],
@@ -1554,7 +1812,17 @@
         "kind": "gallery",
         "slug": "scientific_objects",
         "legacy_host": "https://scientific-objects.museumwnf.org",
+        "site": "scientific-objects",
         "name": "Scientific objects"
+      },
+      {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
       },
       {
         "id": "7a233a08-8cc7-5372-98a7-a3ba85059928",
@@ -1562,6 +1830,7 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       }
     ],
@@ -1610,11 +1879,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -1666,11 +1945,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2313f76-4eef-542a-9570-c97b2bd331f2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:22",
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
       },
       {
@@ -1679,6 +1968,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -1727,11 +2017,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -1780,11 +2080,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -1793,6 +2103,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -1844,11 +2155,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -1897,11 +2218,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -1910,6 +2241,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -1958,11 +2290,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -2025,11 +2367,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -2038,6 +2390,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -2091,11 +2444,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a3dc581c-2547-57ee-906c-0d1a3a1699f3",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:49",
         "kind": "gallery",
         "slug": "historical_cars",
         "legacy_host": "https://cars.museumwnf.org",
+        "site": "historical-cars",
         "name": "Historical Cars"
       }
     ],
@@ -2246,11 +2609,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a3dc581c-2547-57ee-906c-0d1a3a1699f3",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:49",
         "kind": "gallery",
         "slug": "historical_cars",
         "legacy_host": "https://cars.museumwnf.org",
+        "site": "historical-cars",
         "name": "Historical Cars"
       }
     ],
@@ -2298,11 +2671,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -2311,6 +2694,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -2357,11 +2741,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -2370,6 +2764,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -2428,11 +2823,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:17",
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       },
       {
@@ -2441,6 +2846,7 @@
         "kind": "gallery",
         "slug": "historical_cars",
         "legacy_host": "https://cars.museumwnf.org",
+        "site": "historical-cars",
         "name": "Historical Cars"
       }
     ],
@@ -2492,11 +2898,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:17",
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       },
       {
@@ -2505,6 +2921,7 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
       }
     ],
@@ -2600,11 +3017,21 @@
     ],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -2665,11 +3092,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8032017-c33f-55e1-a151-e29f5fc4d134",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:24",
         "kind": "gallery",
         "slug": "manuscripts",
         "legacy_host": "https://manuscripts.museumwnf.org",
+        "site": "manuscripts",
         "name": "Manuscripts"
       }
     ],
@@ -2720,11 +3157,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "7a233a08-8cc7-5372-98a7-a3ba85059928",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:25",
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       }
     ],
@@ -2778,7 +3225,17 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
+      },
+      {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
       },
       {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
@@ -2786,6 +3243,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -2794,6 +3252,7 @@
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
       }
     ],
@@ -2847,11 +3306,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a3dc581c-2547-57ee-906c-0d1a3a1699f3",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:49",
         "kind": "gallery",
         "slug": "historical_cars",
         "legacy_host": "https://cars.museumwnf.org",
+        "site": "historical-cars",
         "name": "Historical Cars"
       }
     ],
@@ -2907,7 +3376,17 @@
         "kind": "gallery",
         "slug": "scientific_objects",
         "legacy_host": "https://scientific-objects.museumwnf.org",
+        "site": "scientific-objects",
         "name": "Scientific objects"
+      },
+      {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
       },
       {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
@@ -2915,6 +3394,7 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       }
     ],
@@ -2963,11 +3443,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -2976,6 +3466,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -3024,11 +3515,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -3037,6 +3538,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -3085,11 +3587,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2313f76-4eef-542a-9570-c97b2bd331f2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:22",
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
       },
       {
@@ -3098,6 +3610,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -3169,11 +3682,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "80c45a07-c4a2-5ddb-acad-8a2515210c35",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:13",
         "kind": "gallery",
         "slug": "coins_and_medals",
         "legacy_host": "https://coins-medals.museumwnf.org",
+        "site": "coins-medals",
         "name": "Coins and Medals"
       },
       {
@@ -3182,6 +3705,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -3190,6 +3714,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -3238,11 +3763,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -3251,6 +3786,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -3301,11 +3837,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -3427,11 +3973,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -3480,11 +4036,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -3533,11 +4099,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -3588,11 +4164,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -3601,6 +4187,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -3651,11 +4238,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -3722,11 +4319,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "80c45a07-c4a2-5ddb-acad-8a2515210c35",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:13",
         "kind": "gallery",
         "slug": "coins_and_medals",
         "legacy_host": "https://coins-medals.museumwnf.org",
+        "site": "coins-medals",
         "name": "Coins and Medals"
       },
       {
@@ -3735,6 +4342,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -3786,11 +4394,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -3843,7 +4461,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4001,11 +4629,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "8635ee08-9015-5583-8d09-526c932e8d36",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:56",
         "kind": "exhibition",
         "slug": "water_in_islam",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "water-in-islam",
         "name": "Water in Islam"
       }
     ],
@@ -4055,11 +4693,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "7a233a08-8cc7-5372-98a7-a3ba85059928",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:25",
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       }
     ],
@@ -4113,7 +4761,17 @@
         "kind": "gallery",
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
+        "site": "paintings",
         "name": "Paintings"
+      },
+      {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
       },
       {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
@@ -4121,6 +4779,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -4129,6 +4788,7 @@
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
       }
     ],
@@ -4179,11 +4839,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8032017-c33f-55e1-a151-e29f5fc4d134",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:24",
         "kind": "gallery",
         "slug": "manuscripts",
         "legacy_host": "https://manuscripts.museumwnf.org",
+        "site": "manuscripts",
         "name": "Manuscripts"
       }
     ],
@@ -4234,11 +4904,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8032017-c33f-55e1-a151-e29f5fc4d134",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:24",
         "kind": "gallery",
         "slug": "manuscripts",
         "legacy_host": "https://manuscripts.museumwnf.org",
+        "site": "manuscripts",
         "name": "Manuscripts"
       }
     ],
@@ -4287,11 +4967,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -4300,6 +4990,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -4308,6 +4999,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -4366,11 +5058,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -4379,6 +5081,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -4428,11 +5131,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -4441,6 +5154,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -4491,11 +5205,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -4576,11 +5300,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:17",
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       },
       {
@@ -4589,6 +5323,7 @@
         "kind": "gallery",
         "slug": "historical_cars",
         "legacy_host": "https://cars.museumwnf.org",
+        "site": "historical-cars",
         "name": "Historical Cars"
       }
     ],
@@ -4638,11 +5373,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -4689,7 +5434,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4738,11 +5493,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -4751,6 +5516,7 @@
         "kind": "gallery",
         "slug": "portraits",
         "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
         "name": "Portraits"
       }
     ],
@@ -4805,11 +5571,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -4818,6 +5594,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -4866,11 +5643,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -4879,6 +5666,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -4927,11 +5715,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -4980,11 +5778,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -5035,11 +5843,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -5048,6 +5866,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -5099,11 +5918,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2313f76-4eef-542a-9570-c97b2bd331f2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:22",
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
       },
       {
@@ -5112,6 +5941,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -5160,11 +5990,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -5213,11 +6053,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -5226,6 +6076,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -5274,11 +6125,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "8635ee08-9015-5583-8d09-526c932e8d36",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:56",
         "kind": "exhibition",
         "slug": "water_in_islam",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "water-in-islam",
         "name": "Water in Islam"
       },
       {
@@ -5287,6 +6148,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -5337,11 +6199,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -5388,11 +6260,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "7e6bf0d0-fc65-528e-a454-e02f4928bf91",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:6",
         "kind": "gallery",
         "slug": "architectural_elements",
         "legacy_host": "https://architectural-elements.museumwnf.org",
+        "site": "architectural-elements",
         "name": "Architectural Elements"
       },
       {
@@ -5401,6 +6283,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -5409,6 +6292,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -5457,11 +6341,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -5517,11 +6411,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -5570,11 +6474,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2313f76-4eef-542a-9570-c97b2bd331f2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:22",
         "kind": "gallery",
         "slug": "landscapes",
         "legacy_host": "https://landscapes.museumwnf.org",
+        "site": "landscapes",
         "name": "Landscapes"
       },
       {
@@ -5583,6 +6497,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -5653,7 +6568,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -5703,11 +6628,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -5756,11 +6691,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -5769,6 +6714,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -5832,11 +6778,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -5941,11 +6897,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:17",
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       }
     ],
@@ -5995,11 +6961,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -6074,11 +7050,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "7a233a08-8cc7-5372-98a7-a3ba85059928",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:25",
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -6087,6 +7073,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -6150,11 +7137,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a3dc581c-2547-57ee-906c-0d1a3a1699f3",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:49",
         "kind": "gallery",
         "slug": "historical_cars",
         "legacy_host": "https://cars.museumwnf.org",
+        "site": "historical-cars",
         "name": "Historical Cars"
       }
     ],
@@ -6204,11 +7201,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "811a0bf9-c44b-5000-bc70-749a8f69ab02",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:19",
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       }
     ],
@@ -6263,11 +7270,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -6322,11 +7339,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -6377,11 +7404,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -6390,6 +7427,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -6441,11 +7479,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -6497,11 +7545,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:17",
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       }
     ],
@@ -6550,11 +7608,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -6563,6 +7631,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -6612,11 +7681,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "7a233a08-8cc7-5372-98a7-a3ba85059928",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:25",
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       }
     ],
@@ -6668,11 +7747,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "7a233a08-8cc7-5372-98a7-a3ba85059928",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:25",
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -6681,6 +7770,7 @@
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
       }
     ],
@@ -6729,11 +7819,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -6841,11 +7941,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:17",
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       }
     ],
@@ -6898,11 +8008,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -6951,11 +8071,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -6964,6 +8094,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -6972,6 +8103,7 @@
         "kind": "gallery",
         "slug": "portraits",
         "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
         "name": "Portraits"
       }
     ],
@@ -7022,11 +8154,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -7035,6 +8177,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -7043,6 +8186,7 @@
         "kind": "gallery",
         "slug": "portraits",
         "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
         "name": "Portraits"
       }
     ],
@@ -7093,11 +8237,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -7106,6 +8260,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -7114,6 +8269,7 @@
         "kind": "gallery",
         "slug": "portraits",
         "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
         "name": "Portraits"
       }
     ],
@@ -7206,11 +8362,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -7219,6 +8385,7 @@
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -7268,11 +8435,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -7324,11 +8501,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -7381,11 +8568,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -7437,11 +8634,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -7492,11 +8699,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -7548,11 +8765,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       },
       {
@@ -7561,6 +8788,7 @@
         "kind": "gallery",
         "slug": "historical_cars",
         "legacy_host": "https://cars.museumwnf.org",
+        "site": "historical-cars",
         "name": "Historical Cars"
       }
     ],
@@ -7609,11 +8837,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -7666,11 +8904,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -7719,11 +8967,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -7772,11 +9030,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -7826,11 +9094,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -7898,11 +9176,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -7952,11 +9240,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "a2ec5a6a-948f-53c6-b330-02eac4cab1c2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:29",
         "kind": "gallery",
         "slug": "photographs",
         "legacy_host": "https://photographs.museumwnf.org",
+        "site": "photographs",
         "name": "Photographs"
       }
     ],
@@ -8005,11 +9303,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -8063,11 +9371,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:17",
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       }
     ],
@@ -8117,11 +9435,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -8171,11 +9499,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "609a1a94-54d6-55be-bb31-215bc58ad178",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:14",
+        "kind": "gallery",
+        "slug": "communication_and_transportation",
+        "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
+        "name": "Communication and Transportation"
+      },
+      {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:17",
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       }
     ],
