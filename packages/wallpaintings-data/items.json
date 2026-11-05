@@ -48,7 +48,17 @@
         "kind": "gallery",
         "slug": "communication_and_transportation",
         "legacy_host": "https://communication.museumwnf.org",
+        "site": "communication",
         "name": "Communication and Transportation"
+      },
+      {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
       }
     ],
     "languages": [
@@ -102,7 +112,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -157,7 +177,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -202,7 +232,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -246,7 +286,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -306,7 +356,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -472,11 +532,21 @@
     ],
     "gallery_references": [
       {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -672,11 +742,21 @@
     ],
     "gallery_references": [
       {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -780,7 +860,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -924,11 +1014,21 @@
     ],
     "gallery_references": [
       {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -1116,7 +1216,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -1315,11 +1425,21 @@
     ],
     "gallery_references": [
       {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -1496,11 +1616,21 @@
     ],
     "gallery_references": [
       {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -1674,11 +1804,21 @@
     ],
     "gallery_references": [
       {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -1834,11 +1974,21 @@
     ],
     "gallery_references": [
       {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -1985,11 +2135,21 @@
     ],
     "gallery_references": [
       {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -2151,11 +2311,21 @@
     ],
     "gallery_references": [
       {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -2325,11 +2495,21 @@
     ],
     "gallery_references": [
       {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -2524,7 +2704,17 @@
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
+      },
+      {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
       },
       {
         "id": "7e6bf0d0-fc65-528e-a454-e02f4928bf91",
@@ -2532,6 +2722,7 @@
         "kind": "gallery",
         "slug": "architectural_elements",
         "legacy_host": "https://architectural-elements.museumwnf.org",
+        "site": "architectural-elements",
         "name": "Architectural Elements"
       },
       {
@@ -2540,6 +2731,7 @@
         "kind": "exhibition",
         "slug": "water_in_islam",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "water-in-islam",
         "name": "Water in Islam"
       }
     ],
@@ -2592,11 +2784,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -2689,7 +2891,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "728038a5-a956-5e3c-8b81-1647e31437fd",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:40",
+        "kind": "gallery",
+        "slug": "wall_paintings_and_frescoes",
+        "legacy_host": "https://wallpaintings.museumwnf.org",
+        "site": "wallpaintings",
+        "name": "Wall paintings and frescoes"
+      }
+    ],
     "languages": [
       "en"
     ]

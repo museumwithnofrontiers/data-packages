@@ -121,7 +121,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -255,7 +265,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -380,7 +400,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -506,11 +536,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -584,6 +624,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -592,7 +633,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -667,7 +718,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
@@ -675,6 +736,7 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
       }
     ],
@@ -740,7 +802,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -816,6 +888,7 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -824,7 +897,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -883,6 +966,7 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -891,7 +975,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -960,6 +1054,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -968,7 +1063,17 @@
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -1037,6 +1142,7 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
       },
       {
@@ -1045,7 +1151,17 @@
         "kind": "gallery",
         "slug": "leatherwork",
         "legacy_host": "https://leatherworks.museumwnf.org",
+        "site": "leatherworks",
         "name": "Leatherwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -1192,7 +1308,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -1284,7 +1410,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -1292,6 +1428,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -1365,7 +1502,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -1373,6 +1520,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -1425,7 +1573,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1495,7 +1653,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -1546,7 +1714,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1615,7 +1793,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -1623,6 +1811,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -1685,7 +1874,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -1760,7 +1959,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -1821,7 +2030,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -1882,7 +2101,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -1934,7 +2163,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2096,7 +2335,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -2104,6 +2353,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -2170,7 +2420,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -2233,7 +2493,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -2294,6 +2564,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       },
       {
@@ -2302,7 +2573,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -2369,7 +2650,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -2377,6 +2668,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -2463,7 +2755,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -2541,6 +2843,7 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -2549,7 +2852,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -2610,6 +2923,7 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -2618,7 +2932,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
@@ -2626,6 +2950,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -2733,6 +3058,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       },
       {
@@ -2741,7 +3067,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -2749,6 +3085,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -2872,7 +3209,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
@@ -2880,6 +3227,7 @@
         "kind": "gallery",
         "slug": "ivory",
         "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
         "name": "Ivory"
       }
     ],
@@ -2961,6 +3309,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       },
       {
@@ -2969,6 +3318,7 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -2977,7 +3327,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -3099,11 +3459,21 @@
     ],
     "gallery_references": [
       {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
+      },
+      {
         "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
         "kind": "gallery",
         "slug": "ivory",
         "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
         "name": "Ivory"
       }
     ],
@@ -3161,7 +3531,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -3252,7 +3632,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -3323,6 +3713,7 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -3331,7 +3722,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -3393,7 +3794,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -3567,11 +3978,21 @@
     ],
     "gallery_references": [
       {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
+      },
+      {
         "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
         "kind": "gallery",
         "slug": "ivory",
         "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
         "name": "Ivory"
       },
       {
@@ -3580,6 +4001,7 @@
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -3643,7 +4065,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -3777,7 +4209,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -3932,7 +4374,17 @@
         "kind": "gallery",
         "slug": "leatherwork",
         "legacy_host": "https://leatherworks.museumwnf.org",
+        "site": "leatherworks",
         "name": "Leatherwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -4060,7 +4512,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -4189,7 +4651,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -4259,6 +4731,7 @@
         "kind": "gallery",
         "slug": "leatherwork",
         "legacy_host": "https://leatherworks.museumwnf.org",
+        "site": "leatherworks",
         "name": "Leatherwork"
       },
       {
@@ -4267,6 +4740,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       },
       {
@@ -4275,7 +4749,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -4336,7 +4820,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -4460,7 +4954,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -4468,6 +4972,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -4526,7 +5031,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -4599,7 +5114,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -4656,7 +5181,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -4744,7 +5279,17 @@
         "kind": "gallery",
         "slug": "leatherwork",
         "legacy_host": "https://leatherworks.museumwnf.org",
+        "site": "leatherworks",
         "name": "Leatherwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -4813,6 +5358,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -4821,6 +5367,7 @@
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       },
       {
@@ -4829,7 +5376,17 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -4907,7 +5464,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -4985,7 +5552,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -5049,6 +5626,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       },
       {
@@ -5057,6 +5635,7 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -5065,7 +5644,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -5120,6 +5709,7 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -5128,7 +5718,17 @@
         "kind": "gallery",
         "slug": "coins_and_medals",
         "legacy_host": "https://coins-medals.museumwnf.org",
+        "site": "coins-medals",
         "name": "Coins and Medals"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -5227,6 +5827,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       },
       {
@@ -5235,7 +5836,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -5296,7 +5907,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -5356,7 +5977,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -5440,7 +6071,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -5550,7 +6191,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -5604,7 +6255,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -5670,7 +6331,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -5732,7 +6403,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -5819,7 +6500,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -5966,7 +6657,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -6098,7 +6799,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -6245,7 +6956,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -6395,7 +7116,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -6557,7 +7288,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -6674,7 +7415,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -6792,7 +7543,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -6926,7 +7687,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -7002,7 +7773,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -7079,7 +7860,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -7087,6 +7878,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -7155,7 +7947,17 @@
         "kind": "gallery",
         "slug": "leatherwork",
         "legacy_host": "https://leatherworks.museumwnf.org",
+        "site": "leatherworks",
         "name": "Leatherwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -7216,6 +8018,7 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
       },
       {
@@ -7224,7 +8027,17 @@
         "kind": "gallery",
         "slug": "leatherwork",
         "legacy_host": "https://leatherworks.museumwnf.org",
+        "site": "leatherworks",
         "name": "Leatherwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -7470,7 +8283,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -7532,7 +8355,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -7592,11 +8425,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -7707,6 +8550,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       },
       {
@@ -7715,6 +8559,7 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -7723,7 +8568,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -7844,7 +8699,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -7852,6 +8717,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -7921,7 +8787,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -7983,7 +8859,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -8124,7 +9010,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -8348,7 +9244,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -8356,6 +9262,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -8518,7 +9425,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -8526,6 +9443,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -8713,7 +9631,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -8721,6 +9649,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -8789,6 +9718,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -8797,7 +9727,17 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -8860,11 +9800,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -8926,7 +9876,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -8985,7 +9945,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -9078,7 +10048,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -9149,7 +10129,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -9157,6 +10147,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -9279,6 +10270,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       },
       {
@@ -9287,7 +10279,17 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [
@@ -9348,7 +10350,17 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
+      },
+      {
+        "id": "8e300d79-4817-50a1-b165-8b85dbc28a20",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:7",
+        "kind": "gallery",
+        "slug": "arms_and_armoury",
+        "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
+        "name": "Arms and Armoury"
       }
     ],
     "languages": [

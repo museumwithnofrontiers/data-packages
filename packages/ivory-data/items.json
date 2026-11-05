@@ -58,7 +58,17 @@
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -139,7 +149,17 @@
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -206,7 +226,17 @@
         "kind": "gallery",
         "slug": "sculptures",
         "legacy_host": "https://sculptures.museumwnf.org",
+        "site": "sculptures",
         "name": "Sculptures"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -302,6 +332,7 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       },
       {
@@ -310,7 +341,17 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -472,7 +513,17 @@
         "kind": "gallery",
         "slug": "clothing_and_costume",
         "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
         "name": "Clothing and Costume"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -547,7 +598,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -607,7 +668,17 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -731,7 +802,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -860,7 +941,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -1009,7 +1100,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -1161,7 +1262,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -1226,7 +1337,17 @@
         "kind": "gallery",
         "slug": "toys",
         "legacy_host": "https://toys-games.museumwnf.org",
+        "site": "toys-games",
         "name": "Toys and Games"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -1303,7 +1424,17 @@
         "kind": "gallery",
         "slug": "toys",
         "legacy_host": "https://toys-games.museumwnf.org",
+        "site": "toys-games",
         "name": "Toys and Games"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -1409,7 +1540,17 @@
         "kind": "gallery",
         "slug": "toys",
         "legacy_host": "https://toys-games.museumwnf.org",
+        "site": "toys-games",
         "name": "Toys and Games"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -1545,7 +1686,17 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -1680,7 +1831,17 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -1806,6 +1967,7 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       },
       {
@@ -1814,7 +1976,17 @@
         "kind": "gallery",
         "slug": "arms_and_armoury",
         "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
         "name": "Arms and Armoury"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -1941,7 +2113,17 @@
         "kind": "gallery",
         "slug": "arms_and_armoury",
         "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
         "name": "Arms and Armoury"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -1993,7 +2175,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2058,6 +2250,7 @@
         "kind": "gallery",
         "slug": "architectural_elements",
         "legacy_host": "https://architectural-elements.museumwnf.org",
+        "site": "architectural-elements",
         "name": "Architectural Elements"
       },
       {
@@ -2066,7 +2259,17 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -2130,7 +2333,17 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -2290,7 +2503,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -2372,7 +2595,17 @@
         "kind": "gallery",
         "slug": "toys",
         "legacy_host": "https://toys-games.museumwnf.org",
+        "site": "toys-games",
         "name": "Toys and Games"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -2436,7 +2669,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -2574,7 +2817,17 @@
         "kind": "exhibition",
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-table-is-set",
         "name": "The Table Is Set"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -2757,7 +3010,17 @@
         "kind": "gallery",
         "slug": "arms_and_armoury",
         "legacy_host": "https://arms-armoury.museumwnf.org",
+        "site": "arms-armoury",
         "name": "Arms and Armoury"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       },
       {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
@@ -2765,6 +3028,7 @@
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -2827,7 +3091,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "el",
@@ -2883,7 +3157,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -2966,7 +3250,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -3077,7 +3371,17 @@
         "justifications": {}
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -3182,7 +3486,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -3334,7 +3648,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -3497,11 +3821,21 @@
     ],
     "gallery_references": [
       {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -3654,11 +3988,21 @@
     ],
     "gallery_references": [
       {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -3800,7 +4144,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -3887,7 +4241,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -3967,7 +4331,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -4027,7 +4401,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -4118,7 +4502,17 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -4176,7 +4570,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -4296,7 +4700,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -4359,7 +4773,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -4457,7 +4881,17 @@
         "justifications": {}
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -4519,7 +4953,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -4574,7 +5018,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       },
       {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
@@ -4582,6 +5036,7 @@
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -4715,7 +5170,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -4853,7 +5318,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -5015,6 +5490,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -5023,7 +5499,17 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -5206,6 +5692,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -5214,7 +5701,17 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -5321,7 +5818,17 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -5397,7 +5904,17 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -5448,11 +5965,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      },
+      {
         "id": "f38a24de-240c-5463-b14d-e1a5f826b32d",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:5",
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -5512,7 +6039,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -5660,7 +6197,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -5866,7 +6413,17 @@
         "kind": "gallery",
         "slug": "leatherwork",
         "legacy_host": "https://leatherworks.museumwnf.org",
+        "site": "leatherworks",
         "name": "Leatherwork"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [
@@ -5970,6 +6527,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -5978,7 +6536,17 @@
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
+      },
+      {
+        "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
+        "kind": "gallery",
+        "slug": "ivory",
+        "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
+        "name": "Ivory"
       }
     ],
     "languages": [

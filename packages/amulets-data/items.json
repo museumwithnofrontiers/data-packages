@@ -70,6 +70,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -78,7 +79,17 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
@@ -86,6 +97,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -175,6 +187,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -183,7 +196,17 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       }
     ],
     "languages": [
@@ -242,7 +265,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -301,11 +334,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      },
+      {
         "id": "743fd119-f663-54ae-b92a-933fc1fdbfd8",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:9",
         "kind": "gallery",
         "slug": "carpets",
         "legacy_host": "https://carpets.museumwnf.org",
+        "site": "carpets",
         "name": "Carpets"
       }
     ],
@@ -374,6 +417,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -382,7 +426,17 @@
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -390,6 +444,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -453,7 +508,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "811a0bf9-c44b-5000-bc70-749a8f69ab02",
@@ -461,6 +526,7 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       }
     ],
@@ -549,7 +615,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -557,6 +633,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -619,7 +696,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
@@ -627,6 +714,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -682,7 +770,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -690,6 +788,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -755,7 +854,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "811a0bf9-c44b-5000-bc70-749a8f69ab02",
@@ -763,6 +872,7 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       }
     ],
@@ -829,11 +939,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -889,7 +1009,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -1066,7 +1196,17 @@
         "kind": "gallery",
         "slug": "clothing_and_costume",
         "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
         "name": "Clothing and Costume"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       }
     ],
     "languages": [
@@ -1130,11 +1270,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      },
+      {
         "id": "7a233a08-8cc7-5372-98a7-a3ba85059928",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:25",
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -1143,6 +1293,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -1208,11 +1359,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      },
+      {
         "id": "7a233a08-8cc7-5372-98a7-a3ba85059928",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:25",
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       },
       {
@@ -1221,6 +1382,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -1293,6 +1455,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -1301,7 +1464,17 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -1309,6 +1482,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -1388,11 +1562,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      },
+      {
         "id": "811a0bf9-c44b-5000-bc70-749a8f69ab02",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:19",
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       }
     ],
@@ -1536,11 +1720,21 @@
     ],
     "gallery_references": [
       {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      },
+      {
         "id": "7a233a08-8cc7-5372-98a7-a3ba85059928",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:25",
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       }
     ],
@@ -1601,7 +1795,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -1686,7 +1890,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "811a0bf9-c44b-5000-bc70-749a8f69ab02",
@@ -1694,6 +1908,7 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       }
     ],
@@ -1772,7 +1987,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "7a233a08-8cc7-5372-98a7-a3ba85059928",
@@ -1780,6 +2005,7 @@
         "kind": "gallery",
         "slug": "metalwork",
         "legacy_host": "https://metalwork.museumwnf.org",
+        "site": "metalwork",
         "name": "Metalwork"
       }
     ],
@@ -1949,6 +2175,7 @@
         "kind": "gallery",
         "slug": "clothing_and_costume",
         "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
         "name": "Clothing and Costume"
       },
       {
@@ -1957,7 +2184,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       }
     ],
     "languages": [
@@ -2029,7 +2266,17 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -2037,6 +2284,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -2238,11 +2486,21 @@
     ],
     "gallery_references": [
       {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -2251,6 +2509,7 @@
         "kind": "gallery",
         "slug": "archaeological_objects",
         "legacy_host": "https://archaeology.museumwnf.org",
+        "site": "archaeology",
         "name": "Archaeological Objects"
       }
     ],
@@ -2325,11 +2584,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      },
+      {
         "id": "743fd119-f663-54ae-b92a-933fc1fdbfd8",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:9",
         "kind": "gallery",
         "slug": "carpets",
         "legacy_host": "https://carpets.museumwnf.org",
+        "site": "carpets",
         "name": "Carpets"
       }
     ],
@@ -2451,7 +2720,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       }
     ],
     "languages": [
@@ -2558,7 +2837,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       }
     ],
     "languages": [
@@ -2616,6 +2905,7 @@
         "kind": "gallery",
         "slug": "clothing_and_costume",
         "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
         "name": "Clothing and Costume"
       },
       {
@@ -2624,7 +2914,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "80c45a07-c4a2-5ddb-acad-8a2515210c35",
@@ -2632,6 +2932,7 @@
         "kind": "gallery",
         "slug": "coins_and_medals",
         "legacy_host": "https://coins-medals.museumwnf.org",
+        "site": "coins-medals",
         "name": "Coins and Medals"
       },
       {
@@ -2640,6 +2941,7 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       },
       {
@@ -2648,6 +2950,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -2781,6 +3084,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -2789,7 +3093,17 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       }
     ],
     "languages": [
@@ -2859,7 +3173,17 @@
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       }
     ],
     "languages": [
@@ -2924,7 +3248,17 @@
         "kind": "gallery",
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
+        "site": "glass",
         "name": "Glass"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -2932,6 +3266,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -3024,7 +3359,17 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -3032,6 +3377,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -3102,7 +3448,17 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -3110,6 +3466,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -3275,6 +3632,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -3283,7 +3641,17 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       }
     ],
     "languages": [
@@ -3354,6 +3722,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -3362,7 +3731,17 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       }
     ],
     "languages": [
@@ -3544,11 +3923,21 @@
     ],
     "gallery_references": [
       {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -3557,6 +3946,7 @@
         "kind": "gallery",
         "slug": "manuscripts",
         "legacy_host": "https://manuscripts.museumwnf.org",
+        "site": "manuscripts",
         "name": "Manuscripts"
       }
     ],
@@ -3626,6 +4016,7 @@
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       },
       {
@@ -3634,7 +4025,17 @@
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "743fd119-f663-54ae-b92a-933fc1fdbfd8",
@@ -3642,6 +4043,7 @@
         "kind": "gallery",
         "slug": "carpets",
         "legacy_host": "https://carpets.museumwnf.org",
+        "site": "carpets",
         "name": "Carpets"
       }
     ],
@@ -3700,7 +4102,17 @@
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       }
     ],
     "languages": [
@@ -3767,7 +4179,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -3826,7 +4248,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -3928,11 +4360,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       },
       {
@@ -3941,6 +4383,7 @@
         "kind": "gallery",
         "slug": "manuscripts",
         "legacy_host": "https://manuscripts.museumwnf.org",
+        "site": "manuscripts",
         "name": "Manuscripts"
       }
     ],
@@ -4020,7 +4463,17 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       }
     ],
     "languages": [
@@ -4112,7 +4565,17 @@
         "kind": "gallery",
         "slug": "clothing_and_costume",
         "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
         "name": "Clothing and Costume"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       },
       {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
@@ -4120,6 +4583,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -4216,7 +4680,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -4320,7 +4794,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -4381,7 +4865,17 @@
         "kind": "gallery",
         "slug": "clothing_and_costume",
         "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
         "name": "Clothing and Costume"
+      },
+      {
+        "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
+        "kind": "gallery",
+        "slug": "amulets_and_talismans",
+        "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
+        "name": "Amulets and Talismans"
       }
     ],
     "languages": [

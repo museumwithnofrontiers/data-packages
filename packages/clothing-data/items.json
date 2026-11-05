@@ -47,7 +47,17 @@
         "kind": "exhibition",
         "slug": "arts_in_dialogue",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "arts-in-dialogue",
         "name": "Arts in Dialogue"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       },
       {
         "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
@@ -55,6 +65,7 @@
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       }
     ],
@@ -109,7 +120,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -155,7 +176,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -203,7 +234,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -251,7 +292,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -317,7 +368,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -370,7 +431,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -431,7 +502,17 @@
         "kind": "exhibition",
         "slug": "arts_in_dialogue",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "arts-in-dialogue",
         "name": "Arts in Dialogue"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       },
       {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
@@ -439,6 +520,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -500,11 +582,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "4716e71f-dab6-558c-a08e-b28114a24fff",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:23",
         "kind": "gallery",
         "slug": "leatherwork",
         "legacy_host": "https://leatherworks.museumwnf.org",
+        "site": "leatherworks",
         "name": "Leatherwork"
       },
       {
@@ -513,6 +605,7 @@
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       },
       {
@@ -521,6 +614,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -586,7 +680,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       }
     ],
     "languages": [
@@ -660,7 +764,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -745,11 +859,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -802,7 +926,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -868,7 +1002,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       }
     ],
     "languages": [
@@ -932,7 +1076,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -991,7 +1145,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -1045,7 +1209,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1095,7 +1269,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1145,7 +1329,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -1200,7 +1394,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -1253,7 +1457,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -1316,7 +1530,17 @@
         "kind": "exhibition",
         "slug": "arts_in_dialogue",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "arts-in-dialogue",
         "name": "Arts in Dialogue"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       }
     ],
     "languages": [
@@ -1366,7 +1590,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1418,11 +1652,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -1476,7 +1720,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       },
       {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
@@ -1484,6 +1738,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -1538,11 +1793,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "4716e71f-dab6-558c-a08e-b28114a24fff",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:23",
         "kind": "gallery",
         "slug": "leatherwork",
         "legacy_host": "https://leatherworks.museumwnf.org",
+        "site": "leatherworks",
         "name": "Leatherwork"
       }
     ],
@@ -1600,7 +1865,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -1755,11 +2030,21 @@
     ],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "f08b46b3-1d48-51a9-ab26-616b903fd6ea",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:20",
         "kind": "gallery",
         "slug": "ivory",
         "legacy_host": "https://ivory.museumwnf.org",
+        "site": "ivory",
         "name": "Ivory"
       }
     ],
@@ -1878,11 +2163,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -1891,6 +2186,7 @@
         "kind": "gallery",
         "slug": "leatherwork",
         "legacy_host": "https://leatherworks.museumwnf.org",
+        "site": "leatherworks",
         "name": "Leatherwork"
       },
       {
@@ -1899,6 +2195,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -1951,11 +2248,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -2014,11 +2321,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "811a0bf9-c44b-5000-bc70-749a8f69ab02",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:19",
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       }
     ],
@@ -2073,11 +2390,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -2133,11 +2460,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -2311,11 +2648,21 @@
     ],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
         "kind": "gallery",
         "slug": "amulets_and_talismans",
         "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
         "name": "Amulets and Talismans"
       }
     ],
@@ -2382,11 +2729,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "4716e71f-dab6-558c-a08e-b28114a24fff",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:23",
         "kind": "gallery",
         "slug": "leatherwork",
         "legacy_host": "https://leatherworks.museumwnf.org",
+        "site": "leatherworks",
         "name": "Leatherwork"
       }
     ],
@@ -2439,11 +2796,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "4716e71f-dab6-558c-a08e-b28114a24fff",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:23",
         "kind": "gallery",
         "slug": "leatherwork",
         "legacy_host": "https://leatherworks.museumwnf.org",
+        "site": "leatherworks",
         "name": "Leatherwork"
       }
     ],
@@ -2512,7 +2879,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       },
       {
         "id": "80c45a07-c4a2-5ddb-acad-8a2515210c35",
@@ -2520,6 +2897,7 @@
         "kind": "gallery",
         "slug": "coins_and_medals",
         "legacy_host": "https://coins-medals.museumwnf.org",
+        "site": "coins-medals",
         "name": "Coins and Medals"
       },
       {
@@ -2528,6 +2906,7 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       },
       {
@@ -2536,6 +2915,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -2595,11 +2975,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -2655,11 +3045,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -2668,6 +3068,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       }
     ],
@@ -2723,11 +3124,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -2784,7 +3195,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2837,7 +3258,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2886,7 +3317,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2937,7 +3378,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       },
       {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
@@ -2945,6 +3396,7 @@
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -2953,6 +3405,7 @@
         "kind": "gallery",
         "slug": "coins_and_medals",
         "legacy_host": "https://coins-medals.museumwnf.org",
+        "site": "coins-medals",
         "name": "Coins and Medals"
       },
       {
@@ -2961,6 +3414,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -3018,11 +3472,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -3082,11 +3546,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -3145,11 +3619,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -3207,11 +3691,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:47",
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       }
     ],
@@ -3263,7 +3757,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -3316,11 +3820,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -3329,6 +3843,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       }
     ],
@@ -3410,7 +3925,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -3473,7 +3998,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       }
     ],
     "languages": [
@@ -3524,11 +4059,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9c91beb2-7546-52ba-b5a0-4bcb9c406959",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:17",
         "kind": "gallery",
         "slug": "furniture_and_woodwork",
         "legacy_host": "https://woodwork.museumwnf.org",
+        "site": "woodwork",
         "name": "Furniture and woodwork"
       }
     ],
@@ -3605,11 +4150,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -3672,7 +4227,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -3785,11 +4350,21 @@
     ],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -3846,11 +4421,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -3910,11 +4495,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -3978,11 +4573,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -4049,11 +4654,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -4137,11 +4752,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -4222,11 +4847,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -4322,7 +4957,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -4374,11 +5019,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "8635ee08-9015-5583-8d09-526c932e8d36",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:56",
         "kind": "exhibition",
         "slug": "water_in_islam",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "water-in-islam",
         "name": "Water in Islam"
       }
     ],
@@ -4430,11 +5085,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "8635ee08-9015-5583-8d09-526c932e8d36",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:56",
         "kind": "exhibition",
         "slug": "water_in_islam",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "water-in-islam",
         "name": "Water in Islam"
       }
     ],
@@ -4488,7 +5153,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4549,7 +5224,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -4597,7 +5282,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4644,7 +5339,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4705,11 +5410,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -4775,11 +5490,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -4853,11 +5578,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -4913,7 +5648,17 @@
         "kind": "gallery",
         "slug": "theatre",
         "legacy_host": "https://theatre.museumwnf.org",
+        "site": "theatre",
         "name": "Theatre"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       }
     ],
     "languages": [
@@ -4965,11 +5710,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -5020,7 +5775,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -5071,7 +5836,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -5120,11 +5895,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -5177,7 +5962,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -5268,7 +6063,17 @@
         "justifications": {}
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -5322,11 +6127,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:47",
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       }
     ],
@@ -5381,7 +6196,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -5481,7 +6306,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -5537,7 +6372,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -5619,7 +6464,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -5673,7 +6528,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       },
       {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
@@ -5681,6 +6546,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -5732,7 +6598,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -5781,7 +6657,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -5842,7 +6728,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -5971,11 +6867,21 @@
     ],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -6047,7 +6953,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       }
     ],
     "languages": [
@@ -6114,11 +7030,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -6196,7 +7122,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       }
     ],
     "languages": [
@@ -6325,11 +7261,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -6383,7 +7329,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -6478,7 +7434,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -6529,7 +7495,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -6580,7 +7556,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -6634,7 +7620,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -6772,11 +7768,21 @@
     ],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -6834,11 +7840,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -6896,7 +7912,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -6947,11 +7973,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -7026,11 +8062,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -7087,11 +8133,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -7145,11 +8201,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -7204,11 +8270,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -7260,7 +8336,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -7314,11 +8400,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -7378,11 +8474,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -7391,6 +8497,7 @@
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       },
       {
@@ -7399,6 +8506,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -7464,11 +8572,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -7477,6 +8595,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       },
       {
@@ -7485,6 +8604,7 @@
         "kind": "gallery",
         "slug": "portraits",
         "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
         "name": "Portraits"
       }
     ],
@@ -7648,11 +8768,21 @@
     ],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -7661,6 +8791,7 @@
         "kind": "gallery",
         "slug": "amulets_and_talismans",
         "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
         "name": "Amulets and Talismans"
       }
     ],
@@ -7779,11 +8910,21 @@
     ],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -7792,6 +8933,7 @@
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       }
     ],
@@ -7847,7 +8989,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -7901,7 +9053,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -7960,7 +9122,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -8017,11 +9189,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:47",
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       }
     ],
@@ -8079,7 +9261,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -8159,11 +9351,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -8172,6 +9374,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       },
       {
@@ -8180,6 +9383,7 @@
         "kind": "gallery",
         "slug": "portraits",
         "legacy_host": "https://portraits.museumwnf.org",
+        "site": "portraits",
         "name": "Portraits"
       }
     ],
@@ -8233,7 +9437,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -8284,7 +9498,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -8335,7 +9559,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -8384,7 +9618,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -8434,7 +9678,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -8484,7 +9738,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -8534,7 +9798,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -8625,7 +9899,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -8683,11 +9967,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:47",
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       }
     ],
@@ -8744,7 +10038,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -8791,11 +10095,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -8851,7 +10165,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -8926,11 +10250,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -8986,7 +10320,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -9089,7 +10433,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -9195,7 +10549,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -9300,7 +10664,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -9407,7 +10781,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -9514,7 +10898,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -9619,7 +11013,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -9726,7 +11130,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -9829,11 +11243,21 @@
     ],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:47",
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       }
     ],
@@ -9900,7 +11324,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -10052,7 +11486,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -10234,7 +11678,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -10285,11 +11739,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -10346,7 +11810,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -10396,7 +11870,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -10448,7 +11932,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -10513,7 +12007,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -10562,7 +12066,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -10611,11 +12125,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -10624,6 +12148,7 @@
         "kind": "gallery",
         "slug": "amulets_and_talismans",
         "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
         "name": "Amulets and Talismans"
       },
       {
@@ -10632,6 +12157,7 @@
         "kind": "gallery",
         "slug": "coins_and_medals",
         "legacy_host": "https://coins-medals.museumwnf.org",
+        "site": "coins-medals",
         "name": "Coins and Medals"
       },
       {
@@ -10640,6 +12166,7 @@
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       },
       {
@@ -10648,6 +12175,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -10697,7 +12225,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -10757,7 +12295,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -10822,11 +12370,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "811a0bf9-c44b-5000-bc70-749a8f69ab02",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:19",
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       }
     ],
@@ -10911,11 +12469,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -10924,6 +12492,7 @@
         "kind": "gallery",
         "slug": "precious_stones",
         "legacy_host": "https://precious-stones.museumwnf.org",
+        "site": "precious-stones",
         "name": "Precious Stones"
       }
     ],
@@ -10983,11 +12552,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -11058,11 +12637,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -11127,11 +12716,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -11182,7 +12781,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -11228,11 +12837,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -11287,7 +12906,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -11340,7 +12969,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -11399,7 +13038,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -11461,7 +13110,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -11512,7 +13171,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -11594,7 +13263,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       },
       {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
@@ -11602,6 +13281,7 @@
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       }
     ],
@@ -11708,7 +13388,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       }
     ],
     "languages": [
@@ -11770,11 +13460,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -11833,7 +13533,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       }
     ],
     "languages": [
@@ -11900,7 +13610,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -11951,11 +13671,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:47",
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       }
     ],
@@ -12009,11 +13739,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:47",
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       }
     ],
@@ -12110,7 +13850,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       }
     ],
     "languages": [
@@ -12185,7 +13935,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -12249,7 +14009,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -12313,7 +14083,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "el",
@@ -12420,7 +14200,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -12480,7 +14270,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -12533,11 +14333,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:47",
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       }
     ],
@@ -12604,7 +14414,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -12689,11 +14509,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
         "kind": "gallery",
         "slug": "amulets_and_talismans",
         "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
         "name": "Amulets and Talismans"
       },
       {
@@ -12702,6 +14532,7 @@
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -12755,11 +14586,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "811a0bf9-c44b-5000-bc70-749a8f69ab02",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:19",
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       }
     ],
@@ -12814,11 +14655,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "811a0bf9-c44b-5000-bc70-749a8f69ab02",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:19",
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       }
     ],
@@ -12890,11 +14741,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -12949,7 +14810,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -13091,11 +14962,21 @@
     ],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -13151,11 +15032,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -13243,7 +15134,17 @@
         "kind": "gallery",
         "slug": "textiles",
         "legacy_host": "https://textiles.museumwnf.org",
+        "site": "textiles",
         "name": "Textiles"
+      },
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
       }
     ],
     "languages": [
@@ -13343,11 +15244,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       }
     ],
@@ -13416,7 +15327,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -13517,11 +15438,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "811a0bf9-c44b-5000-bc70-749a8f69ab02",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:19",
         "kind": "gallery",
         "slug": "gold_and_silver",
         "legacy_host": "https://gold-silver.museumwnf.org",
+        "site": "gold-silver",
         "name": "Gold and Silver"
       },
       {
@@ -13530,6 +15461,7 @@
         "kind": "exhibition",
         "slug": "water_in_islam",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "water-in-islam",
         "name": "Water in Islam"
       }
     ],
@@ -13591,11 +15523,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "38175ebd-bd2d-5a5f-896d-b9e98d0b6af2",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:21",
         "kind": "gallery",
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
+        "site": "jewellery",
         "name": "Jewellery"
       },
       {
@@ -13604,6 +15546,7 @@
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       }
     ],
@@ -13654,11 +15597,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:47",
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       },
       {
@@ -13667,6 +15620,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -13717,11 +15671,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "c8d09b12-07f0-5cb6-830f-c358b43751be",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:32",
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -13770,11 +15734,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:55",
         "kind": "exhibition",
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
       },
       {
@@ -13783,6 +15757,7 @@
         "kind": "gallery",
         "slug": "prints_and_drawings",
         "legacy_host": "https://prints-drawings.museumwnf.org",
+        "site": "prints-drawings",
         "name": "Prints and drawings"
       }
     ],
@@ -13840,7 +15815,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -13893,7 +15878,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -13946,7 +15941,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -14000,7 +16005,17 @@
     ],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -14045,7 +16060,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -14090,7 +16115,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -14164,11 +16199,21 @@
     ],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "9642e7a5-e60a-5bb5-a1cb-2adcd44334b5",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:8",
         "kind": "gallery",
         "slug": "calligraphy",
         "legacy_host": "https://calligraphy.museumwnf.org",
+        "site": "calligraphy",
         "name": "Calligraphy"
       }
     ],
@@ -14222,7 +16267,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -14274,11 +16329,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "724c4930-fdcb-5974-af95-67e81de0d3b3",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:4",
         "kind": "gallery",
         "slug": "amulets_and_talismans",
         "legacy_host": "https://amulets.museumwnf.org",
+        "site": "amulets",
         "name": "Amulets and Talismans"
       }
     ],
@@ -14352,7 +16417,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -14403,7 +16478,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -14493,7 +16578,17 @@
         }
       }
     ],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -14545,7 +16640,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -14598,11 +16703,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:47",
         "kind": "exhibition",
         "slug": "the_use_of_colours_in_art",
         "legacy_host": "https://exhibitions.museumwnf.org",
+        "site": "the-use-of-colours-in-art",
         "name": "The Use of Colours in Art"
       }
     ],
@@ -14661,7 +16776,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -14714,7 +16839,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -14767,7 +16902,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -14817,7 +16962,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -14869,7 +17024,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -14944,11 +17109,21 @@
     "related_items": [],
     "gallery_references": [
       {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      },
+      {
         "id": "5a36f0a4-1bbb-57ed-9450-4535e888784a",
         "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:33",
         "kind": "gallery",
         "slug": "religious_life",
         "legacy_host": "https://religious-life.museumwnf.org",
+        "site": "religious-life",
         "name": "Religious life"
       }
     ],
@@ -15009,7 +17184,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -15102,7 +17287,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -15163,7 +17358,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -15224,7 +17429,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -15277,7 +17492,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -15329,7 +17554,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -15380,7 +17615,17 @@
     "artist_names": [],
     "media": [],
     "related_items": [],
-    "gallery_references": [],
+    "gallery_references": [
+      {
+        "id": "24616116-1d35-5080-afbf-90e072c4aea5",
+        "backward_compatibility": "mwnf3_thematic_gallery:thg_gallery:12",
+        "kind": "gallery",
+        "slug": "clothing_and_costume",
+        "legacy_host": "https://clothing.museumwnf.org",
+        "site": "clothing",
+        "name": "Clothing and Costume"
+      }
+    ],
     "languages": [
       "en"
     ]
