@@ -82,7 +82,8 @@
       },
       "site_url": "https://sharinghistory.museumwnf.org",
       "related_database_url": "https://sharinghistory.museumwnf.org/database.php",
-      "artistic_introduction_url": null
+      "artistic_introduction_url": null,
+      "home_site": "sharinghistory"
     },
     "61c122ac-ea86-5462-8bab-6b86138c49b2": {
       "name": {
@@ -97,7 +98,8 @@
       },
       "site_url": "https://islamicart.museumwnf.org",
       "related_database_url": "https://islamicart.museumwnf.org/database.php",
-      "artistic_introduction_url": "https://islamicart.museumwnf.org/gai/ISL/"
+      "artistic_introduction_url": "https://islamicart.museumwnf.org/gai/ISL/",
+      "home_site": "islamicart"
     },
     "76eaf6c2-8025-53bc-9e39-106803a3917e": {
       "name": {
@@ -108,7 +110,8 @@
       },
       "site_url": "https://baroqueart.museumwnf.org",
       "related_database_url": "https://baroqueart.museumwnf.org/database.php",
-      "artistic_introduction_url": null
+      "artistic_introduction_url": null,
+      "home_site": "baroqueart"
     },
     "e08d1c71-8cff-5fe9-b480-2ae6c530b732": {
       "name": {
@@ -116,7 +119,34 @@
       },
       "site_url": null,
       "related_database_url": null,
-      "artistic_introduction_url": null
+      "artistic_introduction_url": null,
+      "home_site": null
+    }
+  },
+  "trail_projects": {
+    "GPA": {
+      "name": {
+        "ar": "رعاة الفن العظام",
+        "de": "Die Grossen Kunstmäzene",
+        "en": "The Great Patrons of the Arts",
+        "fr": "Les Grands Mécènes de l'Art",
+        "it": "I Grandi Mecenati dell’Arte",
+        "pt": "Os Grandes Mecenas",
+        "es": "Los Grandes Mecenas del Arte",
+        "tr": "Sanatın Büyük Mesenleri"
+      }
+    },
+    "IAM": {
+      "name": {
+        "ar": "الفن الاسلامى فى البحر المتوسط",
+        "de": "Islamische Kunst im Mittelmeerraum",
+        "en": "Islamic Art in the Mediterranean",
+        "fr": "L'Art Islamique en Méditerranée",
+        "it": "L'Arte Islamica nel Mediterraneo",
+        "pt": "A Arte Islâmica no Mediterrâneo",
+        "es": "El Arte Islámico en el Mediterráneo",
+        "tr": "Akdeniz’de İslam Sanatı"
+      }
     }
   }
 }
