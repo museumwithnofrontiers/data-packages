@@ -64,6 +64,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -141,6 +142,38 @@
         "legacy_host": "https://precious-stones.museumwnf.org",
         "site": "precious-stones",
         "name": "Precious Stones"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/12",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          12
+        ]
       }
     ],
     "languages": [
@@ -223,6 +256,40 @@
         "legacy_host": "https://precious-stones.museumwnf.org",
         "site": "precious-stones",
         "name": "Precious Stones"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-music-literature-dance-and-fashion",
+        "path": "/theme/4/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c9335788-c5e2-5748-8aca-0d5e79500ab0",
+          "titles": {
+            "en": "Music, Literature, Dance and Fashion"
+          }
+        },
+        "theme": {
+          "id": "f5a5e2a9-8b0f-54f8-936a-212e35f37300",
+          "titles": {
+            "en": "Fashion"
+          }
+        },
+        "subtheme": {
+          "id": "987faa89-91a4-534c-918d-718397681b24",
+          "titles": {
+            "en": "Traditional clothing: wedding costumes and jewellery"
+          }
+        },
+        "legacy_order": [
+          50,
+          1,
+          153
+        ]
       }
     ],
     "languages": [
@@ -308,6 +375,40 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-music-literature-dance-and-fashion",
+        "path": "/theme/4/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c9335788-c5e2-5748-8aca-0d5e79500ab0",
+          "titles": {
+            "en": "Music, Literature, Dance and Fashion"
+          }
+        },
+        "theme": {
+          "id": "f5a5e2a9-8b0f-54f8-936a-212e35f37300",
+          "titles": {
+            "en": "Fashion"
+          }
+        },
+        "subtheme": {
+          "id": "987faa89-91a4-534c-918d-718397681b24",
+          "titles": {
+            "en": "Traditional clothing: wedding costumes and jewellery"
+          }
+        },
+        "legacy_order": [
+          50,
+          1,
+          153
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -388,6 +489,7 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -468,6 +570,7 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -530,6 +633,74 @@
         "legacy_host": "https://precious-stones.museumwnf.org",
         "site": "precious-stones",
         "name": "Precious Stones"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/4/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "fec34b6f-d50c-5405-87a3-dcbe8efeef29",
+          "titles": {
+            "en": "Exploration and research"
+          }
+        },
+        "subtheme": {
+          "id": "a976d2d5-cf1b-543a-87b9-93e9b82a1570",
+          "titles": {
+            "en": "Scientific expeditions"
+          }
+        },
+        "legacy_order": [
+          16,
+          1,
+          94
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-reforms-and-social-changes",
+        "path": "/theme/1/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "a64d0674-78bf-5ac3-97ad-7d66056c91e2",
+          "titles": {
+            "en": "Reforms and Social Changes"
+          }
+        },
+        "theme": {
+          "id": "00a1e3fb-228c-596d-a2a8-95ba8bb14e9c",
+          "titles": {
+            "en": "Education"
+          }
+        },
+        "subtheme": {
+          "id": "cca90db2-7646-5d20-9c79-51ec0bc82143",
+          "titles": {
+            "en": "Pedagogy and knowledge"
+          }
+        },
+        "legacy_order": [
+          38,
+          1,
+          159
+        ]
       }
     ],
     "languages": [
@@ -609,6 +780,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -690,6 +862,35 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/4/4/7",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "1929cd0e-6d83-5217-b6f4-6dafbb13c89b",
+          "titles": {
+            "en": "Environment"
+          }
+        },
+        "subtheme": {
+          "id": "6cb087a8-0f2b-5d20-968d-ab61f692867d",
+          "titles": {
+            "en": "The Diversity of the Tableware"
+          }
+        },
+        "legacy_order": [
+          7
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -758,6 +959,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -834,6 +1036,89 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "7888f842-0c26-5030-a87a-95f171c11d78",
+          "titles": {
+            "en": "Encountering the West"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          52,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/1/3/3",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "d895a076-21e8-5cd0-809f-8d8046a05a60",
+          "titles": {
+            "en": "Food at Islamic Courts"
+          }
+        },
+        "subtheme": {
+          "id": "2d56f50e-20ad-5149-ad19-f3994d865877",
+          "titles": {
+            "en": "Palatial Plates: Dishes and Diets of Islamic Courts"
+          }
+        },
+        "legacy_order": [
+          3
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/6/2/17",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "b7ef5340-5385-5a3c-a441-d738e99f2269",
+          "titles": {
+            "en": "Coexistence"
+          }
+        },
+        "subtheme": {
+          "id": "fbc88500-65ce-5081-90df-faf94cdf1a32",
+          "titles": {
+            "en": "Food-related Craftsmanship and Industries from and for the Islamic World"
+          }
+        },
+        "legacy_order": [
+          17
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -902,6 +1187,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "fr"
@@ -985,6 +1271,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -1062,6 +1349,33 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-bourgeoisie",
+        "path": "/exhibition/4/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "75f28465-8738-554e-af5d-f6804a9c2802",
+          "titles": {
+            "en": "The Ascension of the Bourgeoisie"
+          }
+        },
+        "theme": {
+          "id": "8051f567-6219-5908-8c92-e1e6836f557f",
+          "titles": {
+            "en": "Daily Life"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          50
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1137,6 +1451,33 @@
         "legacy_host": "https://precious-stones.museumwnf.org",
         "site": "precious-stones",
         "name": "Precious Stones"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-absolutism",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+          "titles": {
+            "en": "Absolutism"
+          }
+        },
+        "theme": {
+          "id": "4c2f5ce9-d444-5756-8c05-5d3d3c624715",
+          "titles": {
+            "en": "Court life and diplomacy"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          46
+        ]
       }
     ],
     "languages": [
@@ -1219,6 +1560,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1318,6 +1660,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -1398,6 +1741,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1469,6 +1813,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1549,6 +1894,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1684,6 +2030,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -1793,6 +2140,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -1878,6 +2226,40 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-music-literature-dance-and-fashion",
+        "path": "/theme/4/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c9335788-c5e2-5748-8aca-0d5e79500ab0",
+          "titles": {
+            "en": "Music, Literature, Dance and Fashion"
+          }
+        },
+        "theme": {
+          "id": "f5a5e2a9-8b0f-54f8-936a-212e35f37300",
+          "titles": {
+            "en": "Fashion"
+          }
+        },
+        "subtheme": {
+          "id": "4a9ea348-357e-5bb6-9e11-e26c48c2d0a1",
+          "titles": {
+            "en": "Costume as a marker of religious and tribal identity"
+          }
+        },
+        "legacy_order": [
+          50,
+          1,
+          154
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1941,6 +2323,40 @@
         "legacy_host": "https://precious-stones.museumwnf.org",
         "site": "precious-stones",
         "name": "Precious Stones"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-music-literature-dance-and-fashion",
+        "path": "/theme/4/4",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c9335788-c5e2-5748-8aca-0d5e79500ab0",
+          "titles": {
+            "en": "Music, Literature, Dance and Fashion"
+          }
+        },
+        "theme": {
+          "id": "f5a5e2a9-8b0f-54f8-936a-212e35f37300",
+          "titles": {
+            "en": "Fashion"
+          }
+        },
+        "subtheme": {
+          "id": "ca3022e9-8ad3-59e2-93f3-d903bb50282e",
+          "titles": {
+            "en": "Inspired by the “East”: Egyptomania and Mariano Fortuny"
+          }
+        },
+        "legacy_order": [
+          50,
+          1,
+          156
+        ]
       }
     ],
     "languages": [
@@ -2036,6 +2452,38 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/14",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          14
+        ]
       }
     ],
     "languages": [
@@ -2213,6 +2661,90 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ayyubids",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "28d9a4d3-c0f4-52e4-b504-b865ba01f483",
+          "titles": {
+            "ar": "الأتابكة والأيوبيون",
+            "de": "Die Atabege und Ayyubiden",
+            "en": "The Atabegs and Ayyubids",
+            "fr": "Atabegs et Ayyoubides",
+            "it": "Gli Atabeg e gli Ayyubidi",
+            "pt": "Os Atabegs e os Ayyubidas",
+            "es": "Atabegs y ayyubíes",
+            "se": "Atabegerna och ayyubiderna",
+            "tr": "Atabekler ve Eyyubiler"
+          }
+        },
+        "theme": {
+          "id": "6a3348dc-029d-59c2-af77-31ec3a3dfe2f",
+          "titles": {
+            "ar": "حياة البلاط",
+            "de": "Leben am Hof",
+            "en": "Court Life",
+            "fr": "Vie de cour",
+            "it": "Vita di Corte",
+            "pt": "A vida na corte",
+            "es": "La vida en la corte",
+            "se": "Hovlivet",
+            "tr": "Saray Yaşamı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          15
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-women",
+        "path": "/exhibition/4/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "a09c8ed7-01f3-5c9b-bd21-96a1d81c4678",
+          "titles": {
+            "ar": "المرأة",
+            "de": "Frauen",
+            "en": "Women",
+            "fr": "Les Femmes",
+            "it": "Le Donne",
+            "pt": "As mulheres",
+            "es": "Las mujeres",
+            "se": "Kvinnor",
+            "tr": "Kadınlar"
+          }
+        },
+        "theme": {
+          "id": "120cbd81-d9a2-540e-a178-dc11c283fc2d",
+          "titles": {
+            "ar": "حياة المرأة المسلمة الخاصة",
+            "de": "Das Privatleben muslimischer Frauen",
+            "en": "The Private Lives of Muslim Women",
+            "fr": "La vie privée des femmes musulmanes",
+            "it": "La donne musulmane e la vita domestica",
+            "pt": "Vida privada das mulheres muçulmanas",
+            "es": "Vida privada de la mujer musulmana",
+            "se": "Muslimska kvinnors privatliv",
+            "tr": "Müslüman Kadınların Özel Yaşamı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          23
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -2292,6 +2824,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -2391,6 +2924,7 @@
         "name": "Portraits"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "el",
@@ -2481,6 +3015,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -2566,6 +3101,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -2643,6 +3179,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -2740,6 +3277,38 @@
         "legacy_host": "https://calligraphy.museumwnf.org",
         "site": "calligraphy",
         "name": "Calligraphy"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/20",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          20
+        ]
       }
     ],
     "languages": [
@@ -2843,6 +3412,38 @@
         "legacy_host": "https://calligraphy.museumwnf.org",
         "site": "calligraphy",
         "name": "Calligraphy"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/21",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          21
+        ]
       }
     ],
     "languages": [
@@ -2960,6 +3561,7 @@
         "name": "Portraits"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -3056,6 +3658,38 @@
         "legacy_host": "https://calligraphy.museumwnf.org",
         "site": "calligraphy",
         "name": "Calligraphy"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/7",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          7
+        ]
       }
     ],
     "languages": [
@@ -3156,6 +3790,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -3224,6 +3859,72 @@
         "legacy_host": "https://precious-stones.museumwnf.org",
         "site": "precious-stones",
         "name": "Precious Stones"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/3/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "61060da6-f4f8-5783-8348-d63a8992aaaa",
+          "titles": {
+            "en": "Inspired by the past"
+          }
+        },
+        "subtheme": {
+          "id": "31d8ab23-7e7b-5aae-b421-1b6690c3cdc8",
+          "titles": {
+            "en": "Archaeology as inspiration"
+          }
+        },
+        "legacy_order": [
+          2,
+          1,
+          1
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-music-literature-dance-and-fashion",
+        "path": "/theme/4/4",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c9335788-c5e2-5748-8aca-0d5e79500ab0",
+          "titles": {
+            "en": "Music, Literature, Dance and Fashion"
+          }
+        },
+        "theme": {
+          "id": "f5a5e2a9-8b0f-54f8-936a-212e35f37300",
+          "titles": {
+            "en": "Fashion"
+          }
+        },
+        "subtheme": {
+          "id": "ca3022e9-8ad3-59e2-93f3-d903bb50282e",
+          "titles": {
+            "en": "Inspired by the “East”: Egyptomania and Mariano Fortuny"
+          }
+        },
+        "legacy_order": [
+          50,
+          1,
+          156
+        ]
       }
     ],
     "languages": [
@@ -3369,6 +4070,35 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/2/2/8",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "238a4c4f-8bb3-584d-829b-208cef78fb0c",
+          "titles": {
+            "en": "Social Life"
+          }
+        },
+        "subtheme": {
+          "id": "2d0d49ee-aadb-57d5-a311-4e85d98f1dc1",
+          "titles": {
+            "en": "Food Sharing as an Intimate Ritual"
+          }
+        },
+        "legacy_order": [
+          8
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -3434,6 +4164,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -3522,6 +4253,33 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "2ebd7b86-c767-599d-a725-e04825472322",
+          "titles": {
+            "en": "Specifics of devotional iconography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
       }
     ],
     "languages": [
@@ -3629,6 +4387,58 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-travelling-and-exotism",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "fb21ee03-874b-5ba1-95d5-bde929f2762d",
+          "titles": {
+            "en": "Travelling and Exoticism"
+          }
+        },
+        "theme": {
+          "id": "9ce63534-6023-5477-9a09-a9243529f217",
+          "titles": {
+            "en": "Trade and cultural interaction"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          44
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/4/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "2ebd7b86-c767-599d-a725-e04825472322",
+          "titles": {
+            "en": "Specifics of devotional iconography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
       }
     ],
     "languages": [
@@ -3774,6 +4584,60 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "1513f2af-e9a8-5e21-9e67-b67f44988eef",
+          "titles": {
+            "en": "Models and ornaments; materials and techniques"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/2/8",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
+          "titles": {
+            "en": "Religious art and architecture"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "cs",
       "en"
@@ -3853,6 +4717,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -3924,6 +4789,40 @@
         "legacy_host": "https://precious-stones.museumwnf.org",
         "site": "precious-stones",
         "name": "Precious Stones"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-music-literature-dance-and-fashion",
+        "path": "/theme/4/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c9335788-c5e2-5748-8aca-0d5e79500ab0",
+          "titles": {
+            "en": "Music, Literature, Dance and Fashion"
+          }
+        },
+        "theme": {
+          "id": "f5a5e2a9-8b0f-54f8-936a-212e35f37300",
+          "titles": {
+            "en": "Fashion"
+          }
+        },
+        "subtheme": {
+          "id": "4a9ea348-357e-5bb6-9e11-e26c48c2d0a1",
+          "titles": {
+            "en": "Costume as a marker of religious and tribal identity"
+          }
+        },
+        "legacy_order": [
+          50,
+          1,
+          154
+        ]
       }
     ],
     "languages": [
@@ -4027,6 +4926,38 @@
         "legacy_host": "https://precious-stones.museumwnf.org",
         "site": "precious-stones",
         "name": "Precious Stones"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/5",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          5
+        ]
       }
     ],
     "languages": [
@@ -4182,6 +5113,49 @@
         "name": "Amulets and Talismans"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/5/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "5374f1d7-28b8-5e64-8bb8-d12ba84fb6a1",
+          "titles": {
+            "ar": "البلاط والمجوهرات: ثروة وتميز وحماية",
+            "de": "Der Schmuck: Reichtum, Prestige und Schutz",
+            "en": "Jewellery: Wealth, Prestige and Protection",
+            "fr": "Les bijoux : richesse, prestige et protection",
+            "it": "I gioielli: ricchezza, prestigio e protezione esoterica",
+            "pt": "As jóias: riqueza, prestígio e protecção",
+            "es": "Las joyas: riqueza, prestigio y protección",
+            "se": "Smycken: rikedom, prestige och beskydd",
+            "tr": "Mücevherat: Zenginlik, Saygınlık, Güven"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -4262,6 +5236,7 @@
         "name": "Portraits"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -4357,6 +5332,38 @@
         "legacy_host": "https://arms-armoury.museumwnf.org",
         "site": "arms-armoury",
         "name": "Arms and Armoury"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/3",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          3
+        ]
       }
     ],
     "languages": [
@@ -4479,6 +5486,49 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "d4324e40-dd9c-55ae-bca3-245862dcd559",
+          "titles": {
+            "ar": "نساء ملكيات: حفيدات فاطمة الزهراء",
+            "de": "Königinnen und Prinzessinnen: Die Nachfahren von Fatima al-Zahra",
+            "en": "Royal Women: Granddaughters of Fatima al-Zahra′",
+            "fr": "Les femmes de la dynastie : les petites-filles de Fatima al-Zahra",
+            "it": "Donne della famiglia reale: discendenti di Fatima al-Zahra",
+            "pt": "As mulheres do trono: as netas de Fátima al-Zahra",
+            "es": "Las mujeres del trono: las nietas de Fatima al-Zahra",
+            "se": "Kungliga damer: Fatima al-Zahras barnbarn",
+            "tr": "Hanedan Kadınları: Fatıma Zehra’nın Torunları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -4585,6 +5635,38 @@
         "name": "Coins and Medals"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/23",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          23
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -4661,6 +5743,42 @@
         "legacy_host": "https://calligraphy.museumwnf.org",
         "site": "calligraphy",
         "name": "Calligraphy"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/1/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "667048de-d76b-576f-89d6-595d2cb9b805",
+          "titles": {
+            "en": "Royal and diplomatic visits"
+          }
+        },
+        "subtheme": {
+          "id": "57da46c4-2b9f-5966-9526-71fa810fea3d",
+          "titles": {
+            "en": "Diplomatic gifts"
+          }
+        },
+        "legacy_order": [
+          14,
+          1,
+          93
+        ]
       }
     ],
     "languages": [
@@ -4750,6 +5868,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -4861,6 +5980,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -4970,6 +6090,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -5153,6 +6274,90 @@
         "name": "Amulets and Talismans"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-women",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "a09c8ed7-01f3-5c9b-bd21-96a1d81c4678",
+          "titles": {
+            "ar": "المرأة",
+            "de": "Frauen",
+            "en": "Women",
+            "fr": "Les Femmes",
+            "it": "Le Donne",
+            "pt": "As mulheres",
+            "es": "Las mujeres",
+            "se": "Kvinnor",
+            "tr": "Kadınlar"
+          }
+        },
+        "theme": {
+          "id": "d0091937-ae75-5b53-b750-fd43ae2c25e5",
+          "titles": {
+            "ar": "زي المرأة المسلمة وحليّها من المجوهرات",
+            "de": "Kleidung und Schmuck der Musliminnen",
+            "en": "Muslim Women’s Costume and Jewellery",
+            "fr": "Les vêtements et les bijoux des femmes musulmanes",
+            "it": "Abbigliamento e gioielleria delle donne musulmane",
+            "pt": "Vestuário e joalharia",
+            "es": "Vestimenta y joyería",
+            "se": "De muslimska kvinnornas dräkter och smycken",
+            "tr": "Müslüman Kadınların Giysileri ve Takıları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          23
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/5/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "5374f1d7-28b8-5e64-8bb8-d12ba84fb6a1",
+          "titles": {
+            "ar": "البلاط والمجوهرات: ثروة وتميز وحماية",
+            "de": "Der Schmuck: Reichtum, Prestige und Schutz",
+            "en": "Jewellery: Wealth, Prestige and Protection",
+            "fr": "Les bijoux : richesse, prestige et protection",
+            "it": "I gioielli: ricchezza, prestigio e protezione esoterica",
+            "pt": "As jóias: riqueza, prestígio e protecção",
+            "es": "Las joyas: riqueza, prestigio y protección",
+            "se": "Smycken: rikedom, prestige och beskydd",
+            "tr": "Mücevherat: Zenginlik, Saygınlık, Güven"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -5246,6 +6451,71 @@
         "legacy_host": "https://arms-armoury.museumwnf.org",
         "site": "arms-armoury",
         "name": "Arms and Armoury"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "667048de-d76b-576f-89d6-595d2cb9b805",
+          "titles": {
+            "en": "Royal and diplomatic visits"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          14,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/1/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "667048de-d76b-576f-89d6-595d2cb9b805",
+          "titles": {
+            "en": "Royal and diplomatic visits"
+          }
+        },
+        "subtheme": {
+          "id": "57da46c4-2b9f-5966-9526-71fa810fea3d",
+          "titles": {
+            "en": "Diplomatic gifts"
+          }
+        },
+        "legacy_order": [
+          14,
+          1,
+          93
+        ]
       }
     ],
     "languages": [
@@ -5358,6 +6628,67 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-economy-and-trade",
+        "path": "/theme/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "8bebd45c-0749-50b8-ad43-dc6cb58c395b",
+          "titles": {
+            "en": "Economy and Trade"
+          }
+        },
+        "theme": {
+          "id": "db572bae-9f2f-5ccf-990b-01976695a7f8",
+          "titles": {
+            "en": "Commodities"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          24,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-economy-and-trade",
+        "path": "/theme/1/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "8bebd45c-0749-50b8-ad43-dc6cb58c395b",
+          "titles": {
+            "en": "Economy and Trade"
+          }
+        },
+        "theme": {
+          "id": "db572bae-9f2f-5ccf-990b-01976695a7f8",
+          "titles": {
+            "en": "Commodities"
+          }
+        },
+        "subtheme": {
+          "id": "adfa7c1a-aa2b-5419-b358-93663ac12de2",
+          "titles": {
+            "en": "Raw materials"
+          }
+        },
+        "legacy_order": [
+          24,
+          1,
+          54
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -5438,6 +6769,7 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5532,6 +6864,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5619,6 +6952,7 @@
         "name": "Amulets and Talismans"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -5708,6 +7042,38 @@
         "legacy_host": "https://precious-stones.museumwnf.org",
         "site": "precious-stones",
         "name": "Precious Stones"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/15",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          15
+        ]
       }
     ],
     "languages": [
@@ -5805,6 +7171,38 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/16",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          16
+        ]
       }
     ],
     "languages": [
@@ -5926,6 +7324,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -6014,6 +7413,7 @@
         "name": "Portraits"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -6146,6 +7546,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -6263,6 +7664,58 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-ephemera",
+        "path": "/exhibition/4/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "9e8b4feb-4136-5c7e-9fb9-a6267e9aa01a",
+          "titles": {
+            "en": "Ephemera, Festivals and Theatrical Representation"
+          }
+        },
+        "theme": {
+          "id": "e6f97a6b-e2a3-55e1-a305-ddf297085e9e",
+          "titles": {
+            "en": "The theatre of the Church"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          43
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "5fd2859f-1e02-566e-88e5-d084c7f02c76",
+          "titles": {
+            "en": "Devotional objects"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -6343,6 +7796,38 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/11",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          11
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -6410,6 +7895,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6510,6 +7996,7 @@
         "name": "Precious Stones"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -6593,6 +8080,35 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/3/3/10",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "99437e6b-b376-5f86-9a58-f2f1bbf55c32",
+          "titles": {
+            "en": "Religion"
+          }
+        },
+        "subtheme": {
+          "id": "cacd508c-ac3e-57b1-bbbe-26babcbf2131",
+          "titles": {
+            "en": "Kitchen as a Medium of Education in Islam"
+          }
+        },
+        "legacy_order": [
+          10
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -6664,6 +8180,7 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6762,6 +8279,7 @@
         "name": "Metalwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -6880,6 +8398,7 @@
         "name": "Metalwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -7019,6 +8538,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -7116,6 +8636,7 @@
         "name": "Carpets"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7261,6 +8782,49 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ottomans",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "618dce7d-8482-5ccb-b334-54c0c96e6db0",
+          "titles": {
+            "ar": "العثمانيون",
+            "de": "Die Osmanen",
+            "en": "The Ottomans",
+            "fr": "Les Ottomans",
+            "it": "Gli Ottomani",
+            "pt": "Os otomanos",
+            "es": "Los otomanos",
+            "se": "Ottomanerna",
+            "tr": "Osmanlılar"
+          }
+        },
+        "theme": {
+          "id": "1438dcdb-5040-5d2a-b082-cda3a58a1031",
+          "titles": {
+            "ar": "حياة البلاط",
+            "de": "Das höfische Leben",
+            "en": "Court Life",
+            "fr": "La vie de cour",
+            "it": "Vita di corte",
+            "pt": "A vida na corte",
+            "es": "La vida en la corte",
+            "se": "Hovlivet",
+            "tr": "Saray Yaşamı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          18
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -7349,6 +8913,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -7478,6 +9043,38 @@
         "legacy_host": "https://precious-stones.museumwnf.org",
         "site": "precious-stones",
         "name": "Precious Stones"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/6",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          6
+        ]
       }
     ],
     "languages": [
@@ -7675,6 +9272,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7815,6 +9413,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"

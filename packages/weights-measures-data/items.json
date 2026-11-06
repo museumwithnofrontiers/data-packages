@@ -113,6 +113,58 @@
         "name": "Landscapes"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-travelling-and-exotism",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "fb21ee03-874b-5ba1-95d5-bde929f2762d",
+          "titles": {
+            "en": "Travelling and Exoticism"
+          }
+        },
+        "theme": {
+          "id": "9ce63534-6023-5477-9a09-a9243529f217",
+          "titles": {
+            "en": "Trade and cultural interaction"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          44
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-bourgeoisie",
+        "path": "/exhibition/5/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "75f28465-8738-554e-af5d-f6804a9c2802",
+          "titles": {
+            "en": "The Ascension of the Bourgeoisie"
+          }
+        },
+        "theme": {
+          "id": "55de40f9-81fa-51bb-8b14-65ea6c36eebf",
+          "titles": {
+            "en": "For Eternal Remembrance"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          50
+        ]
+      }
+    ],
     "languages": [
       "cs",
       "en"
@@ -199,6 +251,40 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-economy-and-trade",
+        "path": "/theme/4/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "8bebd45c-0749-50b8-ad43-dc6cb58c395b",
+          "titles": {
+            "en": "Economy and Trade"
+          }
+        },
+        "theme": {
+          "id": "2408a113-cd78-5be3-9b98-dd994e43fe55",
+          "titles": {
+            "en": "Financing trade"
+          }
+        },
+        "subtheme": {
+          "id": "93f7b61c-5506-545f-b7e4-9f727203c02a",
+          "titles": {
+            "en": "Banks and stock exchanges"
+          }
+        },
+        "legacy_order": [
+          27,
+          1,
+          63
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -273,6 +359,40 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-economy-and-trade",
+        "path": "/theme/1/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "8bebd45c-0749-50b8-ad43-dc6cb58c395b",
+          "titles": {
+            "en": "Economy and Trade"
+          }
+        },
+        "theme": {
+          "id": "db572bae-9f2f-5ccf-990b-01976695a7f8",
+          "titles": {
+            "en": "Commodities"
+          }
+        },
+        "subtheme": {
+          "id": "adfa7c1a-aa2b-5419-b358-93663ac12de2",
+          "titles": {
+            "en": "Raw materials"
+          }
+        },
+        "legacy_order": [
+          24,
+          1,
+          54
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -339,6 +459,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -417,6 +538,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -526,6 +648,7 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -635,6 +758,7 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -801,6 +925,49 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/5/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "198c176f-a670-5331-b416-a7ecc59e7ceb",
+          "titles": {
+            "ar": "فنون الزخرفة والزينة",
+            "de": "Das Kunsthandwerk",
+            "en": "The Decorative Arts",
+            "fr": "Les arts décoratifs",
+            "it": "Le Arti Decorative",
+            "pt": "As artes decorativas",
+            "es": "Las artes decorativas",
+            "se": "Konsthantverket",
+            "tr": "Dekoratif Sanatlar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -884,6 +1051,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -962,6 +1130,7 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -1077,6 +1246,76 @@
         "legacy_host": "https://exhibitions.museumwnf.org",
         "site": "the-table-is-set",
         "name": "The Table Is Set"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/5/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "1d025879-0f4e-58f5-9d96-55b7af6f72a3",
+          "titles": {
+            "ar": "حضارة الكلمة",
+            "de": "Die Kultur des Wortes",
+            "en": "Civilisation of the Word",
+            "fr": "La civilisation du mot",
+            "it": "La Civiltà della Parola",
+            "pt": "A civilização da palavra",
+            "es": "La civilización de la palabra",
+            "se": "Ordets civilisation",
+            "tr": "Kelam’ın Medeniyeti"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/4/3/13",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "1929cd0e-6d83-5217-b6f4-6dafbb13c89b",
+          "titles": {
+            "en": "Environment"
+          }
+        },
+        "subtheme": {
+          "id": "1089dcf7-ccf9-5327-a627-5d187eeff616",
+          "titles": {
+            "en": "Seasonal Cuisine"
+          }
+        },
+        "legacy_order": [
+          13
+        ]
       }
     ],
     "languages": [
@@ -1323,6 +1562,7 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -1436,6 +1676,67 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-economy-and-trade",
+        "path": "/theme/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "8bebd45c-0749-50b8-ad43-dc6cb58c395b",
+          "titles": {
+            "en": "Economy and Trade"
+          }
+        },
+        "theme": {
+          "id": "db572bae-9f2f-5ccf-990b-01976695a7f8",
+          "titles": {
+            "en": "Commodities"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          24,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-economy-and-trade",
+        "path": "/theme/1/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "8bebd45c-0749-50b8-ad43-dc6cb58c395b",
+          "titles": {
+            "en": "Economy and Trade"
+          }
+        },
+        "theme": {
+          "id": "db572bae-9f2f-5ccf-990b-01976695a7f8",
+          "titles": {
+            "en": "Commodities"
+          }
+        },
+        "subtheme": {
+          "id": "adfa7c1a-aa2b-5419-b358-93663ac12de2",
+          "titles": {
+            "en": "Raw materials"
+          }
+        },
+        "legacy_order": [
+          24,
+          1,
+          54
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1516,6 +1817,7 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1610,6 +1912,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1696,6 +1999,40 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-economy-and-trade",
+        "path": "/theme/1/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "8bebd45c-0749-50b8-ad43-dc6cb58c395b",
+          "titles": {
+            "en": "Economy and Trade"
+          }
+        },
+        "theme": {
+          "id": "db572bae-9f2f-5ccf-990b-01976695a7f8",
+          "titles": {
+            "en": "Commodities"
+          }
+        },
+        "subtheme": {
+          "id": "adfa7c1a-aa2b-5419-b358-93663ac12de2",
+          "titles": {
+            "en": "Raw materials"
+          }
+        },
+        "legacy_order": [
+          24,
+          1,
+          54
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1769,6 +2106,7 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1904,6 +2242,7 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -2052,6 +2391,49 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/5/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "198c176f-a670-5331-b416-a7ecc59e7ceb",
+          "titles": {
+            "ar": "فنون الزخرفة والزينة",
+            "de": "Das Kunsthandwerk",
+            "en": "The Decorative Arts",
+            "fr": "Les arts décoratifs",
+            "it": "Le Arti Decorative",
+            "pt": "As artes decorativas",
+            "es": "Las artes decorativas",
+            "se": "Konsthantverket",
+            "tr": "Dekoratif Sanatlar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -2122,6 +2504,40 @@
         "legacy_host": "https://weights-measures.museumwnf.org",
         "site": "weights-measures",
         "name": "Weights and measures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-economy-and-trade",
+        "path": "/theme/3/4",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "8bebd45c-0749-50b8-ad43-dc6cb58c395b",
+          "titles": {
+            "en": "Economy and Trade"
+          }
+        },
+        "theme": {
+          "id": "766e7876-319d-5edb-809e-b36bb516537c",
+          "titles": {
+            "en": "Important trading hubs"
+          }
+        },
+        "subtheme": {
+          "id": "4982e405-bd06-583b-97b5-71634378533f",
+          "titles": {
+            "en": "Shops"
+          }
+        },
+        "legacy_order": [
+          51,
+          1,
+          117
+        ]
       }
     ],
     "languages": [
@@ -2208,6 +2624,49 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-mamluks",
+        "path": "/exhibition/5/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "217482b1-7626-531f-8ca9-51c2f680fe3d",
+          "titles": {
+            "ar": "المماليك",
+            "de": "Die Mamluken",
+            "en": "The Mamluks",
+            "fr": "Les Mamelouks",
+            "it": "I Mamelucchi",
+            "pt": "Os Mamelucos",
+            "es": "Los mamelucos",
+            "se": "Mamlukerna",
+            "tr": "Memluklar"
+          }
+        },
+        "theme": {
+          "id": "282bf248-cb40-5b24-9d50-166d75b8a10e",
+          "titles": {
+            "ar": "العالم الأوسع: صلات دبلوماسية وتجارة دولية",
+            "de": "Diplomatischer Austausch und Handelskontakte mit der Welt",
+            "en": "The Wider World: Diplomatic Contacts and International Trade",
+            "fr": "L’ouverture sur le monde : contacts diplomatiques et commerce international",
+            "it": "I rapporti con il resto del mondo: contatti diplomatici e commercio internazionale",
+            "pt": "Os mamelucos no mundo: a diplomacia e o comércio internacional",
+            "es": "Los mamelucos en el mundo: la diplomacia y el comercio internacional",
+            "se": "Omvärlden: diplomatiska kontakter och internationell handel",
+            "tr": "Dünyanın Geri Kalanı: Diplomatik Temaslar ve Uluslararası Ticaret"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          17
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -2278,6 +2737,7 @@
         "name": "Weights and measures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -2470,6 +2930,49 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "c3c3c6a9-356a-5b3d-b18a-805d7175e3fa",
+          "titles": {
+            "ar": "الإصلاحات الإدارية",
+            "de": "Verwaltungsreformen",
+            "en": "Administrative Reforms",
+            "fr": "Réformes administratives",
+            "it": "Riforme amministrative",
+            "pt": "Reformas administrativas",
+            "es": "Reformas administrativas",
+            "se": "Förvaltningsreformer",
+            "tr": "İdari Reformlar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
       }
     ],
     "languages": [

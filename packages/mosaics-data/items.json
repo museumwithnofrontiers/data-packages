@@ -68,6 +68,35 @@
         "name": "Portraits"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-reformation",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "371247bc-5f01-5a23-98c8-7d4ce55b2551",
+          "titles": {
+            "en": "Reformation and Counter-Reformation",
+            "it": "Riforma e Controriforma"
+          }
+        },
+        "theme": {
+          "id": "4992dfab-f53c-5d25-ae82-8210773257e0",
+          "titles": {
+            "en": "Art as political tool",
+            "it": "L'arte come strumento politico"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          51
+        ]
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -138,6 +167,94 @@
         "legacy_host": "https://jewellery.museumwnf.org",
         "site": "jewellery",
         "name": "Jewellery"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "61060da6-f4f8-5783-8348-d63a8992aaaa",
+          "titles": {
+            "en": "Inspired by the past"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          2,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/3/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "61060da6-f4f8-5783-8348-d63a8992aaaa",
+          "titles": {
+            "en": "Inspired by the past"
+          }
+        },
+        "subtheme": {
+          "id": "317b5d52-ca02-5bc8-acec-1924aca34447",
+          "titles": {
+            "en": "Imagining the past"
+          }
+        },
+        "legacy_order": [
+          2,
+          1,
+          2
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-international-exhibitions",
+        "path": "/theme/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c3a68819-dcf2-5be4-8f9b-dcc45c8848e4",
+          "titles": {
+            "en": "International Exhibitions"
+          }
+        },
+        "theme": {
+          "id": "45f48684-0e67-585f-b139-161e8f11bef8",
+          "titles": {
+            "en": "The diffusion of models and promotion of trade"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          30,
+          0,
+          0
+        ]
       }
     ],
     "languages": [
@@ -212,6 +329,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -283,6 +401,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -456,6 +575,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "it"
@@ -592,6 +712,90 @@
         "name": "Mosaics"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "1b7b04e6-d4cb-5a10-a0bf-8f61b4de570f",
+          "titles": {
+            "ar": "تشكل الفن الإسلامي",
+            "de": "Die Entstehung der islamischen Kunst",
+            "en": "The Formation of Islamic Art",
+            "fr": "La genèse de l'art islamique",
+            "it": "La nascita dell’arte islamica",
+            "pt": "A formação da arte islâmica",
+            "es": "La formación del arte islámico",
+            "se": "Den islamiska konstens framväxt",
+            "tr": "İslam Sanatının Oluşumu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "d0f2de47-bb3f-5401-adda-d70b0bdc2f1c",
+          "titles": {
+            "ar": "الرسوم الحيوانية",
+            "de": "Tierdarstellungen",
+            "en": "Animal Representation",
+            "fr": "Représentation animale",
+            "it": "La raffigurazione degli animali",
+            "pt": "A representação de animais",
+            "es": "La representación de animales",
+            "se": "Bilder av djur",
+            "tr": "Hayvan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -668,6 +872,99 @@
         "legacy_host": "https://exhibitions.museumwnf.org",
         "site": "water-in-islam",
         "name": "Water in Islam"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-cities-and-urban-spaces",
+        "path": "/theme/1/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "5760ea9a-dc6f-52b5-bfd7-2c63dd3da757",
+          "titles": {
+            "en": "Cities and Urban Spaces"
+          }
+        },
+        "theme": {
+          "id": "24886656-d708-5839-9d18-301fa1b5341e",
+          "titles": {
+            "en": "The image of the city"
+          }
+        },
+        "subtheme": {
+          "id": "b3e7e8fe-2b55-50c0-b838-0314a78ef8b4",
+          "titles": {
+            "en": "The interconnection of design elements"
+          }
+        },
+        "legacy_order": [
+          6,
+          1,
+          15
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-migrations",
+        "path": "/theme/2/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "2353a4ff-1dd5-5807-9b96-c146b09485c2",
+          "titles": {
+            "en": "Migrations"
+          }
+        },
+        "theme": {
+          "id": "0d6a1796-1c65-528a-b375-c1a9ffc51627",
+          "titles": {
+            "en": "Migrations within the Ottoman Empire"
+          }
+        },
+        "subtheme": {
+          "id": "118184dd-3d6f-5850-b875-de8f1a6d34b7",
+          "titles": {
+            "en": "Traders and craftsmen"
+          }
+        },
+        "legacy_order": [
+          35,
+          1,
+          72
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/2/2/3",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "ebf15498-6f84-536b-aac4-f726dd74ced5",
+          "titles": {
+            "en": "Domestic and Urban Spheres"
+          }
+        },
+        "subtheme": {
+          "id": "6b701948-1e27-542e-a3fb-9f27270569b8",
+          "titles": {
+            "en": "Water in Gardens"
+          }
+        },
+        "legacy_order": [
+          3
+        ]
       }
     ],
     "languages": [
@@ -772,6 +1069,90 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "81a769fe-d87f-5009-a3e9-568e47eae420",
+          "titles": {
+            "ar": "المسجد والقصر",
+            "de": "Moschee und Palast",
+            "en": "Mosque and Palace",
+            "fr": "Mosquées et palais",
+            "it": "Moschee e palazzi",
+            "pt": "A mesquita e o palácio",
+            "es": "La mezquita y el palacio",
+            "se": "Moské och palats",
+            "tr": "Camiler ve Saraylar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-geometric",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "9f0c366a-10e7-53d5-91e8-2d8a35ffc22a",
+          "titles": {
+            "ar": "الزخارف الهندسية",
+            "de": "Geometrischer Dekor",
+            "en": "Geometric Decoration",
+            "fr": "La décoration géométrique",
+            "it": "La decorazione geometrica",
+            "pt": "Decoração geométrica",
+            "es": "Decoración geométrica",
+            "se": "Geometrisk dekor",
+            "tr": "Geometrik Bezeme"
+          }
+        },
+        "theme": {
+          "id": "79a58714-659c-5509-a4f9-b9359b2829ae",
+          "titles": {
+            "ar": "الزخارف الهندسية في العمارة",
+            "de": "Geometrischer Dekor in der Architektur",
+            "en": "Geometric Decoration in Architecture",
+            "fr": "La décoration géométrique en architecture",
+            "it": "La decorazione geometrica in architettura",
+            "pt": "A decoração geométrica na arquitectura",
+            "es": "La decoración geométrica en la arquitectura",
+            "se": "Geometrisk dekor i arkitekturen",
+            "tr": "Mimaride Geometrik Bezeme"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          21
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -863,6 +1244,7 @@
         "name": "Glass"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -1045,6 +1427,49 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "93d8ebf1-31d8-5e89-966d-89b3cb0abebd",
+          "titles": {
+            "ar": "الرعايا المسيحيون تحت الحكم الأموي",
+            "de": "Christen unter umayyadischer Herrschaft",
+            "en": "Christian Subjects under Umayyad Rule",
+            "fr": "Sujets chrétiens sous administration omeyyade",
+            "it": "Immagini cristiane nei domini omayyadi",
+            "pt": "Súbditos cristãos sob governo omeia",
+            "es": "Súbditos cristianos bajo el gobierno omeya",
+            "se": "De kristna invånarna under umayyadiskt styre",
+            "tr": "Emevi İdaresi Altında Hıristiyanlar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -1131,6 +1556,7 @@
         "name": "Mosaics"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -1202,6 +1628,40 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/2/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "e5da444f-e56f-5dd3-9d95-62f9f6ceb9f8",
+          "titles": {
+            "en": "The formation of museums"
+          }
+        },
+        "subtheme": {
+          "id": "ee888065-f56f-5d4b-a952-59421fff9627",
+          "titles": {
+            "en": "Museums in the Arab and Ottoman world"
+          }
+        },
+        "legacy_order": [
+          3,
+          1,
+          6
+        ]
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -1258,6 +1718,40 @@
         "legacy_host": "https://mosaics.museumwnf.org",
         "site": "mosaics",
         "name": "Mosaics"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/2/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "e5da444f-e56f-5dd3-9d95-62f9f6ceb9f8",
+          "titles": {
+            "en": "The formation of museums"
+          }
+        },
+        "subtheme": {
+          "id": "ee888065-f56f-5d4b-a952-59421fff9627",
+          "titles": {
+            "en": "Museums in the Arab and Ottoman world"
+          }
+        },
+        "legacy_order": [
+          3,
+          1,
+          6
+        ]
       }
     ],
     "languages": [
@@ -1338,6 +1832,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -1417,6 +1912,7 @@
         "name": "Mosaics"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -1518,6 +2014,7 @@
         "name": "Mosaics"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -1673,6 +2170,49 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "93d8ebf1-31d8-5e89-966d-89b3cb0abebd",
+          "titles": {
+            "ar": "الرعايا المسيحيون تحت الحكم الأموي",
+            "de": "Christen unter umayyadischer Herrschaft",
+            "en": "Christian Subjects under Umayyad Rule",
+            "fr": "Sujets chrétiens sous administration omeyyade",
+            "it": "Immagini cristiane nei domini omayyadi",
+            "pt": "Súbditos cristãos sob governo omeia",
+            "es": "Súbditos cristianos bajo el gobierno omeya",
+            "se": "De kristna invånarna under umayyadiskt styre",
+            "tr": "Emevi İdaresi Altında Hıristiyanlar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -1755,6 +2295,7 @@
         "name": "Mosaics"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"

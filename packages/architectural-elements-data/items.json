@@ -141,6 +141,49 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-mudejar-art",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "664da959-c73e-5c6a-8641-060470f0010e",
+          "titles": {
+            "ar": "فن المدجّنين",
+            "de": "Die Mudéjarkunst",
+            "en": "Mudéjar Art",
+            "fr": "L’art mudéjar",
+            "it": "L’arte mudéjar",
+            "pt": "A arte mudéjar",
+            "es": "El arte mudéjar",
+            "se": "Mudejarkonsten",
+            "tr": "Mudéjar Sanatı"
+          }
+        },
+        "theme": {
+          "id": "5838d42d-f446-52f1-8928-5f1d6b6140a6",
+          "titles": {
+            "ar": "مهن المدجّنين",
+            "de": "Das Mudéjargewerbe",
+            "en": "Mudéjar Professions",
+            "fr": "Métiers mudéjars",
+            "it": "Le attività della popolazione mudéjar",
+            "pt": "Ofícios mudéjares",
+            "es": "Oficios mudéjares",
+            "se": "Mudejaryrken",
+            "tr": "Mudéjar Zanaatları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          26
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -277,6 +320,49 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ottomans",
+        "path": "/exhibition/10/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "618dce7d-8482-5ccb-b334-54c0c96e6db0",
+          "titles": {
+            "ar": "العثمانيون",
+            "de": "Die Osmanen",
+            "en": "The Ottomans",
+            "fr": "Les Ottomans",
+            "it": "Gli Ottomani",
+            "pt": "Os otomanos",
+            "es": "Los otomanos",
+            "se": "Ottomanerna",
+            "tr": "Osmanlılar"
+          }
+        },
+        "theme": {
+          "id": "ef4d7209-5b0a-59f3-aef9-3982ae097af6",
+          "titles": {
+            "ar": "الفن خارج العاصمة",
+            "de": "Die Kunst außerhalb Istanbuls",
+            "en": "Art outside the Capital",
+            "fr": "L'art hors de la capitale",
+            "it": "L’arte oltre i confini della capitale",
+            "pt": "A arte fora da capital",
+            "es": "El arte fuera de la capital",
+            "se": "Konsten utanför huvudstaden",
+            "tr": "Başkent Dışında Sanat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          18
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -367,6 +453,72 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-cities-and-urban-spaces",
+        "path": "/theme/1/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "5760ea9a-dc6f-52b5-bfd7-2c63dd3da757",
+          "titles": {
+            "en": "Cities and Urban Spaces"
+          }
+        },
+        "theme": {
+          "id": "24886656-d708-5839-9d18-301fa1b5341e",
+          "titles": {
+            "en": "The image of the city"
+          }
+        },
+        "subtheme": {
+          "id": "b3e7e8fe-2b55-50c0-b838-0314a78ef8b4",
+          "titles": {
+            "en": "The interconnection of design elements"
+          }
+        },
+        "legacy_order": [
+          6,
+          1,
+          15
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/3/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "7888f842-0c26-5030-a87a-95f171c11d78",
+          "titles": {
+            "en": "Encountering the West"
+          }
+        },
+        "subtheme": {
+          "id": "bf266bd8-1fcd-5149-9bc6-cd75d44f6660",
+          "titles": {
+            "en": "Decorative arts"
+          }
+        },
+        "legacy_order": [
+          52,
+          1,
+          127
+        ]
       }
     ],
     "languages": [
@@ -489,6 +641,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-floral",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "12faaae8-0400-53bd-ba84-f5e66e0027ef",
+          "titles": {
+            "ar": "أصداء الفردوس: جنة الفن الإسلامي وإلهة زهوره.",
+            "de": "Spiegelungen des Paradieses: Gärten und Blumen in der islamischen Kunst",
+            "en": "Echoes of Paradise: the Garden and Flora in Islamic Art",
+            "fr": "Échos du Paradis : le jardin et la flore dans l’art islamique",
+            "it": "Echi di Paradiso: il giardino e la flora nell’arte islamica",
+            "pt": "Ecos do paraíso: jardins e flora na arte islâmica",
+            "es": "Ecos del paraíso: jardines y flora en el arte islámico",
+            "se": "Ekot från paradiset: trädgården och blomman i den islamiska konsten",
+            "tr": "Cennetin Yansımaları: İslam Sanatında Bahçe ve Çiçekler"
+          }
+        },
+        "theme": {
+          "id": "4c42f69a-1a67-5fc7-9eb0-b5ed2c633802",
+          "titles": {
+            "ar": "صورتا جنة السماء وشجرة الحياة.",
+            "de": "Visionen des Himmlischen Gartens und des Lebensbaums",
+            "en": "Visions of the Heavenly Garden and the Tree-of-Life",
+            "fr": "Visions du jardin paradisiaque et de l’arbre de vie",
+            "it": "Raffigurazioni del Giardino del Cielo e dell’Albero della Vita",
+            "pt": "Visões do jardim celeste e da árvore da vida",
+            "es": "Visiones del jardín celestial y el árbol de la vida",
+            "se": "Visioner av den Himmelska Trädgården och Livets Träd",
+            "tr": "Cennet Bahçesinin ve Hayat Ağacının Görünümleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          28
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -580,6 +775,38 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/1/2/20",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "1f017095-8e3e-52a0-b395-e5e6c5447615",
+          "titles": {
+            "de": "Primärfarben und Emotionen",
+            "en": "Primary Colours and Emotions"
+          }
+        },
+        "subtheme": {
+          "id": "dc677af8-ab22-5a45-aa49-655d978e7365",
+          "titles": {
+            "de": "Primary Colours in Architectural Monuments",
+            "en": "Primary Colours in Architectural Monuments"
+          }
+        },
+        "legacy_order": [
+          20
+        ]
       }
     ],
     "languages": [
@@ -710,6 +937,144 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-women",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "a09c8ed7-01f3-5c9b-bd21-96a1d81c4678",
+          "titles": {
+            "ar": "المرأة",
+            "de": "Frauen",
+            "en": "Women",
+            "fr": "Les Femmes",
+            "it": "Le Donne",
+            "pt": "As mulheres",
+            "es": "Las mujeres",
+            "se": "Kvinnor",
+            "tr": "Kadınlar"
+          }
+        },
+        "theme": {
+          "id": "d0091937-ae75-5b53-b750-fd43ae2c25e5",
+          "titles": {
+            "ar": "زي المرأة المسلمة وحليّها من المجوهرات",
+            "de": "Kleidung und Schmuck der Musliminnen",
+            "en": "Muslim Women’s Costume and Jewellery",
+            "fr": "Les vêtements et les bijoux des femmes musulmanes",
+            "it": "Abbigliamento e gioielleria delle donne musulmane",
+            "pt": "Vestuário e joalharia",
+            "es": "Vestimenta y joyería",
+            "se": "De muslimska kvinnornas dräkter och smycken",
+            "tr": "Müslüman Kadınların Giysileri ve Takıları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          23
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-mudejar-art",
+        "path": "/exhibition/4/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "664da959-c73e-5c6a-8641-060470f0010e",
+          "titles": {
+            "ar": "فن المدجّنين",
+            "de": "Die Mudéjarkunst",
+            "en": "Mudéjar Art",
+            "fr": "L’art mudéjar",
+            "it": "L’arte mudéjar",
+            "pt": "A arte mudéjar",
+            "es": "El arte mudéjar",
+            "se": "Mudejarkonsten",
+            "tr": "Mudéjar Sanatı"
+          }
+        },
+        "theme": {
+          "id": "00a9f1ac-ad56-56fb-b46c-95f05a196c8c",
+          "titles": {
+            "ar": "فن المدجّنين الشعبي والديني",
+            "de": "Die volkstümliche und religiöse Mudéjarkunst",
+            "en": "The Popular and Religious Mudéjar Style",
+            "fr": "L’art mudéjar populaire et religieux",
+            "it": "L’arte mudéjar popolare e religiosa",
+            "pt": "A arte mudéjar popular e religiosa",
+            "es": "El arte mudéjar popular y religioso",
+            "se": "Den folkliga och religiösa mudejarstilen",
+            "tr": "Mudéjar Üslubunda Halk Sanatı ve Dinsel Sanat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          26
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/5/5/6",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "367a1ed0-0e57-5a75-aae5-0a83f8f0367c",
+          "titles": {
+            "en": "Contemporary Context: Water in the Islamic World Today"
+          }
+        },
+        "subtheme": {
+          "id": "dd084451-a673-5a08-9e5c-1511b897833e",
+          "titles": {
+            "en": "Art and Water, Contemporary Approach"
+          }
+        },
+        "legacy_order": [
+          6
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/5/2/16",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "735e5e35-f62a-5302-96aa-f2e9a69130dd",
+          "titles": {
+            "en": "Gendered Roles"
+          }
+        },
+        "subtheme": {
+          "id": "340e2c5d-de63-5f2d-aff1-0202018fb322",
+          "titles": {
+            "en": "Gender Roles in Food Production and Preparation"
+          }
+        },
+        "legacy_order": [
+          16
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -792,6 +1157,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -869,6 +1235,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -1106,6 +1473,133 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ottomans",
+        "path": "/exhibition/10/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "618dce7d-8482-5ccb-b334-54c0c96e6db0",
+          "titles": {
+            "ar": "العثمانيون",
+            "de": "Die Osmanen",
+            "en": "The Ottomans",
+            "fr": "Les Ottomans",
+            "it": "Gli Ottomani",
+            "pt": "Os otomanos",
+            "es": "Los otomanos",
+            "se": "Ottomanerna",
+            "tr": "Osmanlılar"
+          }
+        },
+        "theme": {
+          "id": "ef4d7209-5b0a-59f3-aef9-3982ae097af6",
+          "titles": {
+            "ar": "الفن خارج العاصمة",
+            "de": "Die Kunst außerhalb Istanbuls",
+            "en": "Art outside the Capital",
+            "fr": "L'art hors de la capitale",
+            "it": "L’arte oltre i confini della capitale",
+            "pt": "A arte fora da capital",
+            "es": "El arte fuera de la capital",
+            "se": "Konsten utanför huvudstaden",
+            "tr": "Başkent Dışında Sanat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          18
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/6/1/6",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "b7ef5340-5385-5a3c-a441-d738e99f2269",
+          "titles": {
+            "en": "Coexistence"
+          }
+        },
+        "subtheme": {
+          "id": "197de4dc-e60d-526d-91ef-7ab61f66baca",
+          "titles": {
+            "en": "Interfaith Hospitality"
+          }
+        },
+        "legacy_order": [
+          6
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/6/1/7",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "b7ef5340-5385-5a3c-a441-d738e99f2269",
+          "titles": {
+            "en": "Coexistence"
+          }
+        },
+        "subtheme": {
+          "id": "197de4dc-e60d-526d-91ef-7ab61f66baca",
+          "titles": {
+            "en": "Interfaith Hospitality"
+          }
+        },
+        "legacy_order": [
+          7
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/3/19",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "a48edfa5-5dbe-57cc-a02c-2487f72e8567",
+          "titles": {
+            "de": "Behind Closed Doors: Private Life and Colours",
+            "en": "Behind Closed Doors: Private Life and Colours"
+          }
+        },
+        "legacy_order": [
+          19
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -1334,6 +1828,49 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/1/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "2d7ae23a-a5ce-5e8f-8d9b-d2c05d03e0a9",
+          "titles": {
+            "ar": "الفن الإسباني المغربي",
+            "de": "Die andalusisch-maghrebinische Kunst",
+            "en": "Andalusian-Maghrebi Art",
+            "fr": "L’art hispano-maghrébin",
+            "it": "L’arte andaluso-maghrebina",
+            "pt": "A arte andaluzo-magrebina",
+            "es": "El arte andalusí-magrebí",
+            "se": "Konsten i Andalusien och Maghreb-området",
+            "tr": "Endülüs-Mağrib Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -1408,6 +1945,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1475,6 +2013,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1547,6 +2086,40 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/4/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "43f46690-1d6e-5d64-b190-3e7fd3f18a07",
+          "titles": {
+            "en": "The concept of revivals"
+          }
+        },
+        "subtheme": {
+          "id": "ccd55ae1-a0f4-5328-b3f2-152a50b8ee79",
+          "titles": {
+            "en": "The “Moorish” and Spanish Neo-Mudéjar styles"
+          }
+        },
+        "legacy_order": [
+          53,
+          1,
+          128
+        ]
       }
     ],
     "languages": [
@@ -1685,6 +2258,49 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "17e93a55-d0d0-51b2-8c52-ae90b63b4709",
+          "titles": {
+            "ar": "فضاءات السلطة: المشيدات الملكية",
+            "de": "Räume der Macht – die Palastbauten",
+            "en": "Seats of Power: Palaces",
+            "fr": "Espaces du pouvoir : les constructions palatiales",
+            "it": "I luoghi del potere: gli edifici palatini",
+            "pt": "Espaços do poder: as construções palatinas",
+            "es": "Espacios del poder: las construcciones palatinas",
+            "se": "Palatset: maktens centrum",
+            "tr": "İktidar Alanı: Saray Yapıları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -1766,6 +2382,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -1841,6 +2458,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -1912,6 +2530,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -2004,6 +2623,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2070,6 +2690,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -2142,6 +2763,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2208,6 +2830,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -2275,6 +2898,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -2406,6 +3030,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -2540,6 +3165,49 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "2d7ae23a-a5ce-5e8f-8d9b-d2c05d03e0a9",
+          "titles": {
+            "ar": "الفن الإسباني المغربي",
+            "de": "Die andalusisch-maghrebinische Kunst",
+            "en": "Andalusian-Maghrebi Art",
+            "fr": "L’art hispano-maghrébin",
+            "it": "L’arte andaluso-maghrebina",
+            "pt": "A arte andaluzo-magrebina",
+            "es": "El arte andalusí-magrebí",
+            "se": "Konsten i Andalusien och Maghreb-området",
+            "tr": "Endülüs-Mağrib Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -2613,6 +3281,49 @@
         "legacy_host": "https://calligraphy.museumwnf.org",
         "site": "calligraphy",
         "name": "Calligraphy"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/7/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "fc7c939a-850e-5462-8ba3-c2aa03ed101f",
+          "titles": {
+            "ar": "المسجد فضاء للصلاة",
+            "de": "Die Moschee – ein Ort des Gebets",
+            "en": "Mosques: A Place for Prayer",
+            "fr": "La mosquée, espace de prière",
+            "it": "La moschea, luogo di preghiera",
+            "pt": "A mesquita, espaço de oração",
+            "es": "La mezquita, espacio de oración",
+            "se": "Moskén: en plats för bön",
+            "tr": "İbadet Mekânı: Cami"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
       }
     ],
     "languages": [
@@ -2750,6 +3461,49 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-abbasids",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "da493358-92ba-5a20-8866-fa30fb03bfb2",
+          "titles": {
+            "ar": "العباسيون",
+            "de": "Die Abbasiden",
+            "en": "The Abbasids",
+            "fr": "Les Abbassides",
+            "it": "Gli Abbasidi",
+            "pt": "Os Abássidas",
+            "es": "Los abbasíes",
+            "se": "Abbasiderna",
+            "tr": "Abbasiler"
+          }
+        },
+        "theme": {
+          "id": "bedfc26e-1599-5d90-867d-794002406ce7",
+          "titles": {
+            "ar": "الرقة: عاصمة الخليفة الرشيد في سورية",
+            "de": "Al-Raqqa: Die Hauptstadt des Kalifen Harun al-Raschid in Syrien",
+            "en": "Al-Raqqa: Caliph Harun al-Rashid’s Capital in Syria",
+            "fr": "Raqqa : la capitale syrienne du calife Haroun al-Rachid",
+            "it": "Al-Raqqa: capitale siriana del califfo Harun al-Rashid",
+            "pt": "Al-Raqqa, capital do califa Harun al-Rashid na Síria",
+            "es": "Al-Raqqa, la capital del califa Harun al-Rashid en Siria",
+            "se": "Al-Raqqa: kalifen Harun al-Rashids huvudstad i Syrien",
+            "tr": "Rakka: Halife Harun Reşid’in Suriye’deki Başkenti"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          13
+        ]
       }
     ],
     "languages": [
@@ -2904,6 +3658,49 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "2d7ae23a-a5ce-5e8f-8d9b-d2c05d03e0a9",
+          "titles": {
+            "ar": "الفن الإسباني المغربي",
+            "de": "Die andalusisch-maghrebinische Kunst",
+            "en": "Andalusian-Maghrebi Art",
+            "fr": "L’art hispano-maghrébin",
+            "it": "L’arte andaluso-maghrebina",
+            "pt": "A arte andaluzo-magrebina",
+            "es": "El arte andalusí-magrebí",
+            "se": "Konsten i Andalusien och Maghreb-området",
+            "tr": "Endülüs-Mağrib Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
       }
     ],
     "languages": [
@@ -3126,6 +3923,49 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "2d7ae23a-a5ce-5e8f-8d9b-d2c05d03e0a9",
+          "titles": {
+            "ar": "الفن الإسباني المغربي",
+            "de": "Die andalusisch-maghrebinische Kunst",
+            "en": "Andalusian-Maghrebi Art",
+            "fr": "L’art hispano-maghrébin",
+            "it": "L’arte andaluso-maghrebina",
+            "pt": "A arte andaluzo-magrebina",
+            "es": "El arte andalusí-magrebí",
+            "se": "Konsten i Andalusien och Maghreb-området",
+            "tr": "Endülüs-Mağrib Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -3193,6 +4033,49 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "17e93a55-d0d0-51b2-8c52-ae90b63b4709",
+          "titles": {
+            "ar": "فضاءات السلطة: المشيدات الملكية",
+            "de": "Räume der Macht – die Palastbauten",
+            "en": "Seats of Power: Palaces",
+            "fr": "Espaces du pouvoir : les constructions palatiales",
+            "it": "I luoghi del potere: gli edifici palatini",
+            "pt": "Espaços do poder: as construções palatinas",
+            "es": "Espacios del poder: las construcciones palatinas",
+            "se": "Palatset: maktens centrum",
+            "tr": "İktidar Alanı: Saray Yapıları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
       }
     ],
     "languages": [
@@ -3326,6 +4209,49 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "2d7ae23a-a5ce-5e8f-8d9b-d2c05d03e0a9",
+          "titles": {
+            "ar": "الفن الإسباني المغربي",
+            "de": "Die andalusisch-maghrebinische Kunst",
+            "en": "Andalusian-Maghrebi Art",
+            "fr": "L’art hispano-maghrébin",
+            "it": "L’arte andaluso-maghrebina",
+            "pt": "A arte andaluzo-magrebina",
+            "es": "El arte andalusí-magrebí",
+            "se": "Konsten i Andalusien och Maghreb-området",
+            "tr": "Endülüs-Mağrib Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -3394,6 +4320,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -3473,6 +4400,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -3600,6 +4528,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -3678,6 +4607,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -3745,6 +4675,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3846,6 +4777,49 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-crusader",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "4c126e80-2567-5abd-9191-3d40f380e81f",
+          "titles": {
+            "ar": "الفرنجة: الصليبيون في المشرق",
+            "de": "Al-Frandsch: Die Kreuzfahrer in der Levante",
+            "en": "Al-Franj: the Crusaders in the Levant",
+            "fr": "Al-Franj : les Croisés au Levant",
+            "it": "Al-Franj: I Crociati nel Levante",
+            "pt": "Al-franj, os cruzados no Levante",
+            "es": "Al-frany, los cruzados en el Levante",
+            "se": "*Al-Franj*: the Crusaders in the Levant",
+            "tr": "El-Frenc: Levant’ta Haçlılar"
+          }
+        },
+        "theme": {
+          "id": "d7c23444-3d3f-5267-ac39-29110a7751ab",
+          "titles": {
+            "ar": "الثقافة في مملكة القدس الصليبية",
+            "de": "Die Kultur im Kreuzfahrer-Königreich Jerusalem",
+            "en": "Culture in the Crusader Kingdom of Jerusalem",
+            "fr": "La culture dans le royaume croisé de Jérusalem",
+            "it": "La cultura nel Regno Crociato di Gerusalemme",
+            "pt": "A cultura no reino cruzado de Jerusalém",
+            "es": "La cultura en el reino cruzado de Jerusalén",
+            "se": "Kulturen i korsfararnas kungarike i Jerusalem",
+            "tr": "Kudüs Haçlı Krallığı’nda Kültür"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          24
+        ]
       }
     ],
     "languages": [
@@ -4083,6 +5057,117 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "aa7dbfdb-56bd-59fa-98ce-c5b08de806c5",
+          "titles": {
+            "ar": "الكتابة الكوفية",
+            "de": "Der Kufi-Duktus",
+            "en": "Kufic Script",
+            "fr": "L’écriture coufique",
+            "it": "I caratteri Kufici",
+            "pt": "A escrita cúfica",
+            "es": "La escritura cúfica",
+            "se": "Kufisk skrift",
+            "tr": "Kûfi Yazı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-water",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "e0d404ea-dbc1-591a-86a5-75265066d6f0",
+          "titles": {
+            "ar": "الماء",
+            "de": "Wasser",
+            "en": "Water",
+            "fr": "Eau",
+            "it": "L’acqua",
+            "pt": "A água",
+            "es": "El agua",
+            "se": "Vatten",
+            "tr": "Su"
+          }
+        },
+        "theme": {
+          "id": "ebe1e957-e9a6-5900-a103-902e5fee4e8f",
+          "titles": {
+            "ar": "إدارة الماء",
+            "de": "Der Umgang mit dem Wasser",
+            "en": "Water Management",
+            "fr": "Gestion de l’eau",
+            "it": "Gestione dell’acqua",
+            "pt": "A gestão da água",
+            "es": "La gestión del agua",
+            "se": "Vattenförsörjningen",
+            "tr": "Su Sistemleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          22
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/1/3/20",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "cf106957-b4e8-5d72-9a13-749b82c4b545",
+          "titles": {
+            "en": "Water and Agriculture in Islamic Civilisation"
+          }
+        },
+        "subtheme": {
+          "id": "6516014a-c6c1-5ceb-97a3-d695462efde0",
+          "titles": {
+            "en": "Engineering the Flow: Irrigation Technologies and Water Management"
+          }
+        },
+        "legacy_order": [
+          20
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -4234,6 +5319,49 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-crusader",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "4c126e80-2567-5abd-9191-3d40f380e81f",
+          "titles": {
+            "ar": "الفرنجة: الصليبيون في المشرق",
+            "de": "Al-Frandsch: Die Kreuzfahrer in der Levante",
+            "en": "Al-Franj: the Crusaders in the Levant",
+            "fr": "Al-Franj : les Croisés au Levant",
+            "it": "Al-Franj: I Crociati nel Levante",
+            "pt": "Al-franj, os cruzados no Levante",
+            "es": "Al-frany, los cruzados en el Levante",
+            "se": "*Al-Franj*: the Crusaders in the Levant",
+            "tr": "El-Frenc: Levant’ta Haçlılar"
+          }
+        },
+        "theme": {
+          "id": "d7c23444-3d3f-5267-ac39-29110a7751ab",
+          "titles": {
+            "ar": "الثقافة في مملكة القدس الصليبية",
+            "de": "Die Kultur im Kreuzfahrer-Königreich Jerusalem",
+            "en": "Culture in the Crusader Kingdom of Jerusalem",
+            "fr": "La culture dans le royaume croisé de Jérusalem",
+            "it": "La cultura nel Regno Crociato di Gerusalemme",
+            "pt": "A cultura no reino cruzado de Jerusalém",
+            "es": "La cultura en el reino cruzado de Jerusalén",
+            "se": "Kulturen i korsfararnas kungarike i Jerusalem",
+            "tr": "Kudüs Haçlı Krallığı’nda Kültür"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          24
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -4344,6 +5472,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -4441,6 +5570,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -4522,6 +5652,131 @@
         "legacy_host": "https://calligraphy.museumwnf.org",
         "site": "calligraphy",
         "name": "Calligraphy"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "81a769fe-d87f-5009-a3e9-568e47eae420",
+          "titles": {
+            "ar": "المسجد والقصر",
+            "de": "Moschee und Palast",
+            "en": "Mosque and Palace",
+            "fr": "Mosquées et palais",
+            "it": "Moschee e palazzi",
+            "pt": "A mesquita e o palácio",
+            "es": "La mezquita y el palacio",
+            "se": "Moské och palats",
+            "tr": "Camiler ve Saraylar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/3/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "aa7dbfdb-56bd-59fa-98ce-c5b08de806c5",
+          "titles": {
+            "ar": "الكتابة الكوفية",
+            "de": "Der Kufi-Duktus",
+            "en": "Kufic Script",
+            "fr": "L’écriture coufique",
+            "it": "I caratteri Kufici",
+            "pt": "A escrita cúfica",
+            "es": "La escritura cúfica",
+            "se": "Kufisk skrift",
+            "tr": "Kûfi Yazı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-siculo-norman",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "87981465-ac17-588c-98d9-d4f2d4298bdc",
+          "titles": {
+            "ar": "النورمنديون في صقلية",
+            "de": "Die Normannen in Sizilien",
+            "en": "The Normans in Sicily",
+            "fr": "Les Normands en Sicile",
+            "it": "I Normanni in Sicilia",
+            "pt": "Os normandos na Sicília",
+            "es": "Los normandos en Sicilia",
+            "se": "Normanderna på Sicilien",
+            "tr": "Sicilya'da Normanlar"
+          }
+        },
+        "theme": {
+          "id": "8d71ce09-ebae-530f-ab2a-0c71746f1822",
+          "titles": {
+            "ar": "المجتمعات الإسلامية قبل وبعد السيطرة النورمندية",
+            "de": "Islamische Gemeinden vor und nach der normannischen Eroberung",
+            "en": "Islamicised Communities Before and After the Norman Conquest",
+            "fr": "Les communautés islamisées avant et après la conquête normande.",
+            "it": "Le comunità islamizzate prima e dopo la conquista normanna",
+            "pt": "As comunidades islamizadas antes e depois da conquista normanda",
+            "es": "Las comunidades islamizadas antes y después de la conquista normanda",
+            "se": "De islamiserade samhällena före och efter den normandiska erövringen",
+            "tr": "Norman Fethinden Önce ve Sonra Müslümanlaşan Topluluklar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          25
+        ]
       }
     ],
     "languages": [
@@ -4619,6 +5874,49 @@
         "legacy_host": "https://woodwork.museumwnf.org",
         "site": "woodwork",
         "name": "Furniture and woodwork"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "2d7ae23a-a5ce-5e8f-8d9b-d2c05d03e0a9",
+          "titles": {
+            "ar": "الفن الإسباني المغربي",
+            "de": "Die andalusisch-maghrebinische Kunst",
+            "en": "Andalusian-Maghrebi Art",
+            "fr": "L’art hispano-maghrébin",
+            "it": "L’arte andaluso-maghrebina",
+            "pt": "A arte andaluzo-magrebina",
+            "es": "El arte andalusí-magrebí",
+            "se": "Konsten i Andalusien och Maghreb-området",
+            "tr": "Endülüs-Mağrib Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
       }
     ],
     "languages": [
@@ -4832,6 +6130,49 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "2d7ae23a-a5ce-5e8f-8d9b-d2c05d03e0a9",
+          "titles": {
+            "ar": "الفن الإسباني المغربي",
+            "de": "Die andalusisch-maghrebinische Kunst",
+            "en": "Andalusian-Maghrebi Art",
+            "fr": "L’art hispano-maghrébin",
+            "it": "L’arte andaluso-maghrebina",
+            "pt": "A arte andaluzo-magrebina",
+            "es": "El arte andalusí-magrebí",
+            "se": "Konsten i Andalusien och Maghreb-området",
+            "tr": "Endülüs-Mağrib Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -4981,6 +6322,49 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-mudejar-art",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "664da959-c73e-5c6a-8641-060470f0010e",
+          "titles": {
+            "ar": "فن المدجّنين",
+            "de": "Die Mudéjarkunst",
+            "en": "Mudéjar Art",
+            "fr": "L’art mudéjar",
+            "it": "L’arte mudéjar",
+            "pt": "A arte mudéjar",
+            "es": "El arte mudéjar",
+            "se": "Mudejarkonsten",
+            "tr": "Mudéjar Sanatı"
+          }
+        },
+        "theme": {
+          "id": "ca738840-bcc5-5148-8748-e3bb31ec2983",
+          "titles": {
+            "ar": "فن المدجّنين الأرستقراطي والمدني",
+            "de": "Die adlige und bürgerliche Mudéjarkunst",
+            "en": "Mudéjar Civic and Aristocratic Art",
+            "fr": "L’art mudéjar aristocratique et civil",
+            "it": "L’arte mudéjar aristocratica e civile",
+            "pt": "A arte mudéjar aristocrática e civil",
+            "es": "El arte mudéjar aristocrático y civil",
+            "se": "Borgarnas och adelns mudejarkonst",
+            "tr": "Soylu Sınıfa Özgü ve Sivil Mudéjar Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          26
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -5105,6 +6489,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -5237,6 +6622,38 @@
         "legacy_host": "https://woodwork.museumwnf.org",
         "site": "woodwork",
         "name": "Furniture and woodwork"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/3/18",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "a48edfa5-5dbe-57cc-a02c-2487f72e8567",
+          "titles": {
+            "de": "Behind Closed Doors: Private Life and Colours",
+            "en": "Behind Closed Doors: Private Life and Colours"
+          }
+        },
+        "legacy_order": [
+          18
+        ]
       }
     ],
     "languages": [
@@ -5392,6 +6809,35 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/2/2/11",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "238a4c4f-8bb3-584d-829b-208cef78fb0c",
+          "titles": {
+            "en": "Social Life"
+          }
+        },
+        "subtheme": {
+          "id": "2d0d49ee-aadb-57d5-a311-4e85d98f1dc1",
+          "titles": {
+            "en": "Food Sharing as an Intimate Ritual"
+          }
+        },
+        "legacy_order": [
+          11
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -5483,6 +6929,49 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/10/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "ceba53e2-8d26-5b58-86d1-788c47e11fd6",
+          "titles": {
+            "ar": "تعايش الثقافات الثلاث",
+            "de": "Das Zusammenleben der drei Kulturen",
+            "en": "The Co-existence of Three Cultures",
+            "fr": "Coexistence des trois cultures",
+            "it": "La convivenza delle tre culture",
+            "pt": "Coexistência das três culturas",
+            "es": "Coexistencia de las tres culturas",
+            "se": "Tre kulturer lever tillsammans",
+            "tr": "Üç Kültürün Birlikteliği"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
       }
     ],
     "languages": [
@@ -5646,6 +7135,90 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "1b7b04e6-d4cb-5a10-a0bf-8f61b4de570f",
+          "titles": {
+            "ar": "تشكل الفن الإسلامي",
+            "de": "Die Entstehung der islamischen Kunst",
+            "en": "The Formation of Islamic Art",
+            "fr": "La genèse de l'art islamique",
+            "it": "La nascita dell’arte islamica",
+            "pt": "A formação da arte islâmica",
+            "es": "La formación del arte islámico",
+            "se": "Den islamiska konstens framväxt",
+            "tr": "İslam Sanatının Oluşumu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-floral",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "12faaae8-0400-53bd-ba84-f5e66e0027ef",
+          "titles": {
+            "ar": "أصداء الفردوس: جنة الفن الإسلامي وإلهة زهوره.",
+            "de": "Spiegelungen des Paradieses: Gärten und Blumen in der islamischen Kunst",
+            "en": "Echoes of Paradise: the Garden and Flora in Islamic Art",
+            "fr": "Échos du Paradis : le jardin et la flore dans l’art islamique",
+            "it": "Echi di Paradiso: il giardino e la flora nell’arte islamica",
+            "pt": "Ecos do paraíso: jardins e flora na arte islâmica",
+            "es": "Ecos del paraíso: jardines y flora en el arte islámico",
+            "se": "Ekot från paradiset: trädgården och blomman i den islamiska konsten",
+            "tr": "Cennetin Yansımaları: İslam Sanatında Bahçe ve Çiçekler"
+          }
+        },
+        "theme": {
+          "id": "4c42f69a-1a67-5fc7-9eb0-b5ed2c633802",
+          "titles": {
+            "ar": "صورتا جنة السماء وشجرة الحياة.",
+            "de": "Visionen des Himmlischen Gartens und des Lebensbaums",
+            "en": "Visions of the Heavenly Garden and the Tree-of-Life",
+            "fr": "Visions du jardin paradisiaque et de l’arbre de vie",
+            "it": "Raffigurazioni del Giardino del Cielo e dell’Albero della Vita",
+            "pt": "Visões do jardim celeste e da árvore da vida",
+            "es": "Visiones del jardín celestial y el árbol de la vida",
+            "se": "Visioner av den Himmelska Trädgården och Livets Träd",
+            "tr": "Cennet Bahçesinin ve Hayat Ağacının Görünümleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          28
+        ]
       }
     ],
     "languages": [
@@ -5813,6 +7386,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -5981,6 +7555,49 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/2/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "9bff6ece-d3d2-5f2a-b7cc-fb1f33c3e113",
+          "titles": {
+            "ar": "الرعاية الرسمية",
+            "de": "Kunstförderung durch die Machthaber",
+            "en": "Official Patronage",
+            "fr": "Mécénat officiel",
+            "it": "Il mecenatismo di corte",
+            "pt": "Patrocínio oficial",
+            "es": "Patronazgo oficial",
+            "se": "Makten och kulturen",
+            "tr": "Resmi Sanat Koruyuculuğu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
       }
     ],
     "languages": [
@@ -6154,6 +7771,49 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "9bff6ece-d3d2-5f2a-b7cc-fb1f33c3e113",
+          "titles": {
+            "ar": "الرعاية الرسمية",
+            "de": "Kunstförderung durch die Machthaber",
+            "en": "Official Patronage",
+            "fr": "Mécénat officiel",
+            "it": "Il mecenatismo di corte",
+            "pt": "Patrocínio oficial",
+            "es": "Patronazgo oficial",
+            "se": "Makten och kulturen",
+            "tr": "Resmi Sanat Koruyuculuğu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -6243,6 +7903,7 @@
         "name": "Ivory"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -6324,6 +7985,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -6543,6 +8205,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -6739,6 +8402,79 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "9bff6ece-d3d2-5f2a-b7cc-fb1f33c3e113",
+          "titles": {
+            "ar": "الرعاية الرسمية",
+            "de": "Kunstförderung durch die Machthaber",
+            "en": "Official Patronage",
+            "fr": "Mécénat officiel",
+            "it": "Il mecenatismo di corte",
+            "pt": "Patrocínio oficial",
+            "es": "Patronazgo oficial",
+            "se": "Makten och kulturen",
+            "tr": "Resmi Sanat Koruyuculuğu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/1/1/13",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "1f017095-8e3e-52a0-b395-e5e6c5447615",
+          "titles": {
+            "de": "Primärfarben und Emotionen",
+            "en": "Primary Colours and Emotions"
+          }
+        },
+        "subtheme": {
+          "id": "103e5a49-0d17-5f26-bb4b-53bf054167c8",
+          "titles": {
+            "de": "Die Grundlagen – Kennenlernen der Grundfarben",
+            "en": "The Basics – getting to know the Primary Colours"
+          }
+        },
+        "legacy_order": [
+          13
+        ]
       }
     ],
     "languages": [
@@ -6940,6 +8676,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "24e11f60-92ed-5fc9-959e-e0aa49482ffe",
+          "titles": {
+            "ar": "الرسوم الآدمية",
+            "de": "Menschendarstellungen",
+            "en": "Human Representation",
+            "fr": "Représentation humaine",
+            "it": "La raffigurazione umana",
+            "pt": "A representação humana",
+            "es": "La representación humana",
+            "se": "Bilder av människor",
+            "tr": "İnsan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -7017,6 +8796,99 @@
         "legacy_host": "https://exhibitions.museumwnf.org",
         "site": "water-in-islam",
         "name": "Water in Islam"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-cities-and-urban-spaces",
+        "path": "/theme/1/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "5760ea9a-dc6f-52b5-bfd7-2c63dd3da757",
+          "titles": {
+            "en": "Cities and Urban Spaces"
+          }
+        },
+        "theme": {
+          "id": "24886656-d708-5839-9d18-301fa1b5341e",
+          "titles": {
+            "en": "The image of the city"
+          }
+        },
+        "subtheme": {
+          "id": "b3e7e8fe-2b55-50c0-b838-0314a78ef8b4",
+          "titles": {
+            "en": "The interconnection of design elements"
+          }
+        },
+        "legacy_order": [
+          6,
+          1,
+          15
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-migrations",
+        "path": "/theme/2/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "2353a4ff-1dd5-5807-9b96-c146b09485c2",
+          "titles": {
+            "en": "Migrations"
+          }
+        },
+        "theme": {
+          "id": "0d6a1796-1c65-528a-b375-c1a9ffc51627",
+          "titles": {
+            "en": "Migrations within the Ottoman Empire"
+          }
+        },
+        "subtheme": {
+          "id": "118184dd-3d6f-5850-b875-de8f1a6d34b7",
+          "titles": {
+            "en": "Traders and craftsmen"
+          }
+        },
+        "legacy_order": [
+          35,
+          1,
+          72
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/2/2/3",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "ebf15498-6f84-536b-aac4-f726dd74ced5",
+          "titles": {
+            "en": "Domestic and Urban Spheres"
+          }
+        },
+        "subtheme": {
+          "id": "6b701948-1e27-542e-a3fb-9f27270569b8",
+          "titles": {
+            "en": "Water in Gardens"
+          }
+        },
+        "legacy_order": [
+          3
+        ]
       }
     ],
     "languages": [
@@ -7245,6 +9117,49 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "1b7b04e6-d4cb-5a10-a0bf-8f61b4de570f",
+          "titles": {
+            "ar": "تشكل الفن الإسلامي",
+            "de": "Die Entstehung der islamischen Kunst",
+            "en": "The Formation of Islamic Art",
+            "fr": "La genèse de l'art islamique",
+            "it": "La nascita dell’arte islamica",
+            "pt": "A formação da arte islâmica",
+            "es": "La formación del arte islámico",
+            "se": "Den islamiska konstens framväxt",
+            "tr": "İslam Sanatının Oluşumu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -7409,6 +9324,49 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/3/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "aa7dbfdb-56bd-59fa-98ce-c5b08de806c5",
+          "titles": {
+            "ar": "الكتابة الكوفية",
+            "de": "Der Kufi-Duktus",
+            "en": "Kufic Script",
+            "fr": "L’écriture coufique",
+            "it": "I caratteri Kufici",
+            "pt": "A escrita cúfica",
+            "es": "La escritura cúfica",
+            "se": "Kufisk skrift",
+            "tr": "Kûfi Yazı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -7556,6 +9514,49 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-abbasids",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "da493358-92ba-5a20-8866-fa30fb03bfb2",
+          "titles": {
+            "ar": "العباسيون",
+            "de": "Die Abbasiden",
+            "en": "The Abbasids",
+            "fr": "Les Abbassides",
+            "it": "Gli Abbasidi",
+            "pt": "Os Abássidas",
+            "es": "Los abbasíes",
+            "se": "Abbasiderna",
+            "tr": "Abbasiler"
+          }
+        },
+        "theme": {
+          "id": "bedfc26e-1599-5d90-867d-794002406ce7",
+          "titles": {
+            "ar": "الرقة: عاصمة الخليفة الرشيد في سورية",
+            "de": "Al-Raqqa: Die Hauptstadt des Kalifen Harun al-Raschid in Syrien",
+            "en": "Al-Raqqa: Caliph Harun al-Rashid’s Capital in Syria",
+            "fr": "Raqqa : la capitale syrienne du calife Haroun al-Rachid",
+            "it": "Al-Raqqa: capitale siriana del califfo Harun al-Rashid",
+            "pt": "Al-Raqqa, capital do califa Harun al-Rashid na Síria",
+            "es": "Al-Raqqa, la capital del califa Harun al-Rashid en Siria",
+            "se": "Al-Raqqa: kalifen Harun al-Rashids huvudstad i Syrien",
+            "tr": "Rakka: Halife Harun Reşid’in Suriye’deki Başkenti"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          13
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -7669,6 +9670,90 @@
         "legacy_host": "https://calligraphy.museumwnf.org",
         "site": "calligraphy",
         "name": "Calligraphy"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/3/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "aa7dbfdb-56bd-59fa-98ce-c5b08de806c5",
+          "titles": {
+            "ar": "الكتابة الكوفية",
+            "de": "Der Kufi-Duktus",
+            "en": "Kufic Script",
+            "fr": "L’écriture coufique",
+            "it": "I caratteri Kufici",
+            "pt": "A escrita cúfica",
+            "es": "La escritura cúfica",
+            "se": "Kufisk skrift",
+            "tr": "Kûfi Yazı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "4ac9ddb5-21d0-552f-aabe-4b88c6672977",
+          "titles": {
+            "ar": "الدفاع",
+            "de": "Die Verteidigung",
+            "en": "Defence",
+            "fr": "La défense",
+            "it": "La difesa",
+            "pt": "A defesa",
+            "es": "La defensa",
+            "se": "Försvaret",
+            "tr": "Savunma Sistemi"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
       }
     ],
     "languages": [
@@ -7827,6 +9912,49 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-abbasids",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "da493358-92ba-5a20-8866-fa30fb03bfb2",
+          "titles": {
+            "ar": "العباسيون",
+            "de": "Die Abbasiden",
+            "en": "The Abbasids",
+            "fr": "Les Abbassides",
+            "it": "Gli Abbasidi",
+            "pt": "Os Abássidas",
+            "es": "Los abbasíes",
+            "se": "Abbasiderna",
+            "tr": "Abbasiler"
+          }
+        },
+        "theme": {
+          "id": "bedfc26e-1599-5d90-867d-794002406ce7",
+          "titles": {
+            "ar": "الرقة: عاصمة الخليفة الرشيد في سورية",
+            "de": "Al-Raqqa: Die Hauptstadt des Kalifen Harun al-Raschid in Syrien",
+            "en": "Al-Raqqa: Caliph Harun al-Rashid’s Capital in Syria",
+            "fr": "Raqqa : la capitale syrienne du calife Haroun al-Rachid",
+            "it": "Al-Raqqa: capitale siriana del califfo Harun al-Rashid",
+            "pt": "Al-Raqqa, capital do califa Harun al-Rashid na Síria",
+            "es": "Al-Raqqa, la capital del califa Harun al-Rashid en Siria",
+            "se": "Al-Raqqa: kalifen Harun al-Rashids huvudstad i Syrien",
+            "tr": "Rakka: Halife Harun Reşid’in Suriye’deki Başkenti"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          13
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -7937,6 +10065,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -8105,6 +10234,49 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "2d7ae23a-a5ce-5e8f-8d9b-d2c05d03e0a9",
+          "titles": {
+            "ar": "الفن الإسباني المغربي",
+            "de": "Die andalusisch-maghrebinische Kunst",
+            "en": "Andalusian-Maghrebi Art",
+            "fr": "L’art hispano-maghrébin",
+            "it": "L’arte andaluso-maghrebina",
+            "pt": "A arte andaluzo-magrebina",
+            "es": "El arte andalusí-magrebí",
+            "se": "Konsten i Andalusien och Maghreb-området",
+            "tr": "Endülüs-Mağrib Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -8182,6 +10354,49 @@
         "legacy_host": "https://woodwork.museumwnf.org",
         "site": "woodwork",
         "name": "Furniture and woodwork"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-siculo-norman",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "87981465-ac17-588c-98d9-d4f2d4298bdc",
+          "titles": {
+            "ar": "النورمنديون في صقلية",
+            "de": "Die Normannen in Sizilien",
+            "en": "The Normans in Sicily",
+            "fr": "Les Normands en Sicile",
+            "it": "I Normanni in Sicilia",
+            "pt": "Os normandos na Sicília",
+            "es": "Los normandos en Sicilia",
+            "se": "Normanderna på Sicilien",
+            "tr": "Sicilya'da Normanlar"
+          }
+        },
+        "theme": {
+          "id": "a52fece5-e533-5203-bd90-001ae174dfca",
+          "titles": {
+            "ar": "فن وهندسة عمارة القصور",
+            "de": "Königliche Kunst und Architektur",
+            "en": "Royal Art and Architecture",
+            "fr": "Art et architecture royale.",
+            "it": "Arte e architettura regia",
+            "pt": "Arte e arquitectura régias",
+            "es": "Arte y arquitectura regios",
+            "se": "Kunglig konst och arkitektur",
+            "tr": "Saray Sanatı ve Mimarisi"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          25
+        ]
       }
     ],
     "languages": [
@@ -8407,6 +10622,188 @@
         "name": "Water in Islam"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "8b555882-9559-52d8-ae93-cfbbd27f9bfe",
+          "titles": {
+            "ar": "مباهج واحتفالات في البلاط",
+            "de": "Vergnügungen und Festlichkeiten am Hof",
+            "en": "Pleasures and Celebrations at Court",
+            "fr": "Plaisirs et festivités à la cour",
+            "it": "I piaceri e le feste di corte",
+            "pt": "Prazeres e celebrações na corte",
+            "es": "Placeres y celebraciones en la corte",
+            "se": "Fester och nöjen vid hovet",
+            "tr": "Saray Eğlenceleri ve Kutlamaları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-women",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "a09c8ed7-01f3-5c9b-bd21-96a1d81c4678",
+          "titles": {
+            "ar": "المرأة",
+            "de": "Frauen",
+            "en": "Women",
+            "fr": "Les Femmes",
+            "it": "Le Donne",
+            "pt": "As mulheres",
+            "es": "Las mujeres",
+            "se": "Kvinnor",
+            "tr": "Kadınlar"
+          }
+        },
+        "theme": {
+          "id": "120cbd81-d9a2-540e-a178-dc11c283fc2d",
+          "titles": {
+            "ar": "حياة المرأة المسلمة الخاصة",
+            "de": "Das Privatleben muslimischer Frauen",
+            "en": "The Private Lives of Muslim Women",
+            "fr": "La vie privée des femmes musulmanes",
+            "it": "La donne musulmane e la vita domestica",
+            "pt": "Vida privada das mulheres muçulmanas",
+            "es": "Vida privada de la mujer musulmana",
+            "se": "Muslimska kvinnors privatliv",
+            "tr": "Müslüman Kadınların Özel Yaşamı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          23
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-siculo-norman",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "87981465-ac17-588c-98d9-d4f2d4298bdc",
+          "titles": {
+            "ar": "النورمنديون في صقلية",
+            "de": "Die Normannen in Sizilien",
+            "en": "The Normans in Sicily",
+            "fr": "Les Normands en Sicile",
+            "it": "I Normanni in Sicilia",
+            "pt": "Os normandos na Sicília",
+            "es": "Los normandos en Sicilia",
+            "se": "Normanderna på Sicilien",
+            "tr": "Sicilya'da Normanlar"
+          }
+        },
+        "theme": {
+          "id": "1de88509-41c2-5db1-91f2-cf64dc633e29",
+          "titles": {
+            "ar": "صقلية المسيحية وفن الرسم الإسلامي قبل وبعد السيطرة النورمندية",
+            "de": "Das christliche Sizilien und die islamische Bildende Kunst: Vorbedingungen und Kontinuität",
+            "en": "Christian Sicily and Islamic Figurative Culture: Foundations and Continuity",
+            "fr": "La Sicile chrétienne et la culture figurative islamique : préexistences et continuités.",
+            "it": "La Sicilia cristiana e la cultura figurativa islamica: preesistenze e continuità",
+            "pt": "A Sicília islâmica e a cultura figurativa: vestígios e continuidade",
+            "es": "La Sicilia cristiana y la cultura figurativa islámica: vestigios y continuidad",
+            "se": "Det kristna Sicilien och den islamiska figurativa kulturen: grunden och kontinuiteten",
+            "tr": "Hıristiyan Sicilya ve İslam Figüratif Kültürü: Temelleri ve Sürekliliği"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          25
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/2/5/3",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "ebf15498-6f84-536b-aac4-f726dd74ced5",
+          "titles": {
+            "en": "Domestic and Urban Spheres"
+          }
+        },
+        "subtheme": {
+          "id": "2a31b6e0-43fa-5b33-af86-569f085568d3",
+          "titles": {
+            "en": "Domestic Hygiene"
+          }
+        },
+        "legacy_order": [
+          3
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/1/2/19",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "1f017095-8e3e-52a0-b395-e5e6c5447615",
+          "titles": {
+            "de": "Primärfarben und Emotionen",
+            "en": "Primary Colours and Emotions"
+          }
+        },
+        "subtheme": {
+          "id": "dc677af8-ab22-5a45-aa49-655d978e7365",
+          "titles": {
+            "de": "Primary Colours in Architectural Monuments",
+            "en": "Primary Colours in Architectural Monuments"
+          }
+        },
+        "legacy_order": [
+          19
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -8618,6 +11015,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -8783,6 +11181,49 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/3/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "aa7dbfdb-56bd-59fa-98ce-c5b08de806c5",
+          "titles": {
+            "ar": "الكتابة الكوفية",
+            "de": "Der Kufi-Duktus",
+            "en": "Kufic Script",
+            "fr": "L’écriture coufique",
+            "it": "I caratteri Kufici",
+            "pt": "A escrita cúfica",
+            "es": "La escritura cúfica",
+            "se": "Kufisk skrift",
+            "tr": "Kûfi Yazı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -8905,6 +11346,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -9043,6 +11485,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -9161,6 +11604,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -9231,6 +11675,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -9300,6 +11745,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -9367,6 +11813,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -9595,6 +12042,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -9730,6 +12178,49 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-crusader",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "4c126e80-2567-5abd-9191-3d40f380e81f",
+          "titles": {
+            "ar": "الفرنجة: الصليبيون في المشرق",
+            "de": "Al-Frandsch: Die Kreuzfahrer in der Levante",
+            "en": "Al-Franj: the Crusaders in the Levant",
+            "fr": "Al-Franj : les Croisés au Levant",
+            "it": "Al-Franj: I Crociati nel Levante",
+            "pt": "Al-franj, os cruzados no Levante",
+            "es": "Al-frany, los cruzados en el Levante",
+            "se": "*Al-Franj*: the Crusaders in the Levant",
+            "tr": "El-Frenc: Levant’ta Haçlılar"
+          }
+        },
+        "theme": {
+          "id": "d7c23444-3d3f-5267-ac39-29110a7751ab",
+          "titles": {
+            "ar": "الثقافة في مملكة القدس الصليبية",
+            "de": "Die Kultur im Kreuzfahrer-Königreich Jerusalem",
+            "en": "Culture in the Crusader Kingdom of Jerusalem",
+            "fr": "La culture dans le royaume croisé de Jérusalem",
+            "it": "La cultura nel Regno Crociato di Gerusalemme",
+            "pt": "A cultura no reino cruzado de Jerusalém",
+            "es": "La cultura en el reino cruzado de Jerusalén",
+            "se": "Kulturen i korsfararnas kungarike i Jerusalem",
+            "tr": "Kudüs Haçlı Krallığı’nda Kültür"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          24
+        ]
       }
     ],
     "languages": [
@@ -9970,6 +12461,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -10191,6 +12683,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -10317,6 +12810,49 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-mamluks",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "217482b1-7626-531f-8ca9-51c2f680fe3d",
+          "titles": {
+            "ar": "المماليك",
+            "de": "Die Mamluken",
+            "en": "The Mamluks",
+            "fr": "Les Mamelouks",
+            "it": "I Mamelucchi",
+            "pt": "Os Mamelucos",
+            "es": "Los mamelucos",
+            "se": "Mamlukerna",
+            "tr": "Memluklar"
+          }
+        },
+        "theme": {
+          "id": "0d96fdda-709f-55ff-974d-36ce25e67b8e",
+          "titles": {
+            "ar": "الحياة اليومية في السلطنة المملوكية",
+            "de": "Alltag im Sultanat der Mamluken",
+            "en": "Everyday life in the Mamluk Sultanate",
+            "fr": "La vie quotidienne dans le sultanat mamelouk",
+            "it": "Vita quotidiana nel sultanato mamelucco",
+            "pt": "A vida quotidiana no sultanato mameluco",
+            "es": "La vida cotidiana en el sultanato mameluco",
+            "se": "Vardagslivet i mamlukernas sultanat",
+            "tr": "Memluk Sultanlığı’nda Günlük Yaşam"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          17
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -10425,6 +12961,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "17e93a55-d0d0-51b2-8c52-ae90b63b4709",
+          "titles": {
+            "ar": "فضاءات السلطة: المشيدات الملكية",
+            "de": "Räume der Macht – die Palastbauten",
+            "en": "Seats of Power: Palaces",
+            "fr": "Espaces du pouvoir : les constructions palatiales",
+            "it": "I luoghi del potere: gli edifici palatini",
+            "pt": "Espaços do poder: as construções palatinas",
+            "es": "Espacios del poder: las construcciones palatinas",
+            "se": "Palatset: maktens centrum",
+            "tr": "İktidar Alanı: Saray Yapıları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -10501,6 +13080,62 @@
         "legacy_host": "https://calligraphy.museumwnf.org",
         "site": "calligraphy",
         "name": "Calligraphy"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/1/3/13",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "cf106957-b4e8-5d72-9a13-749b82c4b545",
+          "titles": {
+            "en": "Water and Agriculture in Islamic Civilisation"
+          }
+        },
+        "subtheme": {
+          "id": "6516014a-c6c1-5ceb-97a3-d695462efde0",
+          "titles": {
+            "en": "Engineering the Flow: Irrigation Technologies and Water Management"
+          }
+        },
+        "legacy_order": [
+          13
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/4/5/18",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "80cd42c3-f130-56d3-b0fc-8a033ff888a2",
+          "titles": {
+            "en": "The Symbolism of Water in sacred Texts, secular Literature, and Science"
+          }
+        },
+        "subtheme": {
+          "id": "4e8133ba-b181-554a-bd52-4bf13639f568",
+          "titles": {
+            "en": "Water in Knowledge, Science, and Technology"
+          }
+        },
+        "legacy_order": [
+          18
+        ]
       }
     ],
     "languages": [
@@ -10612,6 +13247,49 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/10/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "ceba53e2-8d26-5b58-86d1-788c47e11fd6",
+          "titles": {
+            "ar": "تعايش الثقافات الثلاث",
+            "de": "Das Zusammenleben der drei Kulturen",
+            "en": "The Co-existence of Three Cultures",
+            "fr": "Coexistence des trois cultures",
+            "it": "La convivenza delle tre culture",
+            "pt": "Coexistência das três culturas",
+            "es": "Coexistencia de las tres culturas",
+            "se": "Tre kulturer lever tillsammans",
+            "tr": "Üç Kültürün Birlikteliği"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -10705,6 +13383,49 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/10/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "ceba53e2-8d26-5b58-86d1-788c47e11fd6",
+          "titles": {
+            "ar": "تعايش الثقافات الثلاث",
+            "de": "Das Zusammenleben der drei Kulturen",
+            "en": "The Co-existence of Three Cultures",
+            "fr": "Coexistence des trois cultures",
+            "it": "La convivenza delle tre culture",
+            "pt": "Coexistência das três culturas",
+            "es": "Coexistencia de las tres culturas",
+            "se": "Tre kulturer lever tillsammans",
+            "tr": "Üç Kültürün Birlikteliği"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
       }
     ],
     "languages": [
@@ -10817,6 +13538,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -10951,6 +13673,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -11033,6 +13756,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -11133,6 +13857,90 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "afba56c6-390e-5231-9951-6321bf20581e",
+          "titles": {
+            "ar": "مدارس الخط",
+            "de": "Kalligrafische Schulen",
+            "en": "Calligraphic Schools",
+            "fr": "Écoles de calligraphie",
+            "it": "Scuole di Calligrafia",
+            "pt": "As escolas de caligrafia",
+            "es": "Las escuelas de caligrafía",
+            "se": "Kalligrafiska stilar eller skolor",
+            "tr": "Hat Okulları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-siculo-norman",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "87981465-ac17-588c-98d9-d4f2d4298bdc",
+          "titles": {
+            "ar": "النورمنديون في صقلية",
+            "de": "Die Normannen in Sizilien",
+            "en": "The Normans in Sicily",
+            "fr": "Les Normands en Sicile",
+            "it": "I Normanni in Sicilia",
+            "pt": "Os normandos na Sicília",
+            "es": "Los normandos en Sicilia",
+            "se": "Normanderna på Sicilien",
+            "tr": "Sicilya'da Normanlar"
+          }
+        },
+        "theme": {
+          "id": "a52fece5-e533-5203-bd90-001ae174dfca",
+          "titles": {
+            "ar": "فن وهندسة عمارة القصور",
+            "de": "Königliche Kunst und Architektur",
+            "en": "Royal Art and Architecture",
+            "fr": "Art et architecture royale.",
+            "it": "Arte e architettura regia",
+            "pt": "Arte e arquitectura régias",
+            "es": "Arte y arquitectura regios",
+            "se": "Kunglig konst och arkitektur",
+            "tr": "Saray Sanatı ve Mimarisi"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          25
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -11214,6 +14022,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -11329,6 +14138,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -11411,6 +14221,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -11499,6 +14310,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -11569,6 +14381,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -11647,6 +14460,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -11770,6 +14584,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -11839,6 +14654,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -11907,6 +14723,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -12010,6 +14827,49 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-mudejar-art",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "664da959-c73e-5c6a-8641-060470f0010e",
+          "titles": {
+            "ar": "فن المدجّنين",
+            "de": "Die Mudéjarkunst",
+            "en": "Mudéjar Art",
+            "fr": "L’art mudéjar",
+            "it": "L’arte mudéjar",
+            "pt": "A arte mudéjar",
+            "es": "El arte mudéjar",
+            "se": "Mudejarkonsten",
+            "tr": "Mudéjar Sanatı"
+          }
+        },
+        "theme": {
+          "id": "5838d42d-f446-52f1-8928-5f1d6b6140a6",
+          "titles": {
+            "ar": "مهن المدجّنين",
+            "de": "Das Mudéjargewerbe",
+            "en": "Mudéjar Professions",
+            "fr": "Métiers mudéjars",
+            "it": "Le attività della popolazione mudéjar",
+            "pt": "Ofícios mudéjares",
+            "es": "Oficios mudéjares",
+            "se": "Mudejaryrken",
+            "tr": "Mudéjar Zanaatları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          26
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -12090,6 +14950,35 @@
         "legacy_host": "https://photographs.museumwnf.org",
         "site": "photographs",
         "name": "Photographs"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/2/2/17",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "f9fbfb04-4e15-5b34-8b72-548b41e013c8",
+          "titles": {
+            "en": "From the Train Window"
+          }
+        },
+        "subtheme": {
+          "id": "0593ab8d-bef3-5793-857c-0dc9a8f95ab4",
+          "titles": {
+            "en": "Objects of Exchange and Mobility"
+          }
+        },
+        "legacy_order": [
+          17
+        ]
       }
     ],
     "languages": [
@@ -12254,6 +15143,103 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-water",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "e0d404ea-dbc1-591a-86a5-75265066d6f0",
+          "titles": {
+            "ar": "الماء",
+            "de": "Wasser",
+            "en": "Water",
+            "fr": "Eau",
+            "it": "L’acqua",
+            "pt": "A água",
+            "es": "El agua",
+            "se": "Vatten",
+            "tr": "Su"
+          }
+        },
+        "theme": {
+          "id": "804d4535-4e46-51c6-8a4c-6dcc2261f2d1",
+          "titles": {
+            "ar": "الماء والحياة اليومية",
+            "de": "Wasser im Alltag",
+            "en": "Water and Everyday Life",
+            "fr": "L’eau et la vie quotidienne",
+            "it": "L’acqua e la vita quotidiana",
+            "pt": "A água e a vida quotidiana",
+            "es": "El agua y la vida cotidiana",
+            "se": "Vattnet och vardagslivet",
+            "tr": "Su ve Günlük Hayat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          22
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/2/3/1",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "238a4c4f-8bb3-584d-829b-208cef78fb0c",
+          "titles": {
+            "en": "Social Life"
+          }
+        },
+        "subtheme": {
+          "id": "efb15863-4613-54f9-9175-ff58c521d782",
+          "titles": {
+            "en": "Food as a Bond of Communal Identity"
+          }
+        },
+        "legacy_order": [
+          1
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/2/1/11",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "ebf15498-6f84-536b-aac4-f726dd74ced5",
+          "titles": {
+            "en": "Domestic and Urban Spheres"
+          }
+        },
+        "subtheme": {
+          "id": "aff608af-f2c7-54b7-8325-794e1d8d4ba1",
+          "titles": {
+            "en": "Urban Water Infrastructure"
+          }
+        },
+        "legacy_order": [
+          11
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -12412,6 +15398,90 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/2/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "8b555882-9559-52d8-ae93-cfbbd27f9bfe",
+          "titles": {
+            "ar": "مباهج واحتفالات في البلاط",
+            "de": "Vergnügungen und Festlichkeiten am Hof",
+            "en": "Pleasures and Celebrations at Court",
+            "fr": "Plaisirs et festivités à la cour",
+            "it": "I piaceri e le feste di corte",
+            "pt": "Prazeres e celebrações na corte",
+            "es": "Placeres y celebraciones en la corte",
+            "se": "Fester och nöjen vid hovet",
+            "tr": "Saray Eğlenceleri ve Kutlamaları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-siculo-norman",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "87981465-ac17-588c-98d9-d4f2d4298bdc",
+          "titles": {
+            "ar": "النورمنديون في صقلية",
+            "de": "Die Normannen in Sizilien",
+            "en": "The Normans in Sicily",
+            "fr": "Les Normands en Sicile",
+            "it": "I Normanni in Sicilia",
+            "pt": "Os normandos na Sicília",
+            "es": "Los normandos en Sicilia",
+            "se": "Normanderna på Sicilien",
+            "tr": "Sicilya'da Normanlar"
+          }
+        },
+        "theme": {
+          "id": "1de88509-41c2-5db1-91f2-cf64dc633e29",
+          "titles": {
+            "ar": "صقلية المسيحية وفن الرسم الإسلامي قبل وبعد السيطرة النورمندية",
+            "de": "Das christliche Sizilien und die islamische Bildende Kunst: Vorbedingungen und Kontinuität",
+            "en": "Christian Sicily and Islamic Figurative Culture: Foundations and Continuity",
+            "fr": "La Sicile chrétienne et la culture figurative islamique : préexistences et continuités.",
+            "it": "La Sicilia cristiana e la cultura figurativa islamica: preesistenze e continuità",
+            "pt": "A Sicília islâmica e a cultura figurativa: vestígios e continuidade",
+            "es": "La Sicilia cristiana y la cultura figurativa islámica: vestigios y continuidad",
+            "se": "Det kristna Sicilien och den islamiska figurativa kulturen: grunden och kontinuiteten",
+            "tr": "Hıristiyan Sicilya ve İslam Figüratif Kültürü: Temelleri ve Sürekliliği"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          25
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -12488,6 +15558,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -12569,6 +15640,35 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/2/1/4",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "238a4c4f-8bb3-584d-829b-208cef78fb0c",
+          "titles": {
+            "en": "Social Life"
+          }
+        },
+        "subtheme": {
+          "id": "6a5071c2-d01d-519b-9fc3-c51994784f7e",
+          "titles": {
+            "en": "Food Symbolism in Islamic Culture"
+          }
+        },
+        "legacy_order": [
+          4
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -12645,6 +15745,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -12735,6 +15836,49 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-mudejar-art",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "664da959-c73e-5c6a-8641-060470f0010e",
+          "titles": {
+            "ar": "فن المدجّنين",
+            "de": "Die Mudéjarkunst",
+            "en": "Mudéjar Art",
+            "fr": "L’art mudéjar",
+            "it": "L’arte mudéjar",
+            "pt": "A arte mudéjar",
+            "es": "El arte mudéjar",
+            "se": "Mudejarkonsten",
+            "tr": "Mudéjar Sanatı"
+          }
+        },
+        "theme": {
+          "id": "ca738840-bcc5-5148-8748-e3bb31ec2983",
+          "titles": {
+            "ar": "فن المدجّنين الأرستقراطي والمدني",
+            "de": "Die adlige und bürgerliche Mudéjarkunst",
+            "en": "Mudéjar Civic and Aristocratic Art",
+            "fr": "L’art mudéjar aristocratique et civil",
+            "it": "L’arte mudéjar aristocratica e civile",
+            "pt": "A arte mudéjar aristocrática e civil",
+            "es": "El arte mudéjar aristocrático y civil",
+            "se": "Borgarnas och adelns mudejarkonst",
+            "tr": "Soylu Sınıfa Özgü ve Sivil Mudéjar Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          26
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -12822,6 +15966,49 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-mudejar-art",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "664da959-c73e-5c6a-8641-060470f0010e",
+          "titles": {
+            "ar": "فن المدجّنين",
+            "de": "Die Mudéjarkunst",
+            "en": "Mudéjar Art",
+            "fr": "L’art mudéjar",
+            "it": "L’arte mudéjar",
+            "pt": "A arte mudéjar",
+            "es": "El arte mudéjar",
+            "se": "Mudejarkonsten",
+            "tr": "Mudéjar Sanatı"
+          }
+        },
+        "theme": {
+          "id": "5838d42d-f446-52f1-8928-5f1d6b6140a6",
+          "titles": {
+            "ar": "مهن المدجّنين",
+            "de": "Das Mudéjargewerbe",
+            "en": "Mudéjar Professions",
+            "fr": "Métiers mudéjars",
+            "it": "Le attività della popolazione mudéjar",
+            "pt": "Ofícios mudéjares",
+            "es": "Oficios mudéjares",
+            "se": "Mudejaryrken",
+            "tr": "Mudéjar Zanaatları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          26
+        ]
       }
     ],
     "languages": [
@@ -12974,6 +16161,49 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "1b7b04e6-d4cb-5a10-a0bf-8f61b4de570f",
+          "titles": {
+            "ar": "تشكل الفن الإسلامي",
+            "de": "Die Entstehung der islamischen Kunst",
+            "en": "The Formation of Islamic Art",
+            "fr": "La genèse de l'art islamique",
+            "it": "La nascita dell’arte islamica",
+            "pt": "A formação da arte islâmica",
+            "es": "La formación del arte islámico",
+            "se": "Den islamiska konstens framväxt",
+            "tr": "İslam Sanatının Oluşumu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -13042,6 +16272,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -13272,6 +16503,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "17e93a55-d0d0-51b2-8c52-ae90b63b4709",
+          "titles": {
+            "ar": "فضاءات السلطة: المشيدات الملكية",
+            "de": "Räume der Macht – die Palastbauten",
+            "en": "Seats of Power: Palaces",
+            "fr": "Espaces du pouvoir : les constructions palatiales",
+            "it": "I luoghi del potere: gli edifici palatini",
+            "pt": "Espaços do poder: as construções palatinas",
+            "es": "Espacios del poder: las construcciones palatinas",
+            "se": "Palatset: maktens centrum",
+            "tr": "İktidar Alanı: Saray Yapıları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -13380,6 +16654,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -13613,6 +16888,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -13692,6 +16968,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -13760,6 +17037,40 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-migrations",
+        "path": "/theme/2/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "2353a4ff-1dd5-5807-9b96-c146b09485c2",
+          "titles": {
+            "en": "Migrations"
+          }
+        },
+        "theme": {
+          "id": "0d6a1796-1c65-528a-b375-c1a9ffc51627",
+          "titles": {
+            "en": "Migrations within the Ottoman Empire"
+          }
+        },
+        "subtheme": {
+          "id": "118184dd-3d6f-5850-b875-de8f1a6d34b7",
+          "titles": {
+            "en": "Traders and craftsmen"
+          }
+        },
+        "legacy_order": [
+          35,
+          1,
+          72
+        ]
       }
     ],
     "languages": [
@@ -13959,6 +17270,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -14034,6 +17346,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -14164,6 +17477,49 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/1/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "81a769fe-d87f-5009-a3e9-568e47eae420",
+          "titles": {
+            "ar": "المسجد والقصر",
+            "de": "Moschee und Palast",
+            "en": "Mosque and Palace",
+            "fr": "Mosquées et palais",
+            "it": "Moschee e palazzi",
+            "pt": "A mesquita e o palácio",
+            "es": "La mezquita y el palacio",
+            "se": "Moské och palats",
+            "tr": "Camiler ve Saraylar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -14230,6 +17586,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -14307,6 +17664,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -14382,6 +17740,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -14462,6 +17821,35 @@
         "name": "Water in Islam"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/4/1/6",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "80cd42c3-f130-56d3-b0fc-8a033ff888a2",
+          "titles": {
+            "en": "The Symbolism of Water in sacred Texts, secular Literature, and Science"
+          }
+        },
+        "subtheme": {
+          "id": "1173b86c-adcb-5487-87ea-85f5d2fd9b53",
+          "titles": {
+            "en": "Water as Sacred Presence: Gardens, Paradise, and Salvation"
+          }
+        },
+        "legacy_order": [
+          6
+        ]
+      }
+    ],
     "languages": [
       "en",
       "es"
@@ -14535,6 +17923,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -14613,6 +18002,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -14686,6 +18076,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -14779,6 +18170,38 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/1/2/28",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "1f017095-8e3e-52a0-b395-e5e6c5447615",
+          "titles": {
+            "de": "Primärfarben und Emotionen",
+            "en": "Primary Colours and Emotions"
+          }
+        },
+        "subtheme": {
+          "id": "dc677af8-ab22-5a45-aa49-655d978e7365",
+          "titles": {
+            "de": "Primary Colours in Architectural Monuments",
+            "en": "Primary Colours in Architectural Monuments"
+          }
+        },
+        "legacy_order": [
+          28
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -14864,6 +18287,38 @@
         "legacy_host": "https://architectural-elements.museumwnf.org",
         "site": "architectural-elements",
         "name": "Architectural Elements"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/1/2/27",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "1f017095-8e3e-52a0-b395-e5e6c5447615",
+          "titles": {
+            "de": "Primärfarben und Emotionen",
+            "en": "Primary Colours and Emotions"
+          }
+        },
+        "subtheme": {
+          "id": "dc677af8-ab22-5a45-aa49-655d978e7365",
+          "titles": {
+            "de": "Primary Colours in Architectural Monuments",
+            "en": "Primary Colours in Architectural Monuments"
+          }
+        },
+        "legacy_order": [
+          27
+        ]
       }
     ],
     "languages": [
@@ -15052,6 +18507,49 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "9bff6ece-d3d2-5f2a-b7cc-fb1f33c3e113",
+          "titles": {
+            "ar": "الرعاية الرسمية",
+            "de": "Kunstförderung durch die Machthaber",
+            "en": "Official Patronage",
+            "fr": "Mécénat officiel",
+            "it": "Il mecenatismo di corte",
+            "pt": "Patrocínio oficial",
+            "es": "Patronazgo oficial",
+            "se": "Makten och kulturen",
+            "tr": "Resmi Sanat Koruyuculuğu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -15205,6 +18703,49 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ayyubids",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "28d9a4d3-c0f4-52e4-b504-b865ba01f483",
+          "titles": {
+            "ar": "الأتابكة والأيوبيون",
+            "de": "Die Atabege und Ayyubiden",
+            "en": "The Atabegs and Ayyubids",
+            "fr": "Atabegs et Ayyoubides",
+            "it": "Gli Atabeg e gli Ayyubidi",
+            "pt": "Os Atabegs e os Ayyubidas",
+            "es": "Atabegs y ayyubíes",
+            "se": "Atabegerna och ayyubiderna",
+            "tr": "Atabekler ve Eyyubiler"
+          }
+        },
+        "theme": {
+          "id": "67215e86-8b87-5410-a941-05738096eb5a",
+          "titles": {
+            "ar": "الحياة الدينية",
+            "de": "Religiöses Leben",
+            "en": "Religious Life",
+            "fr": "Vie religieuse",
+            "it": "Pratica Religiosa",
+            "pt": "A vida religiosa",
+            "es": "La vida religiosa",
+            "se": "Det religiösa livet",
+            "tr": "Dini Yaşam"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          15
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -15279,6 +18820,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -15369,6 +18911,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -15433,6 +18976,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -15497,6 +19041,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -15581,6 +19126,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -15650,6 +19196,35 @@
         "name": "Water in Islam"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/1/2/24",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "cf106957-b4e8-5d72-9a13-749b82c4b545",
+          "titles": {
+            "en": "Water and Agriculture in Islamic Civilisation"
+          }
+        },
+        "subtheme": {
+          "id": "4ba33798-b360-52eb-90f1-614e0e8be75b",
+          "titles": {
+            "en": "Rivers of Life: Agriculture Along the Great Waterways"
+          }
+        },
+        "legacy_order": [
+          24
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -15717,6 +19292,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -15784,6 +19360,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -15914,6 +19491,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -15985,6 +19563,7 @@
         "name": "Architectural Elements"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -16128,6 +19707,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ottomans",
+        "path": "/exhibition/10/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "618dce7d-8482-5ccb-b334-54c0c96e6db0",
+          "titles": {
+            "ar": "العثمانيون",
+            "de": "Die Osmanen",
+            "en": "The Ottomans",
+            "fr": "Les Ottomans",
+            "it": "Gli Ottomani",
+            "pt": "Os otomanos",
+            "es": "Los otomanos",
+            "se": "Ottomanerna",
+            "tr": "Osmanlılar"
+          }
+        },
+        "theme": {
+          "id": "ef4d7209-5b0a-59f3-aef9-3982ae097af6",
+          "titles": {
+            "ar": "الفن خارج العاصمة",
+            "de": "Die Kunst außerhalb Istanbuls",
+            "en": "Art outside the Capital",
+            "fr": "L'art hors de la capitale",
+            "it": "L’arte oltre i confini della capitale",
+            "pt": "A arte fora da capital",
+            "es": "El arte fuera de la capital",
+            "se": "Konsten utanför huvudstaden",
+            "tr": "Başkent Dışında Sanat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          18
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -16217,6 +19839,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -16352,6 +19975,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -16482,6 +20106,49 @@
         "legacy_host": "https://woodwork.museumwnf.org",
         "site": "woodwork",
         "name": "Furniture and woodwork"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/1/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "2d7ae23a-a5ce-5e8f-8d9b-d2c05d03e0a9",
+          "titles": {
+            "ar": "الفن الإسباني المغربي",
+            "de": "Die andalusisch-maghrebinische Kunst",
+            "en": "Andalusian-Maghrebi Art",
+            "fr": "L’art hispano-maghrébin",
+            "it": "L’arte andaluso-maghrebina",
+            "pt": "A arte andaluzo-magrebina",
+            "es": "El arte andalusí-magrebí",
+            "se": "Konsten i Andalusien och Maghreb-området",
+            "tr": "Endülüs-Mağrib Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
       }
     ],
     "languages": [
@@ -16677,6 +20344,7 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",

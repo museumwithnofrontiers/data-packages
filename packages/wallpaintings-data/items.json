@@ -61,6 +61,69 @@
         "name": "Wall paintings and frescoes"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-great-inventions-of-the-19th-century",
+        "path": "/theme/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "1f123df9-1e8c-522c-833c-709f517c53f5",
+          "titles": {
+            "en": "Great Inventions of the 19th Century"
+          }
+        },
+        "theme": {
+          "id": "b647d8d2-0a0f-5951-af75-816364a08456",
+          "titles": {
+            "en": "Transportation"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/3/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "455e9772-e7c7-5b27-acb0-ec12bc4e468b",
+          "titles": {
+            "en": "Tourism"
+          }
+        },
+        "subtheme": {
+          "id": "db508216-3572-57ae-86f3-6eb6e89e9482",
+          "titles": {
+            "en": "Tourism of the second half of the nineteenth century"
+          }
+        },
+        "legacy_order": [
+          17,
+          1,
+          103
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -123,6 +186,7 @@
         "name": "Wall paintings and frescoes"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "it"
@@ -188,6 +252,33 @@
         "name": "Wall paintings and frescoes"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-enlightenment",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "504a47df-11ce-5a98-8680-243fd198e8df",
+          "titles": {
+            "en": "The Age of Enlightenment"
+          }
+        },
+        "theme": {
+          "id": "6b277072-b7ec-5dea-ad5e-5e3b42daf6eb",
+          "titles": {
+            "en": "Toward a rational art: reshaping rhetoric and splendour"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          45
+        ]
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -243,6 +334,99 @@
         "name": "Wall paintings and frescoes"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "06e2b161-1f15-5d64-a574-9e389e995e1a",
+          "titles": {
+            "en": "The birth of archaeology"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/2/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "e5da444f-e56f-5dd3-9d95-62f9f6ceb9f8",
+          "titles": {
+            "en": "The formation of museums"
+          }
+        },
+        "subtheme": {
+          "id": "d21eb5d2-cdce-5f72-a917-0fcf9ad47608",
+          "titles": {
+            "en": "Museums in Europe"
+          }
+        },
+        "legacy_order": [
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-international-exhibitions",
+        "path": "/theme/2/4",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c3a68819-dcf2-5be4-8f9b-dcc45c8848e4",
+          "titles": {
+            "en": "International Exhibitions"
+          }
+        },
+        "theme": {
+          "id": "bd677873-ce69-5041-be5e-82bf4abfea44",
+          "titles": {
+            "en": "Temporary structures and presentation of national contexts"
+          }
+        },
+        "subtheme": {
+          "id": "9e7a7cbc-75d8-5cef-9df3-ee7a19b1c8e9",
+          "titles": {
+            "en": "Between evocations and archaeological reconstruction"
+          }
+        },
+        "legacy_order": [
+          29,
+          1,
+          169
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -295,6 +479,99 @@
         "legacy_host": "https://wallpaintings.museumwnf.org",
         "site": "wallpaintings",
         "name": "Wall paintings and frescoes"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "e5da444f-e56f-5dd3-9d95-62f9f6ceb9f8",
+          "titles": {
+            "en": "The formation of museums"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          3,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/2/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "e5da444f-e56f-5dd3-9d95-62f9f6ceb9f8",
+          "titles": {
+            "en": "The formation of museums"
+          }
+        },
+        "subtheme": {
+          "id": "d21eb5d2-cdce-5f72-a917-0fcf9ad47608",
+          "titles": {
+            "en": "Museums in Europe"
+          }
+        },
+        "legacy_order": [
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-international-exhibitions",
+        "path": "/theme/2/4",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c3a68819-dcf2-5be4-8f9b-dcc45c8848e4",
+          "titles": {
+            "en": "International Exhibitions"
+          }
+        },
+        "theme": {
+          "id": "bd677873-ce69-5041-be5e-82bf4abfea44",
+          "titles": {
+            "en": "Temporary structures and presentation of national contexts"
+          }
+        },
+        "subtheme": {
+          "id": "9e7a7cbc-75d8-5cef-9df3-ee7a19b1c8e9",
+          "titles": {
+            "en": "Between evocations and archaeological reconstruction"
+          }
+        },
+        "legacy_order": [
+          29,
+          1,
+          169
+        ]
       }
     ],
     "languages": [
@@ -367,6 +644,7 @@
         "name": "Wall paintings and frescoes"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -548,6 +826,49 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/5/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "79e2b8e9-7cfa-5332-82b0-542b14234df5",
+          "titles": {
+            "ar": "حفلات البلاط وتساليه",
+            "de": "Zeremoniell und Zeitvertreib am Hof",
+            "en": "Court Ceremonials and Pastimes",
+            "fr": "Cérémonial et divertissements à la cour",
+            "it": "Cerimoniali e svaghi di corte",
+            "pt": "Cerimónias e passatempos cortesãos",
+            "es": "Ceremonias y pasatiempos cortesanos",
+            "se": "Hovets ceremonier och förströelser",
+            "tr": "Saray Törenleri ve Eğlenceleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
       }
     ],
     "languages": [
@@ -760,6 +1081,49 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "1b7b04e6-d4cb-5a10-a0bf-8f61b4de570f",
+          "titles": {
+            "ar": "تشكل الفن الإسلامي",
+            "de": "Die Entstehung der islamischen Kunst",
+            "en": "The Formation of Islamic Art",
+            "fr": "La genèse de l'art islamique",
+            "it": "La nascita dell’arte islamica",
+            "pt": "A formação da arte islâmica",
+            "es": "La formación del arte islámico",
+            "se": "Den islamiska konstens framväxt",
+            "tr": "İslam Sanatının Oluşumu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -869,6 +1233,90 @@
         "legacy_host": "https://wallpaintings.museumwnf.org",
         "site": "wallpaintings",
         "name": "Wall paintings and frescoes"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "93d8ebf1-31d8-5e89-966d-89b3cb0abebd",
+          "titles": {
+            "ar": "الرعايا المسيحيون تحت الحكم الأموي",
+            "de": "Christen unter umayyadischer Herrschaft",
+            "en": "Christian Subjects under Umayyad Rule",
+            "fr": "Sujets chrétiens sous administration omeyyade",
+            "it": "Immagini cristiane nei domini omayyadi",
+            "pt": "Súbditos cristãos sob governo omeia",
+            "es": "Súbditos cristianos bajo el gobierno omeya",
+            "se": "De kristna invånarna under umayyadiskt styre",
+            "tr": "Emevi İdaresi Altında Hıristiyanlar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ayyubids",
+        "path": "/exhibition/2/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "28d9a4d3-c0f4-52e4-b504-b865ba01f483",
+          "titles": {
+            "ar": "الأتابكة والأيوبيون",
+            "de": "Die Atabege und Ayyubiden",
+            "en": "The Atabegs and Ayyubids",
+            "fr": "Atabegs et Ayyoubides",
+            "it": "Gli Atabeg e gli Ayyubidi",
+            "pt": "Os Atabegs e os Ayyubidas",
+            "es": "Atabegs y ayyubíes",
+            "se": "Atabegerna och ayyubiderna",
+            "tr": "Atabekler ve Eyyubiler"
+          }
+        },
+        "theme": {
+          "id": "67215e86-8b87-5410-a941-05738096eb5a",
+          "titles": {
+            "ar": "الحياة الدينية",
+            "de": "Religiöses Leben",
+            "en": "Religious Life",
+            "fr": "Vie religieuse",
+            "it": "Pratica Religiosa",
+            "pt": "A vida religiosa",
+            "es": "La vida religiosa",
+            "se": "Det religiösa livet",
+            "tr": "Dini Yaşam"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          15
+        ]
       }
     ],
     "languages": [
@@ -1030,6 +1478,49 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-women",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "a09c8ed7-01f3-5c9b-bd21-96a1d81c4678",
+          "titles": {
+            "ar": "المرأة",
+            "de": "Frauen",
+            "en": "Women",
+            "fr": "Les Femmes",
+            "it": "Le Donne",
+            "pt": "As mulheres",
+            "es": "Las mujeres",
+            "se": "Kvinnor",
+            "tr": "Kadınlar"
+          }
+        },
+        "theme": {
+          "id": "d0091937-ae75-5b53-b750-fd43ae2c25e5",
+          "titles": {
+            "ar": "زي المرأة المسلمة وحليّها من المجوهرات",
+            "de": "Kleidung und Schmuck der Musliminnen",
+            "en": "Muslim Women’s Costume and Jewellery",
+            "fr": "Les vêtements et les bijoux des femmes musulmanes",
+            "it": "Abbigliamento e gioielleria delle donne musulmane",
+            "pt": "Vestuário e joalharia",
+            "es": "Vestimenta y joyería",
+            "se": "De muslimska kvinnornas dräkter och smycken",
+            "tr": "Müslüman Kadınların Giysileri ve Takıları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          23
+        ]
       }
     ],
     "languages": [
@@ -1225,6 +1716,49 @@
         "legacy_host": "https://wallpaintings.museumwnf.org",
         "site": "wallpaintings",
         "name": "Wall paintings and frescoes"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/5/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "79e2b8e9-7cfa-5332-82b0-542b14234df5",
+          "titles": {
+            "ar": "حفلات البلاط وتساليه",
+            "de": "Zeremoniell und Zeitvertreib am Hof",
+            "en": "Court Ceremonials and Pastimes",
+            "fr": "Cérémonial et divertissements à la cour",
+            "it": "Cerimoniali e svaghi di corte",
+            "pt": "Cerimónias e passatempos cortesãos",
+            "es": "Ceremonias y pasatiempos cortesanos",
+            "se": "Hovets ceremonier och förströelser",
+            "tr": "Saray Törenleri ve Eğlenceleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
       }
     ],
     "languages": [
@@ -1443,6 +1977,49 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/5/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "79e2b8e9-7cfa-5332-82b0-542b14234df5",
+          "titles": {
+            "ar": "حفلات البلاط وتساليه",
+            "de": "Zeremoniell und Zeitvertreib am Hof",
+            "en": "Court Ceremonials and Pastimes",
+            "fr": "Cérémonial et divertissements à la cour",
+            "it": "Cerimoniali e svaghi di corte",
+            "pt": "Cerimónias e passatempos cortesãos",
+            "es": "Ceremonias y pasatiempos cortesanos",
+            "se": "Hovets ceremonier och förströelser",
+            "tr": "Saray Törenleri ve Eğlenceleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -1634,6 +2211,90 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/5/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "79e2b8e9-7cfa-5332-82b0-542b14234df5",
+          "titles": {
+            "ar": "حفلات البلاط وتساليه",
+            "de": "Zeremoniell und Zeitvertreib am Hof",
+            "en": "Court Ceremonials and Pastimes",
+            "fr": "Cérémonial et divertissements à la cour",
+            "it": "Cerimoniali e svaghi di corte",
+            "pt": "Cerimónias e passatempos cortesãos",
+            "es": "Ceremonias y pasatiempos cortesanos",
+            "se": "Hovets ceremonier och förströelser",
+            "tr": "Saray Törenleri ve Eğlenceleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-women",
+        "path": "/exhibition/2/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "a09c8ed7-01f3-5c9b-bd21-96a1d81c4678",
+          "titles": {
+            "ar": "المرأة",
+            "de": "Frauen",
+            "en": "Women",
+            "fr": "Les Femmes",
+            "it": "Le Donne",
+            "pt": "As mulheres",
+            "es": "Las mujeres",
+            "se": "Kvinnor",
+            "tr": "Kadınlar"
+          }
+        },
+        "theme": {
+          "id": "dc1ba8a3-fd25-52de-bd11-66f5e8ee0fdc",
+          "titles": {
+            "ar": "المرأة المسلمة صاحبة مهنة وحرفية ونصيرة فنانين",
+            "de": "Musliminnen im Berufsleben, im Kunsthandwerk und in der darstellenden Kunst",
+            "en": "Muslim Women as Professionals, Artisans and Performing Artists",
+            "fr": "Les femmes musulmanes comme professionnelles, artisanes et artistes-interprètes",
+            "it": "Le donne musulmane nelle professioni, nell’artigianato e nelle arti",
+            "pt": "Profissionais, artesãs e artistas",
+            "es": "Profesionales, artesanas y artistas",
+            "se": "Muslimska yrkeskvinnor som konsthantverkare, musiker och dansare",
+            "tr": "Profesyonel, Zanaatkâr ve Sanatçı Olarak Müslüman Kadınlar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          23
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -1822,6 +2483,90 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/5/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "79e2b8e9-7cfa-5332-82b0-542b14234df5",
+          "titles": {
+            "ar": "حفلات البلاط وتساليه",
+            "de": "Zeremoniell und Zeitvertreib am Hof",
+            "en": "Court Ceremonials and Pastimes",
+            "fr": "Cérémonial et divertissements à la cour",
+            "it": "Cerimoniali e svaghi di corte",
+            "pt": "Cerimónias e passatempos cortesãos",
+            "es": "Ceremonias y pasatiempos cortesanos",
+            "se": "Hovets ceremonier och förströelser",
+            "tr": "Saray Törenleri ve Eğlenceleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "24e11f60-92ed-5fc9-959e-e0aa49482ffe",
+          "titles": {
+            "ar": "الرسوم الآدمية",
+            "de": "Menschendarstellungen",
+            "en": "Human Representation",
+            "fr": "Représentation humaine",
+            "it": "La raffigurazione umana",
+            "pt": "A representação humana",
+            "es": "La representación humana",
+            "se": "Bilder av människor",
+            "tr": "İnsan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -1992,6 +2737,90 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/5/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "79e2b8e9-7cfa-5332-82b0-542b14234df5",
+          "titles": {
+            "ar": "حفلات البلاط وتساليه",
+            "de": "Zeremoniell und Zeitvertreib am Hof",
+            "en": "Court Ceremonials and Pastimes",
+            "fr": "Cérémonial et divertissements à la cour",
+            "it": "Cerimoniali e svaghi di corte",
+            "pt": "Cerimónias e passatempos cortesãos",
+            "es": "Ceremonias y pasatiempos cortesanos",
+            "se": "Hovets ceremonier och förströelser",
+            "tr": "Saray Törenleri ve Eğlenceleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "d0f2de47-bb3f-5401-adda-d70b0bdc2f1c",
+          "titles": {
+            "ar": "الرسوم الحيوانية",
+            "de": "Tierdarstellungen",
+            "en": "Animal Representation",
+            "fr": "Représentation animale",
+            "it": "La raffigurazione degli animali",
+            "pt": "A representação de animais",
+            "es": "La representación de animales",
+            "se": "Bilder av djur",
+            "tr": "Hayvan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -2151,6 +2980,49 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/5/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "79e2b8e9-7cfa-5332-82b0-542b14234df5",
+          "titles": {
+            "ar": "حفلات البلاط وتساليه",
+            "de": "Zeremoniell und Zeitvertreib am Hof",
+            "en": "Court Ceremonials and Pastimes",
+            "fr": "Cérémonial et divertissements à la cour",
+            "it": "Cerimoniali e svaghi di corte",
+            "pt": "Cerimónias e passatempos cortesãos",
+            "es": "Ceremonias y pasatiempos cortesanos",
+            "se": "Hovets ceremonier och förströelser",
+            "tr": "Saray Törenleri ve Eğlenceleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
       }
     ],
     "languages": [
@@ -2327,6 +3199,131 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/5/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "79e2b8e9-7cfa-5332-82b0-542b14234df5",
+          "titles": {
+            "ar": "حفلات البلاط وتساليه",
+            "de": "Zeremoniell und Zeitvertreib am Hof",
+            "en": "Court Ceremonials and Pastimes",
+            "fr": "Cérémonial et divertissements à la cour",
+            "it": "Cerimoniali e svaghi di corte",
+            "pt": "Cerimónias e passatempos cortesãos",
+            "es": "Ceremonias y pasatiempos cortesanos",
+            "se": "Hovets ceremonier och förströelser",
+            "tr": "Saray Törenleri ve Eğlenceleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "24e11f60-92ed-5fc9-959e-e0aa49482ffe",
+          "titles": {
+            "ar": "الرسوم الآدمية",
+            "de": "Menschendarstellungen",
+            "en": "Human Representation",
+            "fr": "Représentation humaine",
+            "it": "La raffigurazione umana",
+            "pt": "A representação humana",
+            "es": "La representación humana",
+            "se": "Bilder av människor",
+            "tr": "İnsan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-women",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "a09c8ed7-01f3-5c9b-bd21-96a1d81c4678",
+          "titles": {
+            "ar": "المرأة",
+            "de": "Frauen",
+            "en": "Women",
+            "fr": "Les Femmes",
+            "it": "Le Donne",
+            "pt": "As mulheres",
+            "es": "Las mujeres",
+            "se": "Kvinnor",
+            "tr": "Kadınlar"
+          }
+        },
+        "theme": {
+          "id": "120cbd81-d9a2-540e-a178-dc11c283fc2d",
+          "titles": {
+            "ar": "حياة المرأة المسلمة الخاصة",
+            "de": "Das Privatleben muslimischer Frauen",
+            "en": "The Private Lives of Muslim Women",
+            "fr": "La vie privée des femmes musulmanes",
+            "it": "La donne musulmane e la vita domestica",
+            "pt": "Vida privada das mulheres muçulmanas",
+            "es": "Vida privada de la mujer musulmana",
+            "se": "Muslimska kvinnors privatliv",
+            "tr": "Müslüman Kadınların Özel Yaşamı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          23
+        ]
       }
     ],
     "languages": [
@@ -2511,6 +3508,49 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "c3c3c6a9-356a-5b3d-b18a-805d7175e3fa",
+          "titles": {
+            "ar": "الإصلاحات الإدارية",
+            "de": "Verwaltungsreformen",
+            "en": "Administrative Reforms",
+            "fr": "Réformes administratives",
+            "it": "Riforme amministrative",
+            "pt": "Reformas administrativas",
+            "es": "Reformas administrativas",
+            "se": "Förvaltningsreformer",
+            "tr": "İdari Reformlar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
       }
     ],
     "languages": [
@@ -2735,6 +3775,188 @@
         "name": "Water in Islam"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "8b555882-9559-52d8-ae93-cfbbd27f9bfe",
+          "titles": {
+            "ar": "مباهج واحتفالات في البلاط",
+            "de": "Vergnügungen und Festlichkeiten am Hof",
+            "en": "Pleasures and Celebrations at Court",
+            "fr": "Plaisirs et festivités à la cour",
+            "it": "I piaceri e le feste di corte",
+            "pt": "Prazeres e celebrações na corte",
+            "es": "Placeres y celebraciones en la corte",
+            "se": "Fester och nöjen vid hovet",
+            "tr": "Saray Eğlenceleri ve Kutlamaları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-women",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "a09c8ed7-01f3-5c9b-bd21-96a1d81c4678",
+          "titles": {
+            "ar": "المرأة",
+            "de": "Frauen",
+            "en": "Women",
+            "fr": "Les Femmes",
+            "it": "Le Donne",
+            "pt": "As mulheres",
+            "es": "Las mujeres",
+            "se": "Kvinnor",
+            "tr": "Kadınlar"
+          }
+        },
+        "theme": {
+          "id": "120cbd81-d9a2-540e-a178-dc11c283fc2d",
+          "titles": {
+            "ar": "حياة المرأة المسلمة الخاصة",
+            "de": "Das Privatleben muslimischer Frauen",
+            "en": "The Private Lives of Muslim Women",
+            "fr": "La vie privée des femmes musulmanes",
+            "it": "La donne musulmane e la vita domestica",
+            "pt": "Vida privada das mulheres muçulmanas",
+            "es": "Vida privada de la mujer musulmana",
+            "se": "Muslimska kvinnors privatliv",
+            "tr": "Müslüman Kadınların Özel Yaşamı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          23
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-siculo-norman",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "87981465-ac17-588c-98d9-d4f2d4298bdc",
+          "titles": {
+            "ar": "النورمنديون في صقلية",
+            "de": "Die Normannen in Sizilien",
+            "en": "The Normans in Sicily",
+            "fr": "Les Normands en Sicile",
+            "it": "I Normanni in Sicilia",
+            "pt": "Os normandos na Sicília",
+            "es": "Los normandos en Sicilia",
+            "se": "Normanderna på Sicilien",
+            "tr": "Sicilya'da Normanlar"
+          }
+        },
+        "theme": {
+          "id": "1de88509-41c2-5db1-91f2-cf64dc633e29",
+          "titles": {
+            "ar": "صقلية المسيحية وفن الرسم الإسلامي قبل وبعد السيطرة النورمندية",
+            "de": "Das christliche Sizilien und die islamische Bildende Kunst: Vorbedingungen und Kontinuität",
+            "en": "Christian Sicily and Islamic Figurative Culture: Foundations and Continuity",
+            "fr": "La Sicile chrétienne et la culture figurative islamique : préexistences et continuités.",
+            "it": "La Sicilia cristiana e la cultura figurativa islamica: preesistenze e continuità",
+            "pt": "A Sicília islâmica e a cultura figurativa: vestígios e continuidade",
+            "es": "La Sicilia cristiana y la cultura figurativa islámica: vestigios y continuidad",
+            "se": "Det kristna Sicilien och den islamiska figurativa kulturen: grunden och kontinuiteten",
+            "tr": "Hıristiyan Sicilya ve İslam Figüratif Kültürü: Temelleri ve Sürekliliği"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          25
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/2/5/3",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "ebf15498-6f84-536b-aac4-f726dd74ced5",
+          "titles": {
+            "en": "Domestic and Urban Spheres"
+          }
+        },
+        "subtheme": {
+          "id": "2a31b6e0-43fa-5b33-af86-569f085568d3",
+          "titles": {
+            "en": "Domestic Hygiene"
+          }
+        },
+        "legacy_order": [
+          3
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/1/2/19",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "1f017095-8e3e-52a0-b395-e5e6c5447615",
+          "titles": {
+            "de": "Primärfarben und Emotionen",
+            "en": "Primary Colours and Emotions"
+          }
+        },
+        "subtheme": {
+          "id": "dc677af8-ab22-5a45-aa49-655d978e7365",
+          "titles": {
+            "de": "Primary Colours in Architectural Monuments",
+            "en": "Primary Colours in Architectural Monuments"
+          }
+        },
+        "legacy_order": [
+          19
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -2800,6 +4022,40 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/2/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "e5da444f-e56f-5dd3-9d95-62f9f6ceb9f8",
+          "titles": {
+            "en": "The formation of museums"
+          }
+        },
+        "subtheme": {
+          "id": "d21eb5d2-cdce-5f72-a917-0fcf9ad47608",
+          "titles": {
+            "en": "Museums in Europe"
+          }
+        },
+        "legacy_order": [
+          3,
+          1,
+          4
+        ]
       }
     ],
     "languages": [
@@ -2900,6 +4156,33 @@
         "legacy_host": "https://wallpaintings.museumwnf.org",
         "site": "wallpaintings",
         "name": "Wall paintings and frescoes"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-bourgeoisie",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "75f28465-8738-554e-af5d-f6804a9c2802",
+          "titles": {
+            "en": "The Ascension of the Bourgeoisie"
+          }
+        },
+        "theme": {
+          "id": "987e3008-9519-56ce-9028-5d2c377d716b",
+          "titles": {
+            "en": "The Bourgeois Gentleman"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          50
+        ]
       }
     ],
     "languages": [

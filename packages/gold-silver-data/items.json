@@ -134,6 +134,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -238,6 +239,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -372,6 +374,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -497,6 +500,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -644,6 +648,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -739,6 +744,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -832,6 +838,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -929,6 +936,58 @@
         "legacy_host": "https://portraits.museumwnf.org",
         "site": "portraits",
         "name": "Portraits"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-travelling-and-exotism",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "fb21ee03-874b-5ba1-95d5-bde929f2762d",
+          "titles": {
+            "en": "Travelling and Exoticism"
+          }
+        },
+        "theme": {
+          "id": "9ce63534-6023-5477-9a09-a9243529f217",
+          "titles": {
+            "en": "Trade and cultural interaction"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          44
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-absolutism",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+          "titles": {
+            "en": "Absolutism"
+          }
+        },
+        "theme": {
+          "id": "4c2f5ce9-d444-5756-8c05-5d3d3c624715",
+          "titles": {
+            "en": "Court life and diplomacy"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          46
+        ]
       }
     ],
     "languages": [
@@ -1179,6 +1238,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "cs",
       "en"
@@ -1281,6 +1341,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -1373,6 +1434,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -1434,6 +1496,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1498,6 +1561,72 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-migrations",
+        "path": "/theme/3/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "2353a4ff-1dd5-5807-9b96-c146b09485c2",
+          "titles": {
+            "en": "Migrations"
+          }
+        },
+        "theme": {
+          "id": "77e9c212-47c7-5247-ba99-903d861af98d",
+          "titles": {
+            "en": "North–South movements"
+          }
+        },
+        "subtheme": {
+          "id": "243e71ae-ca9b-5604-84f3-6f20f2952ec3",
+          "titles": {
+            "en": "A little-known story: Italian workers in Tunisia"
+          }
+        },
+        "legacy_order": [
+          36,
+          1,
+          75
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-economy-and-trade",
+        "path": "/theme/3/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "8bebd45c-0749-50b8-ad43-dc6cb58c395b",
+          "titles": {
+            "en": "Economy and Trade"
+          }
+        },
+        "theme": {
+          "id": "766e7876-319d-5edb-809e-b36bb516537c",
+          "titles": {
+            "en": "Important trading hubs"
+          }
+        },
+        "subtheme": {
+          "id": "ba9c7efb-89b3-51f0-8017-90345c33f679",
+          "titles": {
+            "en": "Trading communities"
+          }
+        },
+        "legacy_order": [
+          51,
+          1,
+          116
+        ]
       }
     ],
     "languages": [
@@ -1580,6 +1709,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1664,6 +1794,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -1760,6 +1891,40 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-music-literature-dance-and-fashion",
+        "path": "/theme/3/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c9335788-c5e2-5748-8aca-0d5e79500ab0",
+          "titles": {
+            "en": "Music, Literature, Dance and Fashion"
+          }
+        },
+        "theme": {
+          "id": "74050d04-8c6c-5ad0-9c80-9ac46f59d8c2",
+          "titles": {
+            "en": "Dance and entertainment"
+          }
+        },
+        "subtheme": {
+          "id": "ce477b96-95a2-59e4-a4ed-3fffe7f18059",
+          "titles": {
+            "en": "Traditional folk dances"
+          }
+        },
+        "legacy_order": [
+          49,
+          1,
+          149
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1836,6 +2001,40 @@
         "legacy_host": "https://arms-armoury.museumwnf.org",
         "site": "arms-armoury",
         "name": "Arms and Armoury"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-music-literature-dance-and-fashion",
+        "path": "/theme/3/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c9335788-c5e2-5748-8aca-0d5e79500ab0",
+          "titles": {
+            "en": "Music, Literature, Dance and Fashion"
+          }
+        },
+        "theme": {
+          "id": "74050d04-8c6c-5ad0-9c80-9ac46f59d8c2",
+          "titles": {
+            "en": "Dance and entertainment"
+          }
+        },
+        "subtheme": {
+          "id": "ce477b96-95a2-59e4-a4ed-3fffe7f18059",
+          "titles": {
+            "en": "Traditional folk dances"
+          }
+        },
+        "legacy_order": [
+          49,
+          1,
+          149
+        ]
       }
     ],
     "languages": [
@@ -1952,6 +2151,7 @@
         "name": "Ivory"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -2026,6 +2226,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "el",
@@ -2087,6 +2288,33 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-bourgeoisie",
+        "path": "/exhibition/5/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "75f28465-8738-554e-af5d-f6804a9c2802",
+          "titles": {
+            "en": "The Ascension of the Bourgeoisie"
+          }
+        },
+        "theme": {
+          "id": "55de40f9-81fa-51bb-8b14-65ea6c36eebf",
+          "titles": {
+            "en": "For Eternal Remembrance"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          50
+        ]
       }
     ],
     "languages": [
@@ -2182,6 +2410,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -2309,6 +2538,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -2383,6 +2613,89 @@
         "legacy_host": "https://exhibitions.museumwnf.org",
         "site": "the-table-is-set",
         "name": "The Table Is Set"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "7888f842-0c26-5030-a87a-95f171c11d78",
+          "titles": {
+            "en": "Encountering the West"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          52,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/1/3/3",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "d895a076-21e8-5cd0-809f-8d8046a05a60",
+          "titles": {
+            "en": "Food at Islamic Courts"
+          }
+        },
+        "subtheme": {
+          "id": "2d56f50e-20ad-5149-ad19-f3994d865877",
+          "titles": {
+            "en": "Palatial Plates: Dishes and Diets of Islamic Courts"
+          }
+        },
+        "legacy_order": [
+          3
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/6/2/17",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "b7ef5340-5385-5a3c-a441-d738e99f2269",
+          "titles": {
+            "en": "Coexistence"
+          }
+        },
+        "subtheme": {
+          "id": "fbc88500-65ce-5081-90df-faf94cdf1a32",
+          "titles": {
+            "en": "Food-related Craftsmanship and Industries from and for the Islamic World"
+          }
+        },
+        "legacy_order": [
+          17
+        ]
       }
     ],
     "languages": [
@@ -2494,6 +2807,35 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/1/3/11",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "d895a076-21e8-5cd0-809f-8d8046a05a60",
+          "titles": {
+            "en": "Food at Islamic Courts"
+          }
+        },
+        "subtheme": {
+          "id": "2d56f50e-20ad-5149-ad19-f3994d865877",
+          "titles": {
+            "en": "Palatial Plates: Dishes and Diets of Islamic Courts"
+          }
+        },
+        "legacy_order": [
+          11
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "el",
@@ -2573,6 +2915,35 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/1/3/10",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "d895a076-21e8-5cd0-809f-8d8046a05a60",
+          "titles": {
+            "en": "Food at Islamic Courts"
+          }
+        },
+        "subtheme": {
+          "id": "2d56f50e-20ad-5149-ad19-f3994d865877",
+          "titles": {
+            "en": "Palatial Plates: Dishes and Diets of Islamic Courts"
+          }
+        },
+        "legacy_order": [
+          10
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "el",
@@ -2631,6 +3002,42 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/3/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "455e9772-e7c7-5b27-acb0-ec12bc4e468b",
+          "titles": {
+            "en": "Tourism"
+          }
+        },
+        "subtheme": {
+          "id": "4bf0185a-28d7-50b2-a737-655c61118d6b",
+          "titles": {
+            "en": "Souvenirs"
+          }
+        },
+        "legacy_order": [
+          17,
+          1,
+          104
+        ]
       }
     ],
     "languages": [
@@ -2738,6 +3145,35 @@
         "name": "The Hijaz Railway"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/2/1/25",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "f9fbfb04-4e15-5b34-8b72-548b41e013c8",
+          "titles": {
+            "en": "From the Train Window"
+          }
+        },
+        "subtheme": {
+          "id": "70a44ddf-91b4-5789-9087-b25d0f0d84c8",
+          "titles": {
+            "en": "Travellers and Identities"
+          }
+        },
+        "legacy_order": [
+          25
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2799,6 +3235,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2922,6 +3359,90 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/5/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "1d025879-0f4e-58f5-9d96-55b7af6f72a3",
+          "titles": {
+            "ar": "حضارة الكلمة",
+            "de": "Die Kultur des Wortes",
+            "en": "Civilisation of the Word",
+            "fr": "La civilisation du mot",
+            "it": "La Civiltà della Parola",
+            "pt": "A civilização da palavra",
+            "es": "La civilización de la palabra",
+            "se": "Ordets civilisation",
+            "tr": "Kelam’ın Medeniyeti"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/5/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "5374f1d7-28b8-5e64-8bb8-d12ba84fb6a1",
+          "titles": {
+            "ar": "البلاط والمجوهرات: ثروة وتميز وحماية",
+            "de": "Der Schmuck: Reichtum, Prestige und Schutz",
+            "en": "Jewellery: Wealth, Prestige and Protection",
+            "fr": "Les bijoux : richesse, prestige et protection",
+            "it": "I gioielli: ricchezza, prestigio e protezione esoterica",
+            "pt": "As jóias: riqueza, prestígio e protecção",
+            "es": "Las joyas: riqueza, prestigio y protección",
+            "se": "Smycken: rikedom, prestige och beskydd",
+            "tr": "Mücevherat: Zenginlik, Saygınlık, Güven"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -3000,6 +3521,62 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/3/2/8",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "99437e6b-b376-5f86-9a58-f2f1bbf55c32",
+          "titles": {
+            "en": "Religion"
+          }
+        },
+        "subtheme": {
+          "id": "d8c7a0b9-0782-5614-b08e-7125add26515",
+          "titles": {
+            "en": "Religious Festivals, Preparation and Dishes"
+          }
+        },
+        "legacy_order": [
+          8
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/6/2/16",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "b7ef5340-5385-5a3c-a441-d738e99f2269",
+          "titles": {
+            "en": "Coexistence"
+          }
+        },
+        "subtheme": {
+          "id": "fbc88500-65ce-5081-90df-faf94cdf1a32",
+          "titles": {
+            "en": "Food-related Craftsmanship and Industries from and for the Islamic World"
+          }
+        },
+        "legacy_order": [
+          16
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -3068,6 +3645,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -3162,6 +3740,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -3226,6 +3805,64 @@
         "legacy_host": "https://exhibitions.museumwnf.org",
         "site": "the-table-is-set",
         "name": "The Table Is Set"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "455e9772-e7c7-5b27-acb0-ec12bc4e468b",
+          "titles": {
+            "en": "Tourism"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          17,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/3/2/5",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "99437e6b-b376-5f86-9a58-f2f1bbf55c32",
+          "titles": {
+            "en": "Religion"
+          }
+        },
+        "subtheme": {
+          "id": "d8c7a0b9-0782-5614-b08e-7125add26515",
+          "titles": {
+            "en": "Religious Festivals, Preparation and Dishes"
+          }
+        },
+        "legacy_order": [
+          5
+        ]
       }
     ],
     "languages": [
@@ -3314,6 +3951,35 @@
         "legacy_host": "https://exhibitions.museumwnf.org",
         "site": "the-hijaz-railway",
         "name": "The Hijaz Railway"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/2/1/9",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "f9fbfb04-4e15-5b34-8b72-548b41e013c8",
+          "titles": {
+            "en": "From the Train Window"
+          }
+        },
+        "subtheme": {
+          "id": "70a44ddf-91b4-5789-9087-b25d0f0d84c8",
+          "titles": {
+            "en": "Travellers and Identities"
+          }
+        },
+        "legacy_order": [
+          9
+        ]
       }
     ],
     "languages": [
@@ -3412,6 +4078,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -3493,6 +4160,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3579,6 +4247,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -3654,6 +4323,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3795,6 +4465,7 @@
         "name": "Ivory"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -3904,6 +4575,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -4001,6 +4673,40 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-migrations",
+        "path": "/theme/2/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "2353a4ff-1dd5-5807-9b96-c146b09485c2",
+          "titles": {
+            "en": "Migrations"
+          }
+        },
+        "theme": {
+          "id": "0d6a1796-1c65-528a-b375-c1a9ffc51627",
+          "titles": {
+            "en": "Migrations within the Ottoman Empire"
+          }
+        },
+        "subtheme": {
+          "id": "2cdff9a6-e812-5fdf-a5e3-7969a0de0fd6",
+          "titles": {
+            "en": "Refugee victims of the break-up of the Ottoman Empire"
+          }
+        },
+        "legacy_order": [
+          35,
+          1,
+          133
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4096,6 +4802,38 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/14",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          14
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -4165,6 +4903,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -4264,6 +5003,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -4354,6 +5094,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -4429,6 +5170,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4603,6 +5345,90 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ayyubids",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "28d9a4d3-c0f4-52e4-b504-b865ba01f483",
+          "titles": {
+            "ar": "الأتابكة والأيوبيون",
+            "de": "Die Atabege und Ayyubiden",
+            "en": "The Atabegs and Ayyubids",
+            "fr": "Atabegs et Ayyoubides",
+            "it": "Gli Atabeg e gli Ayyubidi",
+            "pt": "Os Atabegs e os Ayyubidas",
+            "es": "Atabegs y ayyubíes",
+            "se": "Atabegerna och ayyubiderna",
+            "tr": "Atabekler ve Eyyubiler"
+          }
+        },
+        "theme": {
+          "id": "6a3348dc-029d-59c2-af77-31ec3a3dfe2f",
+          "titles": {
+            "ar": "حياة البلاط",
+            "de": "Leben am Hof",
+            "en": "Court Life",
+            "fr": "Vie de cour",
+            "it": "Vita di Corte",
+            "pt": "A vida na corte",
+            "es": "La vida en la corte",
+            "se": "Hovlivet",
+            "tr": "Saray Yaşamı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          15
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-women",
+        "path": "/exhibition/4/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "a09c8ed7-01f3-5c9b-bd21-96a1d81c4678",
+          "titles": {
+            "ar": "المرأة",
+            "de": "Frauen",
+            "en": "Women",
+            "fr": "Les Femmes",
+            "it": "Le Donne",
+            "pt": "As mulheres",
+            "es": "Las mujeres",
+            "se": "Kvinnor",
+            "tr": "Kadınlar"
+          }
+        },
+        "theme": {
+          "id": "120cbd81-d9a2-540e-a178-dc11c283fc2d",
+          "titles": {
+            "ar": "حياة المرأة المسلمة الخاصة",
+            "de": "Das Privatleben muslimischer Frauen",
+            "en": "The Private Lives of Muslim Women",
+            "fr": "La vie privée des femmes musulmanes",
+            "it": "La donne musulmane e la vita domestica",
+            "pt": "Vida privada das mulheres muçulmanas",
+            "es": "Vida privada de la mujer musulmana",
+            "se": "Muslimska kvinnors privatliv",
+            "tr": "Müslüman Kadınların Özel Yaşamı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          23
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -4682,6 +5508,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -4747,6 +5574,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4810,6 +5638,40 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-economy-and-trade",
+        "path": "/theme/3/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "8bebd45c-0749-50b8-ad43-dc6cb58c395b",
+          "titles": {
+            "en": "Economy and Trade"
+          }
+        },
+        "theme": {
+          "id": "766e7876-319d-5edb-809e-b36bb516537c",
+          "titles": {
+            "en": "Important trading hubs"
+          }
+        },
+        "subtheme": {
+          "id": "ba9c7efb-89b3-51f0-8017-90345c33f679",
+          "titles": {
+            "en": "Trading communities"
+          }
+        },
+        "legacy_order": [
+          51,
+          1,
+          116
+        ]
       }
     ],
     "languages": [
@@ -4902,6 +5764,35 @@
         "name": "The Hijaz Railway"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/1/1/16",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "705dfb0c-00cf-54a9-9f9d-314ae8771258",
+          "titles": {
+            "en": "Lines of History"
+          }
+        },
+        "subtheme": {
+          "id": "0e141b33-0d0b-5751-95ed-4573ce900317",
+          "titles": {
+            "en": "Building the Sultan’s Dream"
+          }
+        },
+        "legacy_order": [
+          16
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4992,6 +5883,35 @@
         "name": "The Hijaz Railway"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/1/1/17",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "705dfb0c-00cf-54a9-9f9d-314ae8771258",
+          "titles": {
+            "en": "Lines of History"
+          }
+        },
+        "subtheme": {
+          "id": "0e141b33-0d0b-5751-95ed-4573ce900317",
+          "titles": {
+            "en": "Building the Sultan’s Dream"
+          }
+        },
+        "legacy_order": [
+          17
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -5072,6 +5992,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -5178,6 +6099,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -5322,6 +6244,49 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/4/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "82eec7f2-6d4c-57c6-b028-8d6d584a67ec",
+          "titles": {
+            "ar": "حياة البلاط",
+            "de": "Der Hof",
+            "en": "Court Life",
+            "fr": "La cour",
+            "it": "La corte",
+            "pt": "A corte",
+            "es": "La corte",
+            "se": "Livet vid hovet",
+            "tr": "Saray Yaşamı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -5430,6 +6395,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -5566,6 +6532,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -5686,6 +6653,90 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ayyubids",
+        "path": "/exhibition/2/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "28d9a4d3-c0f4-52e4-b504-b865ba01f483",
+          "titles": {
+            "ar": "الأتابكة والأيوبيون",
+            "de": "Die Atabege und Ayyubiden",
+            "en": "The Atabegs and Ayyubids",
+            "fr": "Atabegs et Ayyoubides",
+            "it": "Gli Atabeg e gli Ayyubidi",
+            "pt": "Os Atabegs e os Ayyubidas",
+            "es": "Atabegs y ayyubíes",
+            "se": "Atabegerna och ayyubiderna",
+            "tr": "Atabekler ve Eyyubiler"
+          }
+        },
+        "theme": {
+          "id": "67215e86-8b87-5410-a941-05738096eb5a",
+          "titles": {
+            "ar": "الحياة الدينية",
+            "de": "Religiöses Leben",
+            "en": "Religious Life",
+            "fr": "Vie religieuse",
+            "it": "Pratica Religiosa",
+            "pt": "A vida religiosa",
+            "es": "La vida religiosa",
+            "se": "Det religiösa livet",
+            "tr": "Dini Yaşam"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          15
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-crusader",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "4c126e80-2567-5abd-9191-3d40f380e81f",
+          "titles": {
+            "ar": "الفرنجة: الصليبيون في المشرق",
+            "de": "Al-Frandsch: Die Kreuzfahrer in der Levante",
+            "en": "Al-Franj: the Crusaders in the Levant",
+            "fr": "Al-Franj : les Croisés au Levant",
+            "it": "Al-Franj: I Crociati nel Levante",
+            "pt": "Al-franj, os cruzados no Levante",
+            "es": "Al-frany, los cruzados en el Levante",
+            "se": "*Al-Franj*: the Crusaders in the Levant",
+            "tr": "El-Frenc: Levant’ta Haçlılar"
+          }
+        },
+        "theme": {
+          "id": "7e85c07a-48f2-5fc5-b04e-c0bb4eaed801",
+          "titles": {
+            "ar": "الحج إلى الأراضي المقدسة",
+            "de": "Pilgerfahrten ins Heilige Land",
+            "en": "Pilgrimage to the Holy Land",
+            "fr": "Pèlerinage en Terre sainte",
+            "it": "Il pellegrinaggio verso la Terra Santa",
+            "pt": "A peregrinação à Terra Santa",
+            "es": "La peregrinación a Tierra Santa",
+            "se": "Pilgrimsresan till det Heliga Landet",
+            "tr": "Kutsal Topraklara Hac Yolculuğu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          24
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -5774,6 +6825,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -5860,6 +6912,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -5916,6 +6969,40 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/1/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "bb2620a9-f87c-5da2-9ee9-25d3d53ac2d9",
+          "titles": {
+            "en": "Collecting"
+          }
+        },
+        "subtheme": {
+          "id": "4561fca8-d47a-5892-b1d5-04d0298eb3d5",
+          "titles": {
+            "en": "Collectors and dealers"
+          }
+        },
+        "legacy_order": [
+          20,
+          1,
+          52
+        ]
       }
     ],
     "languages": [
@@ -6074,6 +7161,35 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/1/3/7",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "d895a076-21e8-5cd0-809f-8d8046a05a60",
+          "titles": {
+            "en": "Food at Islamic Courts"
+          }
+        },
+        "subtheme": {
+          "id": "2d56f50e-20ad-5149-ad19-f3994d865877",
+          "titles": {
+            "en": "Palatial Plates: Dishes and Diets of Islamic Courts"
+          }
+        },
+        "legacy_order": [
+          7
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "el",
@@ -6224,6 +7340,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -6334,6 +7451,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -6407,6 +7525,35 @@
         "name": "The Hijaz Railway"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/2/2/5",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "f9fbfb04-4e15-5b34-8b72-548b41e013c8",
+          "titles": {
+            "en": "From the Train Window"
+          }
+        },
+        "subtheme": {
+          "id": "0593ab8d-bef3-5793-857c-0dc9a8f95ab4",
+          "titles": {
+            "en": "Objects of Exchange and Mobility"
+          }
+        },
+        "legacy_order": [
+          5
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -6461,6 +7608,40 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/3/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "7888f842-0c26-5030-a87a-95f171c11d78",
+          "titles": {
+            "en": "Encountering the West"
+          }
+        },
+        "subtheme": {
+          "id": "bf266bd8-1fcd-5149-9bc6-cd75d44f6660",
+          "titles": {
+            "en": "Decorative arts"
+          }
+        },
+        "legacy_order": [
+          52,
+          1,
+          127
+        ]
       }
     ],
     "languages": [
@@ -6538,6 +7719,72 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/3/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "61060da6-f4f8-5783-8348-d63a8992aaaa",
+          "titles": {
+            "en": "Inspired by the past"
+          }
+        },
+        "subtheme": {
+          "id": "31d8ab23-7e7b-5aae-b421-1b6690c3cdc8",
+          "titles": {
+            "en": "Archaeology as inspiration"
+          }
+        },
+        "legacy_order": [
+          2,
+          1,
+          1
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/2/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "7d68e2e9-6d60-5c4f-938e-3972cbd0cc77",
+          "titles": {
+            "en": "Encountering the East"
+          }
+        },
+        "subtheme": {
+          "id": "b0bad80c-0c28-5834-9e36-03d8ce3a9cd1",
+          "titles": {
+            "en": "Orientalist applied arts"
+          }
+        },
+        "legacy_order": [
+          21,
+          1,
+          125
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -6599,6 +7846,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6670,6 +7918,35 @@
         "legacy_host": "https://exhibitions.museumwnf.org",
         "site": "the-table-is-set",
         "name": "The Table Is Set"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/2/1/3",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "238a4c4f-8bb3-584d-829b-208cef78fb0c",
+          "titles": {
+            "en": "Social Life"
+          }
+        },
+        "subtheme": {
+          "id": "6a5071c2-d01d-519b-9fc3-c51994784f7e",
+          "titles": {
+            "en": "Food Symbolism in Islamic Culture"
+          }
+        },
+        "legacy_order": [
+          3
+        ]
       }
     ],
     "languages": [
@@ -6774,6 +8051,35 @@
         "name": "The Hijaz Railway"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/2/1/20",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "f9fbfb04-4e15-5b34-8b72-548b41e013c8",
+          "titles": {
+            "en": "From the Train Window"
+          }
+        },
+        "subtheme": {
+          "id": "70a44ddf-91b4-5789-9087-b25d0f0d84c8",
+          "titles": {
+            "en": "Travellers and Identities"
+          }
+        },
+        "legacy_order": [
+          20
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -6848,6 +8154,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6933,6 +8240,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "el",
@@ -7022,6 +8330,33 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "2ebd7b86-c767-599d-a725-e04825472322",
+          "titles": {
+            "en": "Specifics of devotional iconography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
       }
     ],
     "languages": [
@@ -7117,6 +8452,33 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/4/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "2ebd7b86-c767-599d-a725-e04825472322",
+          "titles": {
+            "en": "Specifics of devotional iconography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
       }
     ],
     "languages": [
@@ -7225,6 +8587,58 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-travelling-and-exotism",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "fb21ee03-874b-5ba1-95d5-bde929f2762d",
+          "titles": {
+            "en": "Travelling and Exoticism"
+          }
+        },
+        "theme": {
+          "id": "9ce63534-6023-5477-9a09-a9243529f217",
+          "titles": {
+            "en": "Trade and cultural interaction"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          44
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/4/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "2ebd7b86-c767-599d-a725-e04825472322",
+          "titles": {
+            "en": "Specifics of devotional iconography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
       }
     ],
     "languages": [
@@ -7370,6 +8784,60 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "1513f2af-e9a8-5e21-9e67-b67f44988eef",
+          "titles": {
+            "en": "Models and ornaments; materials and techniques"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/2/8",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
+          "titles": {
+            "en": "Religious art and architecture"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "cs",
       "en"
@@ -7495,6 +8963,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -7578,6 +9047,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -7665,6 +9135,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7800,6 +9271,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -7879,6 +9351,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -7970,6 +9443,71 @@
         "legacy_host": "https://arms-armoury.museumwnf.org",
         "site": "arms-armoury",
         "name": "Arms and Armoury"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "667048de-d76b-576f-89d6-595d2cb9b805",
+          "titles": {
+            "en": "Royal and diplomatic visits"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          14,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/1/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "667048de-d76b-576f-89d6-595d2cb9b805",
+          "titles": {
+            "en": "Royal and diplomatic visits"
+          }
+        },
+        "subtheme": {
+          "id": "57da46c4-2b9f-5966-9526-71fa810fea3d",
+          "titles": {
+            "en": "Diplomatic gifts"
+          }
+        },
+        "legacy_order": [
+          14,
+          1,
+          93
+        ]
       }
     ],
     "languages": [
@@ -8084,6 +9622,33 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-travelling-and-exotism",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "fb21ee03-874b-5ba1-95d5-bde929f2762d",
+          "titles": {
+            "en": "Travelling and Exoticism"
+          }
+        },
+        "theme": {
+          "id": "fea929fe-b9fb-53d2-b643-dc6dd9549ab3",
+          "titles": {
+            "en": "Travelling artists and patrons and the exchange of artworks"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          44
+        ]
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -8186,6 +9751,7 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -8281,6 +9847,38 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/2/16",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "850bc476-a718-531d-afc6-b642074d9598",
+          "titles": {
+            "de": "Jewellery and Accessories",
+            "en": "Jewellery and Accessories"
+          }
+        },
+        "legacy_order": [
+          16
+        ]
       }
     ],
     "languages": [
@@ -8402,6 +10000,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -8490,6 +10089,7 @@
         "name": "Portraits"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -8562,6 +10162,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8656,6 +10257,49 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/4/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "82eec7f2-6d4c-57c6-b028-8d6d584a67ec",
+          "titles": {
+            "ar": "حياة البلاط",
+            "de": "Der Hof",
+            "en": "Court Life",
+            "fr": "La cour",
+            "it": "La corte",
+            "pt": "A corte",
+            "es": "La corte",
+            "se": "Livet vid hovet",
+            "tr": "Saray Yaşamı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -8735,6 +10379,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -8811,6 +10456,35 @@
         "legacy_host": "https://exhibitions.museumwnf.org",
         "site": "the-table-is-set",
         "name": "The Table Is Set"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/5/4/3",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "735e5e35-f62a-5302-96aa-f2e9a69130dd",
+          "titles": {
+            "en": "Gendered Roles"
+          }
+        },
+        "subtheme": {
+          "id": "f409fb59-4b8b-5176-b415-788d1bc965d4",
+          "titles": {
+            "en": "Duties and Roles of Court Officers Serving Rulers and Nobility"
+          }
+        },
+        "legacy_order": [
+          3
+        ]
       }
     ],
     "languages": [
@@ -8930,6 +10604,58 @@
         "name": "Furniture and woodwork"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-ephemera",
+        "path": "/exhibition/4/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "9e8b4feb-4136-5c7e-9fb9-a6267e9aa01a",
+          "titles": {
+            "en": "Ephemera, Festivals and Theatrical Representation"
+          }
+        },
+        "theme": {
+          "id": "e6f97a6b-e2a3-55e1-a305-ddf297085e9e",
+          "titles": {
+            "en": "The theatre of the Church"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          43
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "5fd2859f-1e02-566e-88e5-d084c7f02c76",
+          "titles": {
+            "en": "Devotional objects"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -9027,6 +10753,110 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-travelling-and-exotism",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "fb21ee03-874b-5ba1-95d5-bde929f2762d",
+          "titles": {
+            "en": "Travelling and Exoticism"
+          }
+        },
+        "theme": {
+          "id": "9ce63534-6023-5477-9a09-a9243529f217",
+          "titles": {
+            "en": "Trade and cultural interaction"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          44
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "5fd2859f-1e02-566e-88e5-d084c7f02c76",
+          "titles": {
+            "en": "Devotional objects"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "1513f2af-e9a8-5e21-9e67-b67f44988eef",
+          "titles": {
+            "en": "Models and ornaments; materials and techniques"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-reformation",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "371247bc-5f01-5a23-98c8-7d4ce55b2551",
+          "titles": {
+            "en": "Reformation and Counter-Reformation",
+            "it": "Riforma e Controriforma"
+          }
+        },
+        "theme": {
+          "id": "4992dfab-f53c-5d25-ae82-8210773257e0",
+          "titles": {
+            "en": "Art as political tool",
+            "it": "L'arte come strumento politico"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          51
+        ]
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -9094,6 +10924,72 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-economy-and-trade",
+        "path": "/theme/3/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "8bebd45c-0749-50b8-ad43-dc6cb58c395b",
+          "titles": {
+            "en": "Economy and Trade"
+          }
+        },
+        "theme": {
+          "id": "766e7876-319d-5edb-809e-b36bb516537c",
+          "titles": {
+            "en": "Important trading hubs"
+          }
+        },
+        "subtheme": {
+          "id": "ba9c7efb-89b3-51f0-8017-90345c33f679",
+          "titles": {
+            "en": "Trading communities"
+          }
+        },
+        "legacy_order": [
+          51,
+          1,
+          116
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/3/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "7888f842-0c26-5030-a87a-95f171c11d78",
+          "titles": {
+            "en": "Encountering the West"
+          }
+        },
+        "subtheme": {
+          "id": "bf266bd8-1fcd-5149-9bc6-cd75d44f6660",
+          "titles": {
+            "en": "Decorative arts"
+          }
+        },
+        "legacy_order": [
+          52,
+          1,
+          127
+        ]
       }
     ],
     "languages": [
@@ -9174,6 +11070,33 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "5fd2859f-1e02-566e-88e5-d084c7f02c76",
+          "titles": {
+            "en": "Devotional objects"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -9238,6 +11161,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -9306,6 +11230,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -9433,6 +11358,76 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ottomans",
+        "path": "/exhibition/2/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "618dce7d-8482-5ccb-b334-54c0c96e6db0",
+          "titles": {
+            "ar": "العثمانيون",
+            "de": "Die Osmanen",
+            "en": "The Ottomans",
+            "fr": "Les Ottomans",
+            "it": "Gli Ottomani",
+            "pt": "Os otomanos",
+            "es": "Los otomanos",
+            "se": "Ottomanerna",
+            "tr": "Osmanlılar"
+          }
+        },
+        "theme": {
+          "id": "1438dcdb-5040-5d2a-b082-cda3a58a1031",
+          "titles": {
+            "ar": "حياة البلاط",
+            "de": "Das höfische Leben",
+            "en": "Court Life",
+            "fr": "La vie de cour",
+            "it": "Vita di corte",
+            "pt": "A vida na corte",
+            "es": "La vida en la corte",
+            "se": "Hovlivet",
+            "tr": "Saray Yaşamı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          18
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/3/2/17",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "99437e6b-b376-5f86-9a58-f2f1bbf55c32",
+          "titles": {
+            "en": "Religion"
+          }
+        },
+        "subtheme": {
+          "id": "d8c7a0b9-0782-5614-b08e-7125add26515",
+          "titles": {
+            "en": "Religious Festivals, Preparation and Dishes"
+          }
+        },
+        "legacy_order": [
+          17
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -9523,6 +11518,83 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-ephemera",
+        "path": "/exhibition/4/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "9e8b4feb-4136-5c7e-9fb9-a6267e9aa01a",
+          "titles": {
+            "en": "Ephemera, Festivals and Theatrical Representation"
+          }
+        },
+        "theme": {
+          "id": "e6f97a6b-e2a3-55e1-a305-ddf297085e9e",
+          "titles": {
+            "en": "The theatre of the Church"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          43
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "2ebd7b86-c767-599d-a725-e04825472322",
+          "titles": {
+            "en": "Specifics of devotional iconography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "1513f2af-e9a8-5e21-9e67-b67f44988eef",
+          "titles": {
+            "en": "Models and ornaments; materials and techniques"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -9604,6 +11676,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -9699,6 +11772,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -9766,6 +11840,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -9874,6 +11949,49 @@
         "name": "Calligraphy"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ottomans",
+        "path": "/exhibition/6/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "618dce7d-8482-5ccb-b334-54c0c96e6db0",
+          "titles": {
+            "ar": "العثمانيون",
+            "de": "Die Osmanen",
+            "en": "The Ottomans",
+            "fr": "Les Ottomans",
+            "it": "Gli Ottomani",
+            "pt": "Os otomanos",
+            "es": "Los otomanos",
+            "se": "Ottomanerna",
+            "tr": "Osmanlılar"
+          }
+        },
+        "theme": {
+          "id": "9b603cf4-3d1b-5d98-b644-0c415a7c2a10",
+          "titles": {
+            "ar": "حماة المواقع المقدسة",
+            "de": "Die Beschützer der Heiligen Stätten",
+            "en": "Guardians of the Holy Sites",
+            "fr": "Gardiens des sites sacrés",
+            "it": "Guardiani dei luoghi sacri",
+            "pt": "Guardiães dos Lugares Santos",
+            "es": "Guardianes de los Santos Lugares",
+            "se": "De heliga platsernas väktare",
+            "tr": "Kutsal Yerlerin Koruyucuları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          18
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -9939,6 +12057,69 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-great-inventions-of-the-19th-century",
+        "path": "/theme/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "1f123df9-1e8c-522c-833c-709f517c53f5",
+          "titles": {
+            "en": "Great Inventions of the 19th Century"
+          }
+        },
+        "theme": {
+          "id": "b647d8d2-0a0f-5951-af75-816364a08456",
+          "titles": {
+            "en": "Transportation"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/3/4",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "455e9772-e7c7-5b27-acb0-ec12bc4e468b",
+          "titles": {
+            "en": "Tourism"
+          }
+        },
+        "subtheme": {
+          "id": "c9699750-2707-5d05-9191-85b53449ff3b",
+          "titles": {
+            "en": "Travelling equipment"
+          }
+        },
+        "legacy_order": [
+          17,
+          1,
+          105
+        ]
       }
     ],
     "languages": [
@@ -10027,6 +12208,49 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-women",
+        "path": "/exhibition/4/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "a09c8ed7-01f3-5c9b-bd21-96a1d81c4678",
+          "titles": {
+            "ar": "المرأة",
+            "de": "Frauen",
+            "en": "Women",
+            "fr": "Les Femmes",
+            "it": "Le Donne",
+            "pt": "As mulheres",
+            "es": "Las mujeres",
+            "se": "Kvinnor",
+            "tr": "Kadınlar"
+          }
+        },
+        "theme": {
+          "id": "120cbd81-d9a2-540e-a178-dc11c283fc2d",
+          "titles": {
+            "ar": "حياة المرأة المسلمة الخاصة",
+            "de": "Das Privatleben muslimischer Frauen",
+            "en": "The Private Lives of Muslim Women",
+            "fr": "La vie privée des femmes musulmanes",
+            "it": "La donne musulmane e la vita domestica",
+            "pt": "Vida privada das mulheres muçulmanas",
+            "es": "Vida privada de la mujer musulmana",
+            "se": "Muslimska kvinnors privatliv",
+            "tr": "Müslüman Kadınların Özel Yaşamı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          23
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -10088,6 +12312,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -10225,6 +12450,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -10304,6 +12530,7 @@
         "name": "Arms and Armoury"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -10376,6 +12603,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -10433,6 +12661,40 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/1/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "bb2620a9-f87c-5da2-9ee9-25d3d53ac2d9",
+          "titles": {
+            "en": "Collecting"
+          }
+        },
+        "subtheme": {
+          "id": "4561fca8-d47a-5892-b1d5-04d0298eb3d5",
+          "titles": {
+            "en": "Collectors and dealers"
+          }
+        },
+        "legacy_order": [
+          20,
+          1,
+          52
+        ]
       }
     ],
     "languages": [
@@ -10501,6 +12763,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "de",
@@ -10570,6 +12833,40 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-music-literature-dance-and-fashion",
+        "path": "/theme/4/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c9335788-c5e2-5748-8aca-0d5e79500ab0",
+          "titles": {
+            "en": "Music, Literature, Dance and Fashion"
+          }
+        },
+        "theme": {
+          "id": "f5a5e2a9-8b0f-54f8-936a-212e35f37300",
+          "titles": {
+            "en": "Fashion"
+          }
+        },
+        "subtheme": {
+          "id": "4a9ea348-357e-5bb6-9e11-e26c48c2d0a1",
+          "titles": {
+            "en": "Costume as a marker of religious and tribal identity"
+          }
+        },
+        "legacy_order": [
+          50,
+          1,
+          154
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -10637,6 +12934,40 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-music-literature-dance-and-fashion",
+        "path": "/theme/4/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c9335788-c5e2-5748-8aca-0d5e79500ab0",
+          "titles": {
+            "en": "Music, Literature, Dance and Fashion"
+          }
+        },
+        "theme": {
+          "id": "f5a5e2a9-8b0f-54f8-936a-212e35f37300",
+          "titles": {
+            "en": "Fashion"
+          }
+        },
+        "subtheme": {
+          "id": "987faa89-91a4-534c-918d-718397681b24",
+          "titles": {
+            "en": "Traditional clothing: wedding costumes and jewellery"
+          }
+        },
+        "legacy_order": [
+          50,
+          1,
+          153
+        ]
       }
     ],
     "languages": [
@@ -10726,6 +13057,40 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-international-exhibitions",
+        "path": "/theme/3/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c3a68819-dcf2-5be4-8f9b-dcc45c8848e4",
+          "titles": {
+            "en": "International Exhibitions"
+          }
+        },
+        "theme": {
+          "id": "45f48684-0e67-585f-b139-161e8f11bef8",
+          "titles": {
+            "en": "The diffusion of models and promotion of trade"
+          }
+        },
+        "subtheme": {
+          "id": "c822dd09-0cd5-5672-afd5-3d0b3be08cfa",
+          "titles": {
+            "en": "Decorative arts and new schools of applied art"
+          }
+        },
+        "legacy_order": [
+          30,
+          1,
+          164
+        ]
       }
     ],
     "languages": [
@@ -10853,6 +13218,35 @@
         "legacy_host": "https://exhibitions.museumwnf.org",
         "site": "water-in-islam",
         "name": "Water in Islam"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/2/5/4",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "ebf15498-6f84-536b-aac4-f726dd74ced5",
+          "titles": {
+            "en": "Domestic and Urban Spheres"
+          }
+        },
+        "subtheme": {
+          "id": "2a31b6e0-43fa-5b33-af86-569f085568d3",
+          "titles": {
+            "en": "Domestic Hygiene"
+          }
+        },
+        "legacy_order": [
+          4
+        ]
       }
     ],
     "languages": [
@@ -11050,6 +13444,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -11113,6 +13508,33 @@
         "legacy_host": "https://gold-silver.museumwnf.org",
         "site": "gold-silver",
         "name": "Gold and Silver"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-absolutism",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+          "titles": {
+            "en": "Absolutism"
+          }
+        },
+        "theme": {
+          "id": "4c2f5ce9-d444-5756-8c05-5d3d3c624715",
+          "titles": {
+            "en": "Court life and diplomacy"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          46
+        ]
       }
     ],
     "languages": [
@@ -11188,6 +13610,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -11323,6 +13746,7 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -11392,6 +13816,40 @@
         "legacy_host": "https://arms-armoury.museumwnf.org",
         "site": "arms-armoury",
         "name": "Arms and Armoury"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-migrations",
+        "path": "/theme/2/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "2353a4ff-1dd5-5807-9b96-c146b09485c2",
+          "titles": {
+            "en": "Migrations"
+          }
+        },
+        "theme": {
+          "id": "0d6a1796-1c65-528a-b375-c1a9ffc51627",
+          "titles": {
+            "en": "Migrations within the Ottoman Empire"
+          }
+        },
+        "subtheme": {
+          "id": "118184dd-3d6f-5850-b875-de8f1a6d34b7",
+          "titles": {
+            "en": "Traders and craftsmen"
+          }
+        },
+        "legacy_order": [
+          35,
+          1,
+          72
+        ]
       }
     ],
     "languages": [
