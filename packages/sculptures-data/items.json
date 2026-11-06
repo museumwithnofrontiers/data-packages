@@ -60,6 +60,99 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/1/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "06e2b161-1f15-5d64-a574-9e389e995e1a",
+          "titles": {
+            "en": "The birth of archaeology"
+          }
+        },
+        "subtheme": {
+          "id": "96310872-f776-5cda-bc07-4c7bf07581e4",
+          "titles": {
+            "en": "In the shadow of the Sphinx"
+          }
+        },
+        "legacy_order": [
+          1,
+          1,
+          108
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "e5da444f-e56f-5dd3-9d95-62f9f6ceb9f8",
+          "titles": {
+            "en": "The formation of museums"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          3,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/2/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "e5da444f-e56f-5dd3-9d95-62f9f6ceb9f8",
+          "titles": {
+            "en": "The formation of museums"
+          }
+        },
+        "subtheme": {
+          "id": "d21eb5d2-cdce-5f72-a917-0fcf9ad47608",
+          "titles": {
+            "en": "Museums in Europe"
+          }
+        },
+        "legacy_order": [
+          3,
+          1,
+          4
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -122,6 +215,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -197,6 +291,33 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "dbc4a160-491f-5dc9-961d-d3a00838b04c",
+          "titles": {
+            "en": "Evolution of style"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -257,6 +378,33 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-absolutism",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+          "titles": {
+            "en": "Absolutism"
+          }
+        },
+        "theme": {
+          "id": "3e811dec-b59d-5e61-933b-b312951931b8",
+          "titles": {
+            "en": "Imperial dreams"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          46
+        ]
       }
     ],
     "languages": [
@@ -452,6 +600,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "cs",
       "en"
@@ -520,6 +669,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -616,6 +766,33 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/2/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "52405cc7-f8a0-51f2-9425-3f5531264975",
+          "titles": {
+            "en": "Illusion, gesture and movement"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -683,6 +860,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "cs",
       "en"
@@ -777,6 +955,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -838,6 +1017,35 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/5/5/8",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "367a1ed0-0e57-5a75-aae5-0a83f8f0367c",
+          "titles": {
+            "en": "Contemporary Context: Water in the Islamic World Today"
+          }
+        },
+        "subtheme": {
+          "id": "dd084451-a673-5a08-9e5c-1511b897833e",
+          "titles": {
+            "en": "Art and Water, Contemporary Approach"
+          }
+        },
+        "legacy_order": [
+          8
+        ]
       }
     ],
     "languages": [
@@ -973,6 +1181,33 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "5fd2859f-1e02-566e-88e5-d084c7f02c76",
+          "titles": {
+            "en": "Devotional objects"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
+      }
+    ],
     "languages": [
       "cs",
       "en"
@@ -1045,6 +1280,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "it"
@@ -1117,6 +1353,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "it"
@@ -1189,6 +1426,33 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-absolutism",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+          "titles": {
+            "en": "Absolutism"
+          }
+        },
+        "theme": {
+          "id": "3e811dec-b59d-5e61-933b-b312951931b8",
+          "titles": {
+            "en": "Imperial dreams"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          46
+        ]
       }
     ],
     "languages": [
@@ -1335,6 +1599,58 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-ephemera",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "9e8b4feb-4136-5c7e-9fb9-a6267e9aa01a",
+          "titles": {
+            "en": "Ephemera, Festivals and Theatrical Representation"
+          }
+        },
+        "theme": {
+          "id": "e6f97a6b-e2a3-55e1-a305-ddf297085e9e",
+          "titles": {
+            "en": "The theatre of the Church"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          43
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-bourgeoisie",
+        "path": "/exhibition/5/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "75f28465-8738-554e-af5d-f6804a9c2802",
+          "titles": {
+            "en": "The Ascension of the Bourgeoisie"
+          }
+        },
+        "theme": {
+          "id": "55de40f9-81fa-51bb-8b14-65ea6c36eebf",
+          "titles": {
+            "en": "For Eternal Remembrance"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          50
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1465,6 +1781,58 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "2ebd7b86-c767-599d-a725-e04825472322",
+          "titles": {
+            "en": "Specifics of devotional iconography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/4/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "d69b26e2-07a1-5cae-ae0f-47217d8ec12e",
+          "titles": {
+            "en": "Iconography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -1527,6 +1895,33 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "dbc4a160-491f-5dc9-961d-d3a00838b04c",
+          "titles": {
+            "en": "Evolution of style"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
       }
     ],
     "languages": [
@@ -1604,6 +1999,35 @@
         "legacy_host": "https://ivory.museumwnf.org",
         "site": "ivory",
         "name": "Ivory"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-reformation",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "371247bc-5f01-5a23-98c8-7d4ce55b2551",
+          "titles": {
+            "en": "Reformation and Counter-Reformation",
+            "it": "Riforma e Controriforma"
+          }
+        },
+        "theme": {
+          "id": "a15337d8-46f5-5085-aceb-2a7b99f53027",
+          "titles": {
+            "en": "A persuasive language for religious art",
+            "it": "Un linguaggio persuasivo per l'arte religiosa"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          51
+        ]
       }
     ],
     "languages": [
@@ -1697,6 +2121,7 @@
         "name": "Ivory"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "it"
@@ -1798,6 +2223,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-water",
+        "path": "/exhibition/3/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "e0d404ea-dbc1-591a-86a5-75265066d6f0",
+          "titles": {
+            "ar": "الماء",
+            "de": "Wasser",
+            "en": "Water",
+            "fr": "Eau",
+            "it": "L’acqua",
+            "pt": "A água",
+            "es": "El agua",
+            "se": "Vatten",
+            "tr": "Su"
+          }
+        },
+        "theme": {
+          "id": "4525acaf-2e58-57ae-aa47-33e20171397d",
+          "titles": {
+            "ar": "استعمال الماء: الشرب والغسل",
+            "de": "Wasser zum Trinken und Wasser zum Waschen",
+            "en": "Water Usage: Drinking and Washing",
+            "fr": "Les utilisations de l’eau : boisson et ablutions",
+            "it": "L’acqua negli usi del bere e del lavarsi",
+            "pt": "O uso da água para consumo e higiene",
+            "es": "El uso del agua para el consumo y la higiene",
+            "se": "Vattenbruk: att dricka och tvätta sig",
+            "tr": "Su Kullanımı: İçme ve Temizlik"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          22
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -1863,6 +2331,33 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/4/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "2ebd7b86-c767-599d-a725-e04825472322",
+          "titles": {
+            "en": "Specifics of devotional iconography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
       }
     ],
     "languages": [
@@ -1952,6 +2447,72 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-cities-and-urban-spaces",
+        "path": "/theme/1/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "5760ea9a-dc6f-52b5-bfd7-2c63dd3da757",
+          "titles": {
+            "en": "Cities and Urban Spaces"
+          }
+        },
+        "theme": {
+          "id": "24886656-d708-5839-9d18-301fa1b5341e",
+          "titles": {
+            "en": "The image of the city"
+          }
+        },
+        "subtheme": {
+          "id": "b3e7e8fe-2b55-50c0-b838-0314a78ef8b4",
+          "titles": {
+            "en": "The interconnection of design elements"
+          }
+        },
+        "legacy_order": [
+          6,
+          1,
+          15
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/3/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "7888f842-0c26-5030-a87a-95f171c11d78",
+          "titles": {
+            "en": "Encountering the West"
+          }
+        },
+        "subtheme": {
+          "id": "bf266bd8-1fcd-5149-9bc6-cd75d44f6660",
+          "titles": {
+            "en": "Decorative arts"
+          }
+        },
+        "legacy_order": [
+          52,
+          1,
+          127
+        ]
       }
     ],
     "languages": [
@@ -2074,6 +2635,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-floral",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "12faaae8-0400-53bd-ba84-f5e66e0027ef",
+          "titles": {
+            "ar": "أصداء الفردوس: جنة الفن الإسلامي وإلهة زهوره.",
+            "de": "Spiegelungen des Paradieses: Gärten und Blumen in der islamischen Kunst",
+            "en": "Echoes of Paradise: the Garden and Flora in Islamic Art",
+            "fr": "Échos du Paradis : le jardin et la flore dans l’art islamique",
+            "it": "Echi di Paradiso: il giardino e la flora nell’arte islamica",
+            "pt": "Ecos do paraíso: jardins e flora na arte islâmica",
+            "es": "Ecos del paraíso: jardines y flora en el arte islámico",
+            "se": "Ekot från paradiset: trädgården och blomman i den islamiska konsten",
+            "tr": "Cennetin Yansımaları: İslam Sanatında Bahçe ve Çiçekler"
+          }
+        },
+        "theme": {
+          "id": "4c42f69a-1a67-5fc7-9eb0-b5ed2c633802",
+          "titles": {
+            "ar": "صورتا جنة السماء وشجرة الحياة.",
+            "de": "Visionen des Himmlischen Gartens und des Lebensbaums",
+            "en": "Visions of the Heavenly Garden and the Tree-of-Life",
+            "fr": "Visions du jardin paradisiaque et de l’arbre de vie",
+            "it": "Raffigurazioni del Giardino del Cielo e dell’Albero della Vita",
+            "pt": "Visões do jardim celeste e da árvore da vida",
+            "es": "Visiones del jardín celestial y el árbol de la vida",
+            "se": "Visioner av den Himmelska Trädgården och Livets Träd",
+            "tr": "Cennet Bahçesinin ve Hayat Ağacının Görünümleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          28
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -2137,6 +2741,33 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "1513f2af-e9a8-5e21-9e67-b67f44988eef",
+          "titles": {
+            "en": "Models and ornaments; materials and techniques"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
       }
     ],
     "languages": [
@@ -2272,6 +2903,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2347,6 +2979,58 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "2ebd7b86-c767-599d-a725-e04825472322",
+          "titles": {
+            "en": "Specifics of devotional iconography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "dbc4a160-491f-5dc9-961d-d3a00838b04c",
+          "titles": {
+            "en": "Evolution of style"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -2417,6 +3101,33 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-bourgeoisie",
+        "path": "/exhibition/2/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "75f28465-8738-554e-af5d-f6804a9c2802",
+          "titles": {
+            "en": "The Ascension of the Bourgeoisie"
+          }
+        },
+        "theme": {
+          "id": "987e3008-9519-56ce-9028-5d2c377d716b",
+          "titles": {
+            "en": "The Bourgeois Gentleman"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          50
+        ]
       }
     ],
     "languages": [
@@ -2504,6 +3215,33 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-bourgeoisie",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "75f28465-8738-554e-af5d-f6804a9c2802",
+          "titles": {
+            "en": "The Ascension of the Bourgeoisie"
+          }
+        },
+        "theme": {
+          "id": "987e3008-9519-56ce-9028-5d2c377d716b",
+          "titles": {
+            "en": "The Bourgeois Gentleman"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          50
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2566,6 +3304,58 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-absolutism",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+          "titles": {
+            "en": "Absolutism"
+          }
+        },
+        "theme": {
+          "id": "4c2f5ce9-d444-5756-8c05-5d3d3c624715",
+          "titles": {
+            "en": "Court life and diplomacy"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          46
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "d69b26e2-07a1-5cae-ae0f-47217d8ec12e",
+          "titles": {
+            "en": "Iconography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
       }
     ],
     "languages": [
@@ -2635,6 +3425,99 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-international-exhibitions",
+        "path": "/theme/4/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c3a68819-dcf2-5be4-8f9b-dcc45c8848e4",
+          "titles": {
+            "en": "International Exhibitions"
+          }
+        },
+        "theme": {
+          "id": "243dad0a-448e-5b25-b9bd-6d85dd21b07a",
+          "titles": {
+            "en": "West and East, fine art at International Exhibitions"
+          }
+        },
+        "subtheme": {
+          "id": "0428e571-a9fe-5fdd-a0ef-a5d3761d8007",
+          "titles": {
+            "en": "Contemporary suggestions"
+          }
+        },
+        "legacy_order": [
+          31,
+          1,
+          163
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-reforms-and-social-changes",
+        "path": "/theme/4",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "a64d0674-78bf-5ac3-97ad-7d66056c91e2",
+          "titles": {
+            "en": "Reforms and Social Changes"
+          }
+        },
+        "theme": {
+          "id": "1321ebbd-54e2-5dc1-b98f-2463cd725227",
+          "titles": {
+            "en": "Work"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          41,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-reforms-and-social-changes",
+        "path": "/theme/4/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "a64d0674-78bf-5ac3-97ad-7d66056c91e2",
+          "titles": {
+            "en": "Reforms and Social Changes"
+          }
+        },
+        "theme": {
+          "id": "1321ebbd-54e2-5dc1-b98f-2463cd725227",
+          "titles": {
+            "en": "Work"
+          }
+        },
+        "subtheme": {
+          "id": "7bff97d4-e4df-5f47-99dc-d2cc3bdd19f7",
+          "titles": {
+            "en": "Working conditions"
+          }
+        },
+        "legacy_order": [
+          41,
+          1,
+          88
+        ]
       }
     ],
     "languages": [
@@ -2713,6 +3596,35 @@
         "name": "Ivory"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-reformation",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "371247bc-5f01-5a23-98c8-7d4ce55b2551",
+          "titles": {
+            "en": "Reformation and Counter-Reformation",
+            "it": "Riforma e Controriforma"
+          }
+        },
+        "theme": {
+          "id": "a15337d8-46f5-5085-aceb-2a7b99f53027",
+          "titles": {
+            "en": "A persuasive language for religious art",
+            "it": "Un linguaggio persuasivo per l'arte religiosa"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          51
+        ]
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -2776,6 +3688,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "it"
@@ -2842,6 +3755,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2948,6 +3862,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "pt"
@@ -3074,6 +3989,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "pt"
@@ -3175,6 +4091,33 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-travelling-and-exotism",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "fb21ee03-874b-5ba1-95d5-bde929f2762d",
+          "titles": {
+            "en": "Travelling and Exoticism"
+          }
+        },
+        "theme": {
+          "id": "1fe39a6f-552d-5e06-af0b-05d0768487c8",
+          "titles": {
+            "en": "Pilgrimage and the religious missions"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          44
+        ]
       }
     ],
     "languages": [
@@ -3319,6 +4262,33 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/2/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "52405cc7-f8a0-51f2-9425-3f5531264975",
+          "titles": {
+            "en": "Illusion, gesture and movement"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
+      }
+    ],
     "languages": [
       "cs",
       "en"
@@ -3387,6 +4357,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "pt"
@@ -3467,6 +4438,33 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "dbc4a160-491f-5dc9-961d-d3a00838b04c",
+          "titles": {
+            "en": "Evolution of style"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
       }
     ],
     "languages": [
@@ -3630,6 +4628,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "cs",
       "en"
@@ -3704,6 +4703,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "it"
@@ -3766,6 +4766,60 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "dbc4a160-491f-5dc9-961d-d3a00838b04c",
+          "titles": {
+            "en": "Evolution of style"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-reformation",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "371247bc-5f01-5a23-98c8-7d4ce55b2551",
+          "titles": {
+            "en": "Reformation and Counter-Reformation",
+            "it": "Riforma e Controriforma"
+          }
+        },
+        "theme": {
+          "id": "a15337d8-46f5-5085-aceb-2a7b99f53027",
+          "titles": {
+            "en": "A persuasive language for religious art",
+            "it": "Un linguaggio persuasivo per l'arte religiosa"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          51
+        ]
       }
     ],
     "languages": [
@@ -3846,6 +4900,33 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "dbc4a160-491f-5dc9-961d-d3a00838b04c",
+          "titles": {
+            "en": "Evolution of style"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
+      }
+    ],
     "languages": [
       "cs",
       "en"
@@ -3905,6 +4986,40 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-great-inventions-of-the-19th-century",
+        "path": "/theme/3/4",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "1f123df9-1e8c-522c-833c-709f517c53f5",
+          "titles": {
+            "en": "Great Inventions of the 19th Century"
+          }
+        },
+        "theme": {
+          "id": "b647d8d2-0a0f-5951-af75-816364a08456",
+          "titles": {
+            "en": "Transportation"
+          }
+        },
+        "subtheme": {
+          "id": "89b4b696-d0b6-5376-bf86-57c154154a26",
+          "titles": {
+            "en": "Waterways"
+          }
+        },
+        "legacy_order": [
+          10,
+          1,
+          32
+        ]
       }
     ],
     "languages": [
@@ -3967,6 +5082,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4029,6 +5145,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "it"
@@ -4100,6 +5217,35 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/5/5/1",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "367a1ed0-0e57-5a75-aae5-0a83f8f0367c",
+          "titles": {
+            "en": "Contemporary Context: Water in the Islamic World Today"
+          }
+        },
+        "subtheme": {
+          "id": "dd084451-a673-5a08-9e5c-1511b897833e",
+          "titles": {
+            "en": "Art and Water, Contemporary Approach"
+          }
+        },
+        "legacy_order": [
+          1
+        ]
       }
     ],
     "languages": [
@@ -4192,6 +5338,33 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "5fd2859f-1e02-566e-88e5-d084c7f02c76",
+          "titles": {
+            "en": "Devotional objects"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4254,6 +5427,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "it"
@@ -4434,6 +5608,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "cs",
       "en"
@@ -4625,6 +5800,103 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-water",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "e0d404ea-dbc1-591a-86a5-75265066d6f0",
+          "titles": {
+            "ar": "الماء",
+            "de": "Wasser",
+            "en": "Water",
+            "fr": "Eau",
+            "it": "L’acqua",
+            "pt": "A água",
+            "es": "El agua",
+            "se": "Vatten",
+            "tr": "Su"
+          }
+        },
+        "theme": {
+          "id": "4525acaf-2e58-57ae-aa47-33e20171397d",
+          "titles": {
+            "ar": "استعمال الماء: الشرب والغسل",
+            "de": "Wasser zum Trinken und Wasser zum Waschen",
+            "en": "Water Usage: Drinking and Washing",
+            "fr": "Les utilisations de l’eau : boisson et ablutions",
+            "it": "L’acqua negli usi del bere e del lavarsi",
+            "pt": "O uso da água para consumo e higiene",
+            "es": "El uso del agua para el consumo y la higiene",
+            "se": "Vattenbruk: att dricka och tvätta sig",
+            "tr": "Su Kullanımı: İçme ve Temizlik"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          22
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/3/1/11",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "99437e6b-b376-5f86-9a58-f2f1bbf55c32",
+          "titles": {
+            "en": "Religion"
+          }
+        },
+        "subtheme": {
+          "id": "88243574-b43d-52e0-96f3-587fec892cd3",
+          "titles": {
+            "en": "Food Rules and Recommendations"
+          }
+        },
+        "legacy_order": [
+          11
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/3/1/20",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "949af30f-e113-501b-8cea-ba30237d2ecd",
+          "titles": {
+            "en": "Religion and Spirituality"
+          }
+        },
+        "subtheme": {
+          "id": "f45fdab9-b22d-5759-be60-cc34bf79daa8",
+          "titles": {
+            "en": "\"Purity is Half of Faith\" (Hadith: Sahih Muslim 432)"
+          }
+        },
+        "legacy_order": [
+          20
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -4788,6 +6060,76 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-water",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "e0d404ea-dbc1-591a-86a5-75265066d6f0",
+          "titles": {
+            "ar": "الماء",
+            "de": "Wasser",
+            "en": "Water",
+            "fr": "Eau",
+            "it": "L’acqua",
+            "pt": "A água",
+            "es": "El agua",
+            "se": "Vatten",
+            "tr": "Su"
+          }
+        },
+        "theme": {
+          "id": "804d4535-4e46-51c6-8a4c-6dcc2261f2d1",
+          "titles": {
+            "ar": "الماء والحياة اليومية",
+            "de": "Wasser im Alltag",
+            "en": "Water and Everyday Life",
+            "fr": "L’eau et la vie quotidienne",
+            "it": "L’acqua e la vita quotidiana",
+            "pt": "A água e a vida quotidiana",
+            "es": "El agua y la vida cotidiana",
+            "se": "Vattnet och vardagslivet",
+            "tr": "Su ve Günlük Hayat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          22
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/2/2/6",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "ebf15498-6f84-536b-aac4-f726dd74ced5",
+          "titles": {
+            "en": "Domestic and Urban Spheres"
+          }
+        },
+        "subtheme": {
+          "id": "6b701948-1e27-542e-a3fb-9f27270569b8",
+          "titles": {
+            "en": "Water in Gardens"
+          }
+        },
+        "legacy_order": [
+          6
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -4905,6 +6247,90 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "8b555882-9559-52d8-ae93-cfbbd27f9bfe",
+          "titles": {
+            "ar": "مباهج واحتفالات في البلاط",
+            "de": "Vergnügungen und Festlichkeiten am Hof",
+            "en": "Pleasures and Celebrations at Court",
+            "fr": "Plaisirs et festivités à la cour",
+            "it": "I piaceri e le feste di corte",
+            "pt": "Prazeres e celebrações na corte",
+            "es": "Placeres y celebraciones en la corte",
+            "se": "Fester och nöjen vid hovet",
+            "tr": "Saray Eğlenceleri ve Kutlamaları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "24e11f60-92ed-5fc9-959e-e0aa49482ffe",
+          "titles": {
+            "ar": "الرسوم الآدمية",
+            "de": "Menschendarstellungen",
+            "en": "Human Representation",
+            "fr": "Représentation humaine",
+            "it": "La raffigurazione umana",
+            "pt": "A representação humana",
+            "es": "La representación humana",
+            "se": "Bilder av människor",
+            "tr": "İnsan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
       }
     ],
     "languages": [
@@ -5027,6 +6453,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -5196,6 +6623,144 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "aa7dbfdb-56bd-59fa-98ce-c5b08de806c5",
+          "titles": {
+            "ar": "الكتابة الكوفية",
+            "de": "Der Kufi-Duktus",
+            "en": "Kufic Script",
+            "fr": "L’écriture coufique",
+            "it": "I caratteri Kufici",
+            "pt": "A escrita cúfica",
+            "es": "La escritura cúfica",
+            "se": "Kufisk skrift",
+            "tr": "Kûfi Yazı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-floral",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "12faaae8-0400-53bd-ba84-f5e66e0027ef",
+          "titles": {
+            "ar": "أصداء الفردوس: جنة الفن الإسلامي وإلهة زهوره.",
+            "de": "Spiegelungen des Paradieses: Gärten und Blumen in der islamischen Kunst",
+            "en": "Echoes of Paradise: the Garden and Flora in Islamic Art",
+            "fr": "Échos du Paradis : le jardin et la flore dans l’art islamique",
+            "it": "Echi di Paradiso: il giardino e la flora nell’arte islamica",
+            "pt": "Ecos do paraíso: jardins e flora na arte islâmica",
+            "es": "Ecos del paraíso: jardines y flora en el arte islámico",
+            "se": "Ekot från paradiset: trädgården och blomman i den islamiska konsten",
+            "tr": "Cennetin Yansımaları: İslam Sanatında Bahçe ve Çiçekler"
+          }
+        },
+        "theme": {
+          "id": "4c42f69a-1a67-5fc7-9eb0-b5ed2c633802",
+          "titles": {
+            "ar": "صورتا جنة السماء وشجرة الحياة.",
+            "de": "Visionen des Himmlischen Gartens und des Lebensbaums",
+            "en": "Visions of the Heavenly Garden and the Tree-of-Life",
+            "fr": "Visions du jardin paradisiaque et de l’arbre de vie",
+            "it": "Raffigurazioni del Giardino del Cielo e dell’Albero della Vita",
+            "pt": "Visões do jardim celeste e da árvore da vida",
+            "es": "Visiones del jardín celestial y el árbol de la vida",
+            "se": "Visioner av den Himmelska Trädgården och Livets Träd",
+            "tr": "Cennet Bahçesinin ve Hayat Ağacının Görünümleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          28
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/2/2/9",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "ebf15498-6f84-536b-aac4-f726dd74ced5",
+          "titles": {
+            "en": "Domestic and Urban Spheres"
+          }
+        },
+        "subtheme": {
+          "id": "6b701948-1e27-542e-a3fb-9f27270569b8",
+          "titles": {
+            "en": "Water in Gardens"
+          }
+        },
+        "legacy_order": [
+          9
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/3/1/10",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "99437e6b-b376-5f86-9a58-f2f1bbf55c32",
+          "titles": {
+            "en": "Religion"
+          }
+        },
+        "subtheme": {
+          "id": "88243574-b43d-52e0-96f3-587fec892cd3",
+          "titles": {
+            "en": "Food Rules and Recommendations"
+          }
+        },
+        "legacy_order": [
+          10
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -5298,6 +6863,90 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-water",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "e0d404ea-dbc1-591a-86a5-75265066d6f0",
+          "titles": {
+            "ar": "الماء",
+            "de": "Wasser",
+            "en": "Water",
+            "fr": "Eau",
+            "it": "L’acqua",
+            "pt": "A água",
+            "es": "El agua",
+            "se": "Vatten",
+            "tr": "Su"
+          }
+        },
+        "theme": {
+          "id": "4525acaf-2e58-57ae-aa47-33e20171397d",
+          "titles": {
+            "ar": "استعمال الماء: الشرب والغسل",
+            "de": "Wasser zum Trinken und Wasser zum Waschen",
+            "en": "Water Usage: Drinking and Washing",
+            "fr": "Les utilisations de l’eau : boisson et ablutions",
+            "it": "L’acqua negli usi del bere e del lavarsi",
+            "pt": "O uso da água para consumo e higiene",
+            "es": "El uso del agua para el consumo y la higiene",
+            "se": "Vattenbruk: att dricka och tvätta sig",
+            "tr": "Su Kullanımı: İçme ve Temizlik"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          22
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-floral",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "12faaae8-0400-53bd-ba84-f5e66e0027ef",
+          "titles": {
+            "ar": "أصداء الفردوس: جنة الفن الإسلامي وإلهة زهوره.",
+            "de": "Spiegelungen des Paradieses: Gärten und Blumen in der islamischen Kunst",
+            "en": "Echoes of Paradise: the Garden and Flora in Islamic Art",
+            "fr": "Échos du Paradis : le jardin et la flore dans l’art islamique",
+            "it": "Echi di Paradiso: il giardino e la flora nell’arte islamica",
+            "pt": "Ecos do paraíso: jardins e flora na arte islâmica",
+            "es": "Ecos del paraíso: jardines y flora en el arte islámico",
+            "se": "Ekot från paradiset: trädgården och blomman i den islamiska konsten",
+            "tr": "Cennetin Yansımaları: İslam Sanatında Bahçe ve Çiçekler"
+          }
+        },
+        "theme": {
+          "id": "72236f27-2ff3-5d56-a623-02606a2fa355",
+          "titles": {
+            "ar": "إلهة النبات والأرابسك: رؤى الأبدية ووحدة السماء.",
+            "de": "Pflanzen und Arabesken: Visionen der Ewigkeit und göttlichen Einheit",
+            "en": "Flora and Arabesques: Visions of Eternity and Divine Unity",
+            "fr": "Flore et arabesques : visions de l’éternité et de l’unité divine",
+            "it": "La flora e gli arabeschi: raffigurazioni dell’eternità e dell’unicità divina",
+            "pt": "Flora e arabescos: expressões da eternidade e da unidade divina",
+            "es": "Flora y arabescos: expresiones de la eternidad y de la unidad divina",
+            "se": "Växterna och arabeskerna: visioner av evigheten och den gudomliga enheten",
+            "tr": "Çiçekler ve Arabesk: Ebediyetin ve Allah’ın Birliğinin Görünümleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          28
+        ]
       }
     ],
     "languages": [
@@ -5409,6 +7058,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-water",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "e0d404ea-dbc1-591a-86a5-75265066d6f0",
+          "titles": {
+            "ar": "الماء",
+            "de": "Wasser",
+            "en": "Water",
+            "fr": "Eau",
+            "it": "L’acqua",
+            "pt": "A água",
+            "es": "El agua",
+            "se": "Vatten",
+            "tr": "Su"
+          }
+        },
+        "theme": {
+          "id": "804d4535-4e46-51c6-8a4c-6dcc2261f2d1",
+          "titles": {
+            "ar": "الماء والحياة اليومية",
+            "de": "Wasser im Alltag",
+            "en": "Water and Everyday Life",
+            "fr": "L’eau et la vie quotidienne",
+            "it": "L’acqua e la vita quotidiana",
+            "pt": "A água e a vida quotidiana",
+            "es": "El agua y la vida cotidiana",
+            "se": "Vattnet och vardagslivet",
+            "tr": "Su ve Günlük Hayat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          22
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -5472,6 +7164,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5545,6 +7238,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5649,6 +7343,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -5717,6 +7412,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5833,6 +7529,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5925,6 +7622,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "es"
@@ -5993,6 +7691,99 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-international-exhibitions",
+        "path": "/theme/4",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c3a68819-dcf2-5be4-8f9b-dcc45c8848e4",
+          "titles": {
+            "en": "International Exhibitions"
+          }
+        },
+        "theme": {
+          "id": "243dad0a-448e-5b25-b9bd-6d85dd21b07a",
+          "titles": {
+            "en": "West and East, fine art at International Exhibitions"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          31,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-international-exhibitions",
+        "path": "/theme/4/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c3a68819-dcf2-5be4-8f9b-dcc45c8848e4",
+          "titles": {
+            "en": "International Exhibitions"
+          }
+        },
+        "theme": {
+          "id": "243dad0a-448e-5b25-b9bd-6d85dd21b07a",
+          "titles": {
+            "en": "West and East, fine art at International Exhibitions"
+          }
+        },
+        "subtheme": {
+          "id": "0428e571-a9fe-5fdd-a0ef-a5d3761d8007",
+          "titles": {
+            "en": "Contemporary suggestions"
+          }
+        },
+        "legacy_order": [
+          31,
+          1,
+          163
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-reforms-and-social-changes",
+        "path": "/theme/2/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "a64d0674-78bf-5ac3-97ad-7d66056c91e2",
+          "titles": {
+            "en": "Reforms and Social Changes"
+          }
+        },
+        "theme": {
+          "id": "ef851dc9-3174-5196-a248-6b8d970cab89",
+          "titles": {
+            "en": "Health"
+          }
+        },
+        "subtheme": {
+          "id": "e0afcadf-3c57-5057-8586-4ace8d45bbe3",
+          "titles": {
+            "en": "Scenes from life"
+          }
+        },
+        "legacy_order": [
+          39,
+          1,
+          83
+        ]
       }
     ],
     "languages": [
@@ -6067,6 +7858,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "es"
@@ -6233,6 +8025,49 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ayyubids",
+        "path": "/exhibition/5/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "28d9a4d3-c0f4-52e4-b504-b865ba01f483",
+          "titles": {
+            "ar": "الأتابكة والأيوبيون",
+            "de": "Die Atabege und Ayyubiden",
+            "en": "The Atabegs and Ayyubids",
+            "fr": "Atabegs et Ayyoubides",
+            "it": "Gli Atabeg e gli Ayyubidi",
+            "pt": "Os Atabegs e os Ayyubidas",
+            "es": "Atabegs y ayyubíes",
+            "se": "Atabegerna och ayyubiderna",
+            "tr": "Atabekler ve Eyyubiler"
+          }
+        },
+        "theme": {
+          "id": "eddac8a0-9c6b-5866-bceb-4f157fa5a04a",
+          "titles": {
+            "ar": "الحرب والفروسية",
+            "de": "Krieg und Reitkunst",
+            "en": "War and Horsemanship",
+            "fr": "Guerre et cavalerie",
+            "it": "Guerra e Cavalleria",
+            "pt": "Guerra e equitação",
+            "es": "Guerra y equitación",
+            "se": "Krig och ryttarkonst",
+            "tr": "Savaş ve Binicilik"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          15
+        ]
       }
     ],
     "languages": [
@@ -6433,6 +8268,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "24e11f60-92ed-5fc9-959e-e0aa49482ffe",
+          "titles": {
+            "ar": "الرسوم الآدمية",
+            "de": "Menschendarstellungen",
+            "en": "Human Representation",
+            "fr": "Représentation humaine",
+            "it": "La raffigurazione umana",
+            "pt": "A representação humana",
+            "es": "La representación humana",
+            "se": "Bilder av människor",
+            "tr": "İnsan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -6506,6 +8384,40 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/2/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "7d68e2e9-6d60-5c4f-938e-3972cbd0cc77",
+          "titles": {
+            "en": "Encountering the East"
+          }
+        },
+        "subtheme": {
+          "id": "b0bad80c-0c28-5834-9e36-03d8ce3a9cd1",
+          "titles": {
+            "en": "Orientalist applied arts"
+          }
+        },
+        "legacy_order": [
+          21,
+          1,
+          125
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -6573,6 +8485,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6813,6 +8726,35 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/2/2/4",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "ebf15498-6f84-536b-aac4-f726dd74ced5",
+          "titles": {
+            "en": "Domestic and Urban Spheres"
+          }
+        },
+        "subtheme": {
+          "id": "6b701948-1e27-542e-a3fb-9f27270569b8",
+          "titles": {
+            "en": "Water in Gardens"
+          }
+        },
+        "legacy_order": [
+          4
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -7029,6 +8971,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-water",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "e0d404ea-dbc1-591a-86a5-75265066d6f0",
+          "titles": {
+            "ar": "الماء",
+            "de": "Wasser",
+            "en": "Water",
+            "fr": "Eau",
+            "it": "L’acqua",
+            "pt": "A água",
+            "es": "El agua",
+            "se": "Vatten",
+            "tr": "Su"
+          }
+        },
+        "theme": {
+          "id": "804d4535-4e46-51c6-8a4c-6dcc2261f2d1",
+          "titles": {
+            "ar": "الماء والحياة اليومية",
+            "de": "Wasser im Alltag",
+            "en": "Water and Everyday Life",
+            "fr": "L’eau et la vie quotidienne",
+            "it": "L’acqua e la vita quotidiana",
+            "pt": "A água e a vida quotidiana",
+            "es": "El agua y la vida cotidiana",
+            "se": "Vattnet och vardagslivet",
+            "tr": "Su ve Günlük Hayat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          22
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -7194,6 +9179,158 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "d0f2de47-bb3f-5401-adda-d70b0bdc2f1c",
+          "titles": {
+            "ar": "الرسوم الحيوانية",
+            "de": "Tierdarstellungen",
+            "en": "Animal Representation",
+            "fr": "Représentation animale",
+            "it": "La raffigurazione degli animali",
+            "pt": "A representação de animais",
+            "es": "La representación de animales",
+            "se": "Bilder av djur",
+            "tr": "Hayvan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-water",
+        "path": "/exhibition/2/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "e0d404ea-dbc1-591a-86a5-75265066d6f0",
+          "titles": {
+            "ar": "الماء",
+            "de": "Wasser",
+            "en": "Water",
+            "fr": "Eau",
+            "it": "L’acqua",
+            "pt": "A água",
+            "es": "El agua",
+            "se": "Vatten",
+            "tr": "Su"
+          }
+        },
+        "theme": {
+          "id": "804d4535-4e46-51c6-8a4c-6dcc2261f2d1",
+          "titles": {
+            "ar": "الماء والحياة اليومية",
+            "de": "Wasser im Alltag",
+            "en": "Water and Everyday Life",
+            "fr": "L’eau et la vie quotidienne",
+            "it": "L’acqua e la vita quotidiana",
+            "pt": "A água e a vida quotidiana",
+            "es": "El agua y la vida cotidiana",
+            "se": "Vattnet och vardagslivet",
+            "tr": "Su ve Günlük Hayat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          22
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "17e93a55-d0d0-51b2-8c52-ae90b63b4709",
+          "titles": {
+            "ar": "فضاءات السلطة: المشيدات الملكية",
+            "de": "Räume der Macht – die Palastbauten",
+            "en": "Seats of Power: Palaces",
+            "fr": "Espaces du pouvoir : les constructions palatiales",
+            "it": "I luoghi del potere: gli edifici palatini",
+            "pt": "Espaços do poder: as construções palatinas",
+            "es": "Espacios del poder: las construcciones palatinas",
+            "se": "Palatset: maktens centrum",
+            "tr": "İktidar Alanı: Saray Yapıları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/2/2/8",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "ebf15498-6f84-536b-aac4-f726dd74ced5",
+          "titles": {
+            "en": "Domestic and Urban Spheres"
+          }
+        },
+        "subtheme": {
+          "id": "6b701948-1e27-542e-a3fb-9f27270569b8",
+          "titles": {
+            "en": "Water in Gardens"
+          }
+        },
+        "legacy_order": [
+          8
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -7271,6 +9408,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -7377,6 +9515,90 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "aa7dbfdb-56bd-59fa-98ce-c5b08de806c5",
+          "titles": {
+            "ar": "الكتابة الكوفية",
+            "de": "Der Kufi-Duktus",
+            "en": "Kufic Script",
+            "fr": "L’écriture coufique",
+            "it": "I caratteri Kufici",
+            "pt": "A escrita cúfica",
+            "es": "La escritura cúfica",
+            "se": "Kufisk skrift",
+            "tr": "Kûfi Yazı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-water",
+        "path": "/exhibition/2/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "e0d404ea-dbc1-591a-86a5-75265066d6f0",
+          "titles": {
+            "ar": "الماء",
+            "de": "Wasser",
+            "en": "Water",
+            "fr": "Eau",
+            "it": "L’acqua",
+            "pt": "A água",
+            "es": "El agua",
+            "se": "Vatten",
+            "tr": "Su"
+          }
+        },
+        "theme": {
+          "id": "804d4535-4e46-51c6-8a4c-6dcc2261f2d1",
+          "titles": {
+            "ar": "الماء والحياة اليومية",
+            "de": "Wasser im Alltag",
+            "en": "Water and Everyday Life",
+            "fr": "L’eau et la vie quotidienne",
+            "it": "L’acqua e la vita quotidiana",
+            "pt": "A água e a vida quotidiana",
+            "es": "El agua y la vida cotidiana",
+            "se": "Vattnet och vardagslivet",
+            "tr": "Su ve Günlük Hayat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          22
+        ]
       }
     ],
     "languages": [
@@ -7529,6 +9751,90 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/5/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "79e2b8e9-7cfa-5332-82b0-542b14234df5",
+          "titles": {
+            "ar": "حفلات البلاط وتساليه",
+            "de": "Zeremoniell und Zeitvertreib am Hof",
+            "en": "Court Ceremonials and Pastimes",
+            "fr": "Cérémonial et divertissements à la cour",
+            "it": "Cerimoniali e svaghi di corte",
+            "pt": "Cerimónias e passatempos cortesãos",
+            "es": "Ceremonias y pasatiempos cortesanos",
+            "se": "Hovets ceremonier och förströelser",
+            "tr": "Saray Törenleri ve Eğlenceleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "24e11f60-92ed-5fc9-959e-e0aa49482ffe",
+          "titles": {
+            "ar": "الرسوم الآدمية",
+            "de": "Menschendarstellungen",
+            "en": "Human Representation",
+            "fr": "Représentation humaine",
+            "it": "La raffigurazione umana",
+            "pt": "A representação humana",
+            "es": "La representación humana",
+            "se": "Bilder av människor",
+            "tr": "İnsan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -7627,6 +9933,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-geometric",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "9f0c366a-10e7-53d5-91e8-2d8a35ffc22a",
+          "titles": {
+            "ar": "الزخارف الهندسية",
+            "de": "Geometrischer Dekor",
+            "en": "Geometric Decoration",
+            "fr": "La décoration géométrique",
+            "it": "La decorazione geometrica",
+            "pt": "Decoração geométrica",
+            "es": "Decoración geométrica",
+            "se": "Geometrisk dekor",
+            "tr": "Geometrik Bezeme"
+          }
+        },
+        "theme": {
+          "id": "79a58714-659c-5509-a4f9-b9359b2829ae",
+          "titles": {
+            "ar": "الزخارف الهندسية في العمارة",
+            "de": "Geometrischer Dekor in der Architektur",
+            "en": "Geometric Decoration in Architecture",
+            "fr": "La décoration géométrique en architecture",
+            "it": "La decorazione geometrica in architettura",
+            "pt": "A decoração geométrica na arquitectura",
+            "es": "La decoración geométrica en la arquitectura",
+            "se": "Geometrisk dekor i arkitekturen",
+            "tr": "Mimaride Geometrik Bezeme"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          21
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -7696,6 +10045,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7762,6 +10112,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7845,6 +10196,49 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-floral",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "12faaae8-0400-53bd-ba84-f5e66e0027ef",
+          "titles": {
+            "ar": "أصداء الفردوس: جنة الفن الإسلامي وإلهة زهوره.",
+            "de": "Spiegelungen des Paradieses: Gärten und Blumen in der islamischen Kunst",
+            "en": "Echoes of Paradise: the Garden and Flora in Islamic Art",
+            "fr": "Échos du Paradis : le jardin et la flore dans l’art islamique",
+            "it": "Echi di Paradiso: il giardino e la flora nell’arte islamica",
+            "pt": "Ecos do paraíso: jardins e flora na arte islâmica",
+            "es": "Ecos del paraíso: jardines y flora en el arte islámico",
+            "se": "Ekot från paradiset: trädgården och blomman i den islamiska konsten",
+            "tr": "Cennetin Yansımaları: İslam Sanatında Bahçe ve Çiçekler"
+          }
+        },
+        "theme": {
+          "id": "4c42f69a-1a67-5fc7-9eb0-b5ed2c633802",
+          "titles": {
+            "ar": "صورتا جنة السماء وشجرة الحياة.",
+            "de": "Visionen des Himmlischen Gartens und des Lebensbaums",
+            "en": "Visions of the Heavenly Garden and the Tree-of-Life",
+            "fr": "Visions du jardin paradisiaque et de l’arbre de vie",
+            "it": "Raffigurazioni del Giardino del Cielo e dell’Albero della Vita",
+            "pt": "Visões do jardim celeste e da árvore da vida",
+            "es": "Visiones del jardín celestial y el árbol de la vida",
+            "se": "Visioner av den Himmelska Trädgården och Livets Träd",
+            "tr": "Cennet Bahçesinin ve Hayat Ağacının Görünümleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          28
+        ]
       }
     ],
     "languages": [
@@ -8092,6 +10486,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -8159,6 +10554,74 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/1/7",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "06e2b161-1f15-5d64-a574-9e389e995e1a",
+          "titles": {
+            "en": "The birth of archaeology"
+          }
+        },
+        "subtheme": {
+          "id": "997b02c7-b1a0-5a93-a131-0dd53ed018f3",
+          "titles": {
+            "en": "Lost cities and the birth of scientific archaeology"
+          }
+        },
+        "legacy_order": [
+          1,
+          1,
+          112
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/3/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "455e9772-e7c7-5b27-acb0-ec12bc4e468b",
+          "titles": {
+            "en": "Tourism"
+          }
+        },
+        "subtheme": {
+          "id": "4bf0185a-28d7-50b2-a737-655c61118d6b",
+          "titles": {
+            "en": "Souvenirs"
+          }
+        },
+        "legacy_order": [
+          17,
+          1,
+          104
+        ]
       }
     ],
     "languages": [
@@ -8261,6 +10724,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8332,6 +10796,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "es"
@@ -8400,6 +10865,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8464,6 +10930,33 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/4/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "2ebd7b86-c767-599d-a725-e04825472322",
+          "titles": {
+            "en": "Specifics of devotional iconography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
       }
     ],
     "languages": [
@@ -8540,6 +11033,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "es"
@@ -8693,6 +11187,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "pt"
@@ -8769,6 +11264,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -8864,6 +11360,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -8961,6 +11458,90 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/4/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "00c4ec24-eae3-5f50-b012-fca1d0fc4b8b",
+          "titles": {
+            "ar": "روعة تصميم الأزياء: الطراز والأزياء المعاصرة",
+            "de": "Prunkvolle Schneiderkunst: Tiraz und zeitgenössische Kostüme",
+            "en": "Sartorial Splendour: Tiraz and Contemporary Costume",
+            "fr": "Splendeur de l'habillement : Tiraz et vêtements de l'époque",
+            "it": "Splendori dell’alta sartoria: i tiraz e gli altri costumi dell’epoca",
+            "pt": "O esplendor no vestir: o *tiraz* e os trajes da época",
+            "es": "El esplendor en el vestir: el tiraz y los trajes de la época",
+            "se": "Skräddarkonst på toppnivå: Tiraz och den samtida klädedräkten",
+            "tr": "Terzilikte Ustalık: Tiraz ve Dönemin Giysileri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "24e11f60-92ed-5fc9-959e-e0aa49482ffe",
+          "titles": {
+            "ar": "الرسوم الآدمية",
+            "de": "Menschendarstellungen",
+            "en": "Human Representation",
+            "fr": "Représentation humaine",
+            "it": "La raffigurazione umana",
+            "pt": "A representação humana",
+            "es": "La representación humana",
+            "se": "Bilder av människor",
+            "tr": "İnsan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
       }
     ],
     "languages": [
@@ -9072,6 +11653,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -9137,6 +11719,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -9227,6 +11810,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -9304,6 +11888,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/5/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "1d025879-0f4e-58f5-9d96-55b7af6f72a3",
+          "titles": {
+            "ar": "حضارة الكلمة",
+            "de": "Die Kultur des Wortes",
+            "en": "Civilisation of the Word",
+            "fr": "La civilisation du mot",
+            "it": "La Civiltà della Parola",
+            "pt": "A civilização da palavra",
+            "es": "La civilización de la palabra",
+            "se": "Ordets civilisation",
+            "tr": "Kelam’ın Medeniyeti"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -9378,6 +12005,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "es"
@@ -9467,6 +12095,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "es"
@@ -9629,6 +12258,76 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/5/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "198c176f-a670-5331-b416-a7ecc59e7ceb",
+          "titles": {
+            "ar": "فنون الزخرفة والزينة",
+            "de": "Das Kunsthandwerk",
+            "en": "The Decorative Arts",
+            "fr": "Les arts décoratifs",
+            "it": "Le Arti Decorative",
+            "pt": "As artes decorativas",
+            "es": "Las artes decorativas",
+            "se": "Konsthantverket",
+            "tr": "Dekoratif Sanatlar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/2/2/7",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "ebf15498-6f84-536b-aac4-f726dd74ced5",
+          "titles": {
+            "en": "Domestic and Urban Spheres"
+          }
+        },
+        "subtheme": {
+          "id": "6b701948-1e27-542e-a3fb-9f27270569b8",
+          "titles": {
+            "en": "Water in Gardens"
+          }
+        },
+        "legacy_order": [
+          7
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -9777,6 +12476,90 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "9bff6ece-d3d2-5f2a-b7cc-fb1f33c3e113",
+          "titles": {
+            "ar": "الرعاية الرسمية",
+            "de": "Kunstförderung durch die Machthaber",
+            "en": "Official Patronage",
+            "fr": "Mécénat officiel",
+            "it": "Il mecenatismo di corte",
+            "pt": "Patrocínio oficial",
+            "es": "Patronazgo oficial",
+            "se": "Makten och kulturen",
+            "tr": "Resmi Sanat Koruyuculuğu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "d0f2de47-bb3f-5401-adda-d70b0bdc2f1c",
+          "titles": {
+            "ar": "الرسوم الحيوانية",
+            "de": "Tierdarstellungen",
+            "en": "Animal Representation",
+            "fr": "Représentation animale",
+            "it": "La raffigurazione degli animali",
+            "pt": "A representação de animais",
+            "es": "La representación de animales",
+            "se": "Bilder av djur",
+            "tr": "Hayvan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
       }
     ],
     "languages": [
@@ -9936,6 +12719,49 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "c3c3c6a9-356a-5b3d-b18a-805d7175e3fa",
+          "titles": {
+            "ar": "الإصلاحات الإدارية",
+            "de": "Verwaltungsreformen",
+            "en": "Administrative Reforms",
+            "fr": "Réformes administratives",
+            "it": "Riforme amministrative",
+            "pt": "Reformas administrativas",
+            "es": "Reformas administrativas",
+            "se": "Förvaltningsreformer",
+            "tr": "İdari Reformlar"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
       }
     ],
     "languages": [
@@ -10116,6 +12942,90 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/5/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "79e2b8e9-7cfa-5332-82b0-542b14234df5",
+          "titles": {
+            "ar": "حفلات البلاط وتساليه",
+            "de": "Zeremoniell und Zeitvertreib am Hof",
+            "en": "Court Ceremonials and Pastimes",
+            "fr": "Cérémonial et divertissements à la cour",
+            "it": "Cerimoniali e svaghi di corte",
+            "pt": "Cerimónias e passatempos cortesãos",
+            "es": "Ceremonias y pasatiempos cortesanos",
+            "se": "Hovets ceremonier och förströelser",
+            "tr": "Saray Törenleri ve Eğlenceleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "24e11f60-92ed-5fc9-959e-e0aa49482ffe",
+          "titles": {
+            "ar": "الرسوم الآدمية",
+            "de": "Menschendarstellungen",
+            "en": "Human Representation",
+            "fr": "Représentation humaine",
+            "it": "La raffigurazione umana",
+            "pt": "A representação humana",
+            "es": "La representación humana",
+            "se": "Bilder av människor",
+            "tr": "İnsan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -10185,6 +13095,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -10258,6 +13169,40 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/1/7",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "06e2b161-1f15-5d64-a574-9e389e995e1a",
+          "titles": {
+            "en": "The birth of archaeology"
+          }
+        },
+        "subtheme": {
+          "id": "997b02c7-b1a0-5a93-a131-0dd53ed018f3",
+          "titles": {
+            "en": "Lost cities and the birth of scientific archaeology"
+          }
+        },
+        "legacy_order": [
+          1,
+          1,
+          112
+        ]
       }
     ],
     "languages": [
@@ -10383,6 +13328,49 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-crusader",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "4c126e80-2567-5abd-9191-3d40f380e81f",
+          "titles": {
+            "ar": "الفرنجة: الصليبيون في المشرق",
+            "de": "Al-Frandsch: Die Kreuzfahrer in der Levante",
+            "en": "Al-Franj: the Crusaders in the Levant",
+            "fr": "Al-Franj : les Croisés au Levant",
+            "it": "Al-Franj: I Crociati nel Levante",
+            "pt": "Al-franj, os cruzados no Levante",
+            "es": "Al-frany, los cruzados en el Levante",
+            "se": "*Al-Franj*: the Crusaders in the Levant",
+            "tr": "El-Frenc: Levant’ta Haçlılar"
+          }
+        },
+        "theme": {
+          "id": "d7c23444-3d3f-5267-ac39-29110a7751ab",
+          "titles": {
+            "ar": "الثقافة في مملكة القدس الصليبية",
+            "de": "Die Kultur im Kreuzfahrer-Königreich Jerusalem",
+            "en": "Culture in the Crusader Kingdom of Jerusalem",
+            "fr": "La culture dans le royaume croisé de Jérusalem",
+            "it": "La cultura nel Regno Crociato di Gerusalemme",
+            "pt": "A cultura no reino cruzado de Jerusalém",
+            "es": "La cultura en el reino cruzado de Jerusalén",
+            "se": "Kulturen i korsfararnas kungarike i Jerusalem",
+            "tr": "Kudüs Haçlı Krallığı’nda Kültür"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          24
+        ]
       }
     ],
     "languages": [
@@ -10528,6 +13516,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-mamluks",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "217482b1-7626-531f-8ca9-51c2f680fe3d",
+          "titles": {
+            "ar": "المماليك",
+            "de": "Die Mamluken",
+            "en": "The Mamluks",
+            "fr": "Les Mamelouks",
+            "it": "I Mamelucchi",
+            "pt": "Os Mamelucos",
+            "es": "Los mamelucos",
+            "se": "Mamlukerna",
+            "tr": "Memluklar"
+          }
+        },
+        "theme": {
+          "id": "0d96fdda-709f-55ff-974d-36ce25e67b8e",
+          "titles": {
+            "ar": "الحياة اليومية في السلطنة المملوكية",
+            "de": "Alltag im Sultanat der Mamluken",
+            "en": "Everyday life in the Mamluk Sultanate",
+            "fr": "La vie quotidienne dans le sultanat mamelouk",
+            "it": "Vita quotidiana nel sultanato mamelucco",
+            "pt": "A vida quotidiana no sultanato mameluco",
+            "es": "La vida cotidiana en el sultanato mameluco",
+            "se": "Vardagslivet i mamlukernas sultanat",
+            "tr": "Memluk Sultanlığı’nda Günlük Yaşam"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          17
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -10597,6 +13628,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -10675,6 +13707,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "es"
@@ -10737,6 +13770,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -10825,6 +13859,104 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-international-exhibitions",
+        "path": "/theme/3/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c3a68819-dcf2-5be4-8f9b-dcc45c8848e4",
+          "titles": {
+            "en": "International Exhibitions"
+          }
+        },
+        "theme": {
+          "id": "45f48684-0e67-585f-b139-161e8f11bef8",
+          "titles": {
+            "en": "The diffusion of models and promotion of trade"
+          }
+        },
+        "subtheme": {
+          "id": "c822dd09-0cd5-5672-afd5-3d0b3be08cfa",
+          "titles": {
+            "en": "Decorative arts and new schools of applied art"
+          }
+        },
+        "legacy_order": [
+          30,
+          1,
+          164
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/4/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "43f46690-1d6e-5d64-b190-3e7fd3f18a07",
+          "titles": {
+            "en": "The concept of revivals"
+          }
+        },
+        "subtheme": {
+          "id": "ccd55ae1-a0f4-5328-b3f2-152a50b8ee79",
+          "titles": {
+            "en": "The “Moorish” and Spanish Neo-Mudéjar styles"
+          }
+        },
+        "legacy_order": [
+          53,
+          1,
+          128
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/4/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "43f46690-1d6e-5d64-b190-3e7fd3f18a07",
+          "titles": {
+            "en": "The concept of revivals"
+          }
+        },
+        "subtheme": {
+          "id": "49d2498e-5686-5ef3-aa4b-1cd1d0fb3cef",
+          "titles": {
+            "en": "Designers"
+          }
+        },
+        "legacy_order": [
+          53,
+          1,
+          130
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -10881,6 +14013,106 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/3/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "455e9772-e7c7-5b27-acb0-ec12bc4e468b",
+          "titles": {
+            "en": "Tourism"
+          }
+        },
+        "subtheme": {
+          "id": "4bf0185a-28d7-50b2-a737-655c61118d6b",
+          "titles": {
+            "en": "Souvenirs"
+          }
+        },
+        "legacy_order": [
+          17,
+          1,
+          104
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/2/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "7d68e2e9-6d60-5c4f-938e-3972cbd0cc77",
+          "titles": {
+            "en": "Encountering the East"
+          }
+        },
+        "subtheme": {
+          "id": "b0bad80c-0c28-5834-9e36-03d8ce3a9cd1",
+          "titles": {
+            "en": "Orientalist applied arts"
+          }
+        },
+        "legacy_order": [
+          21,
+          1,
+          125
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-international-exhibitions",
+        "path": "/theme/3/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c3a68819-dcf2-5be4-8f9b-dcc45c8848e4",
+          "titles": {
+            "en": "International Exhibitions"
+          }
+        },
+        "theme": {
+          "id": "45f48684-0e67-585f-b139-161e8f11bef8",
+          "titles": {
+            "en": "The diffusion of models and promotion of trade"
+          }
+        },
+        "subtheme": {
+          "id": "c822dd09-0cd5-5672-afd5-3d0b3be08cfa",
+          "titles": {
+            "en": "Decorative arts and new schools of applied art"
+          }
+        },
+        "legacy_order": [
+          30,
+          1,
+          164
+        ]
       }
     ],
     "languages": [
@@ -10953,6 +14185,83 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-ephemera",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "9e8b4feb-4136-5c7e-9fb9-a6267e9aa01a",
+          "titles": {
+            "en": "Ephemera, Festivals and Theatrical Representation"
+          }
+        },
+        "theme": {
+          "id": "920a6ad5-5913-5855-bb58-a98875545e52",
+          "titles": {
+            "en": "The age of the theatre"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          43
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-enlightenment",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "504a47df-11ce-5a98-8680-243fd198e8df",
+          "titles": {
+            "en": "The Age of Enlightenment"
+          }
+        },
+        "theme": {
+          "id": "091b949c-296c-5f99-9b70-11956839e923",
+          "titles": {
+            "en": "Discovering the world: rationalist thinking and practice"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          45
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-bourgeoisie",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "75f28465-8738-554e-af5d-f6804a9c2802",
+          "titles": {
+            "en": "The Ascension of the Bourgeoisie"
+          }
+        },
+        "theme": {
+          "id": "fbd5151d-c2cc-5d73-be96-1e9d1c514946",
+          "titles": {
+            "en": "Trade and Festivities"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          50
+        ]
       }
     ],
     "languages": [
@@ -11031,6 +14340,58 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-enlightenment",
+        "path": "/exhibition/2/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "504a47df-11ce-5a98-8680-243fd198e8df",
+          "titles": {
+            "en": "The Age of Enlightenment"
+          }
+        },
+        "theme": {
+          "id": "091b949c-296c-5f99-9b70-11956839e923",
+          "titles": {
+            "en": "Discovering the world: rationalist thinking and practice"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          45
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-bourgeoisie",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "75f28465-8738-554e-af5d-f6804a9c2802",
+          "titles": {
+            "en": "The Ascension of the Bourgeoisie"
+          }
+        },
+        "theme": {
+          "id": "987e3008-9519-56ce-9028-5d2c377d716b",
+          "titles": {
+            "en": "The Bourgeois Gentleman"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          50
+        ]
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -11101,6 +14462,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -11203,6 +14565,49 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "17e93a55-d0d0-51b2-8c52-ae90b63b4709",
+          "titles": {
+            "ar": "فضاءات السلطة: المشيدات الملكية",
+            "de": "Räume der Macht – die Palastbauten",
+            "en": "Seats of Power: Palaces",
+            "fr": "Espaces du pouvoir : les constructions palatiales",
+            "it": "I luoghi del potere: gli edifici palatini",
+            "pt": "Espaços do poder: as construções palatinas",
+            "es": "Espacios del poder: las construcciones palatinas",
+            "se": "Palatset: maktens centrum",
+            "tr": "İktidar Alanı: Saray Yapıları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
       }
     ],
     "languages": [
@@ -11336,6 +14741,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ayyubids",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "28d9a4d3-c0f4-52e4-b504-b865ba01f483",
+          "titles": {
+            "ar": "الأتابكة والأيوبيون",
+            "de": "Die Atabege und Ayyubiden",
+            "en": "The Atabegs and Ayyubids",
+            "fr": "Atabegs et Ayyoubides",
+            "it": "Gli Atabeg e gli Ayyubidi",
+            "pt": "Os Atabegs e os Ayyubidas",
+            "es": "Atabegs y ayyubíes",
+            "se": "Atabegerna och ayyubiderna",
+            "tr": "Atabekler ve Eyyubiler"
+          }
+        },
+        "theme": {
+          "id": "67215e86-8b87-5410-a941-05738096eb5a",
+          "titles": {
+            "ar": "الحياة الدينية",
+            "de": "Religiöses Leben",
+            "en": "Religious Life",
+            "fr": "Vie religieuse",
+            "it": "Pratica Religiosa",
+            "pt": "A vida religiosa",
+            "es": "La vida religiosa",
+            "se": "Det religiösa livet",
+            "tr": "Dini Yaşam"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          15
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -11406,6 +14854,40 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/1/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "bb2620a9-f87c-5da2-9ee9-25d3d53ac2d9",
+          "titles": {
+            "en": "Collecting"
+          }
+        },
+        "subtheme": {
+          "id": "4561fca8-d47a-5892-b1d5-04d0298eb3d5",
+          "titles": {
+            "en": "Collectors and dealers"
+          }
+        },
+        "legacy_order": [
+          20,
+          1,
+          52
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -11472,6 +14954,40 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/3/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "61060da6-f4f8-5783-8348-d63a8992aaaa",
+          "titles": {
+            "en": "Inspired by the past"
+          }
+        },
+        "subtheme": {
+          "id": "31d8ab23-7e7b-5aae-b421-1b6690c3cdc8",
+          "titles": {
+            "en": "Archaeology as inspiration"
+          }
+        },
+        "legacy_order": [
+          2,
+          1,
+          1
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -11531,6 +15047,33 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "dbc4a160-491f-5dc9-961d-d3a00838b04c",
+          "titles": {
+            "en": "Evolution of style"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
       }
     ],
     "languages": [
@@ -11595,6 +15138,40 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-cities-and-urban-spaces",
+        "path": "/theme/3/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "5760ea9a-dc6f-52b5-bfd7-2c63dd3da757",
+          "titles": {
+            "en": "Cities and Urban Spaces"
+          }
+        },
+        "theme": {
+          "id": "71a777b1-0e19-5935-8345-b3cce89a57a0",
+          "titles": {
+            "en": "Architecture and Construction"
+          }
+        },
+        "subtheme": {
+          "id": "2f070c93-61e3-55a8-92cf-7d4a52817314",
+          "titles": {
+            "en": "Monuments"
+          }
+        },
+        "legacy_order": [
+          8,
+          1,
+          8
+        ]
       }
     ],
     "languages": [
@@ -11706,6 +15283,33 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "dbc4a160-491f-5dc9-961d-d3a00838b04c",
+          "titles": {
+            "en": "Evolution of style"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
       }
     ],
     "languages": [
@@ -11845,6 +15449,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ottomans",
+        "path": "/exhibition/1/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "618dce7d-8482-5ccb-b334-54c0c96e6db0",
+          "titles": {
+            "ar": "العثمانيون",
+            "de": "Die Osmanen",
+            "en": "The Ottomans",
+            "fr": "Les Ottomans",
+            "it": "Gli Ottomani",
+            "pt": "Os otomanos",
+            "es": "Los otomanos",
+            "se": "Ottomanerna",
+            "tr": "Osmanlılar"
+          }
+        },
+        "theme": {
+          "id": "7458975b-fc3b-5c26-8fde-fb0c9b93214e",
+          "titles": {
+            "ar": "الفن التركي الإسلامي في أناضول ما قبل العثمانيين",
+            "de": "Türkisch-islamische Kunst in Anatolien vor den Osmanen",
+            "en": "Turkish-Islamic Art in Pre-Ottoman Anatolia",
+            "fr": "L'art turco-islamique de l'Anatolie pré-ottomane",
+            "it": "Arte turco-islamica nell’Anatolia preottomana",
+            "pt": "Arte turco-islâmica na Anatólia pré-otomana",
+            "es": "Arte turco-islámico en la Anatolia preotomana",
+            "se": "Den turkisk-islamiska konsten i Anatolien före ottomanernas tid",
+            "tr": "Osmanlılardan Önce Anadolu’da Türk-İslam Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          18
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -11927,6 +15574,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -11999,6 +15647,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "es"
@@ -12132,6 +15781,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ottomans",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "618dce7d-8482-5ccb-b334-54c0c96e6db0",
+          "titles": {
+            "ar": "العثمانيون",
+            "de": "Die Osmanen",
+            "en": "The Ottomans",
+            "fr": "Les Ottomans",
+            "it": "Gli Ottomani",
+            "pt": "Os otomanos",
+            "es": "Los otomanos",
+            "se": "Ottomanerna",
+            "tr": "Osmanlılar"
+          }
+        },
+        "theme": {
+          "id": "7458975b-fc3b-5c26-8fde-fb0c9b93214e",
+          "titles": {
+            "ar": "الفن التركي الإسلامي في أناضول ما قبل العثمانيين",
+            "de": "Türkisch-islamische Kunst in Anatolien vor den Osmanen",
+            "en": "Turkish-Islamic Art in Pre-Ottoman Anatolia",
+            "fr": "L'art turco-islamique de l'Anatolie pré-ottomane",
+            "it": "Arte turco-islamica nell’Anatolia preottomana",
+            "pt": "Arte turco-islâmica na Anatólia pré-otomana",
+            "es": "Arte turco-islámico en la Anatolia preotomana",
+            "se": "Den turkisk-islamiska konsten i Anatolien före ottomanernas tid",
+            "tr": "Osmanlılardan Önce Anadolu’da Türk-İslam Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          18
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -12211,6 +15903,40 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/1/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "06e2b161-1f15-5d64-a574-9e389e995e1a",
+          "titles": {
+            "en": "The birth of archaeology"
+          }
+        },
+        "subtheme": {
+          "id": "96310872-f776-5cda-bc07-4c7bf07581e4",
+          "titles": {
+            "en": "In the shadow of the Sphinx"
+          }
+        },
+        "legacy_order": [
+          1,
+          1,
+          108
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -12276,6 +16002,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -12501,6 +16228,38 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/1/2/17",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "1f017095-8e3e-52a0-b395-e5e6c5447615",
+          "titles": {
+            "de": "Primärfarben und Emotionen",
+            "en": "Primary Colours and Emotions"
+          }
+        },
+        "subtheme": {
+          "id": "dc677af8-ab22-5a45-aa49-655d978e7365",
+          "titles": {
+            "de": "Primary Colours in Architectural Monuments",
+            "en": "Primary Colours in Architectural Monuments"
+          }
+        },
+        "legacy_order": [
+          17
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -12588,6 +16347,83 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-ephemera",
+        "path": "/exhibition/4/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "9e8b4feb-4136-5c7e-9fb9-a6267e9aa01a",
+          "titles": {
+            "en": "Ephemera, Festivals and Theatrical Representation"
+          }
+        },
+        "theme": {
+          "id": "e6f97a6b-e2a3-55e1-a305-ddf297085e9e",
+          "titles": {
+            "en": "The theatre of the Church"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          43
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "2ebd7b86-c767-599d-a725-e04825472322",
+          "titles": {
+            "en": "Specifics of devotional iconography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "1513f2af-e9a8-5e21-9e67-b67f44988eef",
+          "titles": {
+            "en": "Models and ornaments; materials and techniques"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
       }
     ],
     "languages": [
@@ -12730,6 +16566,60 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-ephemera",
+        "path": "/exhibition/4/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "9e8b4feb-4136-5c7e-9fb9-a6267e9aa01a",
+          "titles": {
+            "en": "Ephemera, Festivals and Theatrical Representation"
+          }
+        },
+        "theme": {
+          "id": "e6f97a6b-e2a3-55e1-a305-ddf297085e9e",
+          "titles": {
+            "en": "The theatre of the Church"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          43
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-reformation",
+        "path": "/exhibition/2/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "371247bc-5f01-5a23-98c8-7d4ce55b2551",
+          "titles": {
+            "en": "Reformation and Counter-Reformation",
+            "it": "Riforma e Controriforma"
+          }
+        },
+        "theme": {
+          "id": "5f504a1c-51b0-5a39-845d-58b7701fa565",
+          "titles": {
+            "en": "Religious orders and their function in transmitting the language of the Counter-Reformation",
+            "it": "Il ruolo degli ordini religiosi nella trasmissione del linguaggio della Controriforma"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          51
+        ]
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -12822,6 +16712,40 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/2/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "e5da444f-e56f-5dd3-9d95-62f9f6ceb9f8",
+          "titles": {
+            "en": "The formation of museums"
+          }
+        },
+        "subtheme": {
+          "id": "ee888065-f56f-5d4b-a952-59421fff9627",
+          "titles": {
+            "en": "Museums in the Arab and Ottoman world"
+          }
+        },
+        "legacy_order": [
+          3,
+          1,
+          6
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -12897,6 +16821,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -12988,6 +16913,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "es"
@@ -13218,6 +17144,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "17e93a55-d0d0-51b2-8c52-ae90b63b4709",
+          "titles": {
+            "ar": "فضاءات السلطة: المشيدات الملكية",
+            "de": "Räume der Macht – die Palastbauten",
+            "en": "Seats of Power: Palaces",
+            "fr": "Espaces du pouvoir : les constructions palatiales",
+            "it": "I luoghi del potere: gli edifici palatini",
+            "pt": "Espaços do poder: as construções palatinas",
+            "es": "Espacios del poder: las construcciones palatinas",
+            "se": "Palatset: maktens centrum",
+            "tr": "İktidar Alanı: Saray Yapıları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -13336,6 +17305,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/2/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "d0f2de47-bb3f-5401-adda-d70b0bdc2f1c",
+          "titles": {
+            "ar": "الرسوم الحيوانية",
+            "de": "Tierdarstellungen",
+            "en": "Animal Representation",
+            "fr": "Représentation animale",
+            "it": "La raffigurazione degli animali",
+            "pt": "A representação de animais",
+            "es": "La representación de animales",
+            "se": "Bilder av djur",
+            "tr": "Hayvan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -13428,6 +17440,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -13544,6 +17557,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -13615,6 +17629,33 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/2/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "52405cc7-f8a0-51f2-9425-3f5531264975",
+          "titles": {
+            "en": "Illusion, gesture and movement"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
       }
     ],
     "languages": [
@@ -13693,6 +17734,72 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/2/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "e5da444f-e56f-5dd3-9d95-62f9f6ceb9f8",
+          "titles": {
+            "en": "The formation of museums"
+          }
+        },
+        "subtheme": {
+          "id": "d21eb5d2-cdce-5f72-a917-0fcf9ad47608",
+          "titles": {
+            "en": "Museums in Europe"
+          }
+        },
+        "legacy_order": [
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-cities-and-urban-spaces",
+        "path": "/theme/3/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "5760ea9a-dc6f-52b5-bfd7-2c63dd3da757",
+          "titles": {
+            "en": "Cities and Urban Spaces"
+          }
+        },
+        "theme": {
+          "id": "71a777b1-0e19-5935-8345-b3cce89a57a0",
+          "titles": {
+            "en": "Architecture and Construction"
+          }
+        },
+        "subtheme": {
+          "id": "2f070c93-61e3-55a8-92cf-7d4a52817314",
+          "titles": {
+            "en": "Monuments"
+          }
+        },
+        "legacy_order": [
+          8,
+          1,
+          8
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -13760,6 +17867,40 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-cities-and-urban-spaces",
+        "path": "/theme/3/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "5760ea9a-dc6f-52b5-bfd7-2c63dd3da757",
+          "titles": {
+            "en": "Cities and Urban Spaces"
+          }
+        },
+        "theme": {
+          "id": "71a777b1-0e19-5935-8345-b3cce89a57a0",
+          "titles": {
+            "en": "Architecture and Construction"
+          }
+        },
+        "subtheme": {
+          "id": "2f070c93-61e3-55a8-92cf-7d4a52817314",
+          "titles": {
+            "en": "Monuments"
+          }
+        },
+        "legacy_order": [
+          8,
+          1,
+          8
+        ]
       }
     ],
     "languages": [
@@ -13896,6 +18037,76 @@
         "legacy_host": "https://exhibitions.museumwnf.org",
         "site": "the-table-is-set",
         "name": "The Table Is Set"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-mamluks",
+        "path": "/exhibition/2/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "217482b1-7626-531f-8ca9-51c2f680fe3d",
+          "titles": {
+            "ar": "المماليك",
+            "de": "Die Mamluken",
+            "en": "The Mamluks",
+            "fr": "Les Mamelouks",
+            "it": "I Mamelucchi",
+            "pt": "Os Mamelucos",
+            "es": "Los mamelucos",
+            "se": "Mamlukerna",
+            "tr": "Memluklar"
+          }
+        },
+        "theme": {
+          "id": "b1f3d679-a18b-5258-af5f-524e8530cb84",
+          "titles": {
+            "ar": "السلطان وبلاطه",
+            "de": "Der Sultan und sein Hof",
+            "en": "The Sultan and his Court",
+            "fr": "Le sultan et sa cour",
+            "it": "Il sultano e la sua corte",
+            "pt": "O sultão e a sua corte",
+            "es": "El sultán y su corte",
+            "se": "Sultanen och hans hov",
+            "tr": "Sultan ve Sarayı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          17
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/5/4/5",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "735e5e35-f62a-5302-96aa-f2e9a69130dd",
+          "titles": {
+            "en": "Gendered Roles"
+          }
+        },
+        "subtheme": {
+          "id": "f409fb59-4b8b-5176-b415-788d1bc965d4",
+          "titles": {
+            "en": "Duties and Roles of Court Officers Serving Rulers and Nobility"
+          }
+        },
+        "legacy_order": [
+          5
+        ]
       }
     ],
     "languages": [
@@ -14110,6 +18321,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -14231,6 +18443,7 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -14384,6 +18597,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -14551,6 +18765,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ottomans",
+        "path": "/exhibition/7/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "618dce7d-8482-5ccb-b334-54c0c96e6db0",
+          "titles": {
+            "ar": "العثمانيون",
+            "de": "Die Osmanen",
+            "en": "The Ottomans",
+            "fr": "Les Ottomans",
+            "it": "Gli Ottomani",
+            "pt": "Os otomanos",
+            "es": "Los otomanos",
+            "se": "Ottomanerna",
+            "tr": "Osmanlılar"
+          }
+        },
+        "theme": {
+          "id": "ee5d09b5-f282-551a-ad6c-510a7a1d4b9d",
+          "titles": {
+            "ar": "الفن في فضاءات الصلاة",
+            "de": "Kunst in Gebetsräumen",
+            "en": "Art in the Spaces of Prayer",
+            "fr": "L'art dans les lieux de prière",
+            "it": "L’arte negli spazi di preghiera",
+            "pt": "A arte nos espaços de oração",
+            "es": "El arte en los espacios de oración",
+            "se": "Konsten i bönens rum",
+            "tr": "Dini Mekânlarda Sanat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          18
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -14615,6 +18872,35 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/3/3/8",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "7233ff48-d3bc-569e-a2a1-51267d0afd15",
+          "titles": {
+            "en": "Vision and Contemporary Reflections"
+          }
+        },
+        "subtheme": {
+          "id": "2d07bb0f-b16e-53ad-b710-eb9840a46d50",
+          "titles": {
+            "en": "The Train Station That Once Was, but Is No More"
+          }
+        },
+        "legacy_order": [
+          8
+        ]
       }
     ],
     "languages": [
@@ -14692,6 +18978,35 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-great-inventions-of-the-19th-century",
+        "path": "/theme/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "1f123df9-1e8c-522c-833c-709f517c53f5",
+          "titles": {
+            "en": "Great Inventions of the 19th Century"
+          }
+        },
+        "theme": {
+          "id": "5ec1519b-da0d-5ea9-94f2-953fa0a42c81",
+          "titles": {
+            "en": "Postal services and telecommunications"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19,
+          0,
+          0
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -14759,6 +19074,40 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-reforms-and-social-changes",
+        "path": "/theme/4/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "a64d0674-78bf-5ac3-97ad-7d66056c91e2",
+          "titles": {
+            "en": "Reforms and Social Changes"
+          }
+        },
+        "theme": {
+          "id": "1321ebbd-54e2-5dc1-b98f-2463cd725227",
+          "titles": {
+            "en": "Work"
+          }
+        },
+        "subtheme": {
+          "id": "7bff97d4-e4df-5f47-99dc-d2cc3bdd19f7",
+          "titles": {
+            "en": "Working conditions"
+          }
+        },
+        "legacy_order": [
+          41,
+          1,
+          88
+        ]
       }
     ],
     "languages": [
@@ -14829,6 +19178,72 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-international-exhibitions",
+        "path": "/theme/4/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c3a68819-dcf2-5be4-8f9b-dcc45c8848e4",
+          "titles": {
+            "en": "International Exhibitions"
+          }
+        },
+        "theme": {
+          "id": "243dad0a-448e-5b25-b9bd-6d85dd21b07a",
+          "titles": {
+            "en": "West and East, fine art at International Exhibitions"
+          }
+        },
+        "subtheme": {
+          "id": "0428e571-a9fe-5fdd-a0ef-a5d3761d8007",
+          "titles": {
+            "en": "Contemporary suggestions"
+          }
+        },
+        "legacy_order": [
+          31,
+          1,
+          163
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-reforms-and-social-changes",
+        "path": "/theme/4/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "a64d0674-78bf-5ac3-97ad-7d66056c91e2",
+          "titles": {
+            "en": "Reforms and Social Changes"
+          }
+        },
+        "theme": {
+          "id": "1321ebbd-54e2-5dc1-b98f-2463cd725227",
+          "titles": {
+            "en": "Work"
+          }
+        },
+        "subtheme": {
+          "id": "7bff97d4-e4df-5f47-99dc-d2cc3bdd19f7",
+          "titles": {
+            "en": "Working conditions"
+          }
+        },
+        "legacy_order": [
+          41,
+          1,
+          88
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -14890,6 +19305,35 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/3/3/10",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "7233ff48-d3bc-569e-a2a1-51267d0afd15",
+          "titles": {
+            "en": "Vision and Contemporary Reflections"
+          }
+        },
+        "subtheme": {
+          "id": "2d07bb0f-b16e-53ad-b710-eb9840a46d50",
+          "titles": {
+            "en": "The Train Station That Once Was, but Is No More"
+          }
+        },
+        "legacy_order": [
+          10
+        ]
       }
     ],
     "languages": [
@@ -14970,6 +19414,33 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-devotion",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "a11fa453-837e-50e2-84b1-9f53c842227b",
+          "titles": {
+            "en": "Devotion and Pilgrimage"
+          }
+        },
+        "theme": {
+          "id": "5fd2859f-1e02-566e-88e5-d084c7f02c76",
+          "titles": {
+            "en": "Devotional objects"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          47
+        ]
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -15044,6 +19515,106 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/1/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "06e2b161-1f15-5d64-a574-9e389e995e1a",
+          "titles": {
+            "en": "The birth of archaeology"
+          }
+        },
+        "subtheme": {
+          "id": "c54c6d85-2d8b-52a2-8573-fee6e62813b4",
+          "titles": {
+            "en": "Ancient voices"
+          }
+        },
+        "legacy_order": [
+          1,
+          1,
+          107
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/2/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "e5da444f-e56f-5dd3-9d95-62f9f6ceb9f8",
+          "titles": {
+            "en": "The formation of museums"
+          }
+        },
+        "subtheme": {
+          "id": "d21eb5d2-cdce-5f72-a917-0fcf9ad47608",
+          "titles": {
+            "en": "Museums in Europe"
+          }
+        },
+        "legacy_order": [
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/3/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "455e9772-e7c7-5b27-acb0-ec12bc4e468b",
+          "titles": {
+            "en": "Tourism"
+          }
+        },
+        "subtheme": {
+          "id": "4bf0185a-28d7-50b2-a737-655c61118d6b",
+          "titles": {
+            "en": "Souvenirs"
+          }
+        },
+        "legacy_order": [
+          17,
+          1,
+          104
+        ]
       }
     ],
     "languages": [
@@ -15167,6 +19738,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "es"
@@ -15239,6 +19811,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "es"
@@ -15347,6 +19920,49 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-crusader",
+        "path": "/exhibition/4/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "4c126e80-2567-5abd-9191-3d40f380e81f",
+          "titles": {
+            "ar": "الفرنجة: الصليبيون في المشرق",
+            "de": "Al-Frandsch: Die Kreuzfahrer in der Levante",
+            "en": "Al-Franj: the Crusaders in the Levant",
+            "fr": "Al-Franj : les Croisés au Levant",
+            "it": "Al-Franj: I Crociati nel Levante",
+            "pt": "Al-franj, os cruzados no Levante",
+            "es": "Al-frany, los cruzados en el Levante",
+            "se": "*Al-Franj*: the Crusaders in the Levant",
+            "tr": "El-Frenc: Levant’ta Haçlılar"
+          }
+        },
+        "theme": {
+          "id": "d3c09fd8-614a-5317-a73b-07bb96f5d57c",
+          "titles": {
+            "ar": "قبة الصخرة في الحرم الشريف.",
+            "de": "Saladin im Heiligen Land",
+            "en": "Saladin in the Holy Land",
+            "fr": "Saladin en Terre sainte",
+            "it": "Saladino in Terra Santa",
+            "pt": "Saladino na Terra Santa",
+            "es": "Saladino en Tierra Santa",
+            "se": "Saladin i det Heliga Landet",
+            "tr": "Salaheddin Eyyubi Kutsal Topraklarda"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          24
+        ]
       }
     ],
     "languages": [
@@ -15495,6 +20111,49 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ottomans",
+        "path": "/exhibition/10/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "618dce7d-8482-5ccb-b334-54c0c96e6db0",
+          "titles": {
+            "ar": "العثمانيون",
+            "de": "Die Osmanen",
+            "en": "The Ottomans",
+            "fr": "Les Ottomans",
+            "it": "Gli Ottomani",
+            "pt": "Os otomanos",
+            "es": "Los otomanos",
+            "se": "Ottomanerna",
+            "tr": "Osmanlılar"
+          }
+        },
+        "theme": {
+          "id": "ef4d7209-5b0a-59f3-aef9-3982ae097af6",
+          "titles": {
+            "ar": "الفن خارج العاصمة",
+            "de": "Die Kunst außerhalb Istanbuls",
+            "en": "Art outside the Capital",
+            "fr": "L'art hors de la capitale",
+            "it": "L’arte oltre i confini della capitale",
+            "pt": "A arte fora da capital",
+            "es": "El arte fuera de la capital",
+            "se": "Konsten utanför huvudstaden",
+            "tr": "Başkent Dışında Sanat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          18
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -15563,6 +20222,99 @@
         "legacy_host": "https://archaeology.museumwnf.org",
         "site": "archaeology",
         "name": "Archaeological Objects"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "06e2b161-1f15-5d64-a574-9e389e995e1a",
+          "titles": {
+            "en": "The birth of archaeology"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/1/7",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "06e2b161-1f15-5d64-a574-9e389e995e1a",
+          "titles": {
+            "en": "The birth of archaeology"
+          }
+        },
+        "subtheme": {
+          "id": "997b02c7-b1a0-5a93-a131-0dd53ed018f3",
+          "titles": {
+            "en": "Lost cities and the birth of scientific archaeology"
+          }
+        },
+        "legacy_order": [
+          1,
+          1,
+          112
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-rediscovering-the-past",
+        "path": "/theme/3/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "17d4d9ff-a2aa-56ff-af1c-4f5dc3ea3176",
+          "titles": {
+            "en": "Rediscovering the Past"
+          }
+        },
+        "theme": {
+          "id": "61060da6-f4f8-5783-8348-d63a8992aaaa",
+          "titles": {
+            "en": "Inspired by the past"
+          }
+        },
+        "subtheme": {
+          "id": "31d8ab23-7e7b-5aae-b421-1b6690c3cdc8",
+          "titles": {
+            "en": "Archaeology as inspiration"
+          }
+        },
+        "legacy_order": [
+          2,
+          1,
+          1
+        ]
       }
     ],
     "languages": [
@@ -15661,6 +20413,35 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/3/2/2",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "7233ff48-d3bc-569e-a2a1-51267d0afd15",
+          "titles": {
+            "en": "Vision and Contemporary Reflections"
+          }
+        },
+        "subtheme": {
+          "id": "47693e45-d390-5d8b-b761-f610b3fab532",
+          "titles": {
+            "en": "By Rail, by Road and by Sky"
+          }
+        },
+        "legacy_order": [
+          2
+        ]
       }
     ],
     "languages": [

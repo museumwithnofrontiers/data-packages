@@ -135,6 +135,7 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -312,6 +313,63 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-bourgeoisie",
+        "path": "/exhibition/4/3",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "75f28465-8738-554e-af5d-f6804a9c2802",
+          "titles": {
+            "en": "The Ascension of the Bourgeoisie"
+          }
+        },
+        "theme": {
+          "id": "8051f567-6219-5908-8c92-e1e6836f557f",
+          "titles": {
+            "en": "Daily Life"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          50
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/3/4",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "a48edfa5-5dbe-57cc-a02c-2487f72e8567",
+          "titles": {
+            "de": "Behind Closed Doors: Private Life and Colours",
+            "en": "Behind Closed Doors: Private Life and Colours"
+          }
+        },
+        "legacy_order": [
+          4
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -383,6 +441,35 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/5/5/5",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "735e5e35-f62a-5302-96aa-f2e9a69130dd",
+          "titles": {
+            "en": "Gendered Roles"
+          }
+        },
+        "subtheme": {
+          "id": "91c22cc7-61aa-5122-9cb0-9b4edc616779",
+          "titles": {
+            "en": "Professional Roles in Food Preparation and Table Service"
+          }
+        },
+        "legacy_order": [
+          5
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -449,6 +536,38 @@
         "legacy_host": "https://porcelain.museumwnf.org",
         "site": "porcelain",
         "name": "Porcelain"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/3/5",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "a48edfa5-5dbe-57cc-a02c-2487f72e8567",
+          "titles": {
+            "de": "Behind Closed Doors: Private Life and Colours",
+            "en": "Behind Closed Doors: Private Life and Colours"
+          }
+        },
+        "legacy_order": [
+          5
+        ]
       }
     ],
     "languages": [
@@ -532,6 +651,62 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/3/2/1",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "99437e6b-b376-5f86-9a58-f2f1bbf55c32",
+          "titles": {
+            "en": "Religion"
+          }
+        },
+        "subtheme": {
+          "id": "d8c7a0b9-0782-5614-b08e-7125add26515",
+          "titles": {
+            "en": "Religious Festivals, Preparation and Dishes"
+          }
+        },
+        "legacy_order": [
+          1
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/2/1/17",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "238a4c4f-8bb3-584d-829b-208cef78fb0c",
+          "titles": {
+            "en": "Social Life"
+          }
+        },
+        "subtheme": {
+          "id": "6a5071c2-d01d-519b-9fc3-c51994784f7e",
+          "titles": {
+            "en": "Food Symbolism in Islamic Culture"
+          }
+        },
+        "legacy_order": [
+          17
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -601,6 +776,83 @@
         "legacy_host": "https://porcelain.museumwnf.org",
         "site": "porcelain",
         "name": "Porcelain"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-travelling-and-exotism",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "fb21ee03-874b-5ba1-95d5-bde929f2762d",
+          "titles": {
+            "en": "Travelling and Exoticism"
+          }
+        },
+        "theme": {
+          "id": "9ce63534-6023-5477-9a09-a9243529f217",
+          "titles": {
+            "en": "Trade and cultural interaction"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          44
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-absolutism",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+          "titles": {
+            "en": "Absolutism"
+          }
+        },
+        "theme": {
+          "id": "4c2f5ce9-d444-5756-8c05-5d3d3c624715",
+          "titles": {
+            "en": "Court life and diplomacy"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          46
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-bourgeoisie",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "75f28465-8738-554e-af5d-f6804a9c2802",
+          "titles": {
+            "en": "The Ascension of the Bourgeoisie"
+          }
+        },
+        "theme": {
+          "id": "fbd5151d-c2cc-5d73-be96-1e9d1c514946",
+          "titles": {
+            "en": "Trade and Festivities"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          50
+        ]
       }
     ],
     "languages": [
@@ -688,6 +940,35 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "with-brush-and-qalam",
+        "path": "/theme/4/1/1",
+        "project": null,
+        "exhibition": {
+          "id": "bac76311-0d8c-5065-8693-bc1720e569db",
+          "titles": {
+            "en": "With Brush and Qalam"
+          }
+        },
+        "theme": {
+          "id": "63f893e2-4d29-5a06-9725-39a71cf2389c",
+          "titles": {
+            "en": "Islam in China"
+          }
+        },
+        "subtheme": {
+          "id": "7854ada7-a8f9-53bf-a243-8dd5b2277f24",
+          "titles": {
+            "en": "Hui Muslims"
+          }
+        },
+        "legacy_order": [
+          1
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -756,6 +1037,40 @@
         "legacy_host": "https://porcelain.museumwnf.org",
         "site": "porcelain",
         "name": "Porcelain"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/2/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "7d68e2e9-6d60-5c4f-938e-3972cbd0cc77",
+          "titles": {
+            "en": "Encountering the East"
+          }
+        },
+        "subtheme": {
+          "id": "b0bad80c-0c28-5834-9e36-03d8ce3a9cd1",
+          "titles": {
+            "en": "Orientalist applied arts"
+          }
+        },
+        "legacy_order": [
+          21,
+          1,
+          125
+        ]
       }
     ],
     "languages": [
@@ -840,6 +1155,35 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/1/2/11",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "d895a076-21e8-5cd0-809f-8d8046a05a60",
+          "titles": {
+            "en": "Food at Islamic Courts"
+          }
+        },
+        "subtheme": {
+          "id": "bf8e9642-abed-5b40-9dad-cfc435f0647c",
+          "titles": {
+            "en": "Feasts"
+          }
+        },
+        "legacy_order": [
+          11
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -898,6 +1242,7 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -955,6 +1300,7 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1037,6 +1383,7 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -1100,6 +1447,35 @@
         "legacy_host": "https://porcelain.museumwnf.org",
         "site": "porcelain",
         "name": "Porcelain"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "7d68e2e9-6d60-5c4f-938e-3972cbd0cc77",
+          "titles": {
+            "en": "Encountering the East"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          21,
+          0,
+          0
+        ]
       }
     ],
     "languages": [
@@ -1168,6 +1544,35 @@
         "legacy_host": "https://porcelain.museumwnf.org",
         "site": "porcelain",
         "name": "Porcelain"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/3/2/12",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "99437e6b-b376-5f86-9a58-f2f1bbf55c32",
+          "titles": {
+            "en": "Religion"
+          }
+        },
+        "subtheme": {
+          "id": "d8c7a0b9-0782-5614-b08e-7125add26515",
+          "titles": {
+            "en": "Religious Festivals, Preparation and Dishes"
+          }
+        },
+        "legacy_order": [
+          12
+        ]
       }
     ],
     "languages": [
@@ -1282,6 +1687,7 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1351,6 +1757,7 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1447,6 +1854,62 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/4/3/3",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "80cd42c3-f130-56d3-b0fc-8a033ff888a2",
+          "titles": {
+            "en": "The Symbolism of Water in sacred Texts, secular Literature, and Science"
+          }
+        },
+        "subtheme": {
+          "id": "981d7f37-ff97-5e15-936b-4b7fe274ae4a",
+          "titles": {
+            "en": "Water as Source of Healing, Life, and Protection"
+          }
+        },
+        "legacy_order": [
+          3
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/2/1/5",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "238a4c4f-8bb3-584d-829b-208cef78fb0c",
+          "titles": {
+            "en": "Social Life"
+          }
+        },
+        "subtheme": {
+          "id": "6a5071c2-d01d-519b-9fc3-c51994784f7e",
+          "titles": {
+            "en": "Food Symbolism in Islamic Culture"
+          }
+        },
+        "legacy_order": [
+          5
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -1521,6 +1984,40 @@
         "name": "Porcelain"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/4/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "43f46690-1d6e-5d64-b190-3e7fd3f18a07",
+          "titles": {
+            "en": "The concept of revivals"
+          }
+        },
+        "subtheme": {
+          "id": "ccd55ae1-a0f4-5328-b3f2-152a50b8ee79",
+          "titles": {
+            "en": "The “Moorish” and Spanish Neo-Mudéjar styles"
+          }
+        },
+        "legacy_order": [
+          53,
+          1,
+          128
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1577,6 +2074,42 @@
         "legacy_host": "https://porcelain.museumwnf.org",
         "site": "porcelain",
         "name": "Porcelain"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/2/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "fd43afd8-f2d6-5070-97cc-13904ef0eb5a",
+          "titles": {
+            "en": "Religious tourism and pilgrimage"
+          }
+        },
+        "subtheme": {
+          "id": "3f13a2ed-bcbf-58cd-a77d-c32e230f33eb",
+          "titles": {
+            "en": "Islamic pilgrimage"
+          }
+        },
+        "legacy_order": [
+          15,
+          1,
+          99
+        ]
       }
     ],
     "languages": [

@@ -67,6 +67,40 @@
         "name": "Prints and drawings"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-great-inventions-of-the-19th-century",
+        "path": "/theme/1/5",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "1f123df9-1e8c-522c-833c-709f517c53f5",
+          "titles": {
+            "en": "Great Inventions of the 19th Century"
+          }
+        },
+        "theme": {
+          "id": "03df9cf1-e1db-5beb-a1cb-458edcf0419e",
+          "titles": {
+            "en": "Innovative technologies"
+          }
+        },
+        "subtheme": {
+          "id": "3ad3e3c3-934a-5c5b-b5d0-354c4d535a04",
+          "titles": {
+            "en": "Other innovative technologies"
+          }
+        },
+        "legacy_order": [
+          13,
+          1,
+          122
+        ]
+      }
+    ],
     "languages": [
       "en",
       "fr"
@@ -133,6 +167,72 @@
         "legacy_host": "https://cars.museumwnf.org",
         "site": "historical-cars",
         "name": "Historical Cars"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-migrations",
+        "path": "/theme/3/5",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "2353a4ff-1dd5-5807-9b96-c146b09485c2",
+          "titles": {
+            "en": "Migrations"
+          }
+        },
+        "theme": {
+          "id": "77e9c212-47c7-5247-ba99-903d861af98d",
+          "titles": {
+            "en": "North–South movements"
+          }
+        },
+        "subtheme": {
+          "id": "8a6249fe-93fb-5ce8-90f9-5369033b0eb6",
+          "titles": {
+            "en": "Artists"
+          }
+        },
+        "legacy_order": [
+          36,
+          1,
+          135
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-migrations",
+        "path": "/theme/3/6",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "2353a4ff-1dd5-5807-9b96-c146b09485c2",
+          "titles": {
+            "en": "Migrations"
+          }
+        },
+        "theme": {
+          "id": "77e9c212-47c7-5247-ba99-903d861af98d",
+          "titles": {
+            "en": "North–South movements"
+          }
+        },
+        "subtheme": {
+          "id": "5b56a87d-e6af-521a-b925-9f93c8328d59",
+          "titles": {
+            "en": "The cross-Mediterranean movements of the privileged few"
+          }
+        },
+        "legacy_order": [
+          36,
+          1,
+          136
+        ]
       }
     ],
     "languages": [
@@ -210,6 +310,7 @@
         "name": "Prints and drawings"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en",
       "fr"
@@ -277,6 +378,40 @@
         "legacy_host": "https://prints-drawings.museumwnf.org",
         "site": "prints-drawings",
         "name": "Prints and drawings"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-great-inventions-of-the-19th-century",
+        "path": "/theme/1/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "1f123df9-1e8c-522c-833c-709f517c53f5",
+          "titles": {
+            "en": "Great Inventions of the 19th Century"
+          }
+        },
+        "theme": {
+          "id": "03df9cf1-e1db-5beb-a1cb-458edcf0419e",
+          "titles": {
+            "en": "Innovative technologies"
+          }
+        },
+        "subtheme": {
+          "id": "f178ae75-fcd3-5d5e-8479-e07596b2511f",
+          "titles": {
+            "en": "Steam and internal combustion engines"
+          }
+        },
+        "legacy_order": [
+          13,
+          1,
+          119
+        ]
       }
     ],
     "languages": [
@@ -359,6 +494,63 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-ephemera",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "9e8b4feb-4136-5c7e-9fb9-a6267e9aa01a",
+          "titles": {
+            "en": "Ephemera, Festivals and Theatrical Representation"
+          }
+        },
+        "theme": {
+          "id": "ca60d2cc-f97c-589d-9fc4-c191aa9d692b",
+          "titles": {
+            "en": "“All the world is a stage”"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          43
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/2/1/5",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "69307149-9a81-5f2e-98a4-e58f1b2b05a3",
+          "titles": {
+            "de": "The Three Dimensions of Colours",
+            "en": "The Three Dimensions of Colours"
+          }
+        },
+        "subtheme": {
+          "id": "11bf29ca-c7ee-5d82-8565-1459dfae9402",
+          "titles": {
+            "de": "Hue, Saturation, and Value: Visual Effects",
+            "en": "Hue, Saturation, and Value: Visual Effects"
+          }
+        },
+        "legacy_order": [
+          5
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -422,6 +614,67 @@
         "legacy_host": "https://prints-drawings.museumwnf.org",
         "site": "prints-drawings",
         "name": "Prints and drawings"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-economy-and-trade",
+        "path": "/theme/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "8bebd45c-0749-50b8-ad43-dc6cb58c395b",
+          "titles": {
+            "en": "Economy and Trade"
+          }
+        },
+        "theme": {
+          "id": "661461d8-cd67-5317-a732-8c12ea920cff",
+          "titles": {
+            "en": "Trading routes"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          25,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-economy-and-trade",
+        "path": "/theme/2/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "8bebd45c-0749-50b8-ad43-dc6cb58c395b",
+          "titles": {
+            "en": "Economy and Trade"
+          }
+        },
+        "theme": {
+          "id": "661461d8-cd67-5317-a732-8c12ea920cff",
+          "titles": {
+            "en": "Trading routes"
+          }
+        },
+        "subtheme": {
+          "id": "ab625705-aa84-5fba-ad9a-e8c0532f2e25",
+          "titles": {
+            "en": "Trading routes by land"
+          }
+        },
+        "legacy_order": [
+          25,
+          1,
+          56
+        ]
       }
     ],
     "languages": [
@@ -499,6 +752,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -581,6 +835,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -685,6 +940,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -748,6 +1004,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -836,6 +1093,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -900,6 +1158,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -968,6 +1227,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1056,6 +1316,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1110,6 +1371,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1177,6 +1439,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1245,6 +1508,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1312,6 +1576,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1382,6 +1647,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1471,6 +1737,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1568,6 +1835,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1650,6 +1918,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1719,6 +1988,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1809,6 +2079,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1876,6 +2147,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1965,6 +2237,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2032,6 +2305,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2099,6 +2373,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2166,6 +2441,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2235,6 +2511,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2301,6 +2578,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2368,6 +2646,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2437,6 +2716,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2527,6 +2807,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2591,6 +2872,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2756,6 +3038,83 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-ephemera",
+        "path": "/exhibition/2/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "9e8b4feb-4136-5c7e-9fb9-a6267e9aa01a",
+          "titles": {
+            "en": "Ephemera, Festivals and Theatrical Representation"
+          }
+        },
+        "theme": {
+          "id": "ca60d2cc-f97c-589d-9fc4-c191aa9d692b",
+          "titles": {
+            "en": "“All the world is a stage”"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          43
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-absolutism",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+          "titles": {
+            "en": "Absolutism"
+          }
+        },
+        "theme": {
+          "id": "4c2f5ce9-d444-5756-8c05-5d3d3c624715",
+          "titles": {
+            "en": "Court life and diplomacy"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          46
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "1513f2af-e9a8-5e21-9e67-b67f44988eef",
+          "titles": {
+            "en": "Models and ornaments; materials and techniques"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
+      }
+    ],
     "languages": [
       "en",
       "pt"
@@ -2846,6 +3205,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2935,6 +3295,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3006,6 +3367,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3101,6 +3463,35 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/5/5/11",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "367a1ed0-0e57-5a75-aae5-0a83f8f0367c",
+          "titles": {
+            "en": "Contemporary Context: Water in the Islamic World Today"
+          }
+        },
+        "subtheme": {
+          "id": "dd084451-a673-5a08-9e5c-1511b897833e",
+          "titles": {
+            "en": "Art and Water, Contemporary Approach"
+          }
+        },
+        "legacy_order": [
+          11
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -3186,6 +3577,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3268,6 +3660,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3350,6 +3743,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -3441,6 +3835,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3510,6 +3905,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3577,6 +3973,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3629,6 +4026,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3719,6 +4117,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3785,6 +4184,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3851,6 +4251,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3919,6 +4320,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -3987,6 +4389,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4069,6 +4472,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4137,6 +4541,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4205,6 +4610,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4294,6 +4700,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4364,6 +4771,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4434,6 +4842,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4504,6 +4913,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4608,6 +5018,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4681,6 +5092,7 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4748,6 +5160,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4830,6 +5243,7 @@
         "name": "Prints and drawings"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -4920,6 +5334,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -4991,6 +5406,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5080,6 +5496,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5148,6 +5565,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5213,6 +5631,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5280,6 +5699,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5345,6 +5765,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5409,6 +5830,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5497,6 +5919,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5574,6 +5997,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5656,6 +6080,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5723,6 +6148,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5789,6 +6215,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5855,6 +6282,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5922,6 +6350,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -5990,6 +6419,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6054,6 +6484,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6142,6 +6573,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6217,6 +6649,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6284,6 +6717,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6348,6 +6782,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6420,6 +6855,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "de",
       "en",
@@ -6491,6 +6927,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6559,6 +6996,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6656,6 +7094,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6738,6 +7177,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6805,6 +7245,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6910,6 +7351,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -6979,6 +7421,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7068,6 +7511,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7172,6 +7616,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -7240,6 +7685,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7307,6 +7753,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7395,6 +7842,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7464,6 +7912,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7531,6 +7980,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7601,6 +8051,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7677,6 +8128,67 @@
         "name": "Portraits"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-reforms-and-social-changes",
+        "path": "/theme/3/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "a64d0674-78bf-5ac3-97ad-7d66056c91e2",
+          "titles": {
+            "en": "Reforms and Social Changes"
+          }
+        },
+        "theme": {
+          "id": "4ee30c83-4691-5e4e-a00a-6d94141740be",
+          "titles": {
+            "en": "Women"
+          }
+        },
+        "subtheme": {
+          "id": "b0d38f34-48b7-5628-a886-16c09eb2af78",
+          "titles": {
+            "en": "Struggle for women's rights"
+          }
+        },
+        "legacy_order": [
+          40,
+          1,
+          85
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/5",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "339e33ad-1dc9-5dab-bc3d-5c4a56eba689",
+          "titles": {
+            "en": "Photography"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          54,
+          0,
+          0
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -7746,6 +8258,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7815,6 +8328,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -7897,6 +8411,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8000,6 +8515,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8065,6 +8581,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8135,6 +8652,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8238,6 +8756,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8328,6 +8847,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8395,6 +8915,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8477,6 +8998,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8555,6 +9077,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8652,6 +9175,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8717,6 +9241,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8785,6 +9310,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8889,6 +9415,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -8955,6 +9482,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -9044,6 +9572,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -9117,6 +9646,35 @@
         "legacy_host": "https://cars.museumwnf.org",
         "site": "historical-cars",
         "name": "Historical Cars"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-great-inventions-of-the-19th-century",
+        "path": "/theme/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "1f123df9-1e8c-522c-833c-709f517c53f5",
+          "titles": {
+            "en": "Great Inventions of the 19th Century"
+          }
+        },
+        "theme": {
+          "id": "b647d8d2-0a0f-5951-af75-816364a08456",
+          "titles": {
+            "en": "Transportation"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10,
+          0,
+          0
+        ]
       }
     ],
     "languages": [
@@ -9201,6 +9759,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -9283,6 +9842,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -9350,6 +9910,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -9415,6 +9976,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]

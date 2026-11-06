@@ -50,6 +50,7 @@
         "name": "Toys and Games"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -176,6 +177,35 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/2/4/8",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "238a4c4f-8bb3-584d-829b-208cef78fb0c",
+          "titles": {
+            "en": "Social Life"
+          }
+        },
+        "subtheme": {
+          "id": "39cb0400-0972-5deb-b20b-7ff5ae2ab902",
+          "titles": {
+            "en": "Food Nomadism: from the Desert Tradition to the Urban Table"
+          }
+        },
+        "legacy_order": [
+          8
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -233,6 +263,7 @@
         "name": "Toys and Games"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -307,6 +338,7 @@
         "name": "Ivory"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -421,6 +453,49 @@
         "name": "Ivory"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/2/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "8b555882-9559-52d8-ae93-cfbbd27f9bfe",
+          "titles": {
+            "ar": "مباهج واحتفالات في البلاط",
+            "de": "Vergnügungen und Festlichkeiten am Hof",
+            "en": "Pleasures and Celebrations at Court",
+            "fr": "Plaisirs et festivités à la cour",
+            "it": "I piaceri e le feste di corte",
+            "pt": "Prazeres e celebrações na corte",
+            "es": "Placeres y celebraciones en la corte",
+            "se": "Fester och nöjen vid hovet",
+            "tr": "Saray Eğlenceleri ve Kutlamaları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "de",
@@ -511,6 +586,49 @@
         "name": "Ivory"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-fatimids",
+        "path": "/exhibition/2/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "35beb34a-375b-5bd2-98d3-523a97e96b21",
+          "titles": {
+            "ar": "الفاطميون",
+            "de": "Die Fatimiden",
+            "en": "The Fatimids",
+            "fr": "Les Fatimides",
+            "it": "I Fatimidi",
+            "pt": "Os Fatimidas",
+            "es": "Los fatimíes",
+            "se": "Fatimiderna",
+            "tr": "Fatımiler"
+          }
+        },
+        "theme": {
+          "id": "8b555882-9559-52d8-ae93-cfbbd27f9bfe",
+          "titles": {
+            "ar": "مباهج واحتفالات في البلاط",
+            "de": "Vergnügungen und Festlichkeiten am Hof",
+            "en": "Pleasures and Celebrations at Court",
+            "fr": "Plaisirs et festivités à la cour",
+            "it": "I piaceri e le feste di corte",
+            "pt": "Prazeres e celebrações na corte",
+            "es": "Placeres y celebraciones en la corte",
+            "se": "Fester och nöjen vid hovet",
+            "tr": "Saray Eğlenceleri ve Kutlamaları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          16
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -578,6 +696,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -667,6 +786,7 @@
         "name": "Ivory"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -752,6 +872,7 @@
         "name": "Toys and Games"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -823,6 +944,7 @@
         "name": "Toys and Games"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -922,6 +1044,99 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-music-literature-dance-and-fashion",
+        "path": "/theme/2/7",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c9335788-c5e2-5748-8aca-0d5e79500ab0",
+          "titles": {
+            "en": "Music, Literature, Dance and Fashion"
+          }
+        },
+        "theme": {
+          "id": "ed9f89ae-f83d-56eb-87dc-8663cfd7ea9c",
+          "titles": {
+            "en": "Literature"
+          }
+        },
+        "subtheme": {
+          "id": "fd5d1998-57d4-50a4-84fa-6694298266a3",
+          "titles": {
+            "en": "Religious festivals, theatre and drama in Arab and Ottoman lands"
+          }
+        },
+        "legacy_order": [
+          48,
+          1,
+          147
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-music-literature-dance-and-fashion",
+        "path": "/theme/3/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "c9335788-c5e2-5748-8aca-0d5e79500ab0",
+          "titles": {
+            "en": "Music, Literature, Dance and Fashion"
+          }
+        },
+        "theme": {
+          "id": "74050d04-8c6c-5ad0-9c80-9ac46f59d8c2",
+          "titles": {
+            "en": "Dance and entertainment"
+          }
+        },
+        "subtheme": {
+          "id": "f31c4cb0-afc2-5ece-9b16-ec1afa4d98d2",
+          "titles": {
+            "en": "Traditional entertainment"
+          }
+        },
+        "legacy_order": [
+          49,
+          1,
+          150
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/3/2/13",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "99437e6b-b376-5f86-9a58-f2f1bbf55c32",
+          "titles": {
+            "en": "Religion"
+          }
+        },
+        "subtheme": {
+          "id": "d8c7a0b9-0782-5614-b08e-7125add26515",
+          "titles": {
+            "en": "Religious Festivals, Preparation and Dishes"
+          }
+        },
+        "legacy_order": [
+          13
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -987,6 +1202,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1049,6 +1265,7 @@
         "name": "Toys and Games"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -1105,6 +1322,7 @@
         "name": "Toys and Games"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1161,6 +1379,7 @@
         "name": "Toys and Games"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1226,6 +1445,7 @@
         "name": "Historical Cars"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1282,6 +1502,7 @@
         "name": "Toys and Games"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1378,6 +1599,35 @@
         "legacy_host": "https://sculptures.museumwnf.org",
         "site": "sculptures",
         "name": "Sculptures"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/3/2/2",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "7233ff48-d3bc-569e-a2a1-51267d0afd15",
+          "titles": {
+            "en": "Vision and Contemporary Reflections"
+          }
+        },
+        "subtheme": {
+          "id": "47693e45-d390-5d8b-b761-f610b3fab532",
+          "titles": {
+            "en": "By Rail, by Road and by Sky"
+          }
+        },
+        "legacy_order": [
+          2
+        ]
       }
     ],
     "languages": [
