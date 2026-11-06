@@ -58,6 +58,65 @@
         "name": "The Use of Colours in Art"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/2/10",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "16626953-50ef-56fa-bd57-e9dc1cfa848a",
+          "titles": {
+            "en": "[Th 2_SubTh 2] Wedding"
+          }
+        },
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/1/1/12",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "1f017095-8e3e-52a0-b395-e5e6c5447615",
+          "titles": {
+            "de": "Primärfarben und Emotionen",
+            "en": "Primary Colours and Emotions"
+          }
+        },
+        "subtheme": {
+          "id": "103e5a49-0d17-5f26-bb4b-53bf054167c8",
+          "titles": {
+            "de": "Die Grundlagen – Kennenlernen der Grundfarben",
+            "en": "The Basics – getting to know the Primary Colours"
+          }
+        },
+        "legacy_order": [
+          12
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -120,6 +179,35 @@
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
         "name": "The Table Is Set"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/2/4/13",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "238a4c4f-8bb3-584d-829b-208cef78fb0c",
+          "titles": {
+            "en": "Social Life"
+          }
+        },
+        "subtheme": {
+          "id": "39cb0400-0972-5deb-b20b-7ff5ae2ab902",
+          "titles": {
+            "en": "Food Nomadism: from the Desert Tradition to the Urban Table"
+          }
+        },
+        "legacy_order": [
+          13
+        ]
       }
     ],
     "languages": [
@@ -190,6 +278,67 @@
         "slug": "jewellery",
         "legacy_host": "https://jewellery.museumwnf.org",
         "name": "Jewellery"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/3/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "7888f842-0c26-5030-a87a-95f171c11d78",
+          "titles": {
+            "en": "Encountering the West"
+          }
+        },
+        "subtheme": {
+          "id": "bf266bd8-1fcd-5149-9bc6-cd75d44f6660",
+          "titles": {
+            "en": "Decorative arts"
+          }
+        },
+        "legacy_order": [
+          52,
+          1,
+          127
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/2/10",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
+          "titles": {
+            "en": "Religious art and architecture"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
       }
     ],
     "languages": [
@@ -292,6 +441,35 @@
         "name": "Manuscripts"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/2/7",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "16626953-50ef-56fa-bd57-e9dc1cfa848a",
+          "titles": {
+            "en": "[Th 2_SubTh 2] Wedding"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -347,6 +525,40 @@
         "slug": "paintings",
         "legacy_host": "https://paintings.museumwnf.org",
         "name": "Paintings"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/2/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "7d68e2e9-6d60-5c4f-938e-3972cbd0cc77",
+          "titles": {
+            "en": "Encountering the East"
+          }
+        },
+        "subtheme": {
+          "id": "ef1839a2-039f-5f2c-aee6-a8f6df410618",
+          "titles": {
+            "en": "Painting: Scenes of everyday life"
+          }
+        },
+        "legacy_order": [
+          21,
+          1,
+          38
+        ]
       }
     ],
     "languages": [
@@ -433,6 +645,35 @@
         "slug": "manuscripts",
         "legacy_host": "https://manuscripts.museumwnf.org",
         "name": "Manuscripts"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/1",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          1
+        ]
       }
     ],
     "languages": [
@@ -622,6 +863,170 @@
         "slug": "manuscripts",
         "legacy_host": "https://manuscripts.museumwnf.org",
         "name": "Manuscripts"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/4/5/8",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "80cd42c3-f130-56d3-b0fc-8a033ff888a2",
+          "titles": {
+            "en": "The Symbolism of Water in sacred Texts, secular Literature, and Science"
+          }
+        },
+        "subtheme": {
+          "id": "4e8133ba-b181-554a-bd52-4bf13639f568",
+          "titles": {
+            "en": "Water in Knowledge, Science, and Technology"
+          }
+        },
+        "legacy_order": [
+          8
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/6",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/7",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/8",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/2/1",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "16626953-50ef-56fa-bd57-e9dc1cfa848a",
+          "titles": {
+            "en": "[Th 2_SubTh 2] Wedding"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/2/2",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "16626953-50ef-56fa-bd57-e9dc1cfa848a",
+          "titles": {
+            "en": "[Th 2_SubTh 2] Wedding"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
       }
     ],
     "languages": [
@@ -859,6 +1264,170 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/5/4/13",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "735e5e35-f62a-5302-96aa-f2e9a69130dd",
+          "titles": {
+            "en": "Gendered Roles"
+          }
+        },
+        "subtheme": {
+          "id": "f409fb59-4b8b-5176-b415-788d1bc965d4",
+          "titles": {
+            "en": "Duties and Roles of Court Officers Serving Rulers and Nobility"
+          }
+        },
+        "legacy_order": [
+          13
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/12",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/13",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/14",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/15",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/2/6",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "16626953-50ef-56fa-bd57-e9dc1cfa848a",
+          "titles": {
+            "en": "[Th 2_SubTh 2] Wedding"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -922,6 +1491,35 @@
         "slug": "clothing_and_costume",
         "legacy_host": "https://clothing.museumwnf.org",
         "name": "Clothing and Costume"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/2/9",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
+          "titles": {
+            "en": "Religious art and architecture"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
       }
     ],
     "languages": [
@@ -993,6 +1591,7 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1045,6 +1644,62 @@
         "slug": "water_in_islam",
         "legacy_host": "https://exhibitions.museumwnf.org",
         "name": "Water in Islam"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/3/1/6",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "949af30f-e113-501b-8cea-ba30237d2ecd",
+          "titles": {
+            "en": "Religion and Spirituality"
+          }
+        },
+        "subtheme": {
+          "id": "f45fdab9-b22d-5759-be60-cc34bf79daa8",
+          "titles": {
+            "en": "\"Purity is Half of Faith\" (Hadith: Sahih Muslim 432)"
+          }
+        },
+        "legacy_order": [
+          6
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/1/11",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "5d19ad8f-0894-591b-8df7-ad85c5422ba7",
+          "titles": {
+            "en": "Residential and domestic life"
+          }
+        },
+        "legacy_order": [
+          11
+        ]
       }
     ],
     "languages": [
@@ -1105,6 +1760,7 @@
         "name": "Metalwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1383,6 +2039,117 @@
         "name": "Archaeological Objects"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/5/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "79e2b8e9-7cfa-5332-82b0-542b14234df5",
+          "titles": {
+            "ar": "حفلات البلاط وتساليه",
+            "de": "Zeremoniell und Zeitvertreib am Hof",
+            "en": "Court Ceremonials and Pastimes",
+            "fr": "Cérémonial et divertissements à la cour",
+            "it": "Cerimoniali e svaghi di corte",
+            "pt": "Cerimónias e passatempos cortesãos",
+            "es": "Ceremonias y pasatiempos cortesanos",
+            "se": "Hovets ceremonier och förströelser",
+            "tr": "Saray Törenleri ve Eğlenceleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-figural",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "96e50aab-a868-5824-b376-8cdd7e37d384",
+          "titles": {
+            "ar": "الفن التصويري",
+            "de": "Figurative Kunst",
+            "en": "Figurative Art",
+            "fr": "Art figuratif",
+            "it": "Arte figurativa",
+            "pt": "Arte figurativa.",
+            "es": "Arte figurativo",
+            "se": "Föreställande konst",
+            "tr": "İslam Sanatında Figürlü Bezeme"
+          }
+        },
+        "theme": {
+          "id": "24e11f60-92ed-5fc9-959e-e0aa49482ffe",
+          "titles": {
+            "ar": "الرسوم الآدمية",
+            "de": "Menschendarstellungen",
+            "en": "Human Representation",
+            "fr": "Représentation humaine",
+            "it": "La raffigurazione umana",
+            "pt": "A representação humana",
+            "es": "La representación humana",
+            "se": "Bilder av människor",
+            "tr": "İnsan Tasvirleri"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          20
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/3",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -1455,6 +2222,35 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/3/1/1",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "6688d259-e149-5de4-963a-0c384207c06c",
+          "titles": {
+            "en": "[Th 3] The Medium Art"
+          }
+        },
+        "subtheme": {
+          "id": "b29d3c22-7432-5299-8bf4-fcf6f4ea551c",
+          "titles": {
+            "en": "Glass"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1515,6 +2311,7 @@
         "name": "Metalwork"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1580,6 +2377,62 @@
         "name": "With Brush and Qalam"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "with-brush-and-qalam",
+        "path": "/theme/2/1/1",
+        "project": null,
+        "exhibition": {
+          "id": "bac76311-0d8c-5065-8693-bc1720e569db",
+          "titles": {
+            "en": "With Brush and Qalam"
+          }
+        },
+        "theme": {
+          "id": "e35e5041-aa99-5b57-93cb-323e3b124b7c",
+          "titles": {
+            "en": "Chinese-Arabic Calligraphy"
+          }
+        },
+        "subtheme": {
+          "id": "d730136a-6126-5248-9219-65c05233157b",
+          "titles": {
+            "en": "Symbiosis I"
+          }
+        },
+        "legacy_order": [
+          1
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/4/2/3",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "058816c6-5b8b-59ac-a0a8-45684a40b485",
+          "titles": {
+            "en": "Test theme (Amira)"
+          }
+        },
+        "subtheme": {
+          "id": "eafc68e4-60c9-5ab8-8fe1-1fdaf0e60e26",
+          "titles": {
+            "en": "Seals"
+          }
+        },
+        "legacy_order": [
+          3
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1635,6 +2488,35 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/3/3/6",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "99437e6b-b376-5f86-9a58-f2f1bbf55c32",
+          "titles": {
+            "en": "Religion"
+          }
+        },
+        "subtheme": {
+          "id": "cacd508c-ac3e-57b1-bbbe-26babcbf2131",
+          "titles": {
+            "en": "Kitchen as a Medium of Education in Islam"
+          }
+        },
+        "legacy_order": [
+          6
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1679,6 +2561,35 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/1/9",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "5d19ad8f-0894-591b-8df7-ad85c5422ba7",
+          "titles": {
+            "en": "Residential and domestic life"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -1740,6 +2651,62 @@
         "slug": "with_brush_and_qalam",
         "legacy_host": "https://exhibitions.museumwnf.org",
         "name": "With Brush and Qalam"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "with-brush-and-qalam",
+        "path": "/theme/3/4/2",
+        "project": null,
+        "exhibition": {
+          "id": "bac76311-0d8c-5065-8693-bc1720e569db",
+          "titles": {
+            "en": "With Brush and Qalam"
+          }
+        },
+        "theme": {
+          "id": "307e2c0b-7541-540b-8098-779634923cdc",
+          "titles": {
+            "en": "The Two Traditions"
+          }
+        },
+        "subtheme": {
+          "id": "d0d91b52-4de7-5a36-8160-5f3eaaf261b4",
+          "titles": {
+            "en": "Haji Noor Deen and His Scripts"
+          }
+        },
+        "legacy_order": [
+          2
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/4/2/2",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "058816c6-5b8b-59ac-a0a8-45684a40b485",
+          "titles": {
+            "en": "Test theme (Amira)"
+          }
+        },
+        "subtheme": {
+          "id": "eafc68e4-60c9-5ab8-8fe1-1fdaf0e60e26",
+          "titles": {
+            "en": "Seals"
+          }
+        },
+        "legacy_order": [
+          2
+        ]
       }
     ],
     "languages": [
@@ -1817,6 +2784,7 @@
         "name": "The Table Is Set"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -1874,6 +2842,92 @@
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
         "name": "Glass"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/1/8",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "3062d0eb-92a1-5c62-8e39-26f7ee95395d",
+          "titles": {
+            "de": "Dress to Impress: Costume and Colour",
+            "en": "Dress to Impress: Costume and Colour"
+          }
+        },
+        "legacy_order": [
+          8
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/1/8",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "5d19ad8f-0894-591b-8df7-ad85c5422ba7",
+          "titles": {
+            "en": "Residential and domestic life"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/2/3",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "16626953-50ef-56fa-bd57-e9dc1cfa848a",
+          "titles": {
+            "en": "[Th 2_SubTh 2] Wedding"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
       }
     ],
     "languages": [
@@ -2006,6 +3060,60 @@
         "name": "Gold and Silver"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-languages-baroque",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "92811773-7d90-5bec-90f3-f22c45c8cc29",
+          "titles": {
+            "en": "Languages of Baroque"
+          }
+        },
+        "theme": {
+          "id": "1513f2af-e9a8-5e21-9e67-b67f44988eef",
+          "titles": {
+            "en": "Models and ornaments; materials and techniques"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          48
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/2/8",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
+          "titles": {
+            "en": "Religious art and architecture"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "cs",
       "en"
@@ -2070,6 +3178,35 @@
         "slug": "with_brush_and_qalam",
         "legacy_host": "https://exhibitions.museumwnf.org",
         "name": "With Brush and Qalam"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/4/1/1",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "058816c6-5b8b-59ac-a0a8-45684a40b485",
+          "titles": {
+            "en": "Test theme (Amira)"
+          }
+        },
+        "subtheme": {
+          "id": "4b21cdf8-ea82-5bb5-9fa1-e85d2b24dcaa",
+          "titles": {
+            "en": "Artist tools"
+          }
+        },
+        "legacy_order": [
+          1
+        ]
       }
     ],
     "languages": [
@@ -2137,6 +3274,35 @@
         "name": "With Brush and Qalam"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/4/2/4",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "058816c6-5b8b-59ac-a0a8-45684a40b485",
+          "titles": {
+            "en": "Test theme (Amira)"
+          }
+        },
+        "subtheme": {
+          "id": "eafc68e4-60c9-5ab8-8fe1-1fdaf0e60e26",
+          "titles": {
+            "en": "Seals"
+          }
+        },
+        "legacy_order": [
+          4
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2200,6 +3366,62 @@
         "name": "With Brush and Qalam"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "with-brush-and-qalam",
+        "path": "/theme/1/2/1",
+        "project": null,
+        "exhibition": {
+          "id": "bac76311-0d8c-5065-8693-bc1720e569db",
+          "titles": {
+            "en": "With Brush and Qalam"
+          }
+        },
+        "theme": {
+          "id": "326ddb0c-d7a1-53f5-bcaa-8516c0c93859",
+          "titles": {
+            "en": "Haji Noor Deen and His Calligraphies"
+          }
+        },
+        "subtheme": {
+          "id": "c4623145-c923-5a92-840e-59a70f5c5044",
+          "titles": {
+            "en": "Seals"
+          }
+        },
+        "legacy_order": [
+          1
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/4/1/4",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "058816c6-5b8b-59ac-a0a8-45684a40b485",
+          "titles": {
+            "en": "Test theme (Amira)"
+          }
+        },
+        "subtheme": {
+          "id": "4b21cdf8-ea82-5bb5-9fa1-e85d2b24dcaa",
+          "titles": {
+            "en": "Artist tools"
+          }
+        },
+        "legacy_order": [
+          4
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2249,6 +3471,35 @@
         "slug": "with_brush_and_qalam",
         "legacy_host": "https://exhibitions.museumwnf.org",
         "name": "With Brush and Qalam"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/4/1/2",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "058816c6-5b8b-59ac-a0a8-45684a40b485",
+          "titles": {
+            "en": "Test theme (Amira)"
+          }
+        },
+        "subtheme": {
+          "id": "4b21cdf8-ea82-5bb5-9fa1-e85d2b24dcaa",
+          "titles": {
+            "en": "Artist tools"
+          }
+        },
+        "legacy_order": [
+          2
+        ]
       }
     ],
     "languages": [
@@ -2318,6 +3569,7 @@
         "name": "Sculptures"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "en"
     ]
@@ -2395,6 +3647,7 @@
         "name": "Manuscripts"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -2459,6 +3712,62 @@
         "name": "With Brush and Qalam"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/4/2/1",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "058816c6-5b8b-59ac-a0a8-45684a40b485",
+          "titles": {
+            "en": "Test theme (Amira)"
+          }
+        },
+        "subtheme": {
+          "id": "eafc68e4-60c9-5ab8-8fe1-1fdaf0e60e26",
+          "titles": {
+            "en": "Seals"
+          }
+        },
+        "legacy_order": [
+          1
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "with-brush-and-qalam",
+        "path": "/theme/1/2/2",
+        "project": null,
+        "exhibition": {
+          "id": "bac76311-0d8c-5065-8693-bc1720e569db",
+          "titles": {
+            "en": "With Brush and Qalam"
+          }
+        },
+        "theme": {
+          "id": "326ddb0c-d7a1-53f5-bcaa-8516c0c93859",
+          "titles": {
+            "en": "Haji Noor Deen and His Calligraphies"
+          }
+        },
+        "subtheme": {
+          "id": "c4623145-c923-5a92-840e-59a70f5c5044",
+          "titles": {
+            "en": "Seals"
+          }
+        },
+        "legacy_order": [
+          2
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -2513,6 +3822,62 @@
         "slug": "with_brush_and_qalam",
         "legacy_host": "https://exhibitions.museumwnf.org",
         "name": "With Brush and Qalam"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "with-brush-and-qalam",
+        "path": "/theme/1/1/1",
+        "project": null,
+        "exhibition": {
+          "id": "bac76311-0d8c-5065-8693-bc1720e569db",
+          "titles": {
+            "en": "With Brush and Qalam"
+          }
+        },
+        "theme": {
+          "id": "326ddb0c-d7a1-53f5-bcaa-8516c0c93859",
+          "titles": {
+            "en": "Haji Noor Deen and His Calligraphies"
+          }
+        },
+        "subtheme": {
+          "id": "7aa652f9-3d7a-5950-ae09-62acd79f2cba",
+          "titles": {
+            "en": "Calligraphy Tools"
+          }
+        },
+        "legacy_order": [
+          1
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/4/1/3",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "058816c6-5b8b-59ac-a0a8-45684a40b485",
+          "titles": {
+            "en": "Test theme (Amira)"
+          }
+        },
+        "subtheme": {
+          "id": "4b21cdf8-ea82-5bb5-9fa1-e85d2b24dcaa",
+          "titles": {
+            "en": "Artist tools"
+          }
+        },
+        "legacy_order": [
+          3
+        ]
       }
     ],
     "languages": [
@@ -2572,6 +3937,65 @@
         "slug": "glass",
         "legacy_host": "https://glass.museumwnf.org",
         "name": "Glass"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/1/1/10",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "1f017095-8e3e-52a0-b395-e5e6c5447615",
+          "titles": {
+            "de": "Primärfarben und Emotionen",
+            "en": "Primary Colours and Emotions"
+          }
+        },
+        "subtheme": {
+          "id": "103e5a49-0d17-5f26-bb4b-53bf054167c8",
+          "titles": {
+            "de": "Die Grundlagen – Kennenlernen der Grundfarben",
+            "en": "The Basics – getting to know the Primary Colours"
+          }
+        },
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/2/4",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "16626953-50ef-56fa-bd57-e9dc1cfa848a",
+          "titles": {
+            "en": "[Th 2_SubTh 2] Wedding"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
       }
     ],
     "languages": [
@@ -2676,6 +4100,35 @@
         "name": "Manuscripts"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/2",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          2
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en"
@@ -2754,6 +4207,7 @@
         "name": "Manuscripts"
       }
     ],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en"
@@ -2813,6 +4267,58 @@
         "slug": "ceramics",
         "legacy_host": "https://ceramics.museumwnf.org",
         "name": "Ceramics"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-travelling-and-exotism",
+        "path": "/exhibition/4/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "fb21ee03-874b-5ba1-95d5-bde929f2762d",
+          "titles": {
+            "en": "Travelling and Exoticism"
+          }
+        },
+        "theme": {
+          "id": "c630c8fd-2cf6-51ab-941d-b0c76a30527c",
+          "titles": {
+            "en": "Orientalisms"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          44
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "baroqueart-bourgeoisie",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "75f28465-8738-554e-af5d-f6804a9c2802",
+          "titles": {
+            "en": "The Ascension of the Bourgeoisie"
+          }
+        },
+        "theme": {
+          "id": "fbd5151d-c2cc-5d73-be96-1e9d1c514946",
+          "titles": {
+            "en": "Trade and Festivities"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          50
+        ]
       }
     ],
     "languages": [
@@ -2896,6 +4402,35 @@
         "slug": "the_table_is_set",
         "legacy_host": "https://exhibitions.museumwnf.org",
         "name": "The Table Is Set"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "the-table-is-set",
+        "path": "/theme/5/3/17",
+        "project": null,
+        "exhibition": {
+          "id": "e7ab71b7-4e32-5d7e-88bc-6dbffbaa4bb2",
+          "titles": {
+            "en": "The Table Is Set"
+          }
+        },
+        "theme": {
+          "id": "735e5e35-f62a-5302-96aa-f2e9a69130dd",
+          "titles": {
+            "en": "Gendered Roles"
+          }
+        },
+        "subtheme": {
+          "id": "d5ad3026-c4d4-5745-afb9-164c36e226b9",
+          "titles": {
+            "en": "Men and Women Preparing a Table"
+          }
+        },
+        "legacy_order": [
+          17
+        ]
       }
     ],
     "languages": [
@@ -3252,6 +4787,131 @@
       }
     ],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-geometric",
+        "path": "/exhibition/3/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "9f0c366a-10e7-53d5-91e8-2d8a35ffc22a",
+          "titles": {
+            "ar": "الزخارف الهندسية",
+            "de": "Geometrischer Dekor",
+            "en": "Geometric Decoration",
+            "fr": "La décoration géométrique",
+            "it": "La decorazione geometrica",
+            "pt": "Decoração geométrica",
+            "es": "Decoración geométrica",
+            "se": "Geometrisk dekor",
+            "tr": "Geometrik Bezeme"
+          }
+        },
+        "theme": {
+          "id": "79a58714-659c-5509-a4f9-b9359b2829ae",
+          "titles": {
+            "ar": "الزخارف الهندسية في العمارة",
+            "de": "Geometrischer Dekor in der Architektur",
+            "en": "Geometric Decoration in Architecture",
+            "fr": "La décoration géométrique en architecture",
+            "it": "La decorazione geometrica in architettura",
+            "pt": "A decoração geométrica na arquitectura",
+            "es": "La decoración geométrica en la arquitectura",
+            "se": "Geometrisk dekor i arkitekturen",
+            "tr": "Mimaride Geometrik Bezeme"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          21
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-water",
+        "path": "/exhibition/2/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "e0d404ea-dbc1-591a-86a5-75265066d6f0",
+          "titles": {
+            "ar": "الماء",
+            "de": "Wasser",
+            "en": "Water",
+            "fr": "Eau",
+            "it": "L’acqua",
+            "pt": "A água",
+            "es": "El agua",
+            "se": "Vatten",
+            "tr": "Su"
+          }
+        },
+        "theme": {
+          "id": "804d4535-4e46-51c6-8a4c-6dcc2261f2d1",
+          "titles": {
+            "ar": "الماء والحياة اليومية",
+            "de": "Wasser im Alltag",
+            "en": "Water and Everyday Life",
+            "fr": "L’eau et la vie quotidienne",
+            "it": "L’acqua e la vita quotidiana",
+            "pt": "A água e a vida quotidiana",
+            "es": "El agua y la vida cotidiana",
+            "se": "Vattnet och vardagslivet",
+            "tr": "Su ve Günlük Hayat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          22
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "17e93a55-d0d0-51b2-8c52-ae90b63b4709",
+          "titles": {
+            "ar": "فضاءات السلطة: المشيدات الملكية",
+            "de": "Räume der Macht – die Palastbauten",
+            "en": "Seats of Power: Palaces",
+            "fr": "Espaces du pouvoir : les constructions palatiales",
+            "it": "I luoghi del potere: gli edifici palatini",
+            "pt": "Espaços do poder: as construções palatinas",
+            "es": "Espacios del poder: las construcciones palatinas",
+            "se": "Palatset: maktens centrum",
+            "tr": "İktidar Alanı: Saray Yapıları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -3528,6 +5188,307 @@
         "name": "The Hijaz Railway"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "9bff6ece-d3d2-5f2a-b7cc-fb1f33c3e113",
+          "titles": {
+            "ar": "الرعاية الرسمية",
+            "de": "Kunstförderung durch die Machthaber",
+            "en": "Official Patronage",
+            "fr": "Mécénat officiel",
+            "it": "Il mecenatismo di corte",
+            "pt": "Patrocínio oficial",
+            "es": "Patronazgo oficial",
+            "se": "Makten och kulturen",
+            "tr": "Resmi Sanat Koruyuculuğu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/4/4",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "a787ec88-bc49-5171-bf60-265ba0253dd4",
+          "titles": {
+            "ar": "الخط الباقي على الأوابد",
+            "de": "Kalligrafie an Gebäuden",
+            "en": "Monumental Calligraphy",
+            "fr": "La calligraphie monumentale",
+            "it": "Calligrafia monumentale",
+            "pt": "A caligrafia monumental",
+            "es": "La caligrafía monumental",
+            "se": "Kalligrafin och arkitekturen",
+            "tr": "Anıtsal Hüsnühat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-crusader",
+        "path": "/exhibition/3/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "4c126e80-2567-5abd-9191-3d40f380e81f",
+          "titles": {
+            "ar": "الفرنجة: الصليبيون في المشرق",
+            "de": "Al-Frandsch: Die Kreuzfahrer in der Levante",
+            "en": "Al-Franj: the Crusaders in the Levant",
+            "fr": "Al-Franj : les Croisés au Levant",
+            "it": "Al-Franj: I Crociati nel Levante",
+            "pt": "Al-franj, os cruzados no Levante",
+            "es": "Al-frany, los cruzados en el Levante",
+            "se": "*Al-Franj*: the Crusaders in the Levant",
+            "tr": "El-Frenc: Levant’ta Haçlılar"
+          }
+        },
+        "theme": {
+          "id": "d7c23444-3d3f-5267-ac39-29110a7751ab",
+          "titles": {
+            "ar": "الثقافة في مملكة القدس الصليبية",
+            "de": "Die Kultur im Kreuzfahrer-Königreich Jerusalem",
+            "en": "Culture in the Crusader Kingdom of Jerusalem",
+            "fr": "La culture dans le royaume croisé de Jérusalem",
+            "it": "La cultura nel Regno Crociato di Gerusalemme",
+            "pt": "A cultura no reino cruzado de Jerusalém",
+            "es": "La cultura en el reino cruzado de Jerusalén",
+            "se": "Kulturen i korsfararnas kungarike i Jerusalem",
+            "tr": "Kudüs Haçlı Krallığı’nda Kültür"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          24
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-pilgrimage",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "e0fad146-3560-5ca0-86d7-06707053fbef",
+          "titles": {
+            "ar": "الحج",
+            "de": "Die Pilgerfahrt",
+            "en": "Pilgrimage",
+            "fr": "Pèlerinage",
+            "it": "Il Pellegrinaggio",
+            "pt": "A peregrinação",
+            "es": "La peregrinación",
+            "se": "Pilgrimsresorna",
+            "tr": "Hac"
+          }
+        },
+        "theme": {
+          "id": "e5a16576-99a6-59e3-b60e-463525d95dd9",
+          "titles": {
+            "ar": "التماس البركة: الحج إلى القدس وفلسطين",
+            "de": "Das Streben nach Baraka: Pilgerfahrten nach Jerusalem und Palästina",
+            "en": "The Quest for *Baraka* – Pilgrimage to Jerusalem and Palestine",
+            "fr": "La quête de la baraka – le pèlerinage à Jérusalem et en Palestine",
+            "it": "La ricerca del Baraka – Il pellegrinaggio a Gerusalemme e in Palestina",
+            "pt": "Em busca da baraka: a peregrinação a Jerusalém e à Palestina",
+            "es": "En busca de la baraka: la peregrinación a Jerusalén y Palestina",
+            "se": "Sökandet efter välsignelse, *baraka* och pilgrimsfärder till Jerusalem och Palestina",
+            "tr": "Bereket Arzusu– Kudüs ve Filistin’e Hac Yolculuğu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          29
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/2/3/29",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "f9fbfb04-4e15-5b34-8b72-548b41e013c8",
+          "titles": {
+            "en": "From the Train Window"
+          }
+        },
+        "subtheme": {
+          "id": "9922819a-39a2-564b-9bb6-55ddbad28666",
+          "titles": {
+            "en": "Territories of Encounter"
+          }
+        },
+        "legacy_order": [
+          29
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/10",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/11",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/9",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/2/5",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "16626953-50ef-56fa-bd57-e9dc1cfa848a",
+          "titles": {
+            "en": "[Th 2_SubTh 2] Wedding"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -3612,6 +5573,35 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/2/2",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
+          "titles": {
+            "en": "Religious art and architecture"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -3675,6 +5665,35 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/2/1",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
+          "titles": {
+            "en": "Religious art and architecture"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -3954,6 +5973,35 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/2/5",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
+          "titles": {
+            "en": "Religious art and architecture"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -4035,6 +6083,35 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/2/3",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
+          "titles": {
+            "en": "Religious art and architecture"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -4325,6 +6402,7 @@
       }
     ],
     "gallery_references": [],
+    "exhibition_references": [],
     "languages": [
       "ar",
       "en",
@@ -4522,6 +6600,76 @@
       }
     ],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/1/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "2d7ae23a-a5ce-5e8f-8d9b-d2c05d03e0a9",
+          "titles": {
+            "ar": "الفن الإسباني المغربي",
+            "de": "Die andalusisch-maghrebinische Kunst",
+            "en": "Andalusian-Maghrebi Art",
+            "fr": "L’art hispano-maghrébin",
+            "it": "L’arte andaluso-maghrebina",
+            "pt": "A arte andaluzo-magrebina",
+            "es": "El arte andalusí-magrebí",
+            "se": "Konsten i Andalusien och Maghreb-området",
+            "tr": "Endülüs-Mağrib Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/1/5",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "5d19ad8f-0894-591b-8df7-ad85c5422ba7",
+          "titles": {
+            "en": "Residential and domestic life"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -4868,6 +7016,270 @@
         "name": "The Hijaz Railway"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-umayyads",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "0f404f1e-3645-5bfa-870f-1b45825073f7",
+          "titles": {
+            "ar": "الأمويون",
+            "de": "Die Umayyaden",
+            "en": "The Umayyads",
+            "fr": "Les Omeyyades",
+            "it": "Gli Omayyadi",
+            "pt": "Os Omeias",
+            "es": "Los omeyas",
+            "se": "Umayyaderna",
+            "tr": "Emeviler"
+          }
+        },
+        "theme": {
+          "id": "9bff6ece-d3d2-5f2a-b7cc-fb1f33c3e113",
+          "titles": {
+            "ar": "الرعاية الرسمية",
+            "de": "Kunstförderung durch die Machthaber",
+            "en": "Official Patronage",
+            "fr": "Mécénat officiel",
+            "it": "Il mecenatismo di corte",
+            "pt": "Patrocínio oficial",
+            "es": "Patronazgo oficial",
+            "se": "Makten och kulturen",
+            "tr": "Resmi Sanat Koruyuculuğu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          10
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-the-ottomans",
+        "path": "/exhibition/6/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "618dce7d-8482-5ccb-b334-54c0c96e6db0",
+          "titles": {
+            "ar": "العثمانيون",
+            "de": "Die Osmanen",
+            "en": "The Ottomans",
+            "fr": "Les Ottomans",
+            "it": "Gli Ottomani",
+            "pt": "Os otomanos",
+            "es": "Los otomanos",
+            "se": "Ottomanerna",
+            "tr": "Osmanlılar"
+          }
+        },
+        "theme": {
+          "id": "9b603cf4-3d1b-5d98-b644-0c415a7c2a10",
+          "titles": {
+            "ar": "حماة المواقع المقدسة",
+            "de": "Die Beschützer der Heiligen Stätten",
+            "en": "Guardians of the Holy Sites",
+            "fr": "Gardiens des sites sacrés",
+            "it": "Guardiani dei luoghi sacri",
+            "pt": "Guardiães dos Lugares Santos",
+            "es": "Guardianes de los Santos Lugares",
+            "se": "De heliga platsernas väktare",
+            "tr": "Kutsal Yerlerin Koruyucuları"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          18
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/4/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "a787ec88-bc49-5171-bf60-265ba0253dd4",
+          "titles": {
+            "ar": "الخط الباقي على الأوابد",
+            "de": "Kalligrafie an Gebäuden",
+            "en": "Monumental Calligraphy",
+            "fr": "La calligraphie monumentale",
+            "it": "Calligrafia monumentale",
+            "pt": "A caligrafia monumental",
+            "es": "La caligrafía monumental",
+            "se": "Kalligrafin och arkitekturen",
+            "tr": "Anıtsal Hüsnühat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-crusader",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "4c126e80-2567-5abd-9191-3d40f380e81f",
+          "titles": {
+            "ar": "الفرنجة: الصليبيون في المشرق",
+            "de": "Al-Frandsch: Die Kreuzfahrer in der Levante",
+            "en": "Al-Franj: the Crusaders in the Levant",
+            "fr": "Al-Franj : les Croisés au Levant",
+            "it": "Al-Franj: I Crociati nel Levante",
+            "pt": "Al-franj, os cruzados no Levante",
+            "es": "Al-frany, los cruzados en el Levante",
+            "se": "*Al-Franj*: the Crusaders in the Levant",
+            "tr": "El-Frenc: Levant’ta Haçlılar"
+          }
+        },
+        "theme": {
+          "id": "7e85c07a-48f2-5fc5-b04e-c0bb4eaed801",
+          "titles": {
+            "ar": "الحج إلى الأراضي المقدسة",
+            "de": "Pilgerfahrten ins Heilige Land",
+            "en": "Pilgrimage to the Holy Land",
+            "fr": "Pèlerinage en Terre sainte",
+            "it": "Il pellegrinaggio verso la Terra Santa",
+            "pt": "A peregrinação à Terra Santa",
+            "es": "La peregrinación a Tierra Santa",
+            "se": "Pilgrimsresan till det Heliga Landet",
+            "tr": "Kutsal Topraklara Hac Yolculuğu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          24
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-pilgrimage",
+        "path": "/exhibition/3/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "e0fad146-3560-5ca0-86d7-06707053fbef",
+          "titles": {
+            "ar": "الحج",
+            "de": "Die Pilgerfahrt",
+            "en": "Pilgrimage",
+            "fr": "Pèlerinage",
+            "it": "Il Pellegrinaggio",
+            "pt": "A peregrinação",
+            "es": "La peregrinación",
+            "se": "Pilgrimsresorna",
+            "tr": "Hac"
+          }
+        },
+        "theme": {
+          "id": "e5a16576-99a6-59e3-b60e-463525d95dd9",
+          "titles": {
+            "ar": "التماس البركة: الحج إلى القدس وفلسطين",
+            "de": "Das Streben nach Baraka: Pilgerfahrten nach Jerusalem und Palästina",
+            "en": "The Quest for *Baraka* – Pilgrimage to Jerusalem and Palestine",
+            "fr": "La quête de la baraka – le pèlerinage à Jérusalem et en Palestine",
+            "it": "La ricerca del Baraka – Il pellegrinaggio a Gerusalemme e in Palestina",
+            "pt": "Em busca da baraka: a peregrinação a Jerusalém e à Palestina",
+            "es": "En busca de la baraka: la peregrinación a Jerusalén y Palestina",
+            "se": "Sökandet efter välsignelse, *baraka* och pilgrimsfärder till Jerusalem och Palestina",
+            "tr": "Bereket Arzusu– Kudüs ve Filistin’e Hac Yolculuğu"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          29
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/1/2/11",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "1f017095-8e3e-52a0-b395-e5e6c5447615",
+          "titles": {
+            "de": "Primärfarben und Emotionen",
+            "en": "Primary Colours and Emotions"
+          }
+        },
+        "subtheme": {
+          "id": "dc677af8-ab22-5a45-aa49-655d978e7365",
+          "titles": {
+            "de": "Primary Colours in Architectural Monuments",
+            "en": "Primary Colours in Architectural Monuments"
+          }
+        },
+        "legacy_order": [
+          11
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/2/3/28",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "f9fbfb04-4e15-5b34-8b72-548b41e013c8",
+          "titles": {
+            "en": "From the Train Window"
+          }
+        },
+        "subtheme": {
+          "id": "9922819a-39a2-564b-9bb6-55ddbad28666",
+          "titles": {
+            "en": "Territories of Encounter"
+          }
+        },
+        "legacy_order": [
+          28
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -5019,6 +7431,35 @@
       }
     ],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/1/10",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "5d19ad8f-0894-591b-8df7-ad85c5422ba7",
+          "titles": {
+            "en": "Residential and domestic life"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "de",
       "en"
@@ -5378,6 +7819,90 @@
       }
     ],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-arabic-calligraphy",
+        "path": "/exhibition/4/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "647c6643-4c92-5053-a855-7bc6c0f2444a",
+          "titles": {
+            "ar": "الخط العربي",
+            "de": "Arabische Kalligrafie",
+            "en": "Arabic Calligraphy",
+            "fr": "Calligraphie arabe",
+            "it": "Calligrafia Araba",
+            "pt": "A caligrafia árabe",
+            "es": "La caligrafía árabe",
+            "se": "Den arabiska kalligrafin",
+            "tr": "Hat Sanatı"
+          }
+        },
+        "theme": {
+          "id": "a787ec88-bc49-5171-bf60-265ba0253dd4",
+          "titles": {
+            "ar": "الخط الباقي على الأوابد",
+            "de": "Kalligrafie an Gebäuden",
+            "en": "Monumental Calligraphy",
+            "fr": "La calligraphie monumentale",
+            "it": "Calligrafia monumentale",
+            "pt": "A caligrafia monumental",
+            "es": "La caligrafía monumental",
+            "se": "Kalligrafin och arkitekturen",
+            "tr": "Anıtsal Hüsnühat"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          19
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "2d7ae23a-a5ce-5e8f-8d9b-d2c05d03e0a9",
+          "titles": {
+            "ar": "الفن الإسباني المغربي",
+            "de": "Die andalusisch-maghrebinische Kunst",
+            "en": "Andalusian-Maghrebi Art",
+            "fr": "L’art hispano-maghrébin",
+            "it": "L’arte andaluso-maghrebina",
+            "pt": "A arte andaluzo-magrebina",
+            "es": "El arte andalusí-magrebí",
+            "se": "Konsten i Andalusien och Maghreb-området",
+            "tr": "Endülüs-Mağrib Sanatı"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -5445,6 +7970,60 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-travelling-and-exotism",
+        "path": "/exhibition/1/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "fb21ee03-874b-5ba1-95d5-bde929f2762d",
+          "titles": {
+            "en": "Travelling and Exoticism"
+          }
+        },
+        "theme": {
+          "id": "fea929fe-b9fb-53d2-b643-dc6dd9549ab3",
+          "titles": {
+            "en": "Travelling artists and patrons and the exchange of artworks"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          44
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/1/1",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "5d19ad8f-0894-591b-8df7-ad85c5422ba7",
+          "titles": {
+            "en": "Residential and domestic life"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "de",
       "en"
@@ -5488,6 +8067,33 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-bourgeoisie",
+        "path": "/exhibition/4/2",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "75f28465-8738-554e-af5d-f6804a9c2802",
+          "titles": {
+            "en": "The Ascension of the Bourgeoisie"
+          }
+        },
+        "theme": {
+          "id": "8051f567-6219-5908-8c92-e1e6836f557f",
+          "titles": {
+            "en": "Daily Life"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          50
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -5549,6 +8155,35 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/1/7",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "5d19ad8f-0894-591b-8df7-ad85c5422ba7",
+          "titles": {
+            "en": "Residential and domestic life"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -5831,6 +8466,60 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-absolutism",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+          "titles": {
+            "en": "Absolutism"
+          }
+        },
+        "theme": {
+          "id": "92692332-c183-5670-be01-d013cd70257d",
+          "titles": {
+            "en": "The spread of the Official style"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          46
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/1/2",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "5d19ad8f-0894-591b-8df7-ad85c5422ba7",
+          "titles": {
+            "en": "Residential and domestic life"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "de",
       "en"
@@ -5874,6 +8563,33 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-absolutism",
+        "path": "/exhibition/2/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+          "titles": {
+            "en": "Absolutism"
+          }
+        },
+        "theme": {
+          "id": "92692332-c183-5670-be01-d013cd70257d",
+          "titles": {
+            "en": "The spread of the Official style"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          46
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -6433,6 +9149,90 @@
         "name": "The Use of Colours in Art"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "baroqueart-absolutism",
+        "path": "/exhibition/3/1",
+        "project": {
+          "id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
+          "name": "Discover Baroque Art"
+        },
+        "exhibition": {
+          "id": "7b1abeea-6930-5264-b1ee-9c77bec1e5b9",
+          "titles": {
+            "en": "Absolutism"
+          }
+        },
+        "theme": {
+          "id": "4c2f5ce9-d444-5756-8c05-5d3d3c624715",
+          "titles": {
+            "en": "Court life and diplomacy"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          46
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/4/3/21",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "d0327372-a89a-5132-9dc8-81d313ac841e",
+          "titles": {
+            "de": "Colour and Wealth through the Ages",
+            "en": "Colour and Wealth through the Ages"
+          }
+        },
+        "subtheme": {
+          "id": "a48edfa5-5dbe-57cc-a02c-2487f72e8567",
+          "titles": {
+            "de": "Behind Closed Doors: Private Life and Colours",
+            "en": "Behind Closed Doors: Private Life and Colours"
+          }
+        },
+        "legacy_order": [
+          21
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/2/7",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
+          "titles": {
+            "en": "Religious art and architecture"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -6566,6 +9366,35 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/2/4",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
+          "titles": {
+            "en": "Religious art and architecture"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -7057,6 +9886,174 @@
         "name": "Water in Islam"
       }
     ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-women",
+        "path": "/exhibition/1/1",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "a09c8ed7-01f3-5c9b-bd21-96a1d81c4678",
+          "titles": {
+            "ar": "المرأة",
+            "de": "Frauen",
+            "en": "Women",
+            "fr": "Les Femmes",
+            "it": "Le Donne",
+            "pt": "As mulheres",
+            "es": "Las mujeres",
+            "se": "Kvinnor",
+            "tr": "Kadınlar"
+          }
+        },
+        "theme": {
+          "id": "8b0e746f-e8de-560d-b25c-4bf6ebf52fe3",
+          "titles": {
+            "ar": "المرأة المسلمة راعية مشروعات خيرية",
+            "de": "Musliminnen als Stifterinnen und Wohltäterinnen",
+            "en": "Muslim Women as Patrons",
+            "fr": "Les femmes musulmanes comme mécènes",
+            "it": "Le donne musulmane mecenati",
+            "pt": "Mulheres muçulmanas benfeitoras",
+            "es": "Mujeres benefactoras",
+            "se": "Muslimska kvinnor som mecenater",
+            "tr": "Müslüman Kadın Hamiler"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          23
+        ]
+      },
+      {
+        "list": "virtual",
+        "site": "islamicart-muslim-west",
+        "path": "/exhibition/7/3",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "82d1ab69-c61e-55a9-920a-bf67ddfb6bda",
+          "titles": {
+            "ar": "الغرب المسلم",
+            "de": "Der muslimische Westen",
+            "en": "The Muslim West",
+            "fr": "L’Occident musulman",
+            "it": "L’Occidente musulmano",
+            "pt": "O Ocidente Muçulmano",
+            "es": "El Occidente musulmán",
+            "se": "Islam i Väst",
+            "tr": "Müslüman Batı"
+          }
+        },
+        "theme": {
+          "id": "fc7c939a-850e-5462-8ba3-c2aa03ed101f",
+          "titles": {
+            "ar": "المسجد فضاء للصلاة",
+            "de": "Die Moschee – ein Ort des Gebets",
+            "en": "Mosques: A Place for Prayer",
+            "fr": "La mosquée, espace de prière",
+            "it": "La moschea, luogo di preghiera",
+            "pt": "A mesquita, espaço de oração",
+            "es": "La mezquita, espacio de oración",
+            "se": "Moskén: en plats för bön",
+            "tr": "İbadet Mekânı: Cami"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          27
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "water-in-islam",
+        "path": "/theme/2/2/2",
+        "project": null,
+        "exhibition": {
+          "id": "8635ee08-9015-5583-8d09-526c932e8d36",
+          "titles": {
+            "en": "Water in Islam"
+          }
+        },
+        "theme": {
+          "id": "ebf15498-6f84-536b-aac4-f726dd74ced5",
+          "titles": {
+            "en": "Domestic and Urban Spheres"
+          }
+        },
+        "subtheme": {
+          "id": "6b701948-1e27-542e-a3fb-9f27270569b8",
+          "titles": {
+            "en": "Water in Gardens"
+          }
+        },
+        "legacy_order": [
+          2
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-use-of-colours-in-art",
+        "path": "/theme/1/1/7",
+        "project": null,
+        "exhibition": {
+          "id": "3854e510-66bb-5f9a-a6b8-dd1193551c88",
+          "titles": {
+            "de": "Die Verwendung von Farben in der Kunst",
+            "en": "The Use of Colours in Art"
+          }
+        },
+        "theme": {
+          "id": "1f017095-8e3e-52a0-b395-e5e6c5447615",
+          "titles": {
+            "de": "Primärfarben und Emotionen",
+            "en": "Primary Colours and Emotions"
+          }
+        },
+        "subtheme": {
+          "id": "103e5a49-0d17-5f26-bb4b-53bf054167c8",
+          "titles": {
+            "de": "Die Grundlagen – Kennenlernen der Grundfarben",
+            "en": "The Basics – getting to know the Primary Colours"
+          }
+        },
+        "legacy_order": [
+          7
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/4",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "ar",
       "en",
@@ -7174,6 +10171,35 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/2/6",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
+          "titles": {
+            "en": "Religious art and architecture"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "en",
       "it"
@@ -7304,6 +10330,224 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-cities-and-urban-spaces",
+        "path": "/theme/1/3",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "5760ea9a-dc6f-52b5-bfd7-2c63dd3da757",
+          "titles": {
+            "en": "Cities and Urban Spaces"
+          }
+        },
+        "theme": {
+          "id": "24886656-d708-5839-9d18-301fa1b5341e",
+          "titles": {
+            "en": "The image of the city"
+          }
+        },
+        "subtheme": {
+          "id": "9ac37738-88d4-5fe1-ab03-33d4bbfc2305",
+          "titles": {
+            "en": "Design influence"
+          }
+        },
+        "legacy_order": [
+          6,
+          1,
+          40
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-cities-and-urban-spaces",
+        "path": "/theme/3/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "5760ea9a-dc6f-52b5-bfd7-2c63dd3da757",
+          "titles": {
+            "en": "Cities and Urban Spaces"
+          }
+        },
+        "theme": {
+          "id": "71a777b1-0e19-5935-8345-b3cce89a57a0",
+          "titles": {
+            "en": "Architecture and Construction"
+          }
+        },
+        "subtheme": {
+          "id": "1ca83fc6-4861-5186-8e3b-b345ca2d3d3f",
+          "titles": {
+            "en": "New building types, new designs and architectural alterations"
+          }
+        },
+        "legacy_order": [
+          8,
+          1,
+          7
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-great-inventions-of-the-19th-century",
+        "path": "/theme/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "1f123df9-1e8c-522c-833c-709f517c53f5",
+          "titles": {
+            "en": "Great Inventions of the 19th Century"
+          }
+        },
+        "theme": {
+          "id": "03df9cf1-e1db-5beb-a1cb-458edcf0419e",
+          "titles": {
+            "en": "Innovative technologies"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          13,
+          0,
+          0
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-great-inventions-of-the-19th-century",
+        "path": "/theme/1/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "1f123df9-1e8c-522c-833c-709f517c53f5",
+          "titles": {
+            "en": "Great Inventions of the 19th Century"
+          }
+        },
+        "theme": {
+          "id": "03df9cf1-e1db-5beb-a1cb-458edcf0419e",
+          "titles": {
+            "en": "Innovative technologies"
+          }
+        },
+        "subtheme": {
+          "id": "f178ae75-fcd3-5d5e-8479-e07596b2511f",
+          "titles": {
+            "en": "Steam and internal combustion engines"
+          }
+        },
+        "legacy_order": [
+          13,
+          1,
+          119
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-travelling",
+        "path": "/theme/5/1",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "77fd6ce2-6118-5d1c-a682-046646e098fb",
+          "titles": {
+            "ar": "التجول",
+            "en": "Travelling",
+            "es": "VIAJES"
+          }
+        },
+        "theme": {
+          "id": "8dc5f409-203b-513e-8ba6-bde3a998c835",
+          "titles": {
+            "en": "Visiting and “revisiting” the Orient"
+          }
+        },
+        "subtheme": {
+          "id": "b1c89367-fbdc-533f-84b2-01e1056a36ba",
+          "titles": {
+            "en": "Revisiting the Orient in Europe – Orientalist architecture"
+          }
+        },
+        "legacy_order": [
+          18,
+          1,
+          95
+        ]
+      },
+      {
+        "list": "sharing_history",
+        "site": "sharinghistory-fine-and-applied-arts",
+        "path": "/theme/4/2",
+        "project": {
+          "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+          "name": "Sharing History"
+        },
+        "exhibition": {
+          "id": "6b99dfaa-ab1c-5153-b0c4-a5823a98f95c",
+          "titles": {
+            "en": "Fine and Applied Arts"
+          }
+        },
+        "theme": {
+          "id": "43f46690-1d6e-5d64-b190-3e7fd3f18a07",
+          "titles": {
+            "en": "The concept of revivals"
+          }
+        },
+        "subtheme": {
+          "id": "0d51bd80-a9c8-585a-96a8-911b8ae8d9f5",
+          "titles": {
+            "en": "Mamluk revival"
+          }
+        },
+        "legacy_order": [
+          53,
+          1,
+          129
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/1/1/6",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "76712036-29c9-525a-b38e-99ca6250d129",
+          "titles": {
+            "en": "[Th 1] Baroque Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "5d19ad8f-0894-591b-8df7-ad85c5422ba7",
+          "titles": {
+            "en": "Residential and domestic life"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "en"
     ]
@@ -7469,6 +10713,103 @@
         "slug": "the_hijaz_railway",
         "legacy_host": "https://exhibitions.museumwnf.org",
         "name": "The Hijaz Railway"
+      }
+    ],
+    "exhibition_references": [
+      {
+        "list": "virtual",
+        "site": "islamicart-the-mamluks",
+        "path": "/exhibition/5/2",
+        "project": {
+          "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+          "name": "Discover Islamic Art"
+        },
+        "exhibition": {
+          "id": "217482b1-7626-531f-8ca9-51c2f680fe3d",
+          "titles": {
+            "ar": "المماليك",
+            "de": "Die Mamluken",
+            "en": "The Mamluks",
+            "fr": "Les Mamelouks",
+            "it": "I Mamelucchi",
+            "pt": "Os Mamelucos",
+            "es": "Los mamelucos",
+            "se": "Mamlukerna",
+            "tr": "Memluklar"
+          }
+        },
+        "theme": {
+          "id": "282bf248-cb40-5b24-9d50-166d75b8a10e",
+          "titles": {
+            "ar": "العالم الأوسع: صلات دبلوماسية وتجارة دولية",
+            "de": "Diplomatischer Austausch und Handelskontakte mit der Welt",
+            "en": "The Wider World: Diplomatic Contacts and International Trade",
+            "fr": "L’ouverture sur le monde : contacts diplomatiques et commerce international",
+            "it": "I rapporti con il resto del mondo: contatti diplomatici e commercio internazionale",
+            "pt": "Os mamelucos no mundo: a diplomacia e o comércio internacional",
+            "es": "Los mamelucos en el mundo: la diplomacia y el comercio internacional",
+            "se": "Omvärlden: diplomatiska kontakter och internationell handel",
+            "tr": "Dünyanın Geri Kalanı: Diplomatik Temaslar ve Uluslararası Ticaret"
+          }
+        },
+        "subtheme": null,
+        "legacy_order": [
+          17
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
+        "path": "/theme/2/3/35",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "f9fbfb04-4e15-5b34-8b72-548b41e013c8",
+          "titles": {
+            "en": "From the Train Window"
+          }
+        },
+        "subtheme": {
+          "id": "9922819a-39a2-564b-9bb6-55ddbad28666",
+          "titles": {
+            "en": "Territories of Encounter"
+          }
+        },
+        "legacy_order": [
+          35
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/1/5",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "1826fa81-ee6a-5e98-965e-61202d3b459f",
+          "titles": {
+            "en": "[Th 2_SubTh 1] At the Court"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
       }
     ],
     "languages": [
@@ -7697,6 +11038,62 @@
     "media": [],
     "related_items": [],
     "gallery_references": [],
+    "exhibition_references": [
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/2/8",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "16626953-50ef-56fa-bd57-e9dc1cfa848a",
+          "titles": {
+            "en": "[Th 2_SubTh 2] Wedding"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "arts-in-dialogue",
+        "path": "/theme/2/2/9",
+        "project": null,
+        "exhibition": {
+          "id": "0a393936-e887-535c-bf34-e7741e566c1d",
+          "titles": {
+            "en": "Arts in Dialogue"
+          }
+        },
+        "theme": {
+          "id": "a839df9b-0e81-50a7-9d04-0084b220b16e",
+          "titles": {
+            "en": "[Th 2] Islamic Art and Architecture"
+          }
+        },
+        "subtheme": {
+          "id": "16626953-50ef-56fa-bd57-e9dc1cfa848a",
+          "titles": {
+            "en": "[Th 2_SubTh 2] Wedding"
+          }
+        },
+        "legacy_order": [
+          9007199254740991
+        ]
+      }
+    ],
     "languages": [
       "de",
       "en",
