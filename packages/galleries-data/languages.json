@@ -10,7 +10,8 @@
       "en": "Arabic",
       "fr": "Arabe",
       "it": "Arabo",
-      "es": "Árabe"
+      "es": "Árabe",
+      "tr": "Arapça"
     }
   },
   {
@@ -24,7 +25,8 @@
       "en": "German",
       "fr": "Allemand",
       "it": "Tedesco",
-      "es": "Alemán"
+      "es": "Alemán",
+      "tr": "Almanca"
     }
   },
   {
@@ -38,7 +40,8 @@
       "en": "English",
       "fr": "Anglais",
       "it": "Inglese",
-      "es": "Inglés"
+      "es": "Inglés",
+      "tr": "İngilizce"
     }
   },
   {
@@ -52,7 +55,8 @@
       "en": "French",
       "fr": "Français",
       "it": "Francese",
-      "es": "Francés"
+      "es": "Francés",
+      "tr": "Fransızca"
     }
   },
   {
@@ -66,7 +70,8 @@
       "en": "Italian",
       "fr": "Italien",
       "it": "Italiano",
-      "es": "Italiano"
+      "es": "Italiano",
+      "tr": "İtalyanca"
     }
   },
   {
@@ -80,7 +85,23 @@
       "en": "Spanish",
       "fr": "Espagnol",
       "it": "Spagnolo",
-      "es": "Español"
+      "es": "Español",
+      "tr": "İspanyolca"
+    }
+  },
+  {
+    "id": "tur",
+    "code": "tr",
+    "is_default": false,
+    "site_language": false,
+    "names": {
+      "ar": "التركية",
+      "de": "Türkisch",
+      "en": "Turkish",
+      "fr": "Turque",
+      "it": "Turco",
+      "es": "Turco",
+      "tr": "Türkçe"
     }
   }
 ]
