@@ -52,6 +52,7 @@
         "related": []
       }
     ],
+    "media": [],
     "sub_themes": []
   },
   {
@@ -78,6 +79,15 @@
         "display_order": 2,
         "image_url": "https://inventory.metanull.eu/pub/a5547716-ede8-50e5-a25a-48f312406103.jpg",
         "related": []
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "Test V2: Discover Islamic Art: The Aleppo Room Museum of Islamic Art at State Museums Berlin",
+        "description": null,
+        "url": "https://www.youtube.com/watch?v=4toX47mtAIE",
+        "language": "en"
       }
     ],
     "sub_themes": [
@@ -212,7 +222,8 @@
             "image_url": "https://inventory.metanull.eu/pub/a5547716-ede8-50e5-a25a-48f312406103.jpg",
             "related": []
           }
-        ]
+        ],
+        "media": []
       },
       {
         "id": "88aea3c9-4192-5c5c-a306-3400fa165a02",
@@ -311,7 +322,8 @@
             "image_url": "https://inventory.metanull.eu/pub/c2b27138-3242-5aa4-9b44-c1b3af538b3a.jpg",
             "related": []
           }
-        ]
+        ],
+        "media": []
       }
     ]
   },
@@ -375,6 +387,15 @@
         "display_order": 5,
         "image_url": "https://inventory.metanull.eu/pub/063641a8-42d4-53af-9e23-17cd8b2d5d21.jpg",
         "related": []
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "Test V3: Discover Islamic Art: Turko-Balkan Architecture",
+        "description": null,
+        "url": "https://www.youtube.com/watch?v=DGUyxJd6vuM",
+        "language": "en"
       }
     ],
     "sub_themes": [
@@ -540,6 +561,22 @@
             "image_url": "https://inventory.metanull.eu/pub/17b79b75-b046-5937-ad11-98db89397f79.jpg",
             "related": []
           }
+        ],
+        "media": [
+          {
+            "type": "audio",
+            "title": "Test Audio",
+            "description": null,
+            "url": "https://audio.com/carmen-1796670357757225/audio/sandy-beach-calm-waves-water-nature-sounds-8052",
+            "language": "en"
+          },
+          {
+            "type": "video",
+            "title": "Test V3: Discover Islamic Art: Turko-Balkan Architecture",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=DGUyxJd6vuM",
+            "language": "en"
+          }
         ]
       },
       {
@@ -664,7 +701,8 @@
             "image_url": "https://inventory.metanull.eu/pub/cd27340f-35f7-5901-a083-bbd884de9570.jpg",
             "related": []
           }
-        ]
+        ],
+        "media": []
       }
     ]
   },
@@ -766,6 +804,15 @@
         "related": []
       }
     ],
+    "media": [
+      {
+        "type": "video",
+        "title": "Test V2: Discover Islamic Art: The Aleppo Room Museum of Islamic Art at State Museums Berlin",
+        "description": null,
+        "url": "https://www.youtube.com/watch?v=4toX47mtAIE",
+        "language": "en"
+      }
+    ],
     "sub_themes": [
       {
         "id": "b29d3c22-7432-5299-8bf4-fcf6f4ea551c",
@@ -790,7 +837,8 @@
               }
             ]
           }
-        ]
+        ],
+        "media": []
       },
       {
         "id": "0446259a-6e19-5a60-b07c-ed263100ae84",
@@ -798,7 +846,8 @@
         "internal_name": "theme_54_9",
         "display_order": 2,
         "cover_picture_item_id": null,
-        "pictures": []
+        "pictures": [],
+        "media": []
       },
       {
         "id": "b1836200-a169-5585-94c1-c887c5fd5b2b",
@@ -806,7 +855,8 @@
         "internal_name": "theme_54_10",
         "display_order": 3,
         "cover_picture_item_id": null,
-        "pictures": []
+        "pictures": [],
+        "media": []
       }
     ]
   },
@@ -897,6 +947,7 @@
         "related": []
       }
     ],
+    "media": [],
     "sub_themes": [
       {
         "id": "4b21cdf8-ea82-5bb5-9fa1-e85d2b24dcaa",
@@ -966,7 +1017,8 @@
             "image_url": "https://inventory.metanull.eu/pub/e2ed0331-d6e2-5c0c-bb73-b5b240e8f43c.jpg",
             "related": []
           }
-        ]
+        ],
+        "media": []
       },
       {
         "id": "eafc68e4-60c9-5ab8-8fe1-1fdaf0e60e26",
@@ -1011,7 +1063,8 @@
             "image_url": "https://inventory.metanull.eu/pub/14454aaf-7e05-59e6-baf2-a9e8054bcb2c.jpg",
             "related": []
           }
-        ]
+        ],
+        "media": []
       }
     ]
   }
