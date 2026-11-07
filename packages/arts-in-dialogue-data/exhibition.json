@@ -743,5 +743,28 @@
       "hidden": false,
       "live_date": "2022-12-01T00:00:00.000Z"
     }
+  ],
+  "media": [
+    {
+      "type": "audio",
+      "title": "Test Audio",
+      "description": null,
+      "url": "https://audio.com/carmen-1796670357757225/audio/sandy-beach-calm-waves-water-nature-sounds-8052",
+      "language": "en"
+    },
+    {
+      "type": "video",
+      "title": "Test V2: Discover Islamic Art: The Aleppo Room Museum of Islamic Art at State Museums Berlin",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=4toX47mtAIE",
+      "language": "en"
+    },
+    {
+      "type": "video",
+      "title": "Test V3: Discover Islamic Art: Turko-Balkan Architecture",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=DGUyxJd6vuM",
+      "language": "en"
+    }
   ]
 }
