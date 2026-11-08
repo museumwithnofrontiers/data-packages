@@ -1554,7 +1554,15 @@
           "en": "It was brought from al-Haram al-Ibrahimi.",
           "fr": "Transféré du Haram al-Ibrahimi.",
           "es": "La cobertura fue traída desde Haram al-Ibrahimi."
-        }
+        },
+        "names": {
+          "ar": "الحرم الإبراهيمي.",
+          "en": "Haram al-Ibrahimi.",
+          "fr": "Haram al-Ibrahimi.",
+          "es": "Haram al-Ibrahimi."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/93cac079-dd84-5ab5-8d1a-8a645c6c7b1a.jpg"
       },
       {
         "id": "461e1b34-d976-5ed9-8d53-d69810250d6c",
@@ -4455,7 +4463,15 @@
           "en": "Exhibited at the Monastir Ribat Museum.",
           "fr": "Est exposée au musée du ribat de Monastir.",
           "es": "Expuesto en el museo del Ribat de Monastir."
-        }
+        },
+        "names": {
+          "ar": "رباط المنستير.",
+          "en": "Monastir Ribat",
+          "fr": "Ribat de Monastir.",
+          "es": "Ribat"
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/ab1c2357-4ec9-50e9-a435-ab3b2ae78826.jpg"
       }
     ],
     "gallery_references": [
@@ -5288,7 +5304,16 @@
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01_A:40",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عرش السلطان أحمد الأول.",
+          "en": "Throne of Sultan Ahmed I.",
+          "fr": "Trône du sultan Ahmed Ier.",
+          "es": "Trono del sultán Ahmed I.",
+          "tr": "Sultan I. Ahmed’in Tahtı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/344c0d57-b91e-50e4-a8d6-53e37cb3abe6.jpg"
       }
     ],
     "gallery_references": [
@@ -5514,42 +5539,91 @@
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus03:30",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "زبدية ذات غطاء.",
+          "en": "Lidded bowl.",
+          "fr": "Coupe à couvercle.",
+          "es": "Cuenco con tapadera"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/62217646-c257-565e-a0a2-b78ed78ab99b.jpg"
       },
       {
         "id": "236db96b-210d-5f2b-b7a3-43f9546cfc60",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus03:38",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "لوحة من القاشاني.",
+          "en": "Tile panel.",
+          "fr": "Panneau de carreaux.",
+          "es": "Panel de azulejos"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/d30e48aa-1811-5e89-931e-ca015c8e7148.jpg"
       },
       {
         "id": "4ef96a03-7d8c-53f4-abe0-2c7f030b251f",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus02:33",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "طبق.",
+          "en": "Dish.",
+          "fr": "Plat.",
+          "es": "Plato."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/9ce57a12-f0d7-53bc-8d21-6a36478aa6d0.jpg"
       },
       {
         "id": "9d00287d-1b75-52cd-aaf2-a362c89a4645",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus03:27",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "طبق ذو قاعدة.",
+          "en": "Footed dish or *tazze*.",
+          "fr": "Plat sur piédouche.",
+          "es": "Plato con pie *(tazze)*"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/aa28bcef-79a6-5a17-add2-c8bf34aaadd5.jpg"
       },
       {
         "id": "b1b31d42-2423-51e8-9e8c-0117ff7b0186",
         "backward_compatibility": "mwnf3:objects:ISL:pt:Mus01_A:19",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قدح ذو عروة أسطوانية.",
+          "en": "Cylindrical tankard.",
+          "fr": "Gobelet à anse cylindrique.",
+          "pt": "Caneca cilíndrica.",
+          "es": "Jarro cilíndrico."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/f18667cc-5805-5618-bc32-30ea4d5fe15b.jpg"
       },
       {
         "id": "d04f9993-36fb-5234-ad3f-ce7d4b211668",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus03:41",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قطعة من قفطان.",
+          "en": "Kaftan fragment.",
+          "fr": "Fragment de caftan.",
+          "es": "Fragmento de caftán"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/78f8484e-056a-5fbf-a0ed-0e2757ae33d2.jpg"
       },
       {
         "id": "e6f5f348-ba35-50e4-9c8e-f3ed312366b0",
@@ -5682,7 +5756,15 @@
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:45",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "تاجا بيارق النبي موسى.",
+          "en": "Two apexes from banners of the Prophet Moses.",
+          "fr": "Deux enseignes de bannières de Moïse.",
+          "es": "Topes de estandartes del profeta Moisés."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/f01a5d16-4ff6-59f6-a1bb-3ceb9d0bc8d3.jpg"
       },
       {
         "id": "82a76cf7-12e6-5f7e-accc-28e18a32a4e9",
@@ -5703,7 +5785,16 @@
         "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:39",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "غرفة حلبية.",
+          "de": "Aleppo-Zimmer.",
+          "en": "Aleppo Room.",
+          "fr": "Chambre d’Alep.",
+          "es": "Sala de una casa de Alepo."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/24fa31cf-8aea-5c79-8f14-4ad1a38b4bbb.jpg"
       },
       {
         "id": "a5d9b0f5-29b8-59b7-a686-aa28e8c93f06",
@@ -6170,14 +6261,32 @@
         "backward_compatibility": "mwnf3:objects:ISL:pt:Mus01_A:19",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قدح ذو عروة أسطوانية.",
+          "en": "Cylindrical tankard.",
+          "fr": "Gobelet à anse cylindrique.",
+          "pt": "Caneca cilíndrica.",
+          "es": "Jarro cilíndrico."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/f18667cc-5805-5618-bc32-30ea4d5fe15b.jpg"
       },
       {
         "id": "d0e5dd9e-aee2-51d7-a5b3-d82228bcf1bd",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01_A:32",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قفطان.",
+          "en": "Kaftan.",
+          "fr": "Caftan.",
+          "es": "Caftán.",
+          "tr": "Kaftan."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/22d9151e-b87f-52f1-b730-fbb31636c9a7.jpg"
       }
     ],
     "gallery_references": [
@@ -6308,7 +6417,16 @@
           "ar": "نماذج للتوقيع السلطاني ( الطغراء) استخدمت بهدف ضمان النسخ الصحيح.",
           "en": "Models of the Sultan’s monogram (tughra) were used with the aim of ensuring its correct copying.",
           "fr": "Des modèles de tughra (monogramme du sultan) servaient à en garantir une reproduction correcte."
-        }
+        },
+        "names": {
+          "ar": "طغراء السلطان عثمان الثالث.",
+          "en": "*Tuğra* of Sultan Osman III.",
+          "fr": "Tughra du sultan Osman (Uthman) III.",
+          "es": "*Tugra* del sultán Otman III.",
+          "tr": "Sultan III. Osman’ın Tuğrası."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/932d89da-4d52-58b4-b474-92b621216c41.jpg"
       },
       {
         "id": "919aef03-f815-592e-ab38-dd26eb510ac9",
@@ -6319,7 +6437,15 @@
           "ar": "التوقيع السلطاني ( الطغراء ) توثق الوثائق العثمانية.",
           "en": "The imperial monogram of the sultans (tughra) validated Ottoman documents.",
           "fr": "Le monogramme impérial des sultans ou tughra validait les documents ottomans."
-        }
+        },
+        "names": {
+          "ar": "طغراء (توقيع سلطاني).",
+          "en": "*Tughra* (imperial monogram).",
+          "fr": "Tughra (monogramme impérial).",
+          "es": "*Tugra* (monograma imperial)"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/19dc95f5-fe1c-5c79-a4b2-03d2f8f1642c.jpg"
       }
     ],
     "gallery_references": [
@@ -6550,7 +6676,16 @@
         "justifications": {
           "ar": "ترتبط هذه القطعة من حيث الصناعة والزخرفة  بقطع أخرى من فترات مختلفة  كان لها نفس الاستعمال",
           "en": "This piece is connected by means of manufacture and decorations which go back to different periods as does their use."
-        }
+        },
+        "names": {
+          "ar": "أسطرلاب.",
+          "en": "Astrolabe.",
+          "fr": "Astrolabe.",
+          "es": "Astrolabio.",
+          "tr": "Usturlap."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/d06325d4-3b4e-548d-b2e9-651189455f71.jpg"
       },
       {
         "id": "05e7e5aa-01c1-5eb2-8d63-892574f025d5",
@@ -6574,7 +6709,15 @@
           "en": "Similar decorative style and manufacture.",
           "fr": "Ces pièces sont apparentées par leur style décoratif et leur exécution qui, tout comme leur utilisation, remontent à différentes périodes.",
           "es": "Estilo decorativo y fabricación similar."
-        }
+        },
+        "names": {
+          "ar": "سجادة.",
+          "en": "Carpet.",
+          "fr": "Tapis.",
+          "es": "Alfombra"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/9b021aaa-d7ad-52f5-b24d-81bad468a01c.jpg"
       },
       {
         "id": "2dd5e058-db6d-5ca4-b1c8-b47beedc0811",
@@ -6596,7 +6739,15 @@
         "justifications": {
           "ar": "ترتبط هذه القطعة من حيث الصناعة والزخرفة  بقطع أخرى من فترات مختلفة  كان لها نفس الاستعمال",
           "en": "This piece is connected by means of manufacture and decorations which go back to different periods as does their use."
-        }
+        },
+        "names": {
+          "ar": "طبق.",
+          "en": "Plate.",
+          "fr": "Plat.",
+          "es": "Plato."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/b61a9c10-c31a-5518-8a9a-d359aab4560a.jpg"
       },
       {
         "id": "8afba048-0957-5c1e-afda-b13a74187ad5",
@@ -7576,7 +7727,16 @@
           "en": "Textile samples dating from the Fatimid era.",
           "fr": "Échantillons de textiles datant de la même époque fatimide.",
           "es": "Aquí vemos muestras textiles que datan de la época fatimí."
-        }
+        },
+        "names": {
+          "ar": "قطعة من قماش.",
+          "de": "Gewandfragment.",
+          "en": "Fragment of a robe.",
+          "fr": "Fragment de vêtement.",
+          "es": "Fragmento de vestidura."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/e9a7528d-7ffe-55d4-b2ec-bd5cf659f4f6.jpg"
       },
       {
         "id": "e179ff65-79d3-5bba-97ab-c8056af7e861",
@@ -7588,7 +7748,15 @@
           "en": "Textile samples dating from the Fatimid era.",
           "fr": "Échantillons de textiles datant de la même époque fatimide.",
           "es": "Aquí vemos muestras textiles que datan de la época fatimí."
-        }
+        },
+        "names": {
+          "ar": "منديــــــــل.",
+          "en": "Handkerchief/ textile fragment.",
+          "fr": "Fragment de mouchoir/tissu.",
+          "es": "Fragmento de pañuelo."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/4b79ed82-3a26-54f9-a287-e0c15089c910.jpg"
       },
       {
         "id": "e987a21d-d760-5987-8b5d-7a506da98699",
@@ -7600,7 +7768,15 @@
           "en": "Exhibited at the Monastir Ribat Museum.",
           "fr": "Est exposé au musée qu’abrite le ribat.",
           "es": "Expuesto en el museo del Ribat de Monastir."
-        }
+        },
+        "names": {
+          "ar": "رباط المنستير.",
+          "en": "Monastir Ribat",
+          "fr": "Ribat de Monastir.",
+          "es": "Ribat"
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/ab1c2357-4ec9-50e9-a435-ab3b2ae78826.jpg"
       }
     ],
     "gallery_references": [
@@ -8268,7 +8444,16 @@
           "en": "A contemporary Fatimid fragment belonging to the same period of production.",
           "fr": "Fragment fatimide contemporain appartenant à la même période de production.",
           "es": "Un fragmento fatimí contemporáneo que pertenece al mismo periodo de producción."
-        }
+        },
+        "names": {
+          "ar": "قطعة من قماش.",
+          "de": "Gewandfragment.",
+          "en": "Fragment of a robe.",
+          "fr": "Fragment de vêtement.",
+          "es": "Fragmento de vestidura."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/e9a7528d-7ffe-55d4-b2ec-bd5cf659f4f6.jpg"
       },
       {
         "id": "e179ff65-79d3-5bba-97ab-c8056af7e861",
@@ -8280,7 +8465,15 @@
           "en": "A contemporary Fatimid fragment belonging to the same period of production.",
           "fr": "Fragment fatimide contemporain appartenant à la même période de production.",
           "es": "Un fragmento fatimí contemporáneo que pertenece al mismo periodo de producción."
-        }
+        },
+        "names": {
+          "ar": "منديــــــــل.",
+          "en": "Handkerchief/ textile fragment.",
+          "fr": "Fragment de mouchoir/tissu.",
+          "es": "Fragmento de pañuelo."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/4b79ed82-3a26-54f9-a287-e0c15089c910.jpg"
       }
     ],
     "gallery_references": [
@@ -8413,7 +8606,16 @@
           "en": "A contemporary Fatimid fragment belonging to the same period of production.",
           "fr": "Fragment fatimide contemporain appartenant à la même période de production.",
           "es": "Un fragmento fatimí contemporáneo que pertenece al mismo periodo de producción."
-        }
+        },
+        "names": {
+          "ar": "قطعة من قماش.",
+          "de": "Gewandfragment.",
+          "en": "Fragment of a robe.",
+          "fr": "Fragment de vêtement.",
+          "es": "Fragmento de vestidura."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/e9a7528d-7ffe-55d4-b2ec-bd5cf659f4f6.jpg"
       },
       {
         "id": "e179ff65-79d3-5bba-97ab-c8056af7e861",
@@ -8425,7 +8627,15 @@
           "en": "A contemporary Fatimid fragment belonging to the same period of production.",
           "fr": "Fragment fatimide contemporain appartenant à la même période de production.",
           "es": "Un fragmento fatimí contemporáneo que pertenece al mismo periodo de producción."
-        }
+        },
+        "names": {
+          "ar": "منديــــــــل.",
+          "en": "Handkerchief/ textile fragment.",
+          "fr": "Fragment de mouchoir/tissu.",
+          "es": "Fragmento de pañuelo."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/4b79ed82-3a26-54f9-a287-e0c15089c910.jpg"
       }
     ],
     "gallery_references": [
@@ -8560,7 +8770,16 @@
           "en": "A contemporary Fatimid fragment belonging to the same period of production.",
           "fr": "Fragment fatimide contemporain appartenant à la même période de production.",
           "es": "Un fragmento fatimí contemporáneo que pertenece al mismo periodo de producción."
-        }
+        },
+        "names": {
+          "ar": "قطعة من قماش.",
+          "de": "Gewandfragment.",
+          "en": "Fragment of a robe.",
+          "fr": "Fragment de vêtement.",
+          "es": "Fragmento de vestidura."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/e9a7528d-7ffe-55d4-b2ec-bd5cf659f4f6.jpg"
       },
       {
         "id": "e179ff65-79d3-5bba-97ab-c8056af7e861",
@@ -8572,7 +8791,15 @@
           "en": "A contemporary Fatimid fragment belonging to the same period of production.",
           "fr": "Fragment fatimide contemporain appartenant à la même période de production.",
           "es": "Un fragmento fatimí contemporáneo que pertenece al mismo periodo de producción."
-        }
+        },
+        "names": {
+          "ar": "منديــــــــل.",
+          "en": "Handkerchief/ textile fragment.",
+          "fr": "Fragment de mouchoir/tissu.",
+          "es": "Fragmento de pañuelo."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/4b79ed82-3a26-54f9-a287-e0c15089c910.jpg"
       }
     ],
     "gallery_references": [
@@ -8737,7 +8964,16 @@
           "en": "A contemporary Fatimid fragment belonging to the same period of production.",
           "fr": "Fragment fatimide contemporain appartenant à la même période de production.",
           "es": "Un fragmento fatimí contemporáneo que pertenece al mismo periodo de producción."
-        }
+        },
+        "names": {
+          "ar": "قطعة من قماش.",
+          "de": "Gewandfragment.",
+          "en": "Fragment of a robe.",
+          "fr": "Fragment de vêtement.",
+          "es": "Fragmento de vestidura."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/e9a7528d-7ffe-55d4-b2ec-bd5cf659f4f6.jpg"
       },
       {
         "id": "e179ff65-79d3-5bba-97ab-c8056af7e861",
@@ -8749,7 +8985,15 @@
           "en": "A contemporary Fatimid fragment with a comparable design.",
           "fr": "Fragment contemporain de forme comparable.",
           "es": "Un fragmento fatimí contemporáneo con un diseño comparable."
-        }
+        },
+        "names": {
+          "ar": "منديــــــــل.",
+          "en": "Handkerchief/ textile fragment.",
+          "fr": "Fragment de mouchoir/tissu.",
+          "es": "Fragmento de pañuelo."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/4b79ed82-3a26-54f9-a287-e0c15089c910.jpg"
       }
     ],
     "gallery_references": [
@@ -11094,7 +11338,16 @@
           "en": "A picture of the Ka’ba appears on the ceramic.",
           "fr": "Une représentation de la Ka’ba figure sur la céramique.",
           "es": "Una representación de la Kaaba aparece en el azulejo."
-        }
+        },
+        "names": {
+          "ar": "لوح خزفي مزجَّج عليه صورة الكعبة.",
+          "en": "Ceramic tile with a picture of the Ka‘ba.",
+          "fr": "Carreau de céramique à représentation de la Kaaba.",
+          "es": "Azulejo con la Kaaba pintada.",
+          "tr": "Kabe Tasvirli Çini Pano."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/54923db7-665b-5a5b-a780-dd9cfdc91f77.jpg"
       },
       {
         "id": "461e1b34-d976-5ed9-8d53-d69810250d6c",
@@ -11118,7 +11371,15 @@
           "en": "The key is from the Ka’ba.",
           "fr": "La clé provient de la Ka’ba.",
           "es": "La llave es de la Kaaba."
-        }
+        },
+        "names": {
+          "ar": "مفتاح الكعبة.",
+          "en": "Key for the Ka’ba.",
+          "fr": "Clé de la Kaaba.",
+          "es": "Llave de la Kaaba."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/37201898-5a4d-5fa1-bb7f-cb54c832da53.jpg"
       },
       {
         "id": "c27af56e-a4e0-51fb-a73b-60b44f2b7999",
@@ -11493,7 +11754,15 @@
           "en": "The mosque of al-Nasir Muhammad ibn Qalawun, who is considered to be the likely owner of the textile piece.",
           "fr": "La mosquée d’al-Nasir Muhammad bin Qalawun, qui est considéré comme le probable propriétaire du textile.",
           "es": "La mezquita de al-Nasir Muhammad ibn Qalawun, quien es considerado ser el probable dueño del tejido."
-        }
+        },
+        "names": {
+          "ar": "جامع السلطان الناصر محمد بن قلاوون.",
+          "en": "Mosque of Sultan al-Nasir Muhammad ibn Qalawun.",
+          "fr": "Mosquée du sultan al-Nasir Muhammad ibn Qalawun.",
+          "es": "Mezquita del Sultán al-Nasir Muhammad ibn Qalawun."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/f1c74c74-db9e-50a4-ad94-cd954dd41dc5.jpg"
       },
       {
         "id": "ae76a20b-77b1-575a-ab1c-36776cb0c633",
@@ -11505,7 +11774,16 @@
           "en": "The inscriptions and the decoration are similar to those executed on the textile piece.",
           "fr": "Ces inscriptions et ces décorations sont similaires à celles exécutées sur la pièce de tissu.",
           "es": "Las inscripciones y la decoración son similares a las presentes en el tejido."
-        }
+        },
+        "names": {
+          "ar": "قطعة من قماش.",
+          "de": "Gewandfragment.",
+          "en": "Fragment of a robe.",
+          "fr": "Fragment de vêtement.",
+          "es": "Fragmento de vestidura."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/e9a7528d-7ffe-55d4-b2ec-bd5cf659f4f6.jpg"
       },
       {
         "id": "d1baf7da-b838-5564-a184-03f1f16c1457",
@@ -12852,7 +13130,16 @@
           "en": "A contemporary Fatimid fragment belonging to the same period of production.",
           "fr": "Fragment fatimide contemporain appartenant à la même période de production.",
           "es": "Un fragmento fatimí contemporáneo que pertenece al mismo periodo de producción."
-        }
+        },
+        "names": {
+          "ar": "قطعة من قماش.",
+          "de": "Gewandfragment.",
+          "en": "Fragment of a robe.",
+          "fr": "Fragment de vêtement.",
+          "es": "Fragmento de vestidura."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/e9a7528d-7ffe-55d4-b2ec-bd5cf659f4f6.jpg"
       },
       {
         "id": "e179ff65-79d3-5bba-97ab-c8056af7e861",
@@ -12864,7 +13151,15 @@
           "en": "A contemporary Fatimid fragment belonging to the same period of production.",
           "fr": "Fragment fatimide contemporain appartenant à la même période de production.",
           "es": "Un fragmento fatimí contemporáneo que pertenece al mismo periodo de producción."
-        }
+        },
+        "names": {
+          "ar": "منديــــــــل.",
+          "en": "Handkerchief/ textile fragment.",
+          "fr": "Fragment de mouchoir/tissu.",
+          "es": "Fragmento de pañuelo."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/4b79ed82-3a26-54f9-a287-e0c15089c910.jpg"
       }
     ],
     "gallery_references": [
@@ -13063,21 +13358,45 @@
         "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_C:31",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "لوحة من الزليج.",
+          "en": "*Zellij* panel.",
+          "fr": "Panneau de zelliges.",
+          "es": "Alizar."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/ea697eea-a348-5c4c-88ce-3c40c3eb3eb8.jpg"
       },
       {
         "id": "1eed41b3-c147-5628-8b7b-5a7e28136494",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:49",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "صحن.",
+          "en": "Dish.",
+          "fr": "Plat.",
+          "es": "Plato."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/feb1bd5f-29f0-5cbc-9892-3308da35bafd.jpg"
       },
       {
         "id": "42f89df0-5a8b-5150-b126-94c092d264a5",
         "backward_compatibility": "mwnf3:objects:ISL:se:Mus01:15",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "بلاطة قاشاني.",
+          "en": "Tile.",
+          "fr": "Carreau de céramique.",
+          "es": "Azulejo"
+        },
+        "country_id": "swe",
+        "image": "https://inventory.metanull.eu/pub/ebc54b88-3371-5d7c-980b-c1b207806792.jpg"
       }
     ],
     "gallery_references": [
@@ -13545,7 +13864,15 @@
           "ar": "عاش الحاكم المسؤول في شمال البلاد خلال فترة حكمه في قصر القصة في طنجة.",
           "en": "The governor in charge of the north of the country during this period lived in the Palace of the Kasbah in Tangiers.",
           "fr": "Le gouverneur de l’époque qui avait à charge le Nord du pays résidait dans le palais de la Casbah de Tanger."
-        }
+        },
+        "names": {
+          "ar": "قصر القصبة.",
+          "en": "Palace of the Kasbah.",
+          "fr": "Palais de la Casbah.",
+          "es": "Palacio de la Alcazaba."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/3743a0f6-629b-5da3-a77f-c692853e65b1.jpg"
       },
       {
         "id": "922e411d-1b69-5d14-ac14-e76be57376fa",
@@ -13556,7 +13883,15 @@
           "ar": "طرزت النجوم من قبل النساء اللواتي ارتدين هذا النوع من القفطان في أيام الأعياد.",
           "en": "The stars were embroidered by women who wore this type of kaftan on feast days.",
           "fr": "Les étoles étaient brodées par les femmes qui portaient ce style de caftan les jours de fêtes."
-        }
+        },
+        "names": {
+          "ar": "قفطان.",
+          "en": "Kaftan.",
+          "fr": "Caftan.",
+          "es": "Caftán."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/54c3914a-c6ce-56c1-8690-65000e136ef8.jpg"
       }
     ],
     "gallery_references": [
@@ -15559,7 +15894,15 @@
           "en": "A non-figural example of a luxury Abbasid textile from the same period.",
           "fr": "Exemple non-figuratif de luxueux textile abbasside de la même période.",
           "es": "Un ejemplo no figural de un tejido abbasí lujoso que es del mismo periodo."
-        }
+        },
+        "names": {
+          "ar": "قطعة من النسيج.",
+          "en": "Textile fragment.",
+          "fr": "Fragment de tissu.",
+          "es": "Fragmento de tejido."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/ce74011c-7f70-5b20-9c24-a77d326e415f.jpg"
       }
     ],
     "gallery_references": [
@@ -17549,7 +17892,15 @@
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:34",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "المصحف الملوكي رقم 16.",
+          "en": "Mamluk *mashaf*",
+          "fr": "Machaf mamelouk.",
+          "es": "*Mashaf* mameluco."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/31a86d6b-2f45-5c7e-9422-fd407eb367ec.jpg"
       }
     ],
     "gallery_references": [

@@ -2573,7 +2573,15 @@
           "en": "An earring showing the influence of Fatimid gold-working techniques.",
           "fr": "En joaillerie, ce style décoratif émaillé et serti de pierres précieuses était exécuté sur ces pièces aussi bien que sur les colliers.",
           "es": "Pendiente que muestra la influencia de las técnicas de trabajo de oro fatimí."
-        }
+        },
+        "names": {
+          "ar": "قرط أذن.",
+          "en": "Earring.",
+          "fr": "Pendant d’oreille.",
+          "es": "Pendiente."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/2b89a6c0-3abf-5874-a5fa-3156d70a4974.jpg"
       },
       {
         "id": "4df720fc-29e6-59ab-9430-1945b274992e",
@@ -2585,7 +2593,15 @@
           "en": "A late-Fatimid gold armlet with filigree work on the clasp, originally studded with precious stones (now lost).",
           "fr": "En joaillerie, ce style décoratif émaillé et serti de pierres précieuses était exécuté sur ces pièces aussi bien que sur les colliers.",
           "es": "Brazalete fatimí tardío con un trabajo de filigrana en el cierre, originalmente estuvo adornado con piedras preciosas (ya desaparecidas)."
-        }
+        },
+        "names": {
+          "ar": "زوج من الأقراط.",
+          "en": "Pair of earrings.",
+          "fr": "Paire de boucles d'oreille.",
+          "es": "Pendientes."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/0cc7ad8e-9f19-5bda-a805-82ca45f0851c.jpg"
       },
       {
         "id": "a5b2538f-6e41-5940-b65c-59d0b57a7466",
@@ -2620,7 +2636,15 @@
           "ar": "عقد ذهب بخرز وطلاء مينا (مختفي الان)",
           "en": "A gold necklace decorated with beads and enamel glaze (now lost).",
           "es": "Collar de oro decorado con cuentas y un vidriado de esmalte (ya desaparecido)."
-        }
+        },
+        "names": {
+          "ar": "عقد.",
+          "en": "Necklace.",
+          "fr": "Collier.",
+          "es": "Collar."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/978fb42c-0a42-5180-91d5-6909d49c5834.jpg"
       }
     ],
     "gallery_references": [
@@ -5034,7 +5058,15 @@
           "en": "Women who wore such jewellery lived in homes like this one.",
           "fr": "C’est dans de pareilles demeures qu’habitaient les femmes qui portaient ces parures.",
           "es": "Las mujeres que llevaban tal joyería vivan en casas como esta."
-        }
+        },
+        "names": {
+          "ar": "دار الجامعي.",
+          "en": "Dar al-Jam’i.",
+          "fr": "Dar Jamai.",
+          "es": "Dar Yamai."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/3aebc9dd-afc0-52c7-8cf5-82a6ad98e6fb.jpg"
       },
       {
         "id": "58b8041e-0838-56a2-b0b3-2369a498e868",
@@ -5045,7 +5077,15 @@
           "ar": "تشكّل المجوهرات جزءا من ثوب العروس الاحتفالي.",
           "en": "The jewellery and the belt were part of a bride’s ceremonial dress.",
           "fr": "Les paires de fibules en or ainsi que le caftan et la ceinture en brocart font partie du costume d’apparat de la mariée."
-        }
+        },
+        "names": {
+          "ar": "حزام.",
+          "en": "Belt.",
+          "fr": "Ceinture.",
+          "es": "Faja."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/089d0972-e038-5055-9d5e-53355dfa1364.jpg"
       },
       {
         "id": "922e411d-1b69-5d14-ac14-e76be57376fa",
@@ -5057,7 +5097,15 @@
           "en": "The jewellery and the kaftan were part of a bride’s ceremonial dress.",
           "fr": "Les paires de fibules en or ainsi que le caftan et la ceinture en brocart font partie du costume d’apparat de la mariée.",
           "es": "La joyería y el caftán eran parte de un vestido ceremonial de una novia."
-        }
+        },
+        "names": {
+          "ar": "قفطان.",
+          "en": "Kaftan.",
+          "fr": "Caftan.",
+          "es": "Caftán."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/54c3914a-c6ce-56c1-8690-65000e136ef8.jpg"
       },
       {
         "id": "9bbd09d8-43b6-522d-b0ae-19223921613e",
@@ -5069,7 +5117,15 @@
           "en": "Women who wore such jewellery lived in homes like this one.",
           "fr": "C’est dans de pareilles demeures qu’habitaient les femmes qui portaient ces parures.",
           "es": "Las mujeres que llevaban esta joyería vivían en casa como esta."
-        }
+        },
+        "names": {
+          "ar": "قصر البطحاء.",
+          "en": "Batha Palace.",
+          "fr": "Palais Batha.",
+          "es": "Palacio Batha."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/64781801-0e72-5765-b642-f3ad0733edd1.jpg"
       },
       {
         "id": "bd425b9a-5df3-53ae-8d59-3df33045cb72",
@@ -5432,14 +5488,30 @@
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:18",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "تعليقة صدر.",
+          "en": "Brooch.",
+          "fr": "Broche.",
+          "es": "Broche."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/84401911-7a55-5132-a780-32b9d5919b11.jpg"
       },
       {
         "id": "4df720fc-29e6-59ab-9430-1945b274992e",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "زوج من الأقراط.",
+          "en": "Pair of earrings.",
+          "fr": "Paire de boucles d'oreille.",
+          "es": "Pendientes."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/0cc7ad8e-9f19-5bda-a805-82ca45f0851c.jpg"
       },
       {
         "id": "69b67921-210d-5179-a7f6-620452e75cc6",
@@ -5451,7 +5523,15 @@
           "en": "Fatimid jewellery is renowned for its filigree technique. Both the earrings illustrated here include spherical shapes woven together with gold thread.",
           "fr": "La joaillerie fatimide est renommée pour sa technique du filigrane. Les deux boucles d’oreille incluent des formes sphériques tressées de fils d’or.",
           "es": "La orfebrería fatimí es celebre por su técnica de filigrana. Ambos pendientes ilustrados aquí incluyen formas esféricas entrelazadas con hilo de oro."
-        }
+        },
+        "names": {
+          "ar": "قرط.",
+          "en": "Pendant earring.",
+          "fr": "Pendant d’oreille.",
+          "es": "Pendiente."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/f97b9e43-66a6-5fc2-baa9-a188f9d40853.jpg"
       },
       {
         "id": "a9696cec-e2a4-5df3-86c8-4f47e45be0d4",
@@ -5463,7 +5543,15 @@
           "en": "While jewels and pearls decorate the earring, this gold pendant is decorated with coloured enamel.",
           "fr": "Alors que joyaux et perles décorent la boucle d’oreille, ce pendentif en or est décoré d’émail coloré.",
           "es": "Mientras que las joyas y las perlas decoran el pendiente, este colgante de oro está decorado con esmalte de colores."
-        }
+        },
+        "names": {
+          "ar": "دلاية.",
+          "en": "Pendant.",
+          "fr": "Pendentif.",
+          "es": "Colgante."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/e21ac8c5-003b-50b7-be51-3fbcef58cfc2.jpg"
       }
     ],
     "gallery_references": [
@@ -6183,7 +6271,15 @@
           "en": "Women who wore such jewellery lived in homes like this one.",
           "fr": "Dar Jamai, le Batha de Fès et le palais de la Casbah de Tanger sont des demeures où habitaient les dames qui portaient ces bijoux.",
           "es": "Las mujeres que usaban la joyería vivían en casa como esta."
-        }
+        },
+        "names": {
+          "ar": "قصر القصبة.",
+          "en": "Palace of the Kasbah.",
+          "fr": "Palais de la Casbah.",
+          "es": "Palacio de la Alcazaba."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/3743a0f6-629b-5da3-a77f-c692853e65b1.jpg"
       },
       {
         "id": "0b4ed4e5-1103-5697-8d4d-c8549f67bcef",
@@ -6195,7 +6291,15 @@
           "en": "Women who wore such jewellery lived in homes like this one.",
           "fr": "Dar Jamai, le Batha de Fès et le palais de la Casbah de Tanger sont des demeures où habitaient les dames qui portaient ces bijoux.",
           "es": "Las mujeres que usaban la joyería vivían en casa como esta."
-        }
+        },
+        "names": {
+          "ar": "دار الجامعي.",
+          "en": "Dar al-Jam’i.",
+          "fr": "Dar Jamai.",
+          "es": "Dar Yamai."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/3aebc9dd-afc0-52c7-8cf5-82a6ad98e6fb.jpg"
       },
       {
         "id": "58b8041e-0838-56a2-b0b3-2369a498e868",
@@ -6206,7 +6310,15 @@
           "ar": "تعمل مثل هذه المجوهرات على  تجميل قفاطين المزركشة.",
           "en": "Such jewellery enhanced belted brocade kaftans.",
           "fr": "C’est un bijou qui pare les caftans ceinturés d’étoffe de brocart."
-        }
+        },
+        "names": {
+          "ar": "حزام.",
+          "en": "Belt.",
+          "fr": "Ceinture.",
+          "es": "Faja."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/089d0972-e038-5055-9d5e-53355dfa1364.jpg"
       },
       {
         "id": "922e411d-1b69-5d14-ac14-e76be57376fa",
@@ -6218,7 +6330,15 @@
           "en": "Such jewellery enhanced belted brocade kaftans.",
           "fr": "C’est un bijou qui pare les caftans ceinturés d’étoffe de brocart.",
           "es": "La joyería realzaba a caftanes de brocado con fajas."
-        }
+        },
+        "names": {
+          "ar": "قفطان.",
+          "en": "Kaftan.",
+          "fr": "Caftan.",
+          "es": "Caftán."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/54c3914a-c6ce-56c1-8690-65000e136ef8.jpg"
       },
       {
         "id": "9bbd09d8-43b6-522d-b0ae-19223921613e",
@@ -6230,7 +6350,15 @@
           "en": "Women who wore such jewellery lived in homes like this one.",
           "fr": "Dar Jamai, le Batha de Fès et le palais de la Casbah de Tanger sont des demeures où habitaient les dames qui portaient ces bijoux.",
           "es": "Las mujeres que usaban la joyería vivían en casa como esta."
-        }
+        },
+        "names": {
+          "ar": "قصر البطحاء.",
+          "en": "Batha Palace.",
+          "fr": "Palais Batha.",
+          "es": "Palacio Batha."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/64781801-0e72-5765-b642-f3ad0733edd1.jpg"
       },
       {
         "id": "a5b2538f-6e41-5940-b65c-59d0b57a7466",
@@ -8723,7 +8851,16 @@
           "en": "The throne of Ahmed I is on display at the treasury of Topkapı Palace, which serves as a museum today.",
           "fr": "Le trône d’Ahmed Ier est exposé dans le trésor du palais de Topkapı, qui sert de musée aujourd’hui.",
           "es": "El trono de Ahmed I es exhibido en la sección del tesoro del palacio Topkapi, el cual ahora funciona como museo."
-        }
+        },
+        "names": {
+          "ar": "قصر توبكابي.",
+          "en": "Topkapı Palace.",
+          "fr": "Palais de Topkapı.",
+          "es": "Palacio Topkapı",
+          "tr": "Topkapı Sarayı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/88482ad0-fbcb-552f-84dd-9c4d09d9d66b.jpg"
       },
       {
         "id": "ed505641-7fab-598f-a27b-c58fb38cc49e",
@@ -8735,7 +8872,15 @@
           "en": "This throne was made for the sultan depicted in this miniature, Ahmed I.",
           "fr": "Ce trône fut réalisé pour le sultan représenté sur cette miniature, Ahmed Ier.",
           "es": "Este trono fue hecho para el sultán ilustrado en esta miniatura, Ahmed I."
-        }
+        },
+        "names": {
+          "ar": "لوحة شخصية للسلطان العثماني أحمد الأول.",
+          "en": "Portrait of the Ottoman Sultan Ahmed I.",
+          "fr": "Portrait du sultan ottoman Ahmed Ier.",
+          "es": "Retrato del Sultán otomano Ahmed I"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/d8dd2a47-9d19-502e-ab69-bde158c47d50.jpg"
       },
       {
         "id": "efc1e427-4c81-58f3-a2ae-e846616be1e3",
@@ -8747,7 +8892,16 @@
           "en": "Both works here are exquisite examples of inlay work, very popular in Ottoman art.",
           "fr": "Les deux œuvres sont d’excellents exemples du travail d’incrustation, très populaire dans l’art ottoman.",
           "es": "Ambos trabajos son preciosos ejemplos de trabajos con incrustaciones, bastante populares en el arte otomano."
-        }
+        },
+        "names": {
+          "ar": "خزانة لحفظ القرآن.",
+          "en": "Qur’an cabinet.",
+          "fr": "Coffre à coran.",
+          "es": "Mueble para Corán.",
+          "tr": "Kur’an Mahfazası."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/88c34d01-a45d-551d-ab5e-6f1a92348331.jpg"
       },
       {
         "id": "f7759c4e-3d0e-535a-b438-1292b547ebc5",
@@ -8759,7 +8913,16 @@
           "en": "Both works here are exquisite examples of inlay work, very popular in Ottoman art.",
           "fr": "Les deux œuvres sont d’excellents exemples du travail d’incrustation, très populaire dans l’art ottoman.",
           "es": "Ambos trabajos son preciosos ejemplos de trabajos con incrustaciones, bastante populares en el arte otomano."
-        }
+        },
+        "names": {
+          "ar": "خزانة لحفظ القرآن.",
+          "en": "Qur’an cabinet.",
+          "fr": "Cabinet pour coran.",
+          "es": "Mueble para Corán.",
+          "tr": "Kur'an Mahfazası."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/1af4c4d8-39cd-5346-bba3-366e9a502d25.jpg"
       }
     ],
     "gallery_references": [

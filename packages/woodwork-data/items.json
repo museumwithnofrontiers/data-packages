@@ -166,7 +166,15 @@
           "en": "Guadalupe Monastery has a ceiling similar to the example in Córdoba.",
           "fr": "Le monastère de Guadalupe conserve un plafond semblable à l’exemplaire cordouan.",
           "es": "El monasterio de Guadalupe conserva un alfarje parecido al ejemplar cordobés."
-        }
+        },
+        "names": {
+          "ar": "دير جوادالوبي.",
+          "en": "Guadalupe Monastery.",
+          "fr": "Monastère de Guadalupe.",
+          "es": "Monasterio de Guadalupe."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/9e8c7db6-542f-51ac-a327-41d29b5fa651.jpg"
       },
       {
         "id": "824bc44a-ecba-5266-8efa-c68c70d08dec",
@@ -178,7 +186,15 @@
           "en": "Large wooden beams held up the ceilings of the Kairouan Mosque, like the Córdoban ceiling.",
           "fr": "De grandes poutres de bois soutiennent les plafonds de la mosquée de Kairouan, comme pour le plafond cordouan.",
           "es": "Grandes vigas de madera sustentan las techumbres de la mezquita de Qayrawan, como en el alfarje cordobés."
-        }
+        },
+        "names": {
+          "ar": "جامع القيروان الكبير.",
+          "en": "Great Mosque of Kairouan.",
+          "fr": "Grande Mosquée de Kairouan.",
+          "es": "Mezquita Mayor."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/7e6bfc26-ba57-5b2f-8e26-6c49bf80a4d3.jpg"
       }
     ],
     "gallery_references": [
@@ -889,7 +905,12 @@
         "backward_compatibility": "mwnf3:objects:GalEx6:uk:Mus83:1",
         "project_id": "21cccf03-49f5-55d3-96f5-eddeee7a989d",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "en": "Photograph pitched wooden boats by the River Euphrates in Hit, Iraq"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/192ea2b9-7b4b-50f2-842d-c5c403c05b67.jpg"
       }
     ],
     "gallery_references": [
@@ -1112,7 +1133,12 @@
         "backward_compatibility": "mwnf3:objects:GalEx6:fr:Mus82:1",
         "project_id": "21cccf03-49f5-55d3-96f5-eddeee7a989d",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "en": "A folio from the Maqamat al-Hariri representing a *Jendoul* (folio 61r)"
+        },
+        "country_id": "fra",
+        "image": "https://inventory.metanull.eu/pub/81ea1a92-62c7-5525-857b-85e4fef4d480.jpg"
       }
     ],
     "gallery_references": [
@@ -1389,7 +1415,15 @@
           "en": "These monuments include a *kuttab* (Qur’an school) to teach children the principles of Arabic and religion.",
           "fr": "Ces monuments comportent un *kuttab* (école coranique) pour apprendre aux enfants les rudiments de la langue arabe et de la religion ; ils avaient le même rôle que la pièce muséale présentée ici.",
           "es": "Estos monumentos incluyen un *kuttab* (escuela coránica) donde los niños aprendían los principios del árabe y la religión."
-        }
+        },
+        "names": {
+          "ar": "سبيل وكتـّاب عبد الرحمن كتخدا.",
+          "en": "*Sabil* (Water Dispensary) and *Kuttab* (Qur’anic School) of ‘Abd al-Rahman Katkhuda.",
+          "fr": "*Sabil* (fontaine publique) et *Kuttab* (école coranique) d’Abd al-Rahman Katkhuda",
+          "es": "Fuente *(sabil)* y escuela coránica *(kuttab)* de Abd al-Rahman Katjuda."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/c34d37ae-556c-59ee-b810-cd46c84503a8.jpg"
       },
       {
         "id": "e0b9788f-2138-5261-bd75-1329e810829d",
@@ -1401,7 +1435,15 @@
           "en": "These monuments include a *kuttab* (Qur’an school) to teach children the principles of Arabic and religion.",
           "fr": "Ces monuments comportent un *kuttab* (école coranique) pour apprendre aux enfants les rudiments de la langue arabe et de la religion ; ils avaient le même rôle que la pièce muséale présentée ici.",
           "es": "Estos monumentos incluyen un *kuttab* (escuela coránica) donde los niños aprendían los principios del árabe y la religión."
-        }
+        },
+        "names": {
+          "ar": "سبيل وكتـّاب السلطان قايتباي.",
+          "en": "*Sabil* (Water Dispensary) and *Kuttab* (Qur’anic School) of Sultan Qaytbay.",
+          "fr": "Sabil (fontaine publique) et kuttab (école coranique) du sultan Qaytbay.",
+          "es": "Fuente *(sabil)* y escuela coránica *(kuttab)* del Sultán Qaytbay."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/e0575ca3-e956-551b-9b7f-106c89b433b0.jpg"
       },
       {
         "id": "febb9b50-5023-54dc-aba9-74d232d247aa",
@@ -1960,7 +2002,12 @@
         "backward_compatibility": "mwnf3:objects:GalEx6:iq:Mus81:1",
         "project_id": "21cccf03-49f5-55d3-96f5-eddeee7a989d",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "en": "*Guffa* coracle"
+        },
+        "country_id": "irq",
+        "image": "https://inventory.metanull.eu/pub/ce50f5df-605f-53db-a940-e0e4e7d80075.jpg"
       }
     ],
     "gallery_references": [
@@ -2244,7 +2291,15 @@
           "en": "Both of these rare mihrabs are of wood, which is rare in the Islamic world.",
           "fr": "Ces deux *mihrab* sont en bois, ce qui est rare dans le monde islamique.",
           "es": "Ambos mihrabs están hechos de madera, lo cual es raro en el mundo Islámico."
-        }
+        },
+        "names": {
+          "ar": "محراب المدرسة الحلاوية.",
+          "en": "Mihrab of the Madrasa al-Halawiyya.",
+          "fr": "Mihrab de la madrasa al-Halawiyya.",
+          "es": "*Mihrab* de la madrasa al-Halawiyya."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/6eeed9af-9f18-5241-9b3d-4ca4c2485ad0.jpg"
       },
       {
         "id": "6568b7c0-a3a3-5d41-9f89-21aa75b86c2f",
@@ -2256,7 +2311,15 @@
           "en": "Calligraphic borders decorated monuments as well as mihrabs.",
           "fr": "Les bordures calligraphiques décoraient autant les monuments que les *mihrab*.",
           "es": "Bordes con caligrafía decoraban tanto monumentos como mihrabs."
-        }
+        },
+        "names": {
+          "ar": "ضريح السيدة رقية.",
+          "en": "Shrine (Mausoleum) of Sayyida Ruqayya.",
+          "fr": "Mausolée de Sayyida Ruqayya.",
+          "es": "Mausoleo de Sayyida Ruqayya."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/473aad28-ce58-5a61-b2e5-7cddf74e3f4a.jpg"
       },
       {
         "id": "6da7c160-94fa-5f96-a7c1-9c73200419b5",
@@ -2280,7 +2343,15 @@
           "en": "Calligraphic borders were very popular in decorating, especially in religious architecture and their elements such as mihrabs.",
           "fr": "Les bordures calligraphiques étaient très populaires dans la décoration, particulièrement pour l’architecture religieuse et ses éléments, les *mihrab* par exemple.",
           "es": "Los bordes con caligrafía eran bastante populares en la decoración, especialmente en la arquitectura religiosa y sus elementos, como, por ejemplo, los mihrabs."
-        }
+        },
+        "names": {
+          "ar": "الجـــــامع الأزهر.",
+          "en": "Mosque of al-Azhar.",
+          "fr": "Mosquée al-Azhar.",
+          "es": "Mezquita de al-Azhar."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/2a5d554d-5a67-5e7d-bb88-321114e733dd.jpg"
       }
     ],
     "gallery_references": [
@@ -2402,14 +2473,31 @@
           "ar": "جلد كتاب مملوكي يستخدم  تصميم هندسي مرتبط بشكل وثيق من حيث الطراز بذلك الموجود في مصراع  المنبر في المتحف القومي الاسكتلندي.",
           "en": "A Mamluk book-binding which employs a geometric design closely related stylistically to that found on the NMS minbar leaf.",
           "fr": "Couverture de livre mamelouke employant un motif très proche stylistiquement de celui du vantail du minbar des NMS."
-        }
+        },
+        "names": {
+          "ar": "غلاف مصحف.",
+          "de": "Koraneinband.",
+          "en": "Qur’an binding.",
+          "fr": "Reliure de coran.",
+          "es": "Encuadernación de Corán."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/866743ab-5f02-5c1f-857e-5fa00081a50f.jpg"
       },
       {
         "id": "320c1324-a266-5d46-8155-00fc3414ae7e",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:25",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ألواح عاجية.",
+          "en": "Ivory panels.",
+          "fr": "Panneaux en ivoire.",
+          "es": "Placas de marfil"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/8a9b9334-80f3-5f2e-81e0-908a0c517068.jpg"
       },
       {
         "id": "6de30ff8-0fff-5ed3-8984-48abb285b414",
@@ -2457,7 +2545,15 @@
           "en": "A contemporary Mamluk ivory showing a thuluth inscription similar in style to those employed on the NMS minbar leaf.",
           "fr": "Ivoire mamelouk contemporain montrant une inscription toulouth similaire en style à celles employées sur le vantail du minbar des NMS.",
           "es": "Una placa de marfil mameluca contemporánea con una inscripción zuluz de estilo similar a la hoja del *minbar* en los Museos Nacionales de Escocia."
-        }
+        },
+        "names": {
+          "ar": "لوحة كتابية.",
+          "en": "Epigraphic panel.",
+          "fr": "Panneau épigraphique.",
+          "es": "Placa epigráfica."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/7cea6332-fbef-59f3-8e61-998ec3df9a37.jpg"
       },
       {
         "id": "bdae3379-6d92-508e-9471-03fb9980c87e",
@@ -2483,14 +2579,31 @@
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus02:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "نسيج حريري برسوم هندسية.",
+          "en": "Silk textile with geometric pattern.",
+          "fr": "Panneau de tissu à motifs géométriques.",
+          "es": "Tejido de seda con motivos geométricos."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/a854149b-0fc9-5f47-a69d-80e71b585cc1.jpg"
       },
       {
         "id": "e499d19d-1cd3-574e-b40c-b7a8dc83a218",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:22",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قرآن.",
+          "en": "Qur’an.",
+          "fr": "Coran.",
+          "es": "Corán.",
+          "tr": "Kur’an-ı Kerim."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/86d9f63b-d441-581a-86a5-795c5d4c9350.jpg"
       },
       {
         "id": "e54a1ead-e798-5108-9955-0d012c8ffe1a",
@@ -2660,7 +2773,15 @@
           "en": "A fine mihrab at Madrasa al-Halawiyya in Aleppo. It exemplifies the work from the workshop upon which Nur al-Din relied for the minbars he commissioned.",
           "fr": "L’élégant mihrab de la *madrasa* al-Halawiyya d’Alep illustre le travail de l’atelier auquel Nour al-Din confiait la réalisation des *minbar* qu’il commanditait.",
           "es": "Un delicado mihrab de la Madraza de al-Halawiyya en Alepo. Ejemplifica el trabajo del taller en el que Nur al-Din confiaba para los minbars que encargaba."
-        }
+        },
+        "names": {
+          "ar": "محراب المدرسة الحلاوية.",
+          "en": "Mihrab of the Madrasa al-Halawiyya.",
+          "fr": "Mihrab de la madrasa al-Halawiyya.",
+          "es": "*Mihrab* de la madrasa al-Halawiyya."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/6eeed9af-9f18-5241-9b3d-4ca4c2485ad0.jpg"
       },
       {
         "id": "06ed79f1-03b2-5be9-b786-c734eba0438f",
@@ -2672,7 +2793,16 @@
           "en": "The ritual use of the minbar, established since the period of the Prophet, continued throughout the Islamic empire, as found in this Ottoman Mosque in Izmir.",
           "fr": "L’usage rituel du *minbar*, établi depuis la période du Prophète, fut maintenu à travers l’empire islamique, comme on le voit dans cette mosquée ottomane d’Izmir.",
           "es": "El uso ritual del minbar, establecido desde el periodo de El Profeta, continuó durante el imperio islámico, así se evidencia en esta mezquita otomana en Esmirna."
-        }
+        },
+        "names": {
+          "ar": "المسجد الكبير.",
+          "en": "Great Mosque (Ulu Cami).",
+          "fr": "Grande mosquée (Ulu Cami).",
+          "es": "Mezquita Mayor (Ulu Cami).",
+          "tr": "Ulu Cami."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/2915c948-ac16-53af-9f37-225387137cbb.jpg"
       },
       {
         "id": "453d31a1-ac06-52d0-a282-f160b88b5219",
@@ -2696,7 +2826,15 @@
           "en": "The geometrically carved wooden door at the Bimaristan Nur al-Din is a contemporary example of woodwork made in Damascus.",
           "fr": "La porte en bois sculpté à motifs géométriques du bimaristan de Nour al-Din est un exemple du travail du produit à Damas à la même époque.",
           "es": "La puerta de madera tallada geométricamente en el bimaristan de Nur al-Din, es un ejemplo contemporáneo del trabajo de madera que se llevaba a cabo en Damasco."
-        }
+        },
+        "names": {
+          "ar": "بيمارستان نور الدين.",
+          "en": "Hospital (*Bimaristan*) Nur al-Din.",
+          "fr": "Hôpital (*bimaristan*) Nour al-Din",
+          "es": "Hospital *(bimaristan)* de Nur al-Din."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/9cb33e73-0a70-5099-90f8-766da50f78d8.jpg"
       },
       {
         "id": "b6eaa68e-89bb-5d41-9802-1508be85c8ac",
@@ -2708,7 +2846,15 @@
           "en": "Saladin’s tomb is made of geometrically carved wood and, like the minbar, is considered a holy work located in the sacred space of his mausoleum.",
           "fr": "La tombe de Saladin, en bois sculpté à motifs géométriques, comme le *minbar*, est considérée comme une œuvre sainte à l’intérieur de l’espace sacré de son mausolée.",
           "es": "La tumba de Saladino está elaborada en madera tallada geométricamente y, como el minbar, fue considerado un trabajo santo situado en un espacio sagrado de su mausoleo."
-        }
+        },
+        "names": {
+          "ar": "ضريح صلاح الدين.",
+          "en": "Mausoleum of Saladin (Salah al-Din).",
+          "fr": "Mausolée de Saladin (Salah al-Din).",
+          "es": "Mausoleo de Saladino (Salah al-Din)."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/f4d39759-8a94-56fc-b22f-104bb7660c2e.jpg"
       },
       {
         "id": "bde1bb31-4ed9-500e-8ed0-c80c51d8d0cd",
@@ -2969,7 +3115,15 @@
           "ar": "صنع المنبر  و الخزان كلاهما في قرطبة.",
           "en": "The pulpit and the funerary stele date back to the same period.",
           "es": "El púlpito y la estela funeraria son del mismo periodo."
-        }
+        },
+        "names": {
+          "ar": "شاهدة قبر",
+          "en": "Prismatic stele of Ibrahim.",
+          "fr": "Stèle prismatique d’Ibrahim.",
+          "es": "*Maqabriya* de Ibrahim."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/dd536994-0172-5cf6-be0e-686913ec1d95.jpg"
       },
       {
         "id": "4a8d9ff0-728a-5330-bca2-3801640f6f98",
@@ -2980,7 +3134,15 @@
           "ar": "المنبر من مسجد ندرومة أيضا صنعت  خلال عهد على بن يوسف.",
           "en": "The pulpit from the Nedroma mosque was also made during the reign of Ali Ibn Yusuf.",
           "fr": "Le dinar en or est d’époque almoravide."
-        }
+        },
+        "names": {
+          "ar": "قطعة نقدية (دينار).",
+          "en": "Coin (*dinar*).",
+          "fr": "Pièce de monnaie (dinar).",
+          "es": "Dinar."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/514c4312-43b9-5b96-80db-6ced86bf182b.jpg"
       },
       {
         "id": "5344782c-fb62-599c-9ef6-3199332425b7",
@@ -2989,7 +3151,15 @@
         "in_package": false,
         "justifications": {
           "es": "El púlpito de la mezquita de Nedroma también se construyó durante el reinado de Ali ibn Yusef."
-        }
+        },
+        "names": {
+          "ar": "الجامع الكبير.",
+          "en": "Djama’a al-Kebir (Great Mosque).",
+          "fr": "Djamaa el-Kebir (Grande Mosquée).",
+          "es": "Mezquita Mayor (Yamaa al-Kabir)."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/01540d4a-6285-5ead-aad4-1824d4b2c104.jpg"
       },
       {
         "id": "556ddc9e-29c0-523e-bb8e-eb53f4c45d06",
@@ -3001,7 +3171,15 @@
           "en": "The pulpit and the tank were both made in Córdoba.",
           "fr": "Le minbar et la cuve ont été tous deux fabriqués à Cordoue.",
           "es": "El púlpito y la pila se fabricaron en Córdoba."
-        }
+        },
+        "names": {
+          "ar": "حوض للوضوء.",
+          "en": "Ablutions basin.",
+          "fr": "Cuve à ablutions.",
+          "es": "Pila de abluciones."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/04a71878-7a68-5245-a233-8db5a246d320.jpg"
       },
       {
         "id": "70e81fc7-992c-56d9-a3b4-5af8b1052c23",
@@ -3025,7 +3203,15 @@
           "en": "The Almoravid Koubba is all that remains of the Great Mosque of Ali Ibn Yusuf, for which the pulpit was made.",
           "fr": "La *koubba* almoravide est le seul vestige de la grande mosquée d’Ali ibn Youssef pour laquelle a été fabriqué le *minbar*.",
           "es": "La Qubba almorávide es todo lo que queda de la gran mezquita de Ali ibn Yusef para la cual se construyó el púlpito."
-        }
+        },
+        "names": {
+          "ar": "القبة المرابطية.",
+          "en": "Almoravid Koubba.",
+          "fr": "Koubba almoravide.",
+          "es": "*Qubba* almorávide."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/487209da-e1c3-538b-ae22-ca903d601bfa.jpg"
       },
       {
         "id": "eb797dee-46d6-5927-9b28-91cd43374b40",
@@ -3037,7 +3223,15 @@
           "en": "The Almohad ‘Abd al-Mumin transferred the pulpit to the Kutubiya Mosque after the Ali Ibn Yusuf Mosque was destroyed.",
           "fr": "C’est à la mosquée Koutoubiya qu’Abdelmounen l’Almohade a transféré le *minbar* après la destruction de la mosquée d’Ali ibn Youssef.",
           "es": "El almohade Abd al-Mumin transfirió el púlpito a la mezquita Kutubiya tras la destrucción de la mezquita de Ali ibn Yusef."
-        }
+        },
+        "names": {
+          "ar": "مسجد الكتبية.",
+          "en": "Kutubiya Mosque.",
+          "fr": "Mosquée Koutoubiya.",
+          "es": "Mezquita Kutubiya."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/f7e00ea7-228d-5992-8cd2-d658e8e6a8be.jpg"
       }
     ],
     "gallery_references": [
@@ -3852,7 +4046,16 @@
           "en": "This book was written for Sultan Murad.",
           "fr": "Ce livre fut écrit pour le sultan Mourad.",
           "es": "Este libro fue escrito para el sultán Murad."
-        }
+        },
+        "names": {
+          "ar": "مخطوطة زبدة التواريخ.",
+          "en": "*Zubdat al-Tawarikh* (‘Cream of Histories’).",
+          "fr": "*Zubdat al-Tawarikh* (“La crème des histoires”).",
+          "es": "*Zubdat al-Tawarij* (",
+          "tr": "Zübdetü’t-Tevarih"
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/c85495d5-ebfd-519f-a076-de1cb98e476c.jpg"
       },
       {
         "id": "72c0e86c-b1ae-5017-a60e-32986c29c774",
@@ -3864,7 +4067,16 @@
           "en": "This book was made for Sultan Murad",
           "fr": "Ce livre fut écrit pour le sultan Mourad.",
           "es": "Este libro fue hecho para el sultán Murad."
-        }
+        },
+        "names": {
+          "ar": "كتاب مهرجان الختان الإمبراطوري.",
+          "en": "*Surname-i Hümayun* (‘Book of the Imperial Circumcision Festival’).",
+          "fr": "*Surname-i Hümayun* (Livre de la fête de la circoncision impériale).",
+          "es": "*Surname-i Hümayun* (",
+          "tr": "Surname-i Hümayun."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/a3cdf920-6c38-5f8a-b98c-7418af7c526b.jpg"
       },
       {
         "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
@@ -3876,14 +4088,30 @@
           "en": "It was found in al-Aqsa Mosque.",
           "fr": "Trouvé dans la mosquée al-Aqsa.",
           "es": "El rab’a fue encontrado en la mezquita al-Aqsa."
-        }
+        },
+        "names": {
+          "ar": "الجامع الاقصى.",
+          "en": "Aqsa Mosque.",
+          "fr": "Mosquée al-Aqsa.",
+          "es": "Mezquita al-Aqsa."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       },
       {
         "id": "e88ac084-acaa-583b-abc2-fa8a32e7027e",
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:35",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "مصحف السلطان بايزيد.",
+          "en": "Qur’anic manuscript of Sultan Bayazid.",
+          "fr": "Manuscrit coranique du sultan Bayézid.",
+          "es": "Corán manuscrito del sultán Bayezid."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/858b59b1-13a8-53fc-8912-5b50a375b1c7.jpg"
       }
     ],
     "gallery_references": [
@@ -4023,7 +4251,16 @@
           "en": "The multi-coloured ceiling of the Capilla Palatina in Palermo is an antecedent of the paintings that decorated this ceiling.",
           "fr": "On peut trouver dans le plafond polychromé de la chapelle Palatine de Palerme un précédent des peintures décorant un plafond.",
           "es": "En la techumbre policromada de la Capilla Palatina de Palermo puede encontrarse un antecedente de pintura decorando una techumbre."
-        }
+        },
+        "names": {
+          "ar": "سقف خشبي ملون في كنيسة البالاتينا.",
+          "en": "Painted wooden ceiling of the Palatine Chapel.",
+          "fr": "Plafond en bois peint de la chapelle Palatine.",
+          "it": "Soffitto ligneo dipinto della Cappella Palatina.",
+          "es": "Techumbre pintada de la Capilla Palatina"
+        },
+        "country_id": "ita",
+        "image": "https://inventory.metanull.eu/pub/d0959f0b-34a3-51bb-8ed0-5c1de28bdcf0.jpg"
       },
       {
         "id": "56acaf8e-1d2d-5882-9b67-7d024e5744ff",
@@ -4035,7 +4272,15 @@
           "en": "The figure of a fashionably dressed woman had been used since Umayyad times, as can be seen in this painting from Qusayr Amra.",
           "fr": "Depuis l’époque omeyyade, les personnages féminins sont représentés, habillés à la mode, comme le montre cette peinture de Qousayr Amra.",
           "es": "Desde época omeya ya se representa la figura femenina vestida a la moda, como muestra esta pintura de Qusayr Amra."
-        }
+        },
+        "names": {
+          "ar": "لوحة جدارية تمثل صورة راقصة.",
+          "en": "Fresco panel: ‘Dancers’.",
+          "fr": "Panneau de fresque, “Danseuses”.",
+          "es": "Frescos de bailarinas"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/143fa884-3256-59f3-8c4c-19bbcec99ba9.jpg"
       },
       {
         "id": "67c1bb4c-0ffc-519a-b562-476aa99c987d",
@@ -4047,7 +4292,15 @@
           "en": "This small board was originally one of many elongated hexagons that decorated the ceiling of Teruel Cathedral.",
           "fr": "Ce tasseau était à l’origine l’un des nombreux alfardones qui décoraient le plafond de la cathédrale de Teruel.",
           "es": "Esta tabica era originalmente uno de los muchos alfardones que decoraban la tablazón de la armadura de la catedral de Teruel."
-        }
+        },
+        "names": {
+          "ar": "كاتدرائية سانتا ماريا.",
+          "en": "Cathedral of Santa Maria.",
+          "fr": "Cathédrale Santa María.",
+          "es": "Catedral de Santa María."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/f17ebf26-0652-55c6-8aac-00f4e10e4fef.jpg"
       }
     ],
     "gallery_references": [
@@ -4634,7 +4887,16 @@
           "en": "Many Ottoman houses had painted rooms. This is a late Ottoman example.",
           "fr": "De nombreuses maisons ottomanes avaient des pièces peintes ; en voici un exemple tardif.",
           "es": "Muchas casas otomanas tenían salas pintadas. Este es un ejemplo del periodo otomano tardío."
-        }
+        },
+        "names": {
+          "ar": "منزل جاقيراغا.",
+          "en": "Çakırağa Mansion.",
+          "fr": "Résidence Çakiraga.",
+          "es": "Mansión Çakırağa",
+          "tr": "Çakırağa Konağı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/c1af7780-7273-51b6-9469-a595881882c0.jpg"
       },
       {
         "id": "27f9e871-3369-55e0-b6a2-de1d5b3a2fec",
@@ -4646,7 +4908,15 @@
           "en": "Flowers like those on this vessel from Iznik may have influenced painters and enriched their repertoire.",
           "fr": "Des fleurs comme celles qui ornent ce vase d’Iznik ont dû influencer les peintres et enrichir leur répertoire.",
           "es": "Es posible que flores como las de este vaso de Nicea hayan influenciado  sobre los pintores enriqueciendo su repertorio."
-        }
+        },
+        "names": {
+          "ar": "زهرية.",
+          "en": "Vase.",
+          "fr": "Vase.",
+          "es": "Jarrón"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/11ed193b-f20d-5cdb-873b-632a79e37488.jpg"
       },
       {
         "id": "32434888-ecb9-5b5b-bdc6-bc81ab4851b0",
@@ -4658,7 +4928,16 @@
           "en": "The rooms of Sultan Ahmad III In this palace complex show rich paintings.",
           "fr": "Les appartements du sultan Ahmad III dans ce complexe palatial possèdent de riches peintures.",
           "es": "Las salas del palacio del sultán Ahmed III muestran complejas y suntuosas pinturas."
-        }
+        },
+        "names": {
+          "ar": "قصر توبكابي.",
+          "en": "Topkapı Palace.",
+          "fr": "Palais de Topkapı.",
+          "es": "Palacio Topkapı",
+          "tr": "Topkapı Sarayı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/88482ad0-fbcb-552f-84dd-9c4d09d9d66b.jpg"
       },
       {
         "id": "9de82036-a221-545b-84e8-7f91036b9036",
@@ -4670,7 +4949,15 @@
           "en": "Sprays of flowers can also be found in the Aleppo room.",
           "fr": "On trouve aussi des gerbes de fleurs dans la chambre d’Alep.",
           "es": "También se encontraron platos decorados con coronas de flores en la sala de una casa de Alepo."
-        }
+        },
+        "names": {
+          "ar": "طبق.",
+          "en": "Dish.",
+          "fr": "Plat.",
+          "es": "Plato"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/3fe9834c-31ff-5a04-877d-35c1f7211eba.jpg"
       },
       {
         "id": "e1e46fb9-2121-5c71-8ee2-be38a8978bc0",
@@ -4682,7 +4969,15 @@
           "en": "The flowers on this plate bear some relation to the paintings in the Aleppo room.",
           "fr": "Les fleurs qui ornent ce plat ont un certain rapport avec les peintures de la chambre d’Alep.",
           "es": "Las flores de este plato guardan algún tipo de relación con las pinturas de la sala de una casa de Alepo."
-        }
+        },
+        "names": {
+          "ar": "طبق ذو قاعدة.",
+          "en": "Footed dish or *tazze*.",
+          "fr": "Plat sur piédouche.",
+          "es": "Plato con pie *(tazze)*"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/c237ede5-9c54-5ee5-a587-1e224fe8841a.jpg"
       },
       {
         "id": "ee84f4a0-84fc-5ae3-9c0f-88b366037681",
@@ -4694,7 +4989,15 @@
           "en": "Parts of this large Damascene house were also painted.",
           "fr": "Des parties de cette grande maison damascène étaient également peintes.",
           "es": "Partes de esta gran vivienda damascena también se pintaron."
-        }
+        },
+        "names": {
+          "ar": "قصر العظم.",
+          "en": "Qasr al-Azm.",
+          "fr": "Qasr al-Azm.",
+          "es": "Qasr al-Azm."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/08bb2b5d-77ff-50a3-8742-68ccc61c4fbc.jpg"
       }
     ],
     "gallery_references": [
@@ -4972,7 +5275,16 @@
           "en": "This is a ceiling of the Mudejar period.",
           "fr": "Plafond d’époque mudéjare.",
           "es": "Este es un techo del periodo mudéjar."
-        }
+        },
+        "names": {
+          "ar": "سقف (قطعتان).",
+          "en": "Ceiling (two fragments).",
+          "fr": "Plafond (deux fragments).",
+          "pt": "Tecto (dois fragmentos).",
+          "es": "Dos fragmentos de techumbre."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/444089c7-17d7-556e-b747-24bae5c660cc.jpg"
       },
       {
         "id": "4c9b3c73-f021-537b-b1bc-a5a3c53c31bf",
@@ -4996,14 +5308,31 @@
           "en": "A different pattern can be seen on this panel.",
           "fr": "Ce panneau présente un motif différent.",
           "es": "Se puede observar un patrón diferente en este panel."
-        }
+        },
+        "names": {
+          "ar": "سقف.",
+          "en": "Ceiling.",
+          "fr": "Plafond.",
+          "pt": "Tecto.",
+          "es": "Techumbre."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/a3475a1f-3b6e-5849-bdc1-23b77c8b8b00.jpg"
       },
       {
         "id": "62d53464-3fcf-57c1-a694-32079c419d33",
         "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:35",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "زخرفة وردية",
+          "en": "Rose window",
+          "fr": "Rosace",
+          "es": "Rosetón"
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/80913f01-327e-5bca-8ba6-c4b45b2a3732.jpg"
       },
       {
         "id": "991bde22-6f40-5b6e-800e-44dfdaba422f",
@@ -5015,7 +5344,15 @@
           "en": "Numerous different wooden cupolas, some with original colours, can be seen in the Alhambra palace.",
           "fr": "Le palais de l’Alhambra recèle une grande variété de coupoles en bois, certaines dotées de couleurs originales.",
           "es": "Se pueden observar diferentes y numerosas cúpulas de madera, algunas con los colores originales, en el Palacio de la Alhambra."
-        }
+        },
+        "names": {
+          "ar": "الحمراء.",
+          "en": "Alhambra.",
+          "fr": "Alhambra.",
+          "es": "Alhambra."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/3859d2e3-e75c-51c5-9427-cde592b880ba.jpg"
       },
       {
         "id": "bdae3379-6d92-508e-9471-03fb9980c87e",
@@ -5039,14 +5376,30 @@
           "en": "The Palace of Aljafería has many related wooden cupolas.",
           "fr": "Le palais de la Aljafería possède de nombreuses coupoles en bois en rapport.",
           "es": "El Palacio de Aljafería tiene muchas cúpulas de madera relacionadas."
-        }
+        },
+        "names": {
+          "ar": "قصر الجعفرية (الجزء المدجن).",
+          "en": "Mudéjar Palace of Aljafería.",
+          "fr": "Palais de la Aljafería (partie mudéjare).",
+          "es": "Palacio mudéjar de la Aljafería."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/06d0bf53-dda7-5779-b9a3-0a1a636d1695.jpg"
       },
       {
         "id": "dbac428e-60fa-534a-a05b-62093f37af08",
         "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عقد.",
+          "en": "Necklace.",
+          "fr": "Collier.",
+          "es": "Collar."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/978fb42c-0a42-5180-91d5-6909d49c5834.jpg"
       },
       {
         "id": "ffd8c65e-89d5-5c19-88ee-77cd648297cf",
@@ -5058,7 +5411,15 @@
           "en": "The Palace of Pedro I has vaultings which relate to wooden panels.",
           "fr": "Le palais de Pierre Ier possède des voûtes en rapport avec les panneaux de bois.",
           "es": "El Palacio de Pedro I tiene bóvedas relacionados con los paneles de madera."
-        }
+        },
+        "names": {
+          "ar": "قصر بيير الأول، دير سانتا كلارا اليوم.",
+          "en": "Palace of Pedro I, now the Convent of Santa Clara.",
+          "fr": "Palais de Pierre Ier, aujourd’hui monastère de Santa Clara.",
+          "es": "Palacio de Pedro I, hoy monasterio de Santa Clara."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/b5b8b04b-6cae-5e72-aaa4-18e15863ce84.jpg"
       }
     ],
     "gallery_references": [
@@ -7524,7 +7885,15 @@
           "en": "The shared Umayyad decorative repertoire permits comparison.",
           "fr": "Le répertoire décoratif omeyyade commun autorise la comparaison.",
           "es": "Se puede compararlo con el repertorio decorativo omeya."
-        }
+        },
+        "names": {
+          "ar": "قصر المشتى.",
+          "en": "Qasr al-Mushatta.",
+          "fr": "Qasr al-Mchatta.",
+          "es": "Qasr al-Mushatta"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/1a18d574-8318-522e-b8e3-799290a9d27f.jpg"
       },
       {
         "id": "824bc44a-ecba-5266-8efa-c68c70d08dec",
@@ -7536,7 +7905,15 @@
           "en": "This fragment was from the pulpit of the Great Mosque of Kairouan.",
           "fr": "Ce fragment provient de la chaire de la Grande Mosquée de Kairouan.",
           "es": "Comprendemos que provino este fragmento del púlpito de la Mezquita Mayor de Kairuán."
-        }
+        },
+        "names": {
+          "ar": "جامع القيروان الكبير.",
+          "en": "Great Mosque of Kairouan.",
+          "fr": "Grande Mosquée de Kairouan.",
+          "es": "Mezquita Mayor."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/7e6bfc26-ba57-5b2f-8e26-6c49bf80a4d3.jpg"
       },
       {
         "id": "a2476be2-4aaa-509c-b891-f77b0ff98059",
@@ -7548,7 +7925,15 @@
           "en": "The decoration is similar to the wooden springers of the Mosque of the Three Doors.",
           "fr": "Son décor se rapproche des motifs sculptés sur les sommiers en bois de la mosquée des Trois",
           "es": "Es evidente que la decoración muestra una semejanza a los dinteles de madera de la Mezquita de las Tres Puertas."
-        }
+        },
+        "names": {
+          "ar": "مسجد الأبواب الثلاثة.",
+          "en": "Mosque of the Three Doors.",
+          "fr": "Mosquée des Trois Portes.",
+          "es": "Mezquita de las Tres Puertas."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/431f1189-8da4-5298-9ac4-3508f7275c1f.jpg"
       },
       {
         "id": "d6af3a01-5c17-5b63-869f-1432f1ceb8af",
@@ -7560,7 +7945,15 @@
           "en": "The shared Umayyad decorative repertoire permits comparison.",
           "fr": "Le répertoire décoratif omeyyade commun autorise la comparaison.",
           "es": "Se puede compararlo con el repertorio decorativo omeya."
-        }
+        },
+        "names": {
+          "ar": "مسجد قرطبة.",
+          "en": "Great Mosque of Córdoba.",
+          "fr": "Grande Mosquée de Cordoue.",
+          "es": "Mezquita Mayor."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/95963b02-4643-572b-a6eb-2b84dda617e8.jpg"
       }
     ],
     "gallery_references": [
@@ -8152,7 +8545,15 @@
           "en": "The architectural elements from the Buinaniya Madrasa are in the same Marinid artistic style as the ceiling.",
           "fr": "Les éléments architectoniques provenant de la madrasa Bouinaniya sont du même style artistique que le plafond.",
           "es": "Los elementos arquitectónicos de la Madrasa Buinaniya tienen el mismo estilo artístico meriní que la techumbre."
-        }
+        },
+        "names": {
+          "ar": "لوحة من الزليج.",
+          "en": "*Zellij* panel.",
+          "fr": "Panneau de zelliges.",
+          "es": "Alizar."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/a8e2a421-102c-58a0-8a88-016ec53fe9d6.jpg"
       },
       {
         "id": "bdb44900-4d43-50ff-9975-f32c6b2586b9",
@@ -8164,7 +8565,15 @@
           "en": "This came from the Masbahiya Madrasa.",
           "fr": "La *madrasa* Mesbahiya est son lieu de provenance.",
           "es": "Este monumento proviene de la madrasa Mesbahiya."
-        }
+        },
+        "names": {
+          "ar": "المدرسة المصباحية.",
+          "en": "Misbahiya Madrasa.",
+          "fr": "Madrasa Mesbahiya.",
+          "es": "Madrasa Mesbahiya."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/d8527912-99d1-5786-8e54-86f30bbad807.jpg"
       },
       {
         "id": "fb0d852c-219c-5753-93b5-9648fdd94679",
@@ -8817,7 +9226,15 @@
           "en": "The plant arabesques that decorate this ivory casket were inspired by the architectural decoration of the Aljafería.",
           "fr": "La décoration d’ataurique de ce coffret d’ivoire est inspirée de la décoration architecturale du palais de la Aljafería.",
           "es": "La decoración de ataurique de la arqueta de marfil está inspirada en la ornamentación arquitectónica del palacio de la Aljafería."
-        }
+        },
+        "names": {
+          "ar": "قصر الجعفرية (الجزء الإسلامي).",
+          "en": "Aljafería Palace (Islamic part).",
+          "fr": "Palais de la Aljafería (partie islamique).",
+          "es": "Palacio de la Aljafería (parte islámica)."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/efa208e7-f6b5-53df-a546-47c2a4266c46.jpg"
       },
       {
         "id": "07b66f0c-d994-5578-a3f4-0e6d135b8b59",
@@ -8829,7 +9246,16 @@
           "en": "The decorative motif of two facing birds beneath an arch, repeated on the casket, was also carved on this Umayyad stone panel.",
           "fr": "Le motif décoratif de deux oiseaux affrontés sous un arc, qui se répète sur le coffret, fut également sculpté dans ce panneau de pierre d’époque omeyyade.",
           "es": "El motivo decorativo de dos aves afrontadas bajo un arco, que se repite en la arqueta, fue tallado también en este panel de piedra de época omeya."
-        }
+        },
+        "names": {
+          "ar": "لوحة تزيينية.",
+          "en": "Ornamental panel.",
+          "fr": "Panneau d’ornement.",
+          "pt": "Painel ornamental.",
+          "es": "Elemento arquitectónico decorado."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/2dc78665-d860-50cf-a5dc-cd85101718f9.jpg"
       },
       {
         "id": "69b67921-210d-5179-a7f6-620452e75cc6",
@@ -8841,7 +9267,15 @@
           "en": "It is possible that the ivory casket was used to store value objects such as gold jewellery.",
           "fr": "Le coffret d’ivoire conservait peut-être des objets de grande valeur comme des bijoux en or.",
           "es": "Es posible que en la arqueta de marfil se guardaran objetos de gran valor como joyas de oro."
-        }
+        },
+        "names": {
+          "ar": "قرط.",
+          "en": "Pendant earring.",
+          "fr": "Pendant d’oreille.",
+          "es": "Pendiente."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/f97b9e43-66a6-5fc2-baa9-a188f9d40853.jpg"
       },
       {
         "id": "6b0ea1b6-8a90-55b4-aeb3-3d454a64eeec",
@@ -8853,7 +9287,15 @@
           "en": "This type of casket from the Caliphate period was imitated during the period of the *taifa* kingdoms.",
           "fr": "Ce type de coffret califal fut un modèle imité par la suite à l’époque des rois de Taïfas.",
           "es": "Este tipo de arqueta califal fue un modelo que luego se imitó en la época de los reinos de taifas."
-        }
+        },
+        "names": {
+          "ar": "صندوق مجوهرات.",
+          "en": "Casket.",
+          "fr": "Coffret.",
+          "es": "Arqueta."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/e6f0aee9-9a62-5780-8442-56e20b7f55bf.jpg"
       }
     ],
     "gallery_references": [
@@ -9135,7 +9577,16 @@
           "fr": "Ces deux pièces sont comparables à cause de leur typologie, de leur époque et de leur milieu de production.",
           "it": "I due esemplari sono paragonabili per tipologia, per epoca e per ambito di produzione.",
           "es": "Estas dos piezas son similares en tipo, periodo y lugar de origen."
-        }
+        },
+        "names": {
+          "ar": "علبة عاجية ملونة بالرسوم.",
+          "de": "Bemalter Elfenbeinkasten.",
+          "en": "Ivory casket with painted figural decoration.",
+          "fr": "Coffret d’ivoire peint.",
+          "es": "Arqueta de marfil pintado."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/f5233564-3856-58a3-948d-eddd2c0ed320.jpg"
       },
       {
         "id": "9158959f-5857-53e2-91ec-f0d84c8343d7",
@@ -10093,7 +10544,15 @@
           "en": "Another object used for the beautification of women.",
           "fr": "Toutes ces pièces font partie des accessoires de beauté des femmes.",
           "es": "Otro objeto utilizado en el embellecimiento de las mujeres."
-        }
+        },
+        "names": {
+          "ar": "زوج من الأقراط.",
+          "en": "Pair of earrings.",
+          "fr": "Paire de boucles d'oreille.",
+          "es": "Pendientes."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/0cc7ad8e-9f19-5bda-a805-82ca45f0851c.jpg"
       },
       {
         "id": "69b67921-210d-5179-a7f6-620452e75cc6",
@@ -10105,7 +10564,15 @@
           "en": "Another object used for the beautification of women.",
           "fr": "Toutes ces pièces font partie des accessoires de beauté des femmes.",
           "es": "Otro objeto utilizado en el embellecimiento de las mujeres."
-        }
+        },
+        "names": {
+          "ar": "قرط.",
+          "en": "Pendant earring.",
+          "fr": "Pendant d’oreille.",
+          "es": "Pendiente."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/f97b9e43-66a6-5fc2-baa9-a188f9d40853.jpg"
       },
       {
         "id": "98897be0-18bb-5f36-beaa-b28285fbeb42",
@@ -10117,7 +10584,15 @@
           "en": "Another object used for the beautification of women.",
           "fr": "Toutes ces pièces font partie des accessoires de beauté des femmes.",
           "es": "Otro objeto utilizado en el embellecimiento de las mujeres."
-        }
+        },
+        "names": {
+          "ar": "حلقة.",
+          "en": "Earring.",
+          "fr": "Boucle d’oreille.",
+          "es": "Pendiente"
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/d1d74b6a-af09-5ce7-bbc0-afc6085fe086.jpg"
       },
       {
         "id": "cfe5bd9c-e197-550b-b7be-fc5f83730d8f",
@@ -10129,7 +10604,15 @@
           "en": "Another object used for the beautification of women.",
           "fr": "Toutes ces pièces font partie des accessoires de beauté des femmes.",
           "es": "Otro objeto utilizado en el embellecimiento de las mujeres."
-        }
+        },
+        "names": {
+          "ar": "فردة قرط.",
+          "en": "One of a pair of earrings.",
+          "fr": "Boucle d'oreille (d'une paire).",
+          "es": "Pendiente."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/b07e32a7-e83b-593c-b8f2-15df8a0c7aad.jpg"
       }
     ],
     "gallery_references": [
@@ -10414,7 +10897,15 @@
           "en": "This panel comes from the prayer hall of the Great Mosque of Kairouan.",
           "fr": "Elle faisait partie de la toiture en bois de la salle de prière de la Grande Mosquée de Kairouan.",
           "es": "Vemos que este panel proviene de la sala de oración de la Mezquita Mayor de Kairuán."
-        }
+        },
+        "names": {
+          "ar": "جامع القيروان الكبير.",
+          "en": "Great Mosque of Kairouan.",
+          "fr": "Grande Mosquée de Kairouan.",
+          "es": "Mezquita Mayor."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/7e6bfc26-ba57-5b2f-8e26-6c49bf80a4d3.jpg"
       }
     ],
     "gallery_references": [
@@ -10782,7 +11273,15 @@
         "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:13",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "لوحة.",
+          "en": "Panel.",
+          "fr": "Panneau.",
+          "es": "Lastra."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/0ae3715c-d40c-53ce-82da-654369e65def.jpg"
       },
       {
         "id": "5025fcbf-006f-56e7-9dd7-22c514b328bd",
@@ -10794,7 +11293,16 @@
           "en": "This flat Mudejar ceiling from a Portuguese cathedral is decorated with interlacing patterns, like the dome in the palace of Torrijos.",
           "fr": "Ce plafond plat mudéjar d’une cathédrale portugaise est décoré d’entrelacs, comme celui, hémisphérique, du palais de Torrijos.",
           "es": "Esta techumbre plana mudéjar de una catedral portuguesa está decorada con lacería, como la semiesférica del palacio de Torrijos."
-        }
+        },
+        "names": {
+          "ar": "سقف.",
+          "en": "Ceiling.",
+          "fr": "Plafond.",
+          "pt": "Tecto.",
+          "es": "Techumbre."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/a3475a1f-3b6e-5849-bdc1-23b77c8b8b00.jpg"
       },
       {
         "id": "d230f390-ca10-5c19-ba14-d7171ea0cfca",
@@ -10806,7 +11314,15 @@
           "en": "One of the main rooms in this palace was covered by the magnificent dome structure now in the Museum of Archaeology.",
           "fr": "Une des principaux salons de ce palais était surmonté de la magnifique coupole du musée archéologique.",
           "es": "Uno de los salones principales de este palacio estuvo cubierto con la magnífica armadura semiesférica del Museo Arqueológico."
-        }
+        },
+        "names": {
+          "ar": "قصر دوقات ماكيدا.",
+          "en": "Palace of the Dukes of Maqueda.",
+          "fr": "Palais des ducs de Maqueda.",
+          "es": "Palacio de los Duques de Maqueda"
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/7557daae-c3f7-55b1-8a86-1eaba56baa26.jpg"
       },
       {
         "id": "f89111b0-2414-5c74-8c1e-962fef086b7c",
@@ -10818,7 +11334,15 @@
           "en": "The Algiers Mosque has retained some wooden ceilings from Almoravid times.",
           "fr": "La mosquée d’Alger conserve des charpentes en bois de l’époque almoravide.",
           "es": "En la mezquita de Argel se conservan armaduras de madera de época almorávide."
-        }
+        },
+        "names": {
+          "ar": "الجامع الكبير.",
+          "en": "Djama’a al-Kebir (Great Mosque).",
+          "fr": "Grande Mosquée (djamaa el-kebir).",
+          "es": "Mezquita Mayor (Yamaa al-Kabir)."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/c1eef089-1abb-570e-aab5-fd55211bd406.jpg"
       },
       {
         "id": "fb0d852c-219c-5753-93b5-9648fdd94679",
@@ -11766,7 +12290,15 @@
           "en": "This Ayyubid basin has a monumental arabesque decoration running around the outside.",
           "fr": "Ce bassin ayyoubide est orné d’une arabesque monumentale courant tout autour de la paroi extérieure.",
           "es": "Esta pila ayubí tiene una decoración monumental de estilo arabesco a lo largo de la parte exterior."
-        }
+        },
+        "names": {
+          "ar": "حوض.",
+          "en": "Basin.",
+          "fr": "Vasque.",
+          "es": "Pila."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/f10f9ccb-fe76-5437-9674-01315c2e6946.jpg"
       },
       {
         "id": "6da7c160-94fa-5f96-a7c1-9c73200419b5",
@@ -12001,7 +12533,16 @@
           "en": "This corresponds in period and decoration.",
           "fr": "Correspondances en termes de période et de décoration.",
           "es": "El objeto corresponde con el período y la decoración."
-        }
+        },
+        "names": {
+          "ar": "كتلة صخرية عليها نقش بارز لزخرفة نباتية من رمان وأغصان منمنمة.",
+          "de": "Steinblock mit floralem Relief aus stilisierten Ranken und Granatäpfeln.",
+          "en": "Decorative stone with stylised scrollwork and pomegranates.",
+          "fr": "Pierre décorative à relief de rinceaux stylisés et de grenades.",
+          "es": "Piedra decorativa con tallos y granadas estilizados."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/124c2399-9521-5bc2-a6cd-3e707f1892e7.jpg"
       },
       {
         "id": "abcd7fbc-8fff-531e-a64f-faee1e92d4c7",
@@ -12025,7 +12566,15 @@
           "en": "This panel came from al-Aqsa Mosque.",
           "fr": "Ce panneau provient de la mosquée al-Aqsa.",
           "es": "Este tablero proviene de la mezquita al-Aqsa."
-        }
+        },
+        "names": {
+          "ar": "الجامع الاقصى.",
+          "en": "Aqsa Mosque.",
+          "fr": "Mosquée al-Aqsa.",
+          "es": "Mezquita al-Aqsa."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       }
     ],
     "gallery_references": [
@@ -13241,14 +13790,30 @@
           "en": "Sultan Qaytbay, the builder of the *madrasa* and the mosque, also commissioned the door.",
           "fr": "Le sultan Qaytbay, bâtisseur de la *madrasa* et de la mosquée, était aussi le commanditaire de la porte.",
           "es": "El sultán Qaytbay, constructor de la madrasa y la mezquita, también encargó la puerta."
-        }
+        },
+        "names": {
+          "ar": "مدرسة ومسجد السلطان قايتباي.",
+          "en": "Madrasa and Mosque of Sultan Qaytbay.",
+          "fr": "Mosquée et madrasa du sultan Qaytbay.",
+          "es": "Madrasa y mezquita del Sultán Qaytbay."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/e5864851-9a56-53f0-807e-94649738ab13.jpg"
       },
       {
         "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قبة الصخرة.",
+          "en": "Dome of the Rock.",
+          "fr": "Dôme du Rocher.",
+          "es": "Cúpula de la Roca"
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/fb68e98f-0564-54a2-b63c-b8008159833b.jpg"
       },
       {
         "id": "93fcd379-1558-5fc1-bb67-2850f4814fa0",
@@ -13260,7 +13825,15 @@
           "en": "Sultan Qaytbay, the builder of the Alexandria citadel, also commissioned the door.",
           "fr": "Le sultan Qaytbay, bâtisseur de la citadelle d’Alexandrie, était aussi le commanditaire de la porte.",
           "es": "El sultán Qaytbay, constructor de la ciudadela de Alejandría, también encargó la puerta."
-        }
+        },
+        "names": {
+          "ar": "قلعة قايتباي.",
+          "en": "Citadel of Qaytbay.",
+          "fr": "Citadelle ou Forteresse de Qaytbay.",
+          "es": "Ciudadela de Qaytbay."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/4aac1baa-c40c-58cc-973c-a6bfef33fb1b.jpg"
       },
       {
         "id": "a283f125-e8c1-5168-96bd-8168ea1e6199",
@@ -13272,7 +13845,15 @@
           "en": "The panel was brought from the Madrasa al-Ashrafiyya, which was founded by Sultan Qaytbay who ordered the construction of the door.",
           "fr": "Le Panneau provient de la *madrasa* al-Achrafiyya, fondée par le sultan Qaytbay qui ordonna la construction de la porte.",
           "es": "La lámina fue traída desde la madrasa al-Ashrafiyya, la cual fue fundada por el sultán Qaytbay, quien ordenó la construcción de la puerta."
-        }
+        },
+        "names": {
+          "ar": "شريط نحاسي.",
+          "en": "Copper door panel.",
+          "fr": "Panneau de porte en cuivre.",
+          "es": "Lámina de cobre de una puerta."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/660be0e8-85fd-56f6-8204-aabc5ddfdce6.jpg"
       },
       {
         "id": "aab02def-7060-5efb-8c65-d9490c7feec4",
@@ -13284,7 +13865,15 @@
           "en": "An epigraphic panel inscribed with the name of Sultan Qaytbay who commissioned the construction of the door.",
           "fr": "Panneau épigraphique portant une inscription au nom du sultan Qaytbay qui commandita la construction de la porte.",
           "es": "Una placa epigráfica tallada con el nombre del sultán Qaytbay, quien encargó la construcción de la puerta."
-        }
+        },
+        "names": {
+          "ar": "لوحة كتابية.",
+          "en": "Epigraphic panel.",
+          "fr": "Panneau épigraphique.",
+          "es": "Placa epigráfica."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/7cea6332-fbef-59f3-8e61-998ec3df9a37.jpg"
       },
       {
         "id": "b35cbc07-d87d-5f89-b803-e7930fc1b57b",
@@ -13296,7 +13885,15 @@
           "en": "Sultan Qaytbay, the builder of the *sabil* (water dispensary) and *kuttab* (Qur'anic school), also commissioned the door.",
           "fr": "Le sultan Qaytbay, bâtisseur du *sabil* (fontaine publique), était aussi le commanditaire de la porte.",
           "es": "El sultán Qaytbay, constructor del sabil (fuente pública), también encargó la puerta."
-        }
+        },
+        "names": {
+          "ar": "سبيل السلطان قايتباي.",
+          "en": "*Sabil* of Sultan Qaytbay.",
+          "fr": "Sabil du sultan Qaytbay.",
+          "es": "Fuente *(sabil)* del Sultán Qaytbay."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/837cb90a-682a-58b7-8912-a06fa5170a93.jpg"
       },
       {
         "id": "dfeaa5f1-63bf-55dd-a784-98bce952f149",
@@ -13320,7 +13917,15 @@
           "en": "Sultan Qaytbay, the builder of the *sabil* (water dispensary) and *kuttab* (Qur'anic school), also commissioned the door.",
           "fr": "Le sultan Qaytbay, bâtisseur du *sabil* (fontaine publique) et du *kuttab* (école coranique), était aussi le commanditaire de la porte.",
           "es": "El sultán Qaytbay, constructor del sabil (fuente pública) y el kuttab (escuela coránica), también encargó la puerta."
-        }
+        },
+        "names": {
+          "ar": "سبيل وكتـّاب السلطان قايتباي.",
+          "en": "*Sabil* (Water Dispensary) and *Kuttab* (Qur’anic School) of Sultan Qaytbay.",
+          "fr": "Sabil (fontaine publique) et kuttab (école coranique) du sultan Qaytbay.",
+          "es": "Fuente *(sabil)* y escuela coránica *(kuttab)* del Sultán Qaytbay."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/e0575ca3-e956-551b-9b7f-106c89b433b0.jpg"
       },
       {
         "id": "e8a8501f-19e5-5494-af52-177609f85cd8",
@@ -13332,7 +13937,15 @@
           "en": "Sultan Qaytbay, the builder of the caravanserai, also commissioned the door.",
           "fr": "Le sultan Qaytbay, bâtisseur du caravansérail, était aussi le commanditaire de la porte.",
           "es": "El sultán Qaytbay, constructor del caravasar, también encargó la puerta."
-        }
+        },
+        "names": {
+          "ar": "وكالة السلطان قايتباي.",
+          "en": "Wikala (caravanserai) of Qaytbay.",
+          "fr": "Wikala (caravansérail) de Qaytbay.",
+          "es": "Caravasar *(wikala)* de Qaytbay."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/af671678-f460-5af5-bc50-15fd4e0355d6.jpg"
       }
     ],
     "gallery_references": [
@@ -13588,7 +14201,15 @@
           "en": "The gateway retains decorative elements including vegetal motifs similar to those on the lintel.",
           "fr": "La porte conserve des éléments décoratifs comportant des motifs végétaux semblables à ceux du linteau.",
           "es": "La puerta de entrada conserva elementos decorativos incluyendo motivos vegetales similares a los del dintel."
-        }
+        },
+        "names": {
+          "ar": "باب الفتوح.",
+          "en": "Bab al-Futuh.",
+          "fr": "Bab al-Foutouh.",
+          "es": "Bab al-Futuh."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/6613c847-c6ae-5d13-abd3-88a6ad7b1b22.jpg"
       },
       {
         "id": "5911555b-ab81-5062-bc00-bb4a9b8d4c1a",
@@ -13600,7 +14221,15 @@
           "en": "The lintel was uncovered in an Umayyad palace (Tuba) and the carved decorations are similar to those at Mushatta Palace; both were built in same period.",
           "fr": "Le linteau fut mis au jour dans un palais omeyyade (Tuba) et les décorations sculptées sont similaires à celles du palais de Mchatta ; tous deux furent construits à la même époque.",
           "es": "El dintel fue descubierto en un palacio omeya (Tuba) y la decoración tallada es similar a la del Palacio de Mushatta; ambos construidos en el mismo periodo."
-        }
+        },
+        "names": {
+          "ar": "قصر المشتى.",
+          "en": "Qasr al-Mushatta.",
+          "fr": "Qasr al-Mchatta.",
+          "es": "Qasr al-Mushatta"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/1a18d574-8318-522e-b8e3-799290a9d27f.jpg"
       },
       {
         "id": "5e1d1ee8-7f7e-58a8-8402-1892185b69b8",
@@ -13612,7 +14241,15 @@
           "en": "Another door lintel made of carved limestone from the same dynasty.",
           "fr": "Autre linteau de porte en pierre sculptée de la même dynastie.",
           "es": "Otro dintel de puerta tallado en piedra caliza que data de la misma dinastía."
-        }
+        },
+        "names": {
+          "ar": "عتب باب.",
+          "en": "Door lintel.",
+          "fr": "Linteau de porte.",
+          "es": "Dintel de puerta"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/9d64b9c4-5f8f-50a6-b72f-49eb69ea9eb2.jpg"
       },
       {
         "id": "702385a6-59dd-5149-9e14-fc7215434a3d",
@@ -13624,7 +14261,15 @@
           "en": "Another door lintel from the same dynasty.",
           "fr": "Autre linteau de porte de la même dynastie.",
           "es": "Otro dintel de puerta que data de la misma dinastía."
-        }
+        },
+        "names": {
+          "ar": "ساكف باب.",
+          "en": "Door Lintel.",
+          "fr": "Linteau de porte.",
+          "es": "Dintel de puerta."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/821763c3-07ea-5ee3-8d26-96a5f69e321c.jpg"
       },
       {
         "id": "a89685ed-d6b6-5d4f-ba6b-53f166d90f5d",
@@ -13648,7 +14293,15 @@
           "en": "The lintel of the gateway is carved with similar floral motifs.",
           "fr": "Le linteau de l’entrée est sculpté avec des motifs floraux similaires.",
           "es": "El dintel de la puerta de entrada está tallado con motivos florales similares."
-        }
+        },
+        "names": {
+          "ar": "باب المريسة.",
+          "en": "Bab Mrissa.",
+          "fr": "Bab Mrissa.",
+          "es": "Bab Mrisa."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/12014461-583e-5996-8e3e-f578a6fb5f8c.jpg"
       },
       {
         "id": "bf62b9f4-0b35-5814-b5b7-9a9fb9eba327",
@@ -13660,7 +14313,16 @@
           "en": "This pillar is also made of limestone and decorated with floral motifs and dated to the same dynasty.",
           "fr": "Ce pilier est aussi en calcaire, décoré de motifs floraux et daté de la même dynastie.",
           "es": "Este pilar también está hecho de piedra caliza y decorado con motivos florales y data de la misma dinastía."
-        }
+        },
+        "names": {
+          "ar": "دعامة مزخرفة.",
+          "en": "Decorated pillar.",
+          "fr": "Pilier décoré.",
+          "pt": "Pilar ornamentado.",
+          "es": "Pilar decorado."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/73e7c07b-ab80-5f27-9804-6ff65d6dc06f.jpg"
       }
     ],
     "gallery_references": [
@@ -13773,7 +14435,15 @@
           "en": "The decorative repertoire is similar to that of Abbasid art.",
           "fr": "Le répertoire décoratif se rapproche également de l’art abbasside.",
           "es": "Se puede ver que el repertorio decorativo es semejante al repertorio visto en el arte abbasí."
-        }
+        },
+        "names": {
+          "ar": "الحرم الإبراهيمي.",
+          "en": "Haram al-Ibrahimi.",
+          "fr": "Haram al-Ibrahimi.",
+          "es": "Haram al-Ibrahimi."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/93cac079-dd84-5ab5-8d1a-8a645c6c7b1a.jpg"
       },
       {
         "id": "1e282c8c-3fed-5331-b88b-4c2782ff7968",
@@ -13797,7 +14467,15 @@
           "en": "Built by the Zirid prince al-Mu’izz ibn Badis for the Great Mosque of Kairouan.",
           "fr": "Édifiée par le prince ziride al-Mouiz ibn Badis pour la Grande Mosquée de Kairouan.",
           "es": "La puerta fue construida por el emir zirí al-Mu'izz ibn Badis. También sabemos que la puerta fue construída para la Mezquita Mayor de Kairuán."
-        }
+        },
+        "names": {
+          "ar": "جامع القيروان الكبير.",
+          "en": "Great Mosque of Kairouan.",
+          "fr": "Grande Mosquée de Kairouan.",
+          "es": "Mezquita Mayor."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/7e6bfc26-ba57-5b2f-8e26-6c49bf80a4d3.jpg"
       },
       {
         "id": "b55d65e0-7851-5d7f-94f3-89e36361d38d",
@@ -13821,7 +14499,15 @@
           "en": "The decorative repertoire is similar to that of Abbasid art.",
           "fr": "Le répertoire décoratif se rapproche également de l’art abbasside.",
           "es": "Se puede ver que el repertorio decorativo es semejante al repertorio visto en el arte abbasí."
-        }
+        },
+        "names": {
+          "ar": "القصر ب.",
+          "en": "Palace B.",
+          "fr": "Palais B.",
+          "es": "Palacio B."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/06280c56-0690-5be5-a3b5-9eef38e05e2d.jpg"
       },
       {
         "id": "d4d8f026-9350-59c7-985e-107aaa7a0acb",
@@ -14186,7 +14872,16 @@
           "en": "Both are unique examples with dragon motifs on the knockers.",
           "fr": "Les deux sont des exemples uniques à motifs de dragons sur les heurtoirs.",
           "es": "Ambos son ejemplos únicos con motivos de dragones en las aldabas."
-        }
+        },
+        "names": {
+          "ar": "مطرقة باب.",
+          "de": "Türklopfer.",
+          "en": "Doorknocker.",
+          "fr": "Heurtoir de porte.",
+          "es": "Aldaba."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/be3948af-7a80-5001-aba9-76191a617f40.jpg"
       },
       {
         "id": "6de30ff8-0fff-5ed3-8984-48abb285b414",
@@ -14210,7 +14905,16 @@
           "en": "This dragon comes into combat with a hunter on horseback as a symbol of power.",
           "fr": "Ce dragon rivalise avec un chasseur à cheval en tant que symbole du pouvoir.",
           "es": "Los dragones, con su lugar especial en las artes decorativas de Anatolia, también decoraban lámparas."
-        }
+        },
+        "names": {
+          "ar": "مرآة.",
+          "en": "Mirror.",
+          "fr": "Miroir.",
+          "es": "Espejo.",
+          "tr": "Ayna."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/a2ee600b-6efc-5abd-9d67-4d99c3158357.jpg"
       },
       {
         "id": "c045f1b5-fdc5-50a6-bd7c-b5339432531f",
@@ -14222,7 +14926,16 @@
           "en": "Dragons, with their special place in the decorative arts of Anatolia, also decorated lamps.",
           "fr": "Les dragons, avec la place spéciale qu’ils occupent dans l’art décoratif anatolien, ornaient aussi des lampes.",
           "es": "Este dragón entra en combate con un cazador montando a caballo como un símbolo de poder."
-        }
+        },
+        "names": {
+          "ar": "شمعدان من تنانين.",
+          "en": "Candlestick with dragons.",
+          "fr": "Chandelier aux dragons.",
+          "es": "Candelero con dragones.",
+          "tr": "Ejderli Şamdan."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/8f09ba60-dc0f-5465-aaab-ba568dfa59e3.jpg"
       },
       {
         "id": "ce544eac-b951-5657-9a7f-51c32a2f26c6",
@@ -14234,7 +14947,16 @@
           "en": "Dragons decorated not only doorknockers but also kufic script, in this case in conjunction with human heads.",
           "fr": "Les dragons ne décoraient pas seulement les heurtoirs mais aussi l’écriture coufique, ici en même temps que des têtes humaines.",
           "es": "Los dragones no decoraban solamente aldabas, sino que también escritura cúfica; en este caso, en conjunto con cabezas humanas."
-        }
+        },
+        "names": {
+          "ar": "طبل.",
+          "en": "Drum.",
+          "fr": "Tambour.",
+          "es": "Tambor.",
+          "tr": "Davul."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/9b5a5dd5-f527-53ff-ac38-94a06d6f7224.jpg"
       }
     ],
     "gallery_references": [
@@ -14442,7 +15164,16 @@
           "en": "The dinar bears the name of the Fatimid Caliph, al-Hakim bi Amrillah, who donated the door to the al-Azhar Mosque.",
           "fr": "Le dinar porte le nom du calife fatimide al-Hakim bi Amrillah qui légua la porte à la mosquée al-Azhar.",
           "es": "El *dinar* lleva el nombre del califa fatimí al-Mansur, al-Hakim bi Amrillah, quien donó la puerta a la mezquita al-Azhar."
-        }
+        },
+        "names": {
+          "ar": "قطعة نقدية ( دينار).",
+          "en": "Coin (*dinar*).",
+          "fr": "Monnaie (*dinar*).",
+          "it": "Moneta (*dînâr*).",
+          "es": "Moneda (dinar)."
+        },
+        "country_id": "ita",
+        "image": "https://inventory.metanull.eu/pub/13ca955b-47d8-5a66-a2b0-97cb06ad6ada.jpg"
       },
       {
         "id": "6de30ff8-0fff-5ed3-8984-48abb285b414",
@@ -14465,7 +15196,15 @@
           "en": "This mosque was built by the Fatimid Caliph Hakim bi Amrillah, who donated the door to the al-Azhar Mosque.",
           "fr": "Cette mosquée a été construite par le calife fatimide Hakim bi Amrillah, qui légua la porte à la mosquée al-Azhar.",
           "es": "Esta mezquita fue construida por el califa fatimí al-Hakim bi Amrillah, quien donó la puerta a la mezquita al-Azhar."
-        }
+        },
+        "names": {
+          "ar": "جامع الحاكم بأمر الله.",
+          "en": "Mosque of al-Hakim bi Amrillah.",
+          "fr": "Mosquée d’al-Hakim bi Amrillah.",
+          "es": "Mezquita de al-Hakim bi-Amrillah."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/2e23488f-9919-5153-898d-c709f70a65ce.jpg"
       },
       {
         "id": "afc571f4-5986-5e46-b1ec-3dde40394350",
@@ -14477,7 +15216,15 @@
           "en": "The doors were donated to this mosque by the Fatimid Caliph Hakim bi Amrillah.",
           "fr": "Cette mosquée a été construite par le calife fatimide Hakim bi Amrillah, qui légua la porte à la mosquée al-Azhar.",
           "es": "Las puertas fueron donadas a esta mezquita por el califa fatimí al-Hakim bi Amrillah."
-        }
+        },
+        "names": {
+          "ar": "الجـــــامع الأزهر.",
+          "en": "Mosque of al-Azhar.",
+          "fr": "Mosquée al-Azhar.",
+          "es": "Mezquita de al-Azhar."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/2a5d554d-5a67-5e7d-bb88-321114e733dd.jpg"
       },
       {
         "id": "d4d8f026-9350-59c7-985e-107aaa7a0acb",
@@ -15503,7 +16250,15 @@
           "en": "This plasterwork panel decorated the choir of the Convent of Santa Clara, from where the four stalls also originate.",
           "fr": "Ce panneau de stuc décorait le haut chœur du couvent de Santa Clara, d’ou proviennent également les quatre sièges de stalle.",
           "es": "Este panel de yesería decoraba el coro alto del convento de Santa Clara, de donde también proceden las cuatro sillas."
-        }
+        },
+        "names": {
+          "ar": "قطعة من سياج موضع الخورس.",
+          "en": "Fragment of choir parapet.",
+          "fr": "Fragment de clôture de chœur.",
+          "es": "Fragmento de antepecho de coro."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/9090d946-8231-5c41-8c35-d025548badb8.jpg"
       },
       {
         "id": "f3c109da-cdf5-5ebe-9a4a-561e76595383",
@@ -15515,7 +16270,15 @@
           "en": "The four choir stalls were originally found in this convent in Palencia.",
           "fr": "Les quatre chaises de chœur se trouvaient à l’origine dans ce couvent de Palencia.",
           "es": "En este convento de Palencia se encontraban originalmente las cuatro sillas de coro."
-        }
+        },
+        "names": {
+          "ar": "قصر بيير الأول، دير سانتا كلارا الحالي.",
+          "en": "Palace of Pedro I, now the Convent of Santa Clara.",
+          "fr": "Palais de Pierre Ier, actuel couvent de Santa Clara.",
+          "es": "Palacio de Pedro I, actual convento de Santa Clara."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/2f14dcbb-a614-5d2f-a5ea-3706093d2a61.jpg"
       }
     ],
     "gallery_references": [
@@ -15906,7 +16669,15 @@
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus03:30",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "زبدية ذات غطاء.",
+          "en": "Lidded bowl.",
+          "fr": "Coupe à couvercle.",
+          "es": "Cuenco con tapadera"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/62217646-c257-565e-a0a2-b78ed78ab99b.jpg"
       },
       {
         "id": "1e282c8c-3fed-5331-b88b-4c2782ff7968",
@@ -15930,7 +16701,15 @@
           "en": "This ceramic bowl from Umayyad Spain, although its calligraphic style is clearly inspired by Abbasid wood-carving.",
           "fr": "Cette coupe en céramique vient de l’Espagne omeyyade, bien que son style calligraphique soit clairement inspiré de la sculpture sur bois abbasside.",
           "es": "Este cuenco de cerámica proviene de la España omeya, aunque su estilo caligráfico está inspirado claramente en el tallado abasí de madera."
-        }
+        },
+        "names": {
+          "ar": "الطيفور (صحنٌ مقعر).",
+          "en": "*Ataifor* (bowl).",
+          "fr": "Ataifor (plat creux).",
+          "es": "Ataifor."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/a21a5393-20e6-56eb-8826-d027604960e3.jpg"
       },
       {
         "id": "ae6c89dd-38fa-5357-b1bd-8536d9d0c3b9",
@@ -15954,7 +16733,15 @@
           "en": "A carved calligraphic panel that was found in the reception hall of the Abbasid Palace B at al-Raqqa.",
           "fr": "Panneau de bois sculpté trouvé dans le salon de réception du palais (B) abbasside à Raqqa.",
           "es": "Un panel tallado con caligrafía encontrado en el salón de recepción del palacio B abasí en Raqa."
-        }
+        },
+        "names": {
+          "ar": "القصر ب.",
+          "en": "Palace B.",
+          "fr": "Palais B.",
+          "es": "Palacio B."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/06280c56-0690-5be5-a3b5-9eef38e05e2d.jpg"
       }
     ],
     "gallery_references": [
@@ -16096,7 +16883,15 @@
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:6",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "كأس قاعدي.",
+          "en": "Goblet.",
+          "fr": "Verre à pied",
+          "es": "Copa."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/91fdc747-d32c-5ffd-a0f0-770ca23abc20.jpg"
       },
       {
         "id": "4ad5424f-dc5c-51b8-ae7b-00f62d3a6860",
@@ -16108,7 +16903,15 @@
           "en": "While panels of painted wood decorated the walls, or possibly the ceilings of Palace B at al-Raqqa, the floors were covered with glass tiles.",
           "fr": "Alors que des panneaux de bois peints décoraient les murs, et vraisemblablement les plafonds, du palais B à Raqqa, les sols étaient couverts de carreaux de verre.",
           "es": "Mientras que los paneles de madera pintada decoraban las paredes, o posiblemente las techumbres del Palacio B de Raqa, los suelos fueron cubiertos con baldosas de vidrio."
-        }
+        },
+        "names": {
+          "ar": "جزء من بلاطة زجاجية مع قاعدتها الجصية.",
+          "en": "Fragment of a glass floor tile with a plaster base.",
+          "fr": "Fragment de carreau de pavement en verre sur base de plâtre.",
+          "es": "Fragmento de baldosa de vidrio con base de yeso."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/f20253d7-a3b2-5ee6-b566-538cc7d8b96c.jpg"
       },
       {
         "id": "893326f6-9a4d-57db-bdf6-56796de6ef99",
@@ -16127,7 +16930,15 @@
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:8",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "كوب زجاجي.",
+          "en": "Glass tumbler.",
+          "fr": "Gobelet en verre.",
+          "es": "Vaso de vidrio."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/4afdfaa1-e563-51ef-a9b7-4eee3cb81413.jpg"
       },
       {
         "id": "beaa4083-0ab3-50a0-b59f-db89add170c6",
@@ -16139,21 +16950,45 @@
           "en": "A panel of painted wood that was found in the reception hall of the Abbasid Palace B at al-Raqqa.",
           "fr": "Panneau de bois peint trouvé dans le hall de réception du palais (B) abbasside à Raqqa.",
           "es": "Un panel de madera pintada encontrado en el salón de recepción del Palacio B abasí en Raqa."
-        }
+        },
+        "names": {
+          "ar": "القصر ب.",
+          "en": "Palace B.",
+          "fr": "Palais B.",
+          "es": "Palacio B."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/06280c56-0690-5be5-a3b5-9eef38e05e2d.jpg"
       },
       {
         "id": "bf2d1e63-7381-51a0-93c7-f275d473108c",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:7",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "كوب زجاجي.",
+          "en": "Glass tumbler.",
+          "fr": "Gobelet en verre.",
+          "es": "Vaso de vidrio."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/46241b7b-05df-5036-ab83-0e078d0f74a1.jpg"
       },
       {
         "id": "f9701508-d881-5449-97c9-5004df541485",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:10",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "جرّة خزفية.",
+          "en": "Ceramic jar.",
+          "fr": "Jarre en céramique.",
+          "es": "Tinaja de cerámica."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/8096232f-a5a4-5b4c-b85c-c797615de862.jpg"
       }
     ],
     "gallery_references": [
@@ -16304,7 +17139,15 @@
           "en": "It is from the same period as the Hassan mosque.",
           "fr": "Les monuments religieux de cette époque lui sont contemporains, comme la mosquée Koutoubiya, à Marrakech, la mosquée Hassan à Rabat, la Giralda à Séville.",
           "es": "Este monumento es del mismo periodo que la mezquita Hasan."
-        }
+        },
+        "names": {
+          "ar": "مسجد حسان.",
+          "en": "Hasan Mosque.",
+          "fr": "Mosquée Hassan.",
+          "es": "Mezquita Hasan."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/599b46f9-dec7-5d45-8323-f8bd7e23f8b7.jpg"
       },
       {
         "id": "202097f0-f5d2-5953-889d-9ac02af60426",
@@ -16316,7 +17159,15 @@
           "en": "It is from the same period as the Giralda.",
           "fr": "Les monuments religieux de cette époque lui sont contemporains, comme la mosquée Koutoubiya, à Marrakech, la mosquée Hassan à Rabat, la Giralda à Séville.",
           "es": "Este monumento es del mismo periodo que la Giralda."
-        }
+        },
+        "names": {
+          "ar": "الخيرالدا.",
+          "en": "Giralda.",
+          "fr": "Giralda.",
+          "es": "Giralda."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/dd51c17f-23e5-5d7c-adbb-4b15979c4a0f.jpg"
       },
       {
         "id": "232d8890-0876-5479-966e-ac44c41896b0",
@@ -16340,7 +17191,15 @@
           "en": "The gold *dinar* is from the same period.",
           "fr": "Le dinar en or est de même époque.",
           "es": "El *dinar* de oro es del mismo periodo."
-        }
+        },
+        "names": {
+          "ar": "قطعة نقدية من صنف عشرة دنانير.",
+          "en": "Ten-*dinar* coin.",
+          "fr": "Pièce de monnaie de dix dinars.",
+          "es": "Moneda de diez dinares."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/31efe91c-2026-57e1-9533-60067a730354.jpg"
       },
       {
         "id": "de4802a1-86e2-5973-8765-e8cc4ee04f98",
@@ -16352,7 +17211,15 @@
           "en": "The planispheric astrolabe is from the same period as this lintel and was also placed in a sanctuary.",
           "fr": "L’astrolabe planisphérique est de la même époque que ce linteau et était placé comme lui dans un sanctuaire.",
           "es": "El astrolabio planisférico es del mismo periodo que este dintel y también estuvo en un santuario."
-        }
+        },
+        "names": {
+          "ar": "إسطرلاب دائري.",
+          "en": "Planispheric astrolabe.",
+          "fr": "Astrolabe planisphérique.",
+          "es": "Astrolabio planisférico."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/43ed2d60-5ef6-5df5-9b90-7759b16d949e.jpg"
       },
       {
         "id": "eb797dee-46d6-5927-9b28-91cd43374b40",
@@ -16364,7 +17231,15 @@
           "en": "It is from the same period as the Kutubiya.",
           "fr": "Les monuments religieux de cette époque lui sont contemporains, comme la mosquée Koutoubiya, à Marrakech, la mosquée Hassan à Rabat, la Giralda à Séville.",
           "es": "Este monumento es del mismo periodo que la Kutubiya."
-        }
+        },
+        "names": {
+          "ar": "مسجد الكتبية.",
+          "en": "Kutubiya Mosque.",
+          "fr": "Mosquée Koutoubiya.",
+          "es": "Mezquita Kutubiya."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/f7e00ea7-228d-5992-8cd2-d658e8e6a8be.jpg"
       }
     ],
     "gallery_references": [
@@ -16861,7 +17736,15 @@
           "en": "Both objects came from Marinid *madrasa*s.",
           "fr": "Objets provenant tous de madrasa mérinides.",
           "es": "Los dos objetos provienen de *madrasas* meriní."
-        }
+        },
+        "names": {
+          "ar": "لوحة من الزليج المحفور والمطلي بالمينا.",
+          "en": "Excised *zellij* frieze.",
+          "fr": "Frise de zelliges excisés.",
+          "es": "Friso de azulejos."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/2a791dd3-1101-5478-903f-8ea5417ba9a3.jpg"
       },
       {
         "id": "b7aafb59-ff4c-5242-9b12-fb975a73f3bf",
@@ -16873,7 +17756,15 @@
           "en": "Both objects came from Marinid *madrasa*s.",
           "fr": "Objets provenant tous de madrasa mérinides.",
           "es": "Los dos objetos provienen de *madrasas* meriní."
-        }
+        },
+        "names": {
+          "ar": "لوحة من الزليج.",
+          "en": "*Zellij* panel.",
+          "fr": "Panneau de zelliges.",
+          "es": "Alizar."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/a8e2a421-102c-58a0-8a88-016ec53fe9d6.jpg"
       }
     ],
     "gallery_references": [
@@ -17436,7 +18327,15 @@
           "en": "The inscriptions are executed in the Mamluk script and include the name of Sultan al-Nasir Muhammad.",
           "fr": "Ces inscriptions sont exécutées en écriture mamelouke et incluent le nom du sultan al-Nasir Muhammad.",
           "es": "Las inscripciones se escribieron en mameluco y contienen el nombre del sultán al-Nasir Muhammad."
-        }
+        },
+        "names": {
+          "ar": "ألواح عاجية.",
+          "en": "Ivory panels.",
+          "fr": "Panneaux en ivoire.",
+          "es": "Placas de marfil"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/8a9b9334-80f3-5f2e-81e0-908a0c517068.jpg"
       },
       {
         "id": "432a16a4-c081-5605-93c1-121cf8d6d955",
@@ -17448,7 +18347,15 @@
           "en": "This congregational mosque is associated with Sultan al-Nasir Muhammad ibn Qalawun.",
           "fr": "Cette mosquée de congrégation est associée au sultan al-Nasir Muhammad bin Qalawun.",
           "es": "Esta mezquita aljama está asociada con el sultán al-Nasir Muhammad ibn Qalawun."
-        }
+        },
+        "names": {
+          "ar": "جامع السلطان الناصر محمد بن قلاوون.",
+          "en": "Mosque of Sultan al-Nasir Muhammad ibn Qalawun.",
+          "fr": "Mosquée du sultan al-Nasir Muhammad ibn Qalawun.",
+          "es": "Mezquita del Sultán al-Nasir Muhammad ibn Qalawun."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/f1c74c74-db9e-50a4-ad94-cd954dd41dc5.jpg"
       },
       {
         "id": "4b8ffd8e-ec58-5468-9e97-3c950ff7e6c9",
@@ -17460,7 +18367,16 @@
           "en": "The decoration is similar and it also bears the name of Sultan al-Nasir Muhammad.",
           "fr": "Les décorations sont similaires, de même que le nom du sultan, al-Nasir Muhammad.",
           "es": "La decoración es similar y también lleva el nombre del sultán al-Nasir Muhammad."
-        }
+        },
+        "names": {
+          "ar": "مصباح مسجد.",
+          "de": "Moscheelampe.",
+          "en": "Mosque lamp.",
+          "fr": "Lampe de mosquée.",
+          "es": "Lámpara de mezquita."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/670c89c3-18d5-55b0-ae34-fde63709cf5c.jpg"
       },
       {
         "id": "89f6478a-1ada-5ce1-adfa-ba98750e463f",
@@ -17472,7 +18388,15 @@
           "en": "This piece is distinguished by a radiating script which has also been executed in the decoration of the hexagonal table.",
           "fr": "Ce plateau se distingue par l’écriture radiante mise en œuvre dans la décoration de la table hexagonale.",
           "es": "Esta pieza se distingue por una escritura radiante que también se encuentra en la mesa hexagonal."
-        }
+        },
+        "names": {
+          "ar": "صينية.",
+          "en": "Tray.",
+          "fr": "Plateau.",
+          "es": "Bandeja."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/7418aed9-af09-597d-b3e6-7f8d85f13715.jpg"
       },
       {
         "id": "d5f6e50a-98c0-5ed7-8aca-8f6313966465",
@@ -17484,7 +18408,15 @@
           "en": "The inscription is executed in the Mamluk script and includes the name of Sultan al-Nasir Muhammad.",
           "fr": "Ces inscriptions sont exécutées en écriture mamelouke et incluent le nom du sultan al-Nasir Muhammad.",
           "es": "Las inscripciones se escribieron en mameluco y contienen el nombre del sultán al-Nasir Muhammad."
-        }
+        },
+        "names": {
+          "ar": "حوض.",
+          "en": "Basin.",
+          "fr": "Bassin.",
+          "es": "Jofaina"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/d3d34713-2f12-5207-bcfc-85bbe366b853.jpg"
       }
     ],
     "gallery_references": [
@@ -18023,7 +18955,15 @@
         "in_package": false,
         "justifications": {
           "fr": "Le lustre est une œuvre mérinide de Fès tout comme ces trois madrasa."
-        }
+        },
+        "names": {
+          "ar": "قصر القصبة.",
+          "en": "Palace of the Kasbah.",
+          "fr": "Palais de la Casbah.",
+          "es": "Palacio de la Alcazaba."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/3743a0f6-629b-5da3-a77f-c692853e65b1.jpg"
       },
       {
         "id": "bdb44900-4d43-50ff-9975-f32c6b2586b9",
@@ -18034,7 +18974,15 @@
           "ar": "تعود كل الأبنية المرينية في فاس  لنفس الفترة التي تعود للباب.",
           "en": "All of Fez’s Marinid buildings date from the same period as the door.",
           "es": "Todos los edificios datan del mismo periodo que la puerta."
-        }
+        },
+        "names": {
+          "ar": "المدرسة المصباحية.",
+          "en": "Misbahiya Madrasa.",
+          "fr": "Madrasa Mesbahiya.",
+          "es": "Madrasa Mesbahiya."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/d8527912-99d1-5786-8e54-86f30bbad807.jpg"
       },
       {
         "id": "eb481f86-d60b-5344-8c63-a9deba6327fa",
@@ -18045,7 +18993,15 @@
           "ar": "تعود كل الأبنية المرينية في فاس  لنفس الفترة التي تعود للباب.",
           "en": "All of Fez’s Marinid buildings date from the same period as the door.",
           "es": "Todos los edificios datan del mismo periodo que la puerta."
-        }
+        },
+        "names": {
+          "ar": "المدرسة البوعنانية.",
+          "en": "Buinaniya Madrasa.",
+          "fr": "Madrasa Bouinaniya.",
+          "es": "Madrasa Buinaniya."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/ee9fa235-de58-551e-8af0-20fcf2b23fa5.jpg"
       },
       {
         "id": "f8df3278-888a-50e1-bb76-41803e0bb1ab",
@@ -18054,7 +19010,15 @@
         "in_package": false,
         "justifications": {
           "fr": "Il est contemporain de la madrasa Attarine de Fès et de celle de Salé."
-        }
+        },
+        "names": {
+          "ar": "المنارة.",
+          "en": "Menara.",
+          "fr": "Ménara.",
+          "es": "Menara."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/a922dce6-467e-5a2c-9e48-a52fbd6807dc.jpg"
       }
     ],
     "gallery_references": [
@@ -18798,7 +19762,15 @@
           "en": "It is similar in its script and materials.",
           "fr": "Semblables par l’écriture et les matériaux.",
           "es": "Es similar en su escritura y materiales."
-        }
+        },
+        "names": {
+          "ar": "قرآن.",
+          "en": "Qur’an.",
+          "fr": "Coran.",
+          "es": "Corán."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/3a87e85e-034d-5734-a756-1bbe72118464.jpg"
       },
       {
         "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
@@ -18810,7 +19782,15 @@
           "en": "It was transferred from al-Aqsa Mosque where it lay for seven centuries.",
           "fr": "Transféré de la mosquée al-Aqsa où il se trouvait depuis sept siècles.",
           "es": "El objeto fue trasladado desde la mezquita al-Aqsa, donde había permanecido por siete siglos."
-        }
+        },
+        "names": {
+          "ar": "الجامع الاقصى.",
+          "en": "Aqsa Mosque.",
+          "fr": "Mosquée al-Aqsa.",
+          "es": "Mezquita al-Aqsa."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       }
     ],
     "gallery_references": [
@@ -19067,7 +20047,15 @@
           "en": "This building contains a wooden prayer niche.",
           "fr": "Ces édifices contiennent des *mihrab* en bois de périodes différentes et de styles décoratifs variés.",
           "es": "Esta construcción contiene un nicho de oración de madera."
-        }
+        },
+        "names": {
+          "ar": "محراب المدرسة الحلاوية.",
+          "en": "Mihrab of the Madrasa al-Halawiyya.",
+          "fr": "Mihrab de la madrasa al-Halawiyya.",
+          "es": "*Mihrab* de la madrasa al-Halawiyya."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/6eeed9af-9f18-5241-9b3d-4ca4c2485ad0.jpg"
       },
       {
         "id": "153c5ddb-dd1d-5e3c-9e80-de0b66684f95",
@@ -19091,7 +20079,15 @@
           "en": "This building contains a wooden prayer niche.",
           "fr": "Ces édifices contiennent des *mihrab* en bois de périodes différentes et de styles décoratifs variés.",
           "es": "Esta construcción contiene un nicho de oración de madera."
-        }
+        },
+        "names": {
+          "ar": "الحرم الإبراهيمي.",
+          "en": "Haram al-Ibrahimi.",
+          "fr": "Haram al-Ibrahimi.",
+          "es": "Haram al-Ibrahimi."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/93cac079-dd84-5ab5-8d1a-8a645c6c7b1a.jpg"
       },
       {
         "id": "19c131a2-1764-5332-adc2-8dd10e15a0f0",
@@ -19115,7 +20111,16 @@
           "en": "This piece also serves to indicate the direction of the *qibla* to worshippers.",
           "fr": "Cette niche de prière indique pareillement la direction de la *qibla* pour les fidèles.",
           "es": "Esta pieza también sirve para indicar la dirección del *qibla* a los devotos."
-        }
+        },
+        "names": {
+          "ar": "محراب.",
+          "de": "Gebetsnische.",
+          "en": "Prayer niche (*mihrab*)",
+          "fr": "Niche de prière.",
+          "es": "*Mihrab*."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/a08ad793-9e5e-5c2a-80fc-77df9bab0f50.jpg"
       },
       {
         "id": "6568b7c0-a3a3-5d41-9f89-21aa75b86c2f",
@@ -19127,7 +20132,15 @@
           "en": "The tomb of Sayyida Ruqayya for which the prayer niche was built",
           "fr": "Tombe de Sayyida Rqayya pour laquelle le *mihrab* a été construit.",
           "es": "La tumba de Sayyida Ruqayya, persona para la cual se construyó este nicho."
-        }
+        },
+        "names": {
+          "ar": "ضريح السيدة رقية.",
+          "en": "Shrine (Mausoleum) of Sayyida Ruqayya.",
+          "fr": "Mausolée de Sayyida Ruqayya.",
+          "es": "Mausoleo de Sayyida Ruqayya."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/473aad28-ce58-5a61-b2e5-7cddf74e3f4a.jpg"
       },
       {
         "id": "7071b851-7d36-5699-a554-c47d6c0caa29",
@@ -19139,7 +20152,15 @@
           "en": "This building contains a wooden prayer niche.",
           "fr": "Ces édifices contiennent des *mihrab* en bois de périodes différentes et de styles décoratifs variés.",
           "es": "Esta construcción contiene un nicho de oración de madera."
-        }
+        },
+        "names": {
+          "ar": "جامع الزيتونة الكبير.",
+          "en": "Great Mosque of Zaytuna.",
+          "fr": "Grande Mosquée Zitouna.",
+          "es": "Mezquita Mayor el-Zituna."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/463eaf17-6c31-5fc6-aca9-36adea90bad8.jpg"
       },
       {
         "id": "85787dd4-f609-5fdf-ad19-38987eb94fa6",
@@ -19163,7 +20184,15 @@
           "en": "This building contains a wooden prayer niche.",
           "fr": "Ces édifices contiennent des *mihrab* en bois de périodes différentes et de styles décoratifs variés.",
           "es": "Esta construcción contiene un nicho de oración de madera."
-        }
+        },
+        "names": {
+          "ar": "جامع الموحدين بالقصبة.",
+          "en": "Almohad Mosque of the Kasbah.",
+          "fr": "Mosquée almohade de la Casbah.",
+          "es": "Mezquita de la Alcazaba"
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/61c5b48c-11b9-554f-9f11-e4f2de6cdec9.jpg"
       },
       {
         "id": "d4a8965d-e9fe-514f-8bda-75fca98b91d1",
@@ -19175,7 +20204,15 @@
           "en": "This building contains a wooden prayer niche.",
           "fr": "Ces édifices contiennent des *mihrab* en bois de périodes différentes et de styles décoratifs variés.",
           "es": "Esta construcción contiene un nicho de oración de madera."
-        }
+        },
+        "names": {
+          "ar": "جامع حمودة باشا الحنفي.",
+          "en": "Hanefite Mosque of Hammuda Pasha.",
+          "fr": "Mosquée hanafite de Hammouda Pacha.",
+          "es": "Mezquita de Hammuda Paşa."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/3848ff27-e73b-5165-a506-e30dc05a0d17.jpg"
       }
     ],
     "gallery_references": [
@@ -19368,7 +20405,15 @@
           "en": "One of the many mosques founded by Sultan Qaytbay, which he furnished with minbars like this one.",
           "fr": "Une des nombreuses mosquées fondées par le sultan Qaytbay, qu’il dota de minbar comme celui-ci.",
           "es": "Una de las mezquitas que fundó el sultán Qaytbay, la amuebló con minbars como este."
-        }
+        },
+        "names": {
+          "ar": "مدرسة ومسجد السلطان قايتباي.",
+          "en": "Madrasa and Mosque of Sultan Qaytbay.",
+          "fr": "Mosquée et madrasa du sultan Qaytbay.",
+          "es": "Madrasa y mezquita del Sultán Qaytbay."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/e5864851-9a56-53f0-807e-94649738ab13.jpg"
       },
       {
         "id": "21c42fcf-6ea0-5b03-806f-1c26bfd70692",
@@ -19380,7 +20425,15 @@
           "en": "A ewer made for Sultan Qaytbay’s wife Fatimah.",
           "fr": "Aiguière faite pour Fatima, épouse du sultan Qaytbay.",
           "es": "Un aguamanil fabricado para Fátima, la esposa del sultán Qaytbay."
-        }
+        },
+        "names": {
+          "ar": "إبريق.",
+          "en": "Ewer.",
+          "fr": "Aiguière.",
+          "es": "Aguamanil"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/48b7f8d5-11d4-532b-8905-e0aa0259a508.jpg"
       },
       {
         "id": "2226f421-a01c-56bf-809f-7d0c2067f79e",
@@ -19392,7 +20445,15 @@
           "en": "Another example of Sultan Qaytbay’s policy of generously endowing religious buildings.",
           "fr": "Autre témoignage de la généreuse politique mécénale du sultan Qaytbay en direction des édifices religieux.",
           "es": "Otro ejemplo de la generosa política de donación del sultán Qaytbay para edificios religiosos."
-        }
+        },
+        "names": {
+          "ar": "حامل قنديل.",
+          "en": "Lamp holder.",
+          "fr": "Porte-lampes.",
+          "es": "Lámpara."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/a30b150f-7717-5f12-b05a-fca6608fd204.jpg"
       },
       {
         "id": "38c49d86-1f30-5ebd-a391-a533a976b571",
@@ -19404,7 +20465,15 @@
           "en": "A bowl possibly made for the personal use of Sultan Qaytbay himself.",
           "fr": "Coupe sans doute réalisée pour l’usage personnel du sultan Qaytbay.",
           "es": "Un cuenco que posiblemente se fabricó para el uso personal del sultán Qaytbay."
-        }
+        },
+        "names": {
+          "ar": "زبدية.",
+          "en": "Bowl.",
+          "fr": "Coupe.",
+          "es": "Cuenco"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/c4d1420b-749e-5124-a8b5-a99cb1eee041.jpg"
       },
       {
         "id": "70e81fc7-992c-56d9-a3b4-5af8b1052c23",
@@ -19430,14 +20499,30 @@
           "en": "Another example of Sultan Qaytbay’s policy of generously endowing religious buildings.",
           "fr": "Autre témoignage de la généreuse politique mécénale du sultan Qaytbay en direction des édifices religieux.",
           "es": "Otro ejemplo de la generosa política de donación del sultán Qaytbay para edificios religiosos."
-        }
+        },
+        "names": {
+          "ar": "شريط نحاسي.",
+          "en": "Copper door panel.",
+          "fr": "Panneau de porte en cuivre.",
+          "es": "Lámina de cobre de una puerta."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/660be0e8-85fd-56f6-8204-aabc5ddfdce6.jpg"
       },
       {
         "id": "aab02def-7060-5efb-8c65-d9490c7feec4",
         "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "لوحة كتابية.",
+          "en": "Epigraphic panel.",
+          "fr": "Panneau épigraphique.",
+          "es": "Placa epigráfica."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/7cea6332-fbef-59f3-8e61-998ec3df9a37.jpg"
       },
       {
         "id": "bde1bb31-4ed9-500e-8ed0-c80c51d8d0cd",
@@ -19463,7 +20548,15 @@
           "en": "A bookbinding with decoration in the style of the period of Sultan Qaytbay.",
           "fr": "Couverture de livre décorée dans le style de la période du sultan Qaytbay.",
           "es": "Una encuadernación con decoración del estilo perteneciente al periodo del sultán Qaytbay."
-        }
+        },
+        "names": {
+          "ar": "غلاف كتاب.",
+          "en": "Bookbinding.",
+          "fr": "Reliure.",
+          "es": "Encuadernación"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/01844de9-bbbd-5e77-9477-b66e63053181.jpg"
       }
     ],
     "gallery_references": [
@@ -20846,7 +21939,15 @@
           "en": "The corbel forms part of the wooden ceiling in the prayer hall of the Great Mosque of Kairouan.",
           "fr": "Cette planche provient de la salle de prière de la Grande Mosquée de Kairouan.",
           "es": "Se ve que la ménsula es una parte fundamental del techo de madera en la sala de oración de la Mezquita Mayor de Kairuán."
-        }
+        },
+        "names": {
+          "ar": "جامع القيروان الكبير.",
+          "en": "Great Mosque of Kairouan.",
+          "fr": "Grande Mosquée de Kairouan.",
+          "es": "Mezquita Mayor."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/7e6bfc26-ba57-5b2f-8e26-6c49bf80a4d3.jpg"
       }
     ],
     "gallery_references": [
@@ -20949,7 +22050,15 @@
           "en": "Part of the painted wooden ceiling in the prayer hall of the Great Mosque of Kairouan.",
           "fr": "Elle provient des plafonds peints de la salle de prière de la Grande Mosquée de Kairouan.",
           "es": "Parte del techo de madera pintado de la sala de oración de la Mezquita Mayor de Kairuán."
-        }
+        },
+        "names": {
+          "ar": "جامع القيروان الكبير.",
+          "en": "Great Mosque of Kairouan.",
+          "fr": "Grande Mosquée de Kairouan.",
+          "es": "Mezquita Mayor."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/7e6bfc26-ba57-5b2f-8e26-6c49bf80a4d3.jpg"
       },
       {
         "id": "893326f6-9a4d-57db-bdf6-56796de6ef99",
@@ -22434,7 +23543,15 @@
           "ar": "يظهر مسجد ابن طولون لوحات من هذا الطراز ضمن تزيينه المعماري.",
           "en": "The mosque of Ibn Tulun shows panels of this style within its architectural decoration.",
           "fr": "La mosquée Ibn Touloun présente des panneaux de ce style dans sa décoration architecturale."
-        }
+        },
+        "names": {
+          "ar": "جامع أحمد بن طولون.",
+          "en": "Mosque of Ahmad Ibn Tulun.",
+          "fr": "Mosqué d’Ahmad ibn Touloun.",
+          "es": "Mezquita de Ahmad ibn Tulun."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/153d1d71-8f64-5dfc-bb35-39673a572a06.jpg"
       },
       {
         "id": "bcf9b146-5f0b-5860-b18c-54be05ab62f7",
@@ -22703,7 +23820,15 @@
           "en": "The tank and some parts of the pulpit were commissioned by members of the Amirid family, both governors of Prince Hisham II.",
           "fr": "Certains éléments de ce minbar comme la cuve ont été commandités par des membres de la famille des Amirides, tous deux hadjib du prince Hicham II.",
           "es": "La pila y algunas partes del púlpito fueron comisionadas por los miembros de la familia amirí, los dos gobernantes del príncipe Hisham II."
-        }
+        },
+        "names": {
+          "ar": "حوض للوضوء.",
+          "en": "Ablutions basin.",
+          "fr": "Cuve à ablutions.",
+          "es": "Pila de abluciones."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/04a71878-7a68-5245-a233-8db5a246d320.jpg"
       },
       {
         "id": "88669f64-b1b2-5647-abdf-3d094a3e4c59",
@@ -22715,7 +23840,15 @@
           "en": "The Andalusian Mosque is the sanctuary for which this pulpit was made.",
           "fr": "La mosquée des Andalous est le sanctuaire pour lequel a été fabriqué ce *minbar*.",
           "es": "La mezquita de los Andalusíes es el santuario para el cual se hizo esta mezquita."
-        }
+        },
+        "names": {
+          "ar": "مسجد الأندلسيين.",
+          "en": "Andalusian Mosque.",
+          "fr": "Mosquée des Andalous.",
+          "es": "Mezquita de los Andalusíes."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/0a9b6211-ba5b-5ea4-92b6-b975a6795062.jpg"
       },
       {
         "id": "9b938f78-dd1b-5b00-a709-62c11978cdc8",
@@ -22727,7 +23860,15 @@
           "en": "The ablutions tank from Madinat al-Zahra in Córdoba also dates from the time of the Amirid Caliphate.",
           "fr": "La cuve de Madinat al-Zahra de Cordoue date également du califat des Amirides",
           "es": "La pila de abluciones de Madinat al-Zahira en Córdoba también data de la época del califato amirí."
-        }
+        },
+        "names": {
+          "ar": "فسقية للوضوء.",
+          "en": "Basin",
+          "fr": "Vasque à ablutions.",
+          "es": "Pila"
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/e849bb43-e260-55ed-acbc-e3927df9a425.jpg"
       }
     ],
     "gallery_references": [
@@ -23597,7 +24738,15 @@
           "en": "Nur al-Din participated in the building of the citadel of Damascus and he also commissioned the *minbar*.",
           "fr": "Nour al-Din a participé à la construction de la citadelle de Damas et a aussi commandité le *minbar*.",
           "es": "Nur al-Din participó en la construcción de la ciudadela de Damasco y también encargó el minbar."
-        }
+        },
+        "names": {
+          "ar": "قلعة دمشق.",
+          "en": "Damascus Citadel",
+          "fr": "Citadelle de Damas.",
+          "es": "Ciudadela de Damasco."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/a6c8d2dd-67db-571e-a0bf-9b1f90bafc95.jpg"
       },
       {
         "id": "8d173c69-e270-52ea-8792-452101a75d8b",
@@ -23609,7 +24758,15 @@
           "en": "Nur al-Din participated in the building of the citadel of Damascus and he also commissioned the *minbar*.",
           "fr": "Le commanditaire fut Nour al-Din Zengi, à qui l’on doit aussi le *minbar*.",
           "es": "El constructor fue Nur al-Din Zangi, quien también encargó el minbar."
-        }
+        },
+        "names": {
+          "ar": "بيمارستان نور الدين.",
+          "en": "Hospital (*Bimaristan*) Nur al-Din.",
+          "fr": "Hôpital (*bimaristan*) Nour al-Din",
+          "es": "Hospital *(bimaristan)* de Nur al-Din."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/9cb33e73-0a70-5099-90f8-766da50f78d8.jpg"
       },
       {
         "id": "dfeaa5f1-63bf-55dd-a784-98bce952f149",
@@ -23633,7 +24790,15 @@
           "en": "It was transferred from al-Aqsa Mosque.",
           "fr": "Transfert depuis la mosquée al-Aqsa.",
           "es": "Se trasladó desde la mezquita al-Aqsa."
-        }
+        },
+        "names": {
+          "ar": "الجامع الاقصى.",
+          "en": "Aqsa Mosque.",
+          "fr": "Mosquée al-Aqsa.",
+          "es": "Mezquita al-Aqsa."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       }
     ],
     "gallery_references": [
@@ -23980,7 +25145,15 @@
         "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:2",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "الجامع الكبير.",
+          "en": "Djama’a al-Kebir (Great Mosque).",
+          "fr": "Grande Mosquée (djamaa el-kebir).",
+          "es": "Mezquita Mayor (Yamaa al-Kabir)."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/c1eef089-1abb-570e-aab5-fd55211bd406.jpg"
       }
     ],
     "gallery_references": [
@@ -24690,14 +25863,31 @@
         "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:30",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "مصباح مسجد.",
+          "de": "Moscheelampe.",
+          "en": "Mosque lamp.",
+          "fr": "Lampe de mosquée.",
+          "es": "Lámpara de mezquita."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/670c89c3-18d5-55b0-ae34-fde63709cf5c.jpg"
       },
       {
         "id": "d5f6e50a-98c0-5ed7-8aca-8f6313966465",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:28",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "حوض.",
+          "en": "Basin.",
+          "fr": "Bassin.",
+          "es": "Jofaina"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/d3d34713-2f12-5207-bcfc-85bbe366b853.jpg"
       },
       {
         "id": "efc1e427-4c81-58f3-a2ae-e846616be1e3",
@@ -24735,7 +25925,15 @@
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:40",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ثوب حريري لزوجة والي القدس.",
+          "en": "Silk garment.",
+          "fr": "Vêtement en soie.",
+          "es": "Vestimenta de seda."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/7f0cf381-f810-54e8-b5aa-02c2052c51df.jpg"
       }
     ],
     "gallery_references": [
@@ -25024,7 +26222,16 @@
           "en": "Such Ottoman Qur’an cabinets were most probably produced at the workshops of Topkapı Palace, the centre of Ottoman art and administration.",
           "fr": "Les cabinets coraniques ottomans de ce genre étaient très probablement produits dans les ateliers du palais de Topkapı, le centre de l’administration et des arts ottomans.",
           "es": "Es muy probable que tales muebles otomanos fuesen producidos en los tálleres del palacio Topkapi, el centro del arte y la administración otomana."
-        }
+        },
+        "names": {
+          "ar": "قصر توبكابي.",
+          "en": "Topkapı Palace.",
+          "fr": "Palais de Topkapı.",
+          "es": "Palacio Topkapı",
+          "tr": "Topkapı Sarayı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/88482ad0-fbcb-552f-84dd-9c4d09d9d66b.jpg"
       },
       {
         "id": "eeadc3f4-cf85-5e38-bce5-3c6d8631b78c",
@@ -25257,7 +26464,16 @@
           "en": "Topkapı Palace was the centre of Ottoman administration and arts and this cabinet is believed to have been made in the palace workshops.",
           "fr": "Le palais de Topkapı était le centre de l’administration et des arts ottomans, et ce cabinet a probablement été réalisé dans les ateliers du palais.",
           "es": "El palacio Topkapi era el centro de la administración y las artes otomanas, y se cree que este mueble fue hecho en los tálleres del palacio."
-        }
+        },
+        "names": {
+          "ar": "قصر توبكابي.",
+          "en": "Topkapı Palace.",
+          "fr": "Palais de Topkapı.",
+          "es": "Palacio Topkapı",
+          "tr": "Topkapı Sarayı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/88482ad0-fbcb-552f-84dd-9c4d09d9d66b.jpg"
       },
       {
         "id": "eeadc3f4-cf85-5e38-bce5-3c6d8631b78c",
@@ -25305,7 +26521,16 @@
           "en": "This Qur’an cabinet was made for Ottoman Sultan Bayezid II who also commissioned this important complex.",
           "fr": "Ce cabinet à coran fut fabriqué pour le sultan ottoman Bayézid II, qui fit aussi construire cet important complexe.",
           "es": "Este mueble para Corán fue hecho para el sultán otomano Bayezid II, quien también encargó este importante complejo."
-        }
+        },
+        "names": {
+          "ar": "مجمَّع بايزيد الثاني.",
+          "en": "Bayezid II Complex (*külliye*).",
+          "fr": "Complexe Bayézid II (*külliye*).",
+          "es": "Complejo *(külliye)* de Bayezid II",
+          "tr": "II. Bayezid Külliyesi."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/38b4539a-625c-5955-aca2-188f0faa81c5.jpg"
       }
     ],
     "gallery_references": [
@@ -25577,7 +26802,15 @@
           "en": "A large Qur’an volume would be placed on a Quran stand. The text could be read without holding the heavy book.",
           "fr": "Les grands volumes de coran étaient placés sur des pupitres à coran. Le récitant pouvait ainsi lire le texte sans avoir à supporter le poids de l’ouvrage.",
           "es": "Un volumen más grande del Corán se colocaría en un atril. El texto se podría leer sin necesidad de sujetar ese pesado libro."
-        }
+        },
+        "names": {
+          "ar": "جزء من مصحف.",
+          "en": "Section from a Qur'an.",
+          "fr": "Partie de Coran.",
+          "es": "Sección de Corán."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/c7830ccc-eb59-5670-8bd3-dd97dd43489a.jpg"
       },
       {
         "id": "8fe8643d-14ac-551c-81af-815f61df8a4a",
@@ -25589,7 +26822,16 @@
           "en": "The knotted kufic script used on the Qur’an stand is an advanced form of kufic script. The floriated kufic on this example is another kufic-type script.",
           "fr": "L’écriture coufique à entrelacs utilisée sur ce pupitre à coran est une forme élaborée de coufique. Le coufique fleuri de cet exemple est un autre style d’écriture coufique.",
           "es": "La letra cúfica entrelazada empleada en el atril de Corán es una forma avanzada de caligrafía cúfica. El cúfico florido en este ejemplo es otro tipo de caligrafía cúfica."
-        }
+        },
+        "names": {
+          "ar": "كِسرة من لوحة ضخمة منقوشة.",
+          "de": "Fragment einer Monumentalinschrift.",
+          "en": "Fragment of an inscription plaque.",
+          "fr": "Fragment d’inscription monumentale.",
+          "es": "Fragmento de inscripción monumental."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/929112f9-73cc-5d64-a3d0-4150e1372ac6.jpg"
       },
       {
         "id": "bf0840a4-cd98-55b6-a59b-9fb15a8371a3",
@@ -25985,7 +27227,15 @@
           "fr": "Ces deux coffrets sont très semblables en ce qui concerne leur forme et, sous certains aspects, leur décor (voir les figures d’oiseaux). En outre, l’époque et le lieu de production sont les mêmes.",
           "it": "I due cofanetti sono molto simili nella forma e, per alcuni aspetti, nella decorazione (si vedano le figure di uccelli). L’epoca e l’ambito di produzione, inoltre, coincidono.",
           "es": "Estas arquetas, elaboradas en el mismo tiempo y lugar, son muy similares en forma y en algunas características de su decoración, incluyendo la representación de aves."
-        }
+        },
+        "names": {
+          "ar": "صندوق عاج.",
+          "en": "Ivory box.",
+          "fr": "Coffret.",
+          "es": "Caja de marfil."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/8162318e-7e50-5d75-9e0e-77e9886703ad.jpg"
       },
       {
         "id": "82c65c6f-a7c7-5e4d-90e9-d3af98dc437c",
@@ -26200,7 +27450,16 @@
           "en": "The pieces are similar in decorative style executed as engravings on ivory and depicting subjects that reflect everyday life in the Seljuq and Fatimid periods.",
           "fr": "The pieces are similar in decorative style executed as engravings on ivory and depicting subjects that reflect everyday life in the Seljuq and Fatimid periods.",
           "es": "Las piezas tienen un estilo decorativo similar que se talló sobre marfil y refleja la vida cotidiana en el periodo fatimí y selyuqí."
-        }
+        },
+        "names": {
+          "ar": "أربعة قضبان عاجية.",
+          "de": "Vier Elfenbeinleisten.",
+          "en": "Four ivory panels.",
+          "fr": "Quatre panneaux d’ivoire.",
+          "es": "Cuatro placas de marfil."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/87df936f-56c3-54dd-a8e2-2d9363e1633c.jpg"
       }
     ],
     "gallery_references": [
@@ -26783,7 +28042,16 @@
           "en": "The ceiling of this Portuguese church was decorated with interlacing patterns based on stars, like the Mudejar door.",
           "fr": "Le plafond de cette église est décoré d’entrelacs d’étoiles, comme la porte mudéjare.",
           "es": "La techumbre de esta iglesia portuguesa se decoró con lacería basada en estrellas, como en la puerta mudéjar."
-        }
+        },
+        "names": {
+          "ar": "كنيسة ماتريز.",
+          "en": "Parish Church.",
+          "fr": "Église matriz.",
+          "pt": "Igreja Matriz.",
+          "es": "Iglesia parroquial."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/f3b325e8-0b08-577d-9006-cd18a7e519e3.jpg"
       },
       {
         "id": "d37a1bc2-10db-5fb2-9a7c-831f2a1d6997",
@@ -26928,7 +28196,15 @@
           "ar": "يظهر هذا الخان كيفية استخدام المشربيات ضمن سياق البناء.",
           "en": "This caravanserai shows how mashrabiyyas were used within the context of a building.",
           "fr": "Ce caravansérail montre de quelle façon les moucharabiehs étaient utilisés dans le contexte d’un bâtiment."
-        }
+        },
+        "names": {
+          "ar": "وكالة الغوري.",
+          "en": "Wikala (*caravanserai*) of al-Ghuri.",
+          "fr": "Wikala (caravansérail) du sultan al-Ghuri.",
+          "es": "Caravasar *(wikala)* de al-Guri."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/f2f7469f-07b2-5440-afed-331846fd6c44.jpg"
       }
     ],
     "gallery_references": [
@@ -28021,7 +29297,15 @@
           "en": "The Chefchaouen Kasbah datesfrom the same period.",
           "fr": "La casbah de Chefchaouen est également d’époque wattasside.",
           "es": "La qasbah de Chefchaouen data del mismo periodo."
-        }
+        },
+        "names": {
+          "ar": "قصبة شفشاون.",
+          "en": "Chefchaouen Kasbah.",
+          "fr": "Casbah de Chefchaouen.",
+          "es": "*Qasbah* de Chefchaouen (Xauen)."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/2b9079c5-abfd-5674-9c63-fa24bbc8bbda.jpg"
       },
       {
         "id": "bde9764b-0319-5fdd-a563-cd0ba01a6ea4",
@@ -28033,7 +29317,15 @@
           "en": "Dates from the same period as the green-paper Qur’an.",
           "fr": "Il date de la même époque que le coran sur papier vert.",
           "es": "Este objeto data del mismo periodo que el Corán de papel verde."
-        }
+        },
+        "names": {
+          "ar": "قرآن.",
+          "en": "Qur’an.",
+          "fr": "Coran.",
+          "es": "Corán."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/daaef5e1-702b-54c7-8fba-3e28ee2757c2.jpg"
       }
     ],
     "gallery_references": [
@@ -29320,7 +30612,16 @@
         "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:24",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قصر توبكابي.",
+          "en": "Topkapı Palace.",
+          "fr": "Palais de Topkapı.",
+          "es": "Palacio Topkapı",
+          "tr": "Topkapı Sarayı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/88482ad0-fbcb-552f-84dd-9c4d09d9d66b.jpg"
       },
       {
         "id": "4312ed57-80a5-53ca-a579-d77d2e79388d",
@@ -29495,7 +30796,15 @@
           "en": "The mosque of Ibn Tulun in Cairo was probably influenced by Abbasid architecture in Samarra.",
           "fr": "La mosquée d’Ibn Touloun au Caire fut probablement influencée par l’architecture abbasside de Samarra.",
           "es": "La mezquita de ibn Tulun en El Cairo tal vez fue influenciada por la arquitectura abbasí en Samarra."
-        }
+        },
+        "names": {
+          "ar": "جامع أحمد بن طولون.",
+          "en": "Mosque of Ahmad Ibn Tulun.",
+          "fr": "Mosqué d’Ahmad ibn Touloun.",
+          "es": "Mezquita de Ahmad ibn Tulun."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/153d1d71-8f64-5dfc-bb35-39673a572a06.jpg"
       },
       {
         "id": "ae6c89dd-38fa-5357-b1bd-8536d9d0c3b9",
@@ -29526,7 +30835,15 @@
           "en": "The influence of Abbasid architecture in Iraq spread to Syria; Raqqa, built by the Abbasid ruler al-Mansur, shows features derived from Baghdad.",
           "fr": "L’influence de l’architecture abbasside en Irak s’étendit jusqu’en Syrie ; Raqqa, construite par le souverain abbasside al-Mansour, présente des caractéristiques dérivées de Bagdad.",
           "es": "La arquitectura abbasí de Iraq se extendió a Siria; al-Raqqa, construido por el gobernante abbasí al-Mansur, muestra influencia de Bagdad."
-        }
+        },
+        "names": {
+          "ar": "سور مدينة الرافقة (الرقة) وبوابة بغداد.",
+          "en": "City walls of Rafiqa (Raqqa) and the Baghdad Gate.",
+          "fr": "Remparts de la ville de Rafiqa (Raqqa) et Porte de Bagdad.",
+          "es": "Murallas de al-Rafiqa y puerta de Bagdad."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/ea97b32d-9224-5817-af00-25d0c2b31100.jpg"
       }
     ],
     "gallery_references": [
@@ -30108,7 +31425,16 @@
           "en": "The throne of Ahmed I is on display at the treasury of Topkapı Palace, which serves as a museum today.",
           "fr": "Le trône d’Ahmed Ier est exposé dans le trésor du palais de Topkapı, qui sert de musée aujourd’hui.",
           "es": "El trono de Ahmed I es exhibido en la sección del tesoro del palacio Topkapi, el cual ahora funciona como museo."
-        }
+        },
+        "names": {
+          "ar": "قصر توبكابي.",
+          "en": "Topkapı Palace.",
+          "fr": "Palais de Topkapı.",
+          "es": "Palacio Topkapı",
+          "tr": "Topkapı Sarayı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/88482ad0-fbcb-552f-84dd-9c4d09d9d66b.jpg"
       },
       {
         "id": "ed505641-7fab-598f-a27b-c58fb38cc49e",
@@ -30120,7 +31446,15 @@
           "en": "This throne was made for the sultan depicted in this miniature, Ahmed I.",
           "fr": "Ce trône fut réalisé pour le sultan représenté sur cette miniature, Ahmed Ier.",
           "es": "Este trono fue hecho para el sultán ilustrado en esta miniatura, Ahmed I."
-        }
+        },
+        "names": {
+          "ar": "لوحة شخصية للسلطان العثماني أحمد الأول.",
+          "en": "Portrait of the Ottoman Sultan Ahmed I.",
+          "fr": "Portrait du sultan ottoman Ahmed Ier.",
+          "es": "Retrato del Sultán otomano Ahmed I"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/d8dd2a47-9d19-502e-ab69-bde158c47d50.jpg"
       },
       {
         "id": "efc1e427-4c81-58f3-a2ae-e846616be1e3",
@@ -30648,7 +31982,16 @@
           "en": "This is another work of calligraphy, this time on marble, and also from the Ayyubid period.",
           "fr": "Autre travail calligraphique, sur marbre cette fois-ci, et également de la période ayyoubide.",
           "es": "Este es otro trabajo de caligrafía, esta vez en mármol, también perteneciente al período ayyubí."
-        }
+        },
+        "names": {
+          "ar": "لوح رخامي.",
+          "en": "Marble panel.",
+          "fr": "Panneau de marbre.",
+          "es": "Lápida de mármol.",
+          "se": "Marmorpanel."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/b3e1d56f-9e14-57d0-a345-0d9da6f022cc.jpg"
       }
     ],
     "gallery_references": [
@@ -31328,7 +32671,16 @@
         "in_package": false,
         "justifications": {
           "es": "Platos de cerámica similares a éste se guardarían en las alacenas mudéjares."
-        }
+        },
+        "names": {
+          "ar": "سقف خشبي ملون في كنيسة البالاتينا.",
+          "en": "Painted wooden ceiling of the Palatine Chapel.",
+          "fr": "Plafond en bois peint de la chapelle Palatine.",
+          "it": "Soffitto ligneo dipinto della Cappella Palatina.",
+          "es": "Techumbre pintada de la Capilla Palatina"
+        },
+        "country_id": "ita",
+        "image": "https://inventory.metanull.eu/pub/d0959f0b-34a3-51bb-8ed0-5c1de28bdcf0.jpg"
       },
       {
         "id": "4190679a-1b8d-5bb6-ab94-e7aca98589c0",
@@ -31340,7 +32692,16 @@
           "en": "The basic furniture in Mudejar palaces such as this Portuguese example would include wooden cupboards for storing serving items.",
           "fr": "Les armoires en bois pour ranger les objets de service ne manquaient pas dans le mobilier de base des palais mudéjars comme celui-ci, portugais.",
           "es": "Entre el mobiliario básico de los palacios mudéjares, similares a este portugués, no faltarían armarios de madera para guardar los objetos de servicio."
-        }
+        },
+        "names": {
+          "ar": "قصر لا سيمبريه نويفا (قصر الخطيبة الأبدية).",
+          "en": "Sempre Noiva Palace.",
+          "fr": "Palais de la Sempre Noiva (palais de l’éternelle fiancée).",
+          "pt": "Palácio da Sempre Noiva.",
+          "es": "Palacio de la Siempre Novia."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/349dc91b-2056-50bd-80f9-a2d3d2473fb4.jpg"
       },
       {
         "id": "4a14838f-3d68-55e8-8f84-cac452161836",
@@ -31351,7 +32712,16 @@
           "ar": "صحون خزفية مشابهة لهذا الصحن احتفظ بها في خزائن المدجنين.",
           "en": "Ceramic dishes similar to this one would have been kept in Mudejar cupboards.",
           "fr": "Des plats en céramique semblables à celui-ci étaient rangés dans les placards mudéjars."
-        }
+        },
+        "names": {
+          "ar": "صحن مزخرف برسوم على شكل حبوب.",
+          "en": "Bowl with pod-shaped decoration.",
+          "fr": "Bassin à décor godronné.",
+          "it": "Bacino con decorazione baccellata.",
+          "es": "Plato con decoración gallonada."
+        },
+        "country_id": "ita",
+        "image": "https://inventory.metanull.eu/pub/a5036382-fda1-5237-8818-c93495a1c910.jpg"
       },
       {
         "id": "bdae3379-6d92-508e-9471-03fb9980c87e",
@@ -31382,7 +32752,15 @@
           "en": "This cupboard came from the Toledan Convent of Santa Úrsula.",
           "fr": "Cette armoire appartenait au couvent tolédan de Santa Ursula.",
           "es": "Al convento toledano de Santa Úrsula pertenece el armario alacena."
-        }
+        },
+        "names": {
+          "ar": "دير سانتا أورسولا (القديسة أورسيل).",
+          "en": "Convent of Santa Úrsula.",
+          "fr": "Couvent de Santa Úrsula (Sainte-Ursule).",
+          "es": "Convento de Santa Úrsula."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/6b316507-0594-554d-9cda-5a33addfbe6f.jpg"
       }
     ],
     "gallery_references": [
@@ -31862,7 +33240,15 @@
           "en": "This window was installed in a similar middle-class home.",
           "fr": "Cette fenêtre était placée dans une demeure bourgeoise semblable à Dar Jamai.",
           "es": "Esta ventana se instaló en una casa de clase media similar."
-        }
+        },
+        "names": {
+          "ar": "دار الجامعي.",
+          "en": "Dar al-Jam’i.",
+          "fr": "Dar Jamai.",
+          "es": "Dar Yamai."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/3aebc9dd-afc0-52c7-8cf5-82a6ad98e6fb.jpg"
       },
       {
         "id": "180f723a-4db3-52e6-816e-594df6310f46",
@@ -31874,7 +33260,15 @@
           "en": "The *zellij* panel is from the same period.",
           "fr": "Le panneau de zelliges est de même période.",
           "es": "Este alizar es del mismo periodo."
-        }
+        },
+        "names": {
+          "ar": "لوحة من الزليج.",
+          "en": "*Zellij* panel.",
+          "fr": "Panneau de zelliges.",
+          "es": "Alizar."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/ea697eea-a348-5c4c-88ce-3c40c3eb3eb8.jpg"
       }
     ],
     "gallery_references": [
@@ -31991,7 +33385,15 @@
           "ar": "يظهر هذا الخان كيفية استخدام المشربيات ضمن سياق البناء.",
           "en": "This caravanserai shows how mashrabiyyas were used within the context of a building.",
           "fr": "Ce caravansérail montre de quelle façon les moucharabiehs étaient utilisés dans le contexte d’un bâtiment."
-        }
+        },
+        "names": {
+          "ar": "وكالة الغوري.",
+          "en": "Wikala (*caravanserai*) of al-Ghuri.",
+          "fr": "Wikala (caravansérail) du sultan al-Ghuri.",
+          "es": "Caravasar *(wikala)* de al-Guri."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/f2f7469f-07b2-5440-afed-331846fd6c44.jpg"
       }
     ],
     "gallery_references": [
@@ -32199,7 +33601,15 @@
           "en": "It was brought from al-Aqsa Mosque",
           "fr": "Provient de la mosquée al-Aqsa.",
           "es": "La viga fue traída desde la mezquita al-Aqsa."
-        }
+        },
+        "names": {
+          "ar": "الجامع الاقصى.",
+          "en": "Aqsa Mosque.",
+          "fr": "Mosquée al-Aqsa.",
+          "es": "Mezquita al-Aqsa."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       }
     ],
     "gallery_references": [
@@ -32308,7 +33718,15 @@
           "en": "Both objects are from the same period and were produced in the same artistic style.",
           "fr": "Ces objets lui sont contemporains et sont de même style artistique.",
           "es": "Ambos objetos pertenecen al mismo periodo y se fabricaron con el mismo estilo artístico."
-        }
+        },
+        "names": {
+          "ar": "لوحة من الزليج المحفور والمطلي بالمينا.",
+          "en": "Excised *zellij* frieze.",
+          "fr": "Frise de zelliges excisés.",
+          "es": "Friso de azulejos."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/2a791dd3-1101-5478-903f-8ea5417ba9a3.jpg"
       },
       {
         "id": "b7aafb59-ff4c-5242-9b12-fb975a73f3bf",
@@ -32320,7 +33738,15 @@
           "en": "Both objects are from the same period and were produced in the same artistic style.",
           "fr": "Ces objets lui sont contemporains et sont de même style artistique.",
           "es": "Ambos objetos pertenecen al mismo periodo y se fabricaron con el mismo estilo artístico."
-        }
+        },
+        "names": {
+          "ar": "لوحة من الزليج.",
+          "en": "*Zellij* panel.",
+          "fr": "Panneau de zelliges.",
+          "es": "Alizar."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/a8e2a421-102c-58a0-8a88-016ec53fe9d6.jpg"
       },
       {
         "id": "bdae3379-6d92-508e-9471-03fb9980c87e",
@@ -32555,7 +33981,15 @@
           "en": "A stone panel with a composite rather than epigraphic blazon of Sultan Qaytbay, which was used not only by him, but by his officials and two successors.",
           "fr": "Panneau en pierre portant le blason, plus composite qu’épigraphique, du sultan Qaytbay, qui était utilisé non seulement par lui, mais aussi par ses officiers et ses deux successeurs.",
           "es": "Un blasón de piedra con un símbolo en lugar de una epigrafía del sultán Qaytbay, no solo lo utilizó él, también sus oficiales y dos sucesores."
-        }
+        },
+        "names": {
+          "ar": "رنك (شعار النبالة)على قطعة من الحجر.",
+          "en": "Stone blazon.",
+          "fr": "Blason en pierre.",
+          "es": "Blasón de piedra."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/4ac475fc-6301-50d2-a0d3-a2760dc84897.jpg"
       }
     ],
     "gallery_references": [
@@ -32653,7 +34087,15 @@
           "en": "These pieces show a decorative style belonging to the early and pre-Islamic periods.",
           "fr": "Ces pièces sont caractéristiques de la première période par le recours aux incrustations d’os pour la décoration.",
           "es": "Estas piezas muestran un estilo decorativo que pertenece al periodo temprano y preislámico."
-        }
+        },
+        "names": {
+          "ar": "فسقية للوضوء.",
+          "en": "Basin",
+          "fr": "Vasque à ablutions.",
+          "es": "Pila"
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/e849bb43-e260-55ed-acbc-e3927df9a425.jpg"
       },
       {
         "id": "9c700bb2-5d48-5ba0-9ba7-87bc128ebc4e",
@@ -32665,7 +34107,16 @@
           "en": "These pieces show a decorative style belonging to the early and pre-Islamic periods.",
           "fr": "Ces pièces sont caractéristiques de la première période par le recours aux incrustations d’os pour la décoration.",
           "es": "Estas piezas muestran un estilo decorativo que pertenece al periodo temprano y preislámico."
-        }
+        },
+        "names": {
+          "ar": "تاج عمود.",
+          "de": "Kapitell.",
+          "en": "Capital.",
+          "fr": "Chapiteau.",
+          "es": "Capitel."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/758fdeb4-3951-51dc-a0d8-8cb9ecf0bef4.jpg"
       },
       {
         "id": "d31728a3-910c-5617-b017-90928de933e6",
@@ -32676,7 +34127,15 @@
           "ar": "تتميز هذه القطعة بأسلوب الفترة المبكرة الذي استخدم  فيه الترصيع في الزخرفة",
           "en": "This piece is distinctive in the artistic style of decoration belonging to the early period by the use of inlay with bone.",
           "es": "Estas piezas muestran un estilo decorativo que pertenece al periodo temprano y preislámico."
-        }
+        },
+        "names": {
+          "ar": "لوح من العاج.",
+          "en": "Ivory panel.",
+          "fr": "Panneau d’ivoire.",
+          "es": "Placa de marfil"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/51383c17-2d6d-5f69-a00e-0e8a4dad81ba.jpg"
       },
       {
         "id": "def6faf0-d2a3-568b-8c50-84cb131331b0",
@@ -32688,7 +34147,15 @@
           "en": "These pieces show a decorative style belonging to the early and pre-Islamic periods.",
           "fr": "Ces pièces sont caractéristiques de la première période par le recours aux incrustations d’os pour la décoration.",
           "es": "Estas piezas muestran un estilo decorativo que pertenece al periodo temprano y preislámico."
-        }
+        },
+        "names": {
+          "ar": "تاج عمود.",
+          "en": "Capital.",
+          "fr": "Chapiteau.",
+          "es": "Capitel"
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/5aa53477-af6e-525f-9545-a9710618ded4.jpg"
       }
     ],
     "gallery_references": [
@@ -32841,7 +34308,16 @@
           "ar": "حجر زينة بتفريعات العنب والرمان مطهرا تأثير فنون ما قبل الإسلام المشابهة للزينة المنفذة على الخشب.",
           "en": "Decorative stone with vine scroll and pomegranate showing pre-Islamic influences similar to decorations executed on wood.",
           "es": "Piedra decorativa con zarcillos de vid y granadas que muestra una influencia preislámica similar a las decoraciones en madera."
-        }
+        },
+        "names": {
+          "ar": "علبة جواهر ذات غطاء.",
+          "de": "Pyxis (Deckelbüchse).",
+          "en": "Pyxis (container with lid).",
+          "fr": "Pyxide (boîte à couvercle).",
+          "es": "Píxide (bote con tapa)."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/757d23f8-569d-533b-93a0-5248f6c98016.jpg"
       },
       {
         "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
@@ -32853,7 +34329,15 @@
           "en": "The decorative style of the wood panel has also been used in the decoration of this monument.",
           "fr": "Le style décoratif utilisé sur les pièces de bois intervient aussi dans la décoration de ces monuments.",
           "es": "El estilo decorativo del tablero también se ha utilizado en la decoración de este monumento."
-        }
+        },
+        "names": {
+          "ar": "قبة الصخرة.",
+          "en": "Dome of the Rock.",
+          "fr": "Dôme du Rocher.",
+          "es": "Cúpula de la Roca"
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/fb68e98f-0564-54a2-b63c-b8008159833b.jpg"
       },
       {
         "id": "d6af3a01-5c17-5b63-869f-1432f1ceb8af",
@@ -32865,7 +34349,15 @@
           "en": "The decorative style is similar to decorations usually executed on wood.",
           "fr": "Le style décoratif utilisé sur les pièces de bois intervient aussi dans la décoration de ces monuments.",
           "es": "El estilo decorativo es similar a las decoraciones en madera comunes."
-        }
+        },
+        "names": {
+          "ar": "مسجد قرطبة.",
+          "en": "Great Mosque of Córdoba.",
+          "fr": "Grande Mosquée de Cordoue.",
+          "es": "Mezquita Mayor."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/95963b02-4643-572b-a6eb-2b84dda617e8.jpg"
       },
       {
         "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
@@ -32877,7 +34369,15 @@
           "en": "The decorative style of the wood panel has also been used in the decoration of this monument.",
           "fr": "Le style décoratif utilisé sur les pièces de bois intervient aussi dans la décoration de ces monuments.",
           "es": "El estilo decorativo del tablero también se ha utilizado en la decoración de este monumento."
-        }
+        },
+        "names": {
+          "ar": "الجامع الاقصى.",
+          "en": "Aqsa Mosque.",
+          "fr": "Mosquée al-Aqsa.",
+          "es": "Mezquita al-Aqsa."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       }
     ],
     "gallery_references": [
@@ -33077,7 +34577,15 @@
           "en": "Its decoration is similar to the domes in the central nave of the Qarawiyyin Mosque.",
           "fr": "Ses décors rappellent ceux des coupoles de la nef centrale de la mosquée Qaraouiyine.",
           "es": "La decoración es similar a las cúpulas en la nave central de la mezquita Qarawiyyin."
-        }
+        },
+        "names": {
+          "ar": "مسجد القرويين.",
+          "en": "Qarawiyyin Mosque.",
+          "fr": "Mosquée Qaraouiyine.",
+          "es": "Mezquita Qarawiyin."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/f2b9da41-093d-54e2-bcce-39c2c684da39.jpg"
       },
       {
         "id": "bd295ac6-c84c-53d6-a527-b56db5a312f7",
@@ -33089,7 +34597,15 @@
           "en": "The decoration on the panel has some similarities with the decoration on the panels of the pulpit from the Kutubiya.",
           "fr": "Sa décoration est également à rapprocher des motifs floraux de l’arcature en stuc de Chichaoua.",
           "es": "La decoración en el tablero de madera es similar a los motivos florales en la arquería de estuco en Chichawa."
-        }
+        },
+        "names": {
+          "ar": "لوحة من الجبس.",
+          "en": "Stucco panel.",
+          "fr": "Panneau en stuc.",
+          "es": "Yesería."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/cc7c4900-3bb2-56d8-81dc-9cebed83e4cc.jpg"
       },
       {
         "id": "bde1bb31-4ed9-500e-8ed0-c80c51d8d0cd",
@@ -33113,7 +34629,15 @@
           "en": "The same decoration can be found on the vault of the Koubba.",
           "fr": "Un même décor se retrouve sur la voûte de la *koubba*.",
           "es": "Se puede encontrar la misma decoración en la bóveda de la Qubba."
-        }
+        },
+        "names": {
+          "ar": "القبة المرابطية.",
+          "en": "Almoravid Koubba.",
+          "fr": "Koubba almoravide.",
+          "es": "*Qubba* almorávide."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/487209da-e1c3-538b-ae22-ca903d601bfa.jpg"
       }
     ],
     "gallery_references": [
@@ -33207,7 +34731,15 @@
           "ar": "تتميز هذه القطعة بأسلوب النحت الخشبي الذي متأثر بفنون ما قبل الإسلام.",
           "en": "This piece is distinctive in the style of wood carving which has been influenced by the pre-Islamic arts.",
           "es": "Esta pieza también se distingue por el estilo de tallado en madera que se ha influenciado por las artes preislámicas."
-        }
+        },
+        "names": {
+          "ar": "نقش من خندق قلعة القدس.",
+          "en": "Marble inscription panel.",
+          "fr": "Panneau épigraphié en marbre.",
+          "es": "Lápida de mármol con inscripción."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/ef08baa1-be6c-54eb-963d-f47b0f5e4dcd.jpg"
       },
       {
         "id": "4c16a8ad-8dfc-54dd-bc70-ac76e6862585",
@@ -33231,7 +34763,15 @@
           "en": "Section of marble frieze with Hellenistic influences (Umayyad period).",
           "fr": "Ces pièces sont caractéristiques du style de sculpture sur bois influencé par les arts préislamiques.",
           "es": "Sección de friso de marfil con influencia helenística (periodo omeya)."
-        }
+        },
+        "names": {
+          "ar": "جزء من إفريز رخامي.",
+          "en": "Section of a marble frieze.",
+          "fr": "Section de frise en marbre.",
+          "es": "Fragmentos de friso de mármol."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/93751273-e0db-5f98-9efe-61d9a3c4dab0.jpg"
       },
       {
         "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
@@ -33243,7 +34783,15 @@
           "en": "This monument is distinguished by a decorative style executed on wood.",
           "fr": "Ces monuments sont caractérisés par un style décoratif exécuté sur du bois.",
           "es": "Este monumento se distingue por un estilo decorativo en madera."
-        }
+        },
+        "names": {
+          "ar": "قبة الصخرة.",
+          "en": "Dome of the Rock.",
+          "fr": "Dôme du Rocher.",
+          "es": "Cúpula de la Roca"
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/fb68e98f-0564-54a2-b63c-b8008159833b.jpg"
       },
       {
         "id": "d6af3a01-5c17-5b63-869f-1432f1ceb8af",
@@ -33255,7 +34803,15 @@
           "en": "The decorative style is similar to decorations usually executed on wood.",
           "fr": "Ces monuments sont caractérisés par un style décoratif exécuté sur du bois.",
           "es": "El estilo decorativo es similar a las decoraciones en madera comunes."
-        }
+        },
+        "names": {
+          "ar": "مسجد قرطبة.",
+          "en": "Great Mosque of Córdoba.",
+          "fr": "Grande Mosquée de Cordoue.",
+          "es": "Mezquita Mayor."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/95963b02-4643-572b-a6eb-2b84dda617e8.jpg"
       },
       {
         "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
@@ -33267,7 +34823,15 @@
           "en": "This monument is distinguished by a decorative style executed on wood.",
           "fr": "Ces monuments sont caractérisés par un style décoratif exécuté sur du bois.",
           "es": "Este monumento se distingue por un estilo decorativo en madera."
-        }
+        },
+        "names": {
+          "ar": "الجامع الاقصى.",
+          "en": "Aqsa Mosque.",
+          "fr": "Mosquée al-Aqsa.",
+          "es": "Mezquita al-Aqsa."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       }
     ],
     "gallery_references": [
@@ -33479,7 +35043,15 @@
           "en": "The decoration is in the same style as that used on the panel.",
           "fr": "Les décorations sont de même style que celles du panneau.",
           "es": "La decoración tiene el mismo estilo que la utilizada en el panel."
-        }
+        },
+        "names": {
+          "ar": "جامع أحمد بن طولون.",
+          "en": "Mosque of Ahmad Ibn Tulun.",
+          "fr": "Mosqué d’Ahmad ibn Touloun.",
+          "es": "Mezquita de Ahmad ibn Tulun."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/153d1d71-8f64-5dfc-bb35-39673a572a06.jpg"
       },
       {
         "id": "7071b851-7d36-5699-a554-c47d6c0caa29",
@@ -33491,7 +35063,15 @@
           "en": "The decoration is in the same style as that used on the panel.",
           "fr": "Les décorations sont de même style que celles du panneau.",
           "es": "La decoración tiene el mismo estilo que la utilizada en el panel."
-        }
+        },
+        "names": {
+          "ar": "جامع الزيتونة الكبير.",
+          "en": "Great Mosque of Zaytuna.",
+          "fr": "Grande Mosquée Zitouna.",
+          "es": "Mezquita Mayor el-Zituna."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/463eaf17-6c31-5fc6-aca9-36adea90bad8.jpg"
       },
       {
         "id": "824bc44a-ecba-5266-8efa-c68c70d08dec",
@@ -33503,7 +35083,15 @@
           "en": "The decoration is in the same style as that used on the panel.",
           "fr": "Les décorations sont de même style que celles du panneau.",
           "es": "La decoración tiene el mismo estilo que la utilizada en el panel."
-        }
+        },
+        "names": {
+          "ar": "جامع القيروان الكبير.",
+          "en": "Great Mosque of Kairouan.",
+          "fr": "Grande Mosquée de Kairouan.",
+          "es": "Mezquita Mayor."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/7e6bfc26-ba57-5b2f-8e26-6c49bf80a4d3.jpg"
       },
       {
         "id": "893326f6-9a4d-57db-bdf6-56796de6ef99",
@@ -34028,7 +35616,15 @@
           "en": "The Midan district of Damascus, where this Seljuq screen was found, continued to grow as an area for religious buildings under the Mamluk period.",
           "fr": "Le quartier Midan de Damas, où ce paravent seldjoukide fut trouvé, a continué de s’étendre jusqu’à devenir une zone d’édifices religieux durant la période mamelouke.",
           "es": "El distrito de Al Midan de Damasco, donde se halló la mampara seléucida, continuó creciendo como un área de construcciones religiosas bajo el periodo mameluco."
-        }
+        },
+        "names": {
+          "ar": "قبة التينبك الحساني.",
+          "en": "Mausoleum (*qubba*) of Taynabak al-Hasani.",
+          "fr": "Mausolée (koubba) de Taynabak al-Hassani.",
+          "es": "Mausoleo *(qubba)* de Taynabak al-Hasani."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/a1f7103c-7d88-52f1-bf4c-c532b76890de.jpg"
       },
       {
         "id": "cce3a0c8-0096-5ec4-8323-9daea09d8912",
@@ -34455,7 +36051,16 @@
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:41",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "أداة فلكية: بوصلة القبلة.",
+          "en": "Astronomical instrument: *Qiblanuma*.",
+          "fr": "*Qiblanuma*.",
+          "es": "Instrumento astronómico *qiblanuma*.",
+          "tr": "Kıblenüma."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/44521d4e-3a64-593b-8884-5b9f5f8c5a6e.jpg"
       },
       {
         "id": "32434888-ecb9-5b5b-bdc6-bc81ab4851b0",
@@ -34467,7 +36072,16 @@
           "en": "This writing box was made for Sultan Abdülmecid in the workshops of Topkapı Palace.",
           "fr": "Cet écritoire fut réalisé pour le sultan Abdülmecid dans les ateliers du palais de Topkapı.",
           "es": "Esta escribanía fue hecha para el sultán Abdülmecid en los tálleres del palacio Topkapi."
-        }
+        },
+        "names": {
+          "ar": "قصر توبكابي.",
+          "en": "Topkapı Palace.",
+          "fr": "Palais de Topkapı.",
+          "es": "Palacio Topkapı",
+          "tr": "Topkapı Sarayı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/88482ad0-fbcb-552f-84dd-9c4d09d9d66b.jpg"
       },
       {
         "id": "374a32ae-e579-53c0-bfce-25a5e5c80764",
@@ -34479,7 +36093,16 @@
           "en": "This monumental example of a tughra was used as a master for copyists while the one on the writing box displayed its ownership by the sultan.",
           "fr": "Ce genre de *tughra* monumental servait de modèle aux copistes tandis que celui sur l’écritoire montre que ce dernier est la propriété du sultan.",
           "es": "Este ejemplo de un tugra de gran tamaño era usado como copia maestra para los copistas mientras que el tugra de la escribanía demostraba que esta era propiedad del sultán."
-        }
+        },
+        "names": {
+          "ar": "طغراء السلطان عثمان الثالث.",
+          "en": "*Tuğra* of Sultan Osman III.",
+          "fr": "Tughra du sultan Osman (Uthman) III.",
+          "es": "*Tugra* del sultán Otman III.",
+          "tr": "Sultan III. Osman’ın Tuğrası."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/932d89da-4d52-58b4-b474-92b621216c41.jpg"
       },
       {
         "id": "6f75d3d3-2fb1-5c23-869d-1f05845e0403",
@@ -34503,7 +36126,16 @@
           "en": "Writing boxes were used to hold such instruments used by calligraphers.",
           "fr": "Les écritoires  servaient à ranger ce genre d’instruments utilisés par les calligraphes.",
           "es": "Las escribanías eran usabas para guardar tales utensilios usados por los calígrafos."
-        }
+        },
+        "names": {
+          "ar": "أدوات كتابة.",
+          "en": "Writing set.",
+          "fr": "Nécessaire à écriture.",
+          "es": "Estuche y utensilios de escritura.",
+          "tr": "Yazı takımı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/f29a896a-72db-5f6f-9ad9-e1515c509a50.jpg"
       },
       {
         "id": "919aef03-f815-592e-ab38-dd26eb510ac9",
@@ -34515,14 +36147,32 @@
           "en": "Tughras show the direct connection of an object or monument with the sultan as on this writing box.",
           "fr": "Les *tughra* sont le signe de la relation directe d’un objet ou d’un monument avec le sultan, comme sur cet écritoire.",
           "es": "Los tugras demuestran la conexión directa de un objeto o monumento con el sultán, como esta escribanía."
-        }
+        },
+        "names": {
+          "ar": "طغراء (توقيع سلطاني).",
+          "en": "*Tughra* (imperial monogram).",
+          "fr": "Tughra (monogramme impérial).",
+          "es": "*Tugra* (monograma imperial)"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/19dc95f5-fe1c-5c79-a4b2-03d2f8f1642c.jpg"
       },
       {
         "id": "e722241c-4515-59f7-bedf-15c25aea04a3",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:36",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "مصحف.",
+          "en": "Qur’an.",
+          "fr": "Coran.",
+          "es": "Corán.",
+          "se": "Koran",
+          "tr": "Kur’an-ı Kerim."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/8be2b797-e1a1-5804-baca-26055e8f71aa.jpg"
       },
       {
         "id": "eb8190e3-fac0-5bea-9481-b7f582447f70",
@@ -34534,7 +36184,15 @@
           "en": "Writing sets also included inkwells such as this one.",
           "fr": "Les nécessaires à écriture comportaient aussi des encriers comme celui-ci.",
           "es": "Los juegos de escritura también incluían tinteros como este."
-        }
+        },
+        "names": {
+          "ar": "دواة.",
+          "en": "Inkwell.",
+          "fr": "Encrier.",
+          "es": "Tintero"
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/364d95e2-7f32-55c5-82ab-0ca5ec130da7.jpg"
       },
       {
         "id": "f01728d7-fe74-597e-b37f-12f01e9ac1a3",
@@ -34771,7 +36429,15 @@
           "en": "This Mamluk box would also have been used to store writing implements.",
           "fr": "Cette boîte mamelouke devait servir à ranger des ustensiles nécessaires à l’écriture, tout comme l’écritoire espagnol.",
           "es": "Esta caja mameluca debió de usarse para guardar útiles relacionados con la escritura, al igual que la escribanía española."
-        }
+        },
+        "names": {
+          "ar": "علبة أقلام.",
+          "en": "Pen box.",
+          "fr": "Plumier.",
+          "es": "Plumier."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/59c94614-bbf9-5a2c-99c9-d1b9c6b9ff18.jpg"
       },
       {
         "id": "991bde22-6f40-5b6e-800e-44dfdaba422f",
@@ -34783,7 +36449,15 @@
           "en": "Scribes from Granada used this type of inlaid desk to store their writing implements.",
           "fr": "Les écrivains publics de Grenade utilisaient ce type d’écritoire en marqueterie pour ranger leurs ustensiles.",
           "es": "Los escribanos de Granada usaban este tipo de escribanía de taracea para guardar los instrumentos de escritura."
-        }
+        },
+        "names": {
+          "ar": "الحمراء.",
+          "en": "Alhambra.",
+          "fr": "Alhambra.",
+          "es": "Alhambra."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/3859d2e3-e75c-51c5-9427-cde592b880ba.jpg"
       },
       {
         "id": "ba7672c4-fed6-5ce8-8f1d-ccd9a7e359e4",
@@ -34795,7 +36469,15 @@
           "en": "A public scribe would have written this marriage and divorce document.",
           "fr": "Cet acte de mariage et de divorce a pu être rédigé par un écrivain public.",
           "es": "Este documento de matrimonio y divorcio lo redactaría un escribano público."
-        }
+        },
+        "names": {
+          "ar": "وثيقة زواج.",
+          "en": "Marriage document.",
+          "fr": "Acte de mariage.",
+          "es": "Acta de matrimonio."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/3898e22d-40cb-56be-a6b7-ed486a1bff03.jpg"
       },
       {
         "id": "bde1bb31-4ed9-500e-8ed0-c80c51d8d0cd",
@@ -35048,7 +36730,15 @@
           "ar": "مثل الخزانة فإن هذا البوق العاجي الفاطمي زين بأشكال حيوانات.",
           "en": "Like the chest this Fatimid ivory oliphant is decorated with animal figures.",
           "es": "Este olifante de marfil, del período fatimí, se decoró con figuración animal como la arqueta."
-        }
+        },
+        "names": {
+          "ar": "بوق عاجي.",
+          "en": "Oliphant.",
+          "fr": "Olifant",
+          "es": "Olifante."
+        },
+        "country_id": "swe",
+        "image": "https://inventory.metanull.eu/pub/b2d47b82-5aec-5cc6-ac48-b1325f6ec6c8.jpg"
       }
     ],
     "gallery_references": [

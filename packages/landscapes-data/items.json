@@ -4921,14 +4921,32 @@
           "en": "The paintings of this provincial mansion and this compass reflect the changing taste of Ottoman art with increasing Western influence.",
           "fr": "Les peintures de cette résidence provinciale et cette boussole reflètent le changement de goût de l’art ottoman au fur et à mesure que s’affirme une influence occidentale.",
           "es": "Las pinturas de esta mansión provincial y de esta brújula reflejan el cambio en el gusto del arte otomano con creciente influencia occidental."
-        }
+        },
+        "names": {
+          "ar": "أسطرلاب.",
+          "en": "Astrolabe.",
+          "fr": "Astrolabe.",
+          "es": "Astrolabio.",
+          "tr": "Usturlap."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/d06325d4-3b4e-548d-b2e9-651189455f71.jpg"
       },
       {
         "id": "01ba3ae1-8519-57b8-8f50-9fd54d3152f2",
         "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:32",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "منزل جاقيراغا.",
+          "en": "Çakırağa Mansion.",
+          "fr": "Résidence Çakiraga.",
+          "es": "Mansión Çakırağa",
+          "tr": "Çakırağa Konağı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/c1af7780-7273-51b6-9469-a595881882c0.jpg"
       },
       {
         "id": "23e8db58-0148-5dc3-98b4-98cb5313ba16",
@@ -4940,21 +4958,48 @@
           "en": "Pilgrims used such compasses to find their prayer direction to Mecca and returned back with such certificates for their pilgrimages.",
           "fr": "Les pèlerins se servaient de ces boussoles pour trouver la directio de la prière vers La Mecque et revenaient de pèlerinage avec ces certificats.",
           "es": "Los peregrinos usaban este tipo de brújula para encontrar la dirección a La Meca, y regresaban con estos certificados para su peregrinación."
-        }
+        },
+        "names": {
+          "ar": "وثيقة توكيل بالحج.",
+          "en": "Pilgrimage proxy scroll.",
+          "fr": "Rouleau de pèlerinage.",
+          "es": "Rollo con certificado de peregrinación.",
+          "tr": "Hac Vekaletnamesi."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/432a7fea-7814-537b-b29f-fe1ec88f1c6e.jpg"
       },
       {
         "id": "32434888-ecb9-5b5b-bdc6-bc81ab4851b0",
         "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:24",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قصر توبكابي.",
+          "en": "Topkapı Palace.",
+          "fr": "Palais de Topkapı.",
+          "es": "Palacio Topkapı",
+          "tr": "Topkapı Sarayı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/88482ad0-fbcb-552f-84dd-9c4d09d9d66b.jpg"
       },
       {
         "id": "79123b79-bd2b-5af1-8898-89d1cb8e5327",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01_A:40",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عرش السلطان أحمد الأول.",
+          "en": "Throne of Sultan Ahmed I.",
+          "fr": "Trône du sultan Ahmed Ier.",
+          "es": "Trono del sultán Ahmed I.",
+          "tr": "Sultan I. Ahmed’in Tahtı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/344c0d57-b91e-50e4-a8d6-53e37cb3abe6.jpg"
       },
       {
         "id": "ab91307f-d3d5-5f2a-88d0-9f2eb6934a29",
@@ -4966,7 +5011,15 @@
           "en": "Compasses for prayer direction were used together with a variety of materials such as wood or ceramic.",
           "fr": "Les boussoles pour la direction de la prière existaient aussi dans d’autres matériaux comme le bois ou la céramique.",
           "es": "Las brújulas para la dirección para orar eran usadas junto con una variedad de materiales como madera o cerámica."
-        }
+        },
+        "names": {
+          "ar": "صحن.",
+          "en": "Qibla directional plate.",
+          "fr": "Plateau servant à la détermination de la qibla.",
+          "es": "Plato con orientación de La Meca."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/987272d4-e794-5a1b-8e8c-80db7ea3af67.jpg"
       },
       {
         "id": "f01728d7-fe74-597e-b37f-12f01e9ac1a3",
@@ -4978,7 +5031,15 @@
           "en": "Both works are decorated in a lacquer technique known as ‘Edirnekari’.",
           "fr": "Les deux pièces sont décorées avec une technique de laquage appelée “Edirnekari”.",
           "es": "Ambos trabajos están decorados con una técnica de lacado conocida como ‘Edirnekari’."
-        }
+        },
+        "names": {
+          "ar": "ربعة السلطان مراد.",
+          "en": "*Rab’a* of Sultan Murad.",
+          "fr": "Rab’a du sultan Mourad.",
+          "es": "*Rab’a* del sultán Murad."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c83eca59-3f93-5536-9999-9c9784a2080a.jpg"
       }
     ],
     "gallery_references": [
