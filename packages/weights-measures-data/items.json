@@ -830,7 +830,15 @@
           "en": "The weights were found at this site.",
           "fr": "Les poids ont été trouvés sur ce site.",
           "es": "Las pesas fueron encontradas en este emplazamiento."
-        }
+        },
+        "names": {
+          "ar": "أيلة الإسلامية.",
+          "en": "Ayla (Aqaba).",
+          "fr": "Ayla (Aqaba).",
+          "es": "Ayla (Aqaba)"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/04359e8b-10e7-5697-a806-02fe62d2901b.jpg"
       },
       {
         "id": "18c15448-b023-55e4-944b-b20b8f98eb2e",
@@ -842,7 +850,15 @@
           "en": "Because Damascus was the capital of the Umayyad Caliphate and a metropolis in subsequent periods, the citadel would have had a mint for striking coins and weights.",
           "fr": "Comme Damas était la capitale du califat omeyyade et une grande métropole dans les périodes qui ont suivi, la citadelle avait probablement un atelier de frappe de monnaie et des poids monétaires.",
           "es": "Puesto que Damasco era la capital del Califato Omeya y una metrópolis en los periodos posteriores, en la ciudadela podría haber existido una casa de la moneda para acuñar monedas y pesos."
-        }
+        },
+        "names": {
+          "ar": "قلعة دمشق.",
+          "en": "Damascus Citadel",
+          "fr": "Citadelle de Damas.",
+          "es": "Ciudadela de Damasco."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/a6c8d2dd-67db-571e-a0bf-9b1f90bafc95.jpg"
       },
       {
         "id": "32f51c73-db81-5e08-a00e-f89af413a9e1",
@@ -866,7 +882,15 @@
           "en": "This gate was built during the rule of the Fatimid Caliph al-Mustansir bi Allah, whose name is on one of the glass weights.",
           "fr": "Cette porte fut construite sous le règne du calife fatimide al-Moustansir bi Allah, et le nom figure sur l’un des poids en verre.",
           "es": "Esta puerta fue construida durante el mandato del califa fatimí al-Mustansir bi Allah, cuyo nombre aparece una de la pesas de vidrio."
-        }
+        },
+        "names": {
+          "ar": "باب الفتوح.",
+          "en": "Bab al-Futuh.",
+          "fr": "Bab al-Foutouh.",
+          "es": "Bab al-Futuh."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/6613c847-c6ae-5d13-abd3-88a6ad7b1b22.jpg"
       },
       {
         "id": "6a8ae693-2d75-5f78-8237-d88af864c11f",
@@ -1399,147 +1423,315 @@
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:8",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "أسد جالس.",
+          "en": "Sitting lion.",
+          "fr": "Lion assis.",
+          "es": "Figura de león sentado."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/d353d6c0-48db-54c9-abd8-90329ad9947d.jpg"
       },
       {
         "id": "26d6637f-84b8-536e-b789-91910110aa5a",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:15",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "فوهة فسقية.",
+          "en": "Fountain mouth.",
+          "fr": "Bouche de fontaine.",
+          "es": "Surtidor de fuente."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/9f3a3fe2-7788-550c-b9fe-280d9a725bb1.jpg"
       },
       {
         "id": "2c81a165-20bf-5026-b159-d29e5ef532b8",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر مُخلف بن عثمان.",
+          "en": "Funerary stele of Mukhlef ibn ‘Uthman.",
+          "fr": "Stèle funéraire de Mukhlef ben Othman.",
+          "es": "Estela funeraria de Mujlef ibn Uzman."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/2712b228-0f4e-57c1-a140-d4a7c6dcf10d.jpg"
       },
       {
         "id": "2cc72222-bc92-577d-b037-11f94f619161",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:18",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عنصران من تلبيس جداري.",
+          "en": "Two fragments of wall-cladding.",
+          "fr": "Deux éléments de revêtement mural.",
+          "es": "Dos azulejos de revestimiento mural."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/30617f0f-3b92-5217-8e1e-cc6d171518d0.jpg"
       },
       {
         "id": "3b5f2dc7-2856-5500-bdbd-60cb4110286c",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "سراج زيت.",
+          "en": "Oil lamp.",
+          "fr": "Lampe à huile.",
+          "es": "Candil."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/08753d9b-571b-5f21-8dc7-4fcc022383f3.jpg"
       },
       {
         "id": "3d072f2e-a588-5c4d-be86-0d22f531c2a4",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:50",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر.",
+          "en": "Funerary stele of Abu ‘Abdallah ibn Khalifa.",
+          "fr": "Stèle funéraire d’Abou Abdallah ibn Khalifa.",
+          "es": "Estela funeraria de Abu Abd Allah ibn Jalifa."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/6c732d35-43b4-5306-9271-959d0dd88580.jpg"
       },
       {
         "id": "42ff53d4-9927-52e7-a2e9-d92b4322baa4",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر أبي بكر بن يوسف.",
+          "en": "Funerary stele of Abu Bakr ibn Yusuf.",
+          "fr": "Stèle funéraire d’Abi-Beker ben Youssouf.",
+          "es": "Estela funeraria de Abu Bakr ibn Yusuf."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/c08daa02-2adc-5294-8fbd-a534c318a78f.jpg"
       },
       {
         "id": "468d72e0-71b1-5e62-aa9c-e37d8f31588f",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:22",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ساكف",
+          "en": "Lintel.",
+          "fr": "Linteau.",
+          "es": "Dintel."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/b09101b8-9a85-5d71-91c1-94420bd34d8b.jpg"
       },
       {
         "id": "5518987f-66ff-5665-9182-5ca8e89a0429",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:13",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "كوز.",
+          "en": "Small jug.",
+          "fr": "Cruchon.",
+          "es": "Jarro."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/a015c575-9f07-559f-ab7e-05d38f4e40f9.jpg"
       },
       {
         "id": "621e7f00-7493-56e2-823c-2c4e19a49512",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:41",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قطع من الجبس.",
+          "en": "Fragments of plaster.",
+          "fr": "Fragments de plâtre.",
+          "es": "Fragmentos de yesería."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/0cbe0408-5061-5c8d-a2fe-4d94fdc1d735.jpg"
       },
       {
         "id": "821bf5d1-f03e-5876-835a-d807cdb83a6e",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:19",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "وُريدة.",
+          "en": "Rosette.",
+          "fr": "Rosace.",
+          "es": "Rosetón."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/d63c1369-0b0e-54b2-97b7-ecd516e05c17.jpg"
       },
       {
         "id": "839e8617-ca88-5db2-98b8-899baa6e04d1",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:9",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عصفور.",
+          "en": "Bird.",
+          "fr": "Oiseau.",
+          "es": "Figura de ave."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/50f60bbd-b7d5-5e39-87f4-181ff949142b.jpg"
       },
       {
         "id": "8c014da5-017c-55b6-8f07-95eca4b0b551",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عنصر من مقرنصات (مقربص).",
+          "en": "Stalactite element (*muqarbas*).",
+          "fr": "Élément de stalactite (mouqarbas).",
+          "es": "Elemento arquitectónico (mocárabe)."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/1ef619be-e5da-5024-8a24-8263078467a8.jpg"
       },
       {
         "id": "9b8ab3ff-1008-5ce8-b032-994aad3a8bf4",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:38",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "فسقيّة.",
+          "en": "Fountain basin.",
+          "fr": "Vasque.",
+          "es": "Pila."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/93c7bb8d-e139-55c8-9a39-ac9b3e5c1a87.jpg"
       },
       {
         "id": "a004a10d-3cdb-5c4d-b997-279f9d62f53d",
         "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "موقع قلعة بني حماد.",
+          "en": "Site of Qal’at Bani Hammad.",
+          "fr": "Site de la Qalaa des Beni Hammad.",
+          "es": "Sitio arqueológico de la Qalaa de los Banu Hammad."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/7d441eee-2750-52b9-97bb-dc57ad8f6144.jpg"
       },
       {
         "id": "a1ecccac-7c93-51a2-925d-06173dfe0ef5",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شُرّافة.",
+          "en": "Merlon.",
+          "fr": "Merlon.",
+          "es": "Merlón."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/82cc544e-c803-5678-a576-fe3af962be98.jpg"
       },
       {
         "id": "ab174424-adb1-5b57-8894-d4b10135d015",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:39",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ركنيّة عقد.",
+          "en": "Cornerstone of an arch.",
+          "fr": "Écoinçon d’un arc.",
+          "es": "Albanega."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/af1d8598-d239-5b7e-9c3e-55b9e28e154c.jpg"
       },
       {
         "id": "c4ac31eb-6f1b-5165-aa8c-6ca2a725eb94",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:12",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عناصر شماسية.",
+          "en": "Elements of a shutter.",
+          "fr": "Eléments de claustra.",
+          "es": "Elementos de celosía."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/b43e2fc8-bcc1-532b-ac90-5874f97cd502.jpg"
       },
       {
         "id": "c5070245-7d2c-55a5-bf28-dc6513ffa7ed",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:40",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "تاج.",
+          "en": "Capital.",
+          "fr": "Chapiteau.",
+          "es": "Capitel."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/9c34a759-4112-5469-a003-0dfac8ac5ca6.jpg"
       },
       {
         "id": "c9ec39c2-939a-5f52-a861-5f554111d598",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عُميّد من قطعة واحدة.",
+          "en": "Monolithic column.",
+          "fr": "Colonnette monolithe.",
+          "es": "Columnita monolítica"
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/ea158326-40ec-545f-9fea-19c37917dd2c.jpg"
       },
       {
         "id": "fa7b3b4f-6bf6-5a1a-84fd-8f70a066b1c8",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:42",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "جزء من لوحة مطعّمة بالخزف.",
+          "en": "Fragment of a panel with ceramic inlay.",
+          "fr": "Fragment de panneau en marqueterie céramique.",
+          "es": "Fragmento de panel de cerámica."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/29a01ea0-079a-5b22-8c5b-1309410a9533.jpg"
       }
     ],
     "gallery_references": [
@@ -2804,7 +2996,15 @@
           "en": "The weights were uncovered in excavations at this site.",
           "fr": "Les poids ont été découverts dans des fouilles à cet endroit.",
           "es": "Las pesas fueron descubiertas en este emplazamiento."
-        }
+        },
+        "names": {
+          "ar": "أيلة الإسلامية.",
+          "en": "Ayla (Aqaba).",
+          "fr": "Ayla (Aqaba).",
+          "es": "Ayla (Aqaba)"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/04359e8b-10e7-5697-a806-02fe62d2901b.jpg"
       },
       {
         "id": "4d56acb6-f968-5add-bfc8-034bceab6cd0",
@@ -2828,7 +3028,16 @@
           "en": "Merchants would have used weights in the Grand Bazaar.",
           "fr": "Les commerçants utilisaient des poids au Grand Bazar.",
           "es": "Es posible que los comerciantes utilizaran pesas en el Gran Bazar."
-        }
+        },
+        "names": {
+          "ar": "البازار الكبير.",
+          "en": "Grand Bazaar",
+          "fr": "Grand Bazar.",
+          "es": "Gran Bazar.",
+          "tr": "Kapalıçarşı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/e5be2a24-fe97-5384-9ef6-761e71684a59.jpg"
       },
       {
         "id": "6a8ae693-2d75-5f78-8237-d88af864c11f",
@@ -2852,7 +3061,15 @@
           "en": "Weights would have been used to weigh the products in the soap factory.",
           "fr": "Des poids étaient utilisés pour peser les articles à la fabrique de savon.",
           "es": "Es posible que se utilizaran las pesas para pesar productos en la jabonería."
-        }
+        },
+        "names": {
+          "ar": "مصبنة طوقان.",
+          "en": "Tuqan Soap Factory.",
+          "fr": "Manufacture de savon de la famille Touqan.",
+          "es": "Jabonería de la familia Tuqan."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/1293a899-b14b-5706-ade0-29c48e6324ff.jpg"
       },
       {
         "id": "86ba73c0-7a63-5e24-ac7d-4ed99ca1aa85",
@@ -2876,7 +3093,15 @@
           "en": "Merchant would have used weights in the caravanserai.",
           "fr": "Les commerçants utilisaient des poids au caravansérail.",
           "es": "Es posible que los comerciantes utilizaran pesas en el caravasar."
-        }
+        },
+        "names": {
+          "ar": "وكالة بازرعة.",
+          "en": "Wikala (*caravanserai*) of Bazar’a.",
+          "fr": "Wikala (caravansérail) de Bazar’a.",
+          "es": "Caravasar *(wikala)* de Bazara."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/5a362e73-7821-50f5-8b10-ae71a6ee6783.jpg"
       },
       {
         "id": "aab7756a-7fbc-5383-97de-198c2614e471",

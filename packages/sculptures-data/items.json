@@ -2188,7 +2188,15 @@
           "en": "Jugs containing strainers were also used during the Fatimid period to filter water.",
           "fr": "Des cruches équipées de passoires étaient également utilisées pour filtrer l’eau à l’époque fatimide.",
           "es": "Vasija con filtro que también se usaron durante el periodo fatimí para filtrar el agua."
-        }
+        },
+        "names": {
+          "ar": "مصفاة.",
+          "en": "Strainer.",
+          "fr": "Filtre.",
+          "es": "Filtro"
+        },
+        "country_id": "swe",
+        "image": "https://inventory.metanull.eu/pub/400a9825-fef9-54f0-ba77-65e9cccecdaa.jpg"
       },
       {
         "id": "c3763c63-3f3b-50c5-aca7-c1958aac4be6",
@@ -2200,7 +2208,15 @@
           "en": "Another example of a water filter, or strainer, popular during the Fatimid period.",
           "fr": "Autre exemple de filtre à eau, courant à l’époque fatimide.",
           "es": "Otro ejemplo de un filtro de agua, o colador, popular durante el periodo fatimí."
-        }
+        },
+        "names": {
+          "ar": "مرشِّح لجرَّة ماء.",
+          "en": "Filter for a water-jar.",
+          "fr": "Filtre à gargoulette.",
+          "es": "Filtro para vasija de agua."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/bad9f897-e9a1-58ec-86c7-4e76641a5e87.jpg"
       }
     ],
     "gallery_references": [
@@ -2596,14 +2612,31 @@
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:46",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "بلاطة جدارية.",
+          "en": "Wall tile.",
+          "fr": "Carreau mural.",
+          "es": "Azulejo."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/cb812e4c-e3af-55ed-9f43-a59e108f3d5e.jpg"
       },
       {
         "id": "f5534c7f-4ba5-5e47-aca4-efc34893cbc5",
         "backward_compatibility": "mwnf3:objects:ISL:it:Mus01:6",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قطعة نسيج.",
+          "en": "Textile.",
+          "fr": "Tissu.",
+          "it": "Tessuto.",
+          "es": "Tejido."
+        },
+        "country_id": "ita",
+        "image": "https://inventory.metanull.eu/pub/2950347c-fa35-5b50-994f-4c1cf344f1dd.jpg"
       }
     ],
     "gallery_references": [
@@ -5702,7 +5735,15 @@
           "en": "The pulpit from the Andalusian Mosque dates back to the same time as the tank.",
           "fr": "Le minbar de la mosquée des Andalous date du même règne que la cuve.",
           "es": "El púlpito de la mezquita de los Andalusíes data de la misma época que la pila."
-        }
+        },
+        "names": {
+          "ar": "عناصر منبر.",
+          "en": "Parts of a *minbar*.",
+          "fr": "Éléments de minbar.",
+          "es": "Elementos de *minbar*."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/2c290d7e-800b-5a73-a822-d48fa0fd870d.jpg"
       },
       {
         "id": "2d18f6be-1841-5d1a-be81-c29b4cb2ccb2",
@@ -5714,7 +5755,15 @@
           "en": "The tank was found in the ablutions room of the Sa’did Ibn Yusuf Madrasa.",
           "fr": "La cuve a été découverte dans la salle d’ablution de la *madrasa* saadienne Ben Youssef",
           "es": "La pila fue encontrada en la sala de abluciones de la Madrasa saadí de Ibn Yusef."
-        }
+        },
+        "names": {
+          "ar": "مدرسة ابن يوسف.",
+          "en": "Ibn Yusuf Madrasa.",
+          "fr": "Madrasa Ben Youssef.",
+          "es": "Madrasa de Ibn Yusef."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/9df7baa8-d97d-551a-8b21-21b2d37df8b4.jpg"
       },
       {
         "id": "4ce16579-eead-5fac-be74-a2151bdada7c",
@@ -5723,7 +5772,15 @@
         "in_package": false,
         "justifications": {
           "fr": "Chellah est le site où elle a été découverte."
-        }
+        },
+        "names": {
+          "ar": "قصر المولى إسماعيل.",
+          "en": "Palace of Mulay Isma‘il.",
+          "fr": "Palais de Moulay Ismaïl.",
+          "es": "Palacio de Mulay Ismail."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/8f61b833-4d36-558a-84db-894c495967cd.jpg"
       },
       {
         "id": "9b938f78-dd1b-5b00-a709-62c11978cdc8",
@@ -5747,7 +5804,15 @@
           "en": "The pulpit from the Kutubiya was also made in Córdoba.",
           "fr": "Le minbar de la Koutoubiya est également de fabrication cordouane.",
           "es": "El púlpito de la Kutubiya también se hizo en Córdoba."
-        }
+        },
+        "names": {
+          "ar": "منبر.",
+          "en": "*Minbar*.",
+          "fr": "Minbar.",
+          "es": "*Minbar*."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/508544bc-6a97-5927-924c-62c10adbc5e4.jpg"
       },
       {
         "id": "c8dbcf02-342b-5fc8-bb35-85f68f7406dd",
@@ -5759,7 +5824,15 @@
           "en": "The Almoravid Koubba is the only surviving part of the Great Mosque of Ali Ibn Yusuf, which housed the tank.",
           "fr": "La *koubba* almoravide est la seule partie encore conservée de la grande mosquée d’Ali ibn Youssef qui abritait la cuve.",
           "es": "La Qubba almorávide es lo único que queda de la gran mezquita de Ali Ibn Yusuf que guardaba la pila."
-        }
+        },
+        "names": {
+          "ar": "القبة المرابطية.",
+          "en": "Almoravid Koubba.",
+          "fr": "Koubba almoravide.",
+          "es": "*Qubba* almorávide."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/487209da-e1c3-538b-ae22-ca903d601bfa.jpg"
       }
     ],
     "gallery_references": [
@@ -5983,7 +6056,15 @@
           "en": "The aquamaniles illustrated probably belonged to a fountain similar to those that decorated these palaces.",
           "fr": "Comparable à des fontaines qui décoraient ces palais.",
           "es": "Los surtidores ilustrados seguramente pertenecían a una fuente parecida a las que decoraban estos palacios."
-        }
+        },
+        "names": {
+          "ar": "قصر باردو.",
+          "en": "Bardo Palace.",
+          "fr": "Palais du Bardo.",
+          "es": "Palacio del Bardo"
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/9e0df7e2-1b06-55bc-be03-15799d96140f.jpg"
       },
       {
         "id": "781670ca-b4db-57b9-b537-ff501442790e",
@@ -5995,7 +6076,15 @@
           "en": "The aquamaniles illustrated probably belonged to a fountain similar to those that decorated these palaces.",
           "fr": "Comparable à des fontaines qui décoraient ces palais.",
           "es": "Los surtidores ilustrados seguramente pertenecían a una fuente parecida a las que decoraban estos palacios."
-        }
+        },
+        "names": {
+          "ar": "دار ابن عبد الله.",
+          "en": "Dar Ibn ‘Abd Allah.",
+          "fr": "Dar Ben Abdallah.",
+          "es": "Dar Ibn Abdallah"
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/acf8fc50-3ae6-59a5-bcaf-7237a20d2111.jpg"
       },
       {
         "id": "fa6093d9-67a1-536f-b0bb-38a5d07cb915",
@@ -6203,7 +6292,15 @@
           "en": "Sculpted works are typical of Islamic art.",
           "fr": "Les œuvres sculptées sont typiques de l’art islamique.",
           "es": "Las obras esculpidas son características del arte islámico."
-        }
+        },
+        "names": {
+          "ar": "القسطل.",
+          "en": "Qastal.",
+          "fr": "Al-Qastal.",
+          "es": "Al-Qastal"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/e497eaea-f402-5365-8134-40d343f45e80.jpg"
       },
       {
         "id": "57c9e92a-cab4-5c9c-a712-2d7757fdd1cc",
@@ -6215,7 +6312,16 @@
           "en": "Scene from daily life dating to the Fatimid era.",
           "fr": "Scène de vie quotidienne datant également de l’époque fatimide.",
           "es": "Escena de la vida cotidiana que data de la época fatimí."
-        }
+        },
+        "names": {
+          "ar": "أربعة قضبان عاجية.",
+          "de": "Vier Elfenbeinleisten.",
+          "en": "Four ivory panels.",
+          "fr": "Quatre panneaux d’ivoire.",
+          "es": "Cuatro placas de marfil."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/87df936f-56c3-54dd-a8e2-2d9363e1633c.jpg"
       },
       {
         "id": "d4bd63d5-45fe-58a2-9476-795fe33754f5",
@@ -6226,7 +6332,15 @@
           "ar": "الأعمال المنحوتة كانت مميزة للفن الإسلامي.",
           "en": "Sculpted works are typical of Islamic art.",
           "es": "Las obras esculpidas son características del arte islámico."
-        }
+        },
+        "names": {
+          "ar": "فلس نحاسي.",
+          "en": "Copper coin (*fils*).",
+          "fr": "Pièce de monnaie en cuivre (*fils*).",
+          "es": "Moneda de cobre (felús)."
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/c0252b14-a814-5d40-a0be-00d4721574e4.jpg"
       }
     ],
     "gallery_references": [
@@ -6406,7 +6520,15 @@
           "en": "Figurative representations were common in Islamic art during the Umayyad era.",
           "fr": "Les représentations figurées sont typiques de l’art islamique de l’époque omeyyade.",
           "es": "Las representaciones figurativas eran típicas del arte islámico durante la época omeya."
-        }
+        },
+        "names": {
+          "ar": "القسطل.",
+          "en": "Qastal.",
+          "fr": "Al-Qastal.",
+          "es": "Al-Qastal"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/e497eaea-f402-5365-8134-40d343f45e80.jpg"
       },
       {
         "id": "4c2db764-43bb-574c-9e09-b5f486e451c3",
@@ -6430,7 +6552,16 @@
           "en": "Examples of figurative representation in Islamic art.",
           "fr": "Autres exemples de représentation dans l’art islamique.",
           "es": "Ejemplos de la representación figurativa en el arte islámico."
-        }
+        },
+        "names": {
+          "ar": "واجهة قصر المْشَتّى.",
+          "de": "Fassade des Palastes von Mschatta.",
+          "en": "Façade of the Palace of Mushatta.",
+          "fr": "Façade du palais de Mchatta.",
+          "es": "Fachada del palacio de Mushatta."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/421feb04-5666-57f2-98e0-6bd29110d91a.jpg"
       }
     ],
     "gallery_references": [
@@ -6546,7 +6677,15 @@
           "en": "According to its inscription, this marble basin was made for the Córdoban citadel of al-Zahira, the palatine city inspired by its contemporary Madinat al-Zahra.",
           "fr": "Selon son inscription, cette vasque de marbre a été fabriquée pour la citadelle cordouane d’al-Zahira, ville palatine inspirée par sa contemporaine Madinat al-Zahra.",
           "es": "Según su inscripción, esta pila de mármol se hizo para el alcázar cordobés de al-Zahira, ciudad palatina inspirada en su contemporánea Madinat al-Zahra."
-        }
+        },
+        "names": {
+          "ar": "مدينة الزهراء.",
+          "en": "Madinat al-Zahra.",
+          "fr": "Madinat al-Zahira.",
+          "es": "Madinat al-Zahra."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/dfc89d48-57aa-5b60-9110-8f0a9f0d8f7a.jpg"
       },
       {
         "id": "9b8ab3ff-1008-5ce8-b032-994aad3a8bf4",
@@ -6570,7 +6709,15 @@
           "en": "A contemporary basin now kept in the Museum of Islamic Art in Algiers was found in the courtyard of the al-Bahar palace at Qal’at Bani Hammad.",
           "fr": "Nous savons que cette vasque, aujourd’hui conservée au Musée d’art islamique d’Alger, se trouvait dans le patio du palais al-Bahar à la Qalaa des Banu Hammad.",
           "es": "Se sabe que en el patio del palacio al-Bahar, en la Qal’a de los Banu Hammad, estaba la pila hoy conservada en el Museo de Arte Islámico de Argel."
-        }
+        },
+        "names": {
+          "ar": "موقع قلعة بني حماد.",
+          "en": "Site of Qal’at Bani Hammad.",
+          "fr": "Site de la Qalaa des Beni Hammad.",
+          "es": "Sitio arqueológico de la Qalaa de los Banu Hammad."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/7d441eee-2750-52b9-97bb-dc57ad8f6144.jpg"
       },
       {
         "id": "fc0f934c-a60f-5984-b826-24611c304045",
@@ -6826,14 +6973,32 @@
         "backward_compatibility": "mwnf3:objects:ISL:pt:Mus01_C:35",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "فسقية للوضوء.",
+          "en": "Ablutions font.",
+          "fr": "Vasque à ablutions.",
+          "pt": "Pia de abluções.",
+          "es": "Pila de abluciones."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/0c19149a-e679-5114-9af1-cd0b014ffada.jpg"
       },
       {
         "id": "d39f33c7-ab99-570d-9745-2ca9481fd5e0",
         "backward_compatibility": "mwnf3:objects:ISL:pt:Mus01_C:45",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "فسقية للوضوء.",
+          "en": "Font.",
+          "fr": "Vasque à ablutions.",
+          "pt": "Pia de abluções.",
+          "es": "Pila de abluciones."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/209eb28f-6aec-5c62-a44f-b36b70e3858f.jpg"
       }
     ],
     "gallery_references": [
@@ -7020,7 +7185,15 @@
           "en": "Both objects came from the same site.",
           "fr": "Ces deux éléments architectoniques proviennent également du même lieu.",
           "es": "Los dos objetos provienen del mismo lugar."
-        }
+        },
+        "names": {
+          "ar": "لوحة من الزليج المحفور والمطلي بالمينا.",
+          "en": "Excised *zellij* frieze.",
+          "fr": "Frise de zelliges excisés.",
+          "es": "Friso de azulejos."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/2a791dd3-1101-5478-903f-8ea5417ba9a3.jpg"
       },
       {
         "id": "b7aafb59-ff4c-5242-9b12-fb975a73f3bf",
@@ -7032,7 +7205,15 @@
           "en": "Both objects came from the same site.",
           "fr": "Ces deux éléments architectoniques proviennent également du même lieu.",
           "es": "Los dos objetos provienen del mismo lugar."
-        }
+        },
+        "names": {
+          "ar": "لوحة من الزليج.",
+          "en": "*Zellij* panel.",
+          "fr": "Panneau de zelliges.",
+          "es": "Alizar."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/a8e2a421-102c-58a0-8a88-016ec53fe9d6.jpg"
       },
       {
         "id": "eb481f86-d60b-5344-8c63-a9deba6327fa",
@@ -7044,7 +7225,15 @@
           "en": "The basin came from the Buinaniya.",
           "fr": "La Bouananiya est son lieu d’origine.",
           "es": "La pila proviene de la Buinaniya."
-        }
+        },
+        "names": {
+          "ar": "المدرسة البوعنانية.",
+          "en": "Buinaniya Madrasa.",
+          "fr": "Madrasa Bouinaniya.",
+          "es": "Madrasa Buinaniya."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/ee9fa235-de58-551e-8af0-20fcf2b23fa5.jpg"
       }
     ],
     "gallery_references": [
@@ -7952,7 +8141,15 @@
           "en": "A rider on horseback is illustrated on this fragment of a pilgrim’s flask.",
           "fr": "Un cavalier à cheval orne ce fragment de gourde de pèlerin.",
           "es": "En este fragmento de una cantimplora de peregrino se ilustra un jinete a caballo."
-        }
+        },
+        "names": {
+          "ar": "قطعة من قربة حاج.",
+          "en": "Pilgrim bottle fragment.",
+          "fr": "Fragment de gourde de pèlerin.",
+          "es": "Fragmento de cantimplora de peregrino."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/be0f54d8-5d20-5896-b86d-0538251c6561.jpg"
       },
       {
         "id": "55fc5107-27bd-5be8-8051-2257dd0d3ecc",
@@ -7964,7 +8161,16 @@
           "en": "Scenes of courtly life were part of the visual language of the ruling aristocracy, themselves military men and expert equestrians.",
           "fr": "Des scènes de la vie de cour faisaient partie de l’expression visuelle de l’aristocratie au pouvoir, eux-mêmes militaires et cavaliers émérites.",
           "es": "Las escenas de la vida en la corte fueron parte del lenguaje visual de la aristocracia dominante, los cuales eran militares y jinetes expertos."
-        }
+        },
+        "names": {
+          "ar": "مبخرة.",
+          "de": "Räucherkugel bzw. Handwärmer.",
+          "en": "Incense-burner or hand-warmer.",
+          "fr": "Encensoir ou chaufferette.",
+          "es": "Incensario."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/c47bdd2a-45fa-5add-a48c-f3fd1fd860f4.jpg"
       },
       {
         "id": "5e17faa4-c7b3-5b94-a409-86fb692fc4f7",
@@ -7976,7 +8182,15 @@
           "en": "A contemporary depiction of horsemanship among the military elite expressed in the medium of pottery.",
           "fr": "Coupe présentant en son centre une scène d’équitation pratiquée à l’époque parmi l’élite militaire.",
           "es": "Una representación contemporánea en cerámica de la equitación entre la élite militar."
-        }
+        },
+        "names": {
+          "ar": "زبدية.",
+          "en": "Bowl.",
+          "fr": "Coupe.",
+          "es": "Cuenco"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/55ef1c49-dd25-551a-915d-f839c3950650.jpg"
       },
       {
         "id": "c8e728a8-24d5-5276-9cf2-91b5df2f2c74",
@@ -7988,14 +8202,30 @@
           "en": "Although al-Raqqa was established during the Abbasid period, it became a major centre for the production of ceramics under the Atabegs and Ayyubids.",
           "fr": "Bien que la ville de Raqqa ait été fondée durant la période abbasside, elle devint un centre majeur de la production de céramique sous les Atabegs et les Ayyoubides.",
           "es": "Aunque Raqa se fundó durante el periodo abasí, se convirtió en un importante centro de producción de cerámica bajo los atabegs y los ayubíes."
-        }
+        },
+        "names": {
+          "ar": "سور مدينة الرافقة (الرقة) وبوابة بغداد.",
+          "en": "City walls of Rafiqa (Raqqa) and the Baghdad Gate.",
+          "fr": "Remparts de la ville de Rafiqa (Raqqa) et Porte de Bagdad.",
+          "es": "Murallas de al-Rafiqa y puerta de Bagdad."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/ea97b32d-9224-5817-af00-25d0c2b31100.jpg"
       },
       {
         "id": "e0d16aa5-ba9f-5a87-9eda-9fb21d5d5304",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "صحن.",
+          "en": "Plate.",
+          "fr": "Assiette.",
+          "es": "Plato."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/3cec180c-4738-5ae3-b13b-181111f1098a.jpg"
       }
     ],
     "gallery_references": [
@@ -8185,7 +8415,15 @@
           "en": "Birds with their symbolic meanings derived from Antiquity are popular, as seen here both on stone and on textile.",
           "fr": "Les oiseaux porteurs de sens symboliques inspirés de l’Antiquité sont très populaires, comme on le voit ici aussi bien sur pierre que sur textile.",
           "es": "Las aves, con sus significados simbólicos provenientes de la Antigüedad, son populares, como se observa aquí, tanto en piedra como en textiles."
-        }
+        },
+        "names": {
+          "ar": "خمس قطع من النسيج.",
+          "en": "Five textile fragments.",
+          "fr": "Cinq fragments textiles.",
+          "es": "Cinco fragmentos de tejido."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/7d638e61-85e6-5061-b77b-d845b14e3a26.jpg"
       },
       {
         "id": "3c8378b6-b15a-5c21-874e-d7a334e3dab5",
@@ -8197,7 +8435,15 @@
           "en": "This panel with a human figure seated with crossed legs, very popular in Islamic art, is an authentic example from the Fatimid period.",
           "fr": "Ce panneau représentant une figure humaine assise jambes croisées, très populaire dans l’art islamique, est un authentique exemple de la période fatimide.",
           "es": "Este fragmento con una figura humana sentada con las piernas cruzadas, bastante popular en el arte Islámico, es un ejemplo auténtico del período fatimí."
-        }
+        },
+        "names": {
+          "ar": "عنصر معماري مأخوذ من حمام.",
+          "en": "Frescoed architectural fragment from a bathhouse.",
+          "fr": "Fragment de fresque de hammam.",
+          "es": "Fragmento de fresco de unos baños."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/143abde8-db11-5cf1-8f9a-fbbebf2fad52.jpg"
       },
       {
         "id": "bdc03d7c-67e4-537e-aadc-51915c290523",
@@ -8209,7 +8455,16 @@
           "en": "Animal figures also occupy an important place in Islamic art on structures such as fortifications.",
           "fr": "Les figures animales occupent aussi une place importante dans l’art islamique sur des constructions telles que les fortifications.",
           "es": "Figuras animales también ocupan un importante lugar en el arte Islámico en estructuras, fortificaciones, por ejemplo."
-        }
+        },
+        "names": {
+          "ar": "قلعة ديار بكر.",
+          "en": "Diyarbakır Citadel.",
+          "fr": "Citadelle de Diyarbakır.",
+          "es": "Ciudadela de Diyarbakır.",
+          "tr": "Diyarbakır Kalesi."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/cd0f4dc5-1c5b-5cea-9884-821efaa0059c.jpg"
       },
       {
         "id": "f182ff55-9430-5024-a039-37fa558855a8",
@@ -8221,7 +8476,15 @@
           "en": "The motif of a human figure seated with crossed legs developed from Central Asian origins and was very popular in Islamic art.",
           "fr": "Le motif de la figure humaine assise jambes croisées, originaire d’Asie centrale, est devenue très populaire dans l’art islamique.",
           "es": "El motivo de una figura humana sentada con las piernas cruzadas se originó en Asia central y era bastante popular en el arte Islámico."
-        }
+        },
+        "names": {
+          "ar": "طبق كبير.",
+          "en": "Large dish.",
+          "fr": "Grande assiette",
+          "es": "Fuente."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/858ed108-a00b-5f84-9bfc-9b9d4668cec8.jpg"
       },
       {
         "id": "f968ffa7-16a4-52b6-80b2-1fcd031e5841",
@@ -8245,7 +8508,15 @@
           "en": "In parallel with the figurative art of the Anatolian Seljuqs, this plaster graffito is a fine example of Fatimid art.",
           "fr": "Parallèlement à l’art figuratif des Seldjoukides d’Anatolie, ce graffiti sur enduit de plâtre est un bel exemple de l’art fatimide.",
           "es": "Junto con el arte figurativo de los selyuquíes de Anatolia, este grafito en yeso es un excelente ejemplo del arte fatimí."
-        }
+        },
+        "names": {
+          "ar": "مخربشات على طلاء من الجبس.",
+          "en": "Plaster graffito.",
+          "fr": "Graffiti sur enduit de plâtre.",
+          "es": "Grafito en yeso."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/e65d22c3-c6ee-5efd-98aa-0b1c24ec9c21.jpg"
       }
     ],
     "gallery_references": [
@@ -8577,49 +8848,105 @@
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:18",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عنصران من تلبيس جداري.",
+          "en": "Two fragments of wall-cladding.",
+          "fr": "Deux éléments de revêtement mural.",
+          "es": "Dos azulejos de revestimiento mural."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/30617f0f-3b92-5217-8e1e-cc6d171518d0.jpg"
       },
       {
         "id": "32f51c73-db81-5e08-a00e-f89af413a9e1",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:11",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "صنجة.",
+          "en": "Monetary weight (*sandja*).",
+          "fr": "Dénéral (sandja).",
+          "es": "Ponderal *(sanya)*."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/917bbe84-5280-5e47-addf-bc7ea8e4fee0.jpg"
       },
       {
         "id": "3b5f2dc7-2856-5500-bdbd-60cb4110286c",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "سراج زيت.",
+          "en": "Oil lamp.",
+          "fr": "Lampe à huile.",
+          "es": "Candil."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/08753d9b-571b-5f21-8dc7-4fcc022383f3.jpg"
       },
       {
         "id": "3d072f2e-a588-5c4d-be86-0d22f531c2a4",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:50",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر.",
+          "en": "Funerary stele of Abu ‘Abdallah ibn Khalifa.",
+          "fr": "Stèle funéraire d’Abou Abdallah ibn Khalifa.",
+          "es": "Estela funeraria de Abu Abd Allah ibn Jalifa."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/6c732d35-43b4-5306-9271-959d0dd88580.jpg"
       },
       {
         "id": "42ff53d4-9927-52e7-a2e9-d92b4322baa4",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر أبي بكر بن يوسف.",
+          "en": "Funerary stele of Abu Bakr ibn Yusuf.",
+          "fr": "Stèle funéraire d’Abi-Beker ben Youssouf.",
+          "es": "Estela funeraria de Abu Bakr ibn Yusuf."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/c08daa02-2adc-5294-8fbd-a534c318a78f.jpg"
       },
       {
         "id": "468d72e0-71b1-5e62-aa9c-e37d8f31588f",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:22",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ساكف",
+          "en": "Lintel.",
+          "fr": "Linteau.",
+          "es": "Dintel."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/b09101b8-9a85-5d71-91c1-94420bd34d8b.jpg"
       },
       {
         "id": "5518987f-66ff-5665-9182-5ca8e89a0429",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:13",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "كوز.",
+          "en": "Small jug.",
+          "fr": "Cruchon.",
+          "es": "Jarro."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/a015c575-9f07-559f-ab7e-05d38f4e40f9.jpg"
       },
       {
         "id": "621e7f00-7493-56e2-823c-2c4e19a49512",
@@ -8640,70 +8967,150 @@
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:9",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عصفور.",
+          "en": "Bird.",
+          "fr": "Oiseau.",
+          "es": "Figura de ave."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/50f60bbd-b7d5-5e39-87f4-181ff949142b.jpg"
       },
       {
         "id": "8c014da5-017c-55b6-8f07-95eca4b0b551",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عنصر من مقرنصات (مقربص).",
+          "en": "Stalactite element (*muqarbas*).",
+          "fr": "Élément de stalactite (mouqarbas).",
+          "es": "Elemento arquitectónico (mocárabe)."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/1ef619be-e5da-5024-8a24-8263078467a8.jpg"
       },
       {
         "id": "a004a10d-3cdb-5c4d-b997-279f9d62f53d",
         "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "موقع قلعة بني حماد.",
+          "en": "Site of Qal’at Bani Hammad.",
+          "fr": "Site de la Qalaa des Beni Hammad.",
+          "es": "Sitio arqueológico de la Qalaa de los Banu Hammad."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/7d441eee-2750-52b9-97bb-dc57ad8f6144.jpg"
       },
       {
         "id": "a1ecccac-7c93-51a2-925d-06173dfe0ef5",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شُرّافة.",
+          "en": "Merlon.",
+          "fr": "Merlon.",
+          "es": "Merlón."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/82cc544e-c803-5678-a576-fe3af962be98.jpg"
       },
       {
         "id": "ab174424-adb1-5b57-8894-d4b10135d015",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:39",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ركنيّة عقد.",
+          "en": "Cornerstone of an arch.",
+          "fr": "Écoinçon d’un arc.",
+          "es": "Albanega."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/af1d8598-d239-5b7e-9c3e-55b9e28e154c.jpg"
       },
       {
         "id": "c4ac31eb-6f1b-5165-aa8c-6ca2a725eb94",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:12",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عناصر شماسية.",
+          "en": "Elements of a shutter.",
+          "fr": "Eléments de claustra.",
+          "es": "Elementos de celosía."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/b43e2fc8-bcc1-532b-ac90-5874f97cd502.jpg"
       },
       {
         "id": "c5070245-7d2c-55a5-bf28-dc6513ffa7ed",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:40",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "تاج.",
+          "en": "Capital.",
+          "fr": "Chapiteau.",
+          "es": "Capitel."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/9c34a759-4112-5469-a003-0dfac8ac5ca6.jpg"
       },
       {
         "id": "c9ec39c2-939a-5f52-a861-5f554111d598",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عُميّد من قطعة واحدة.",
+          "en": "Monolithic column.",
+          "fr": "Colonnette monolithe.",
+          "es": "Columnita monolítica"
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/ea158326-40ec-545f-9fea-19c37917dd2c.jpg"
       },
       {
         "id": "f5b2109e-d0d5-5d0d-bfe9-a0c8b044bdd8",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:14",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قطعة من طبق.",
+          "en": "Fragment of plate.",
+          "fr": "Fragment de plat.",
+          "es": "Fragmento de plato."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/2764c096-cc76-5e58-908b-36639dcf9054.jpg"
       },
       {
         "id": "fa7b3b4f-6bf6-5a1a-84fd-8f70a066b1c8",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:42",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "جزء من لوحة مطعّمة بالخزف.",
+          "en": "Fragment of a panel with ceramic inlay.",
+          "fr": "Fragment de panneau en marqueterie céramique.",
+          "es": "Fragmento de panel de cerámica."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/29a01ea0-079a-5b22-8c5b-1309410a9533.jpg"
       }
     ],
     "gallery_references": [
@@ -8824,56 +9231,120 @@
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر مُخلف بن عثمان.",
+          "en": "Funerary stele of Mukhlef ibn ‘Uthman.",
+          "fr": "Stèle funéraire de Mukhlef ben Othman.",
+          "es": "Estela funeraria de Mujlef ibn Uzman."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/2712b228-0f4e-57c1-a140-d4a7c6dcf10d.jpg"
       },
       {
         "id": "2cc72222-bc92-577d-b037-11f94f619161",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:18",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عنصران من تلبيس جداري.",
+          "en": "Two fragments of wall-cladding.",
+          "fr": "Deux éléments de revêtement mural.",
+          "es": "Dos azulejos de revestimiento mural."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/30617f0f-3b92-5217-8e1e-cc6d171518d0.jpg"
       },
       {
         "id": "32f51c73-db81-5e08-a00e-f89af413a9e1",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:11",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "صنجة.",
+          "en": "Monetary weight (*sandja*).",
+          "fr": "Dénéral (sandja).",
+          "es": "Ponderal *(sanya)*."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/917bbe84-5280-5e47-addf-bc7ea8e4fee0.jpg"
       },
       {
         "id": "3b5f2dc7-2856-5500-bdbd-60cb4110286c",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "سراج زيت.",
+          "en": "Oil lamp.",
+          "fr": "Lampe à huile.",
+          "es": "Candil."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/08753d9b-571b-5f21-8dc7-4fcc022383f3.jpg"
       },
       {
         "id": "3d072f2e-a588-5c4d-be86-0d22f531c2a4",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:50",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر.",
+          "en": "Funerary stele of Abu ‘Abdallah ibn Khalifa.",
+          "fr": "Stèle funéraire d’Abou Abdallah ibn Khalifa.",
+          "es": "Estela funeraria de Abu Abd Allah ibn Jalifa."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/6c732d35-43b4-5306-9271-959d0dd88580.jpg"
       },
       {
         "id": "42ff53d4-9927-52e7-a2e9-d92b4322baa4",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر أبي بكر بن يوسف.",
+          "en": "Funerary stele of Abu Bakr ibn Yusuf.",
+          "fr": "Stèle funéraire d’Abi-Beker ben Youssouf.",
+          "es": "Estela funeraria de Abu Bakr ibn Yusuf."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/c08daa02-2adc-5294-8fbd-a534c318a78f.jpg"
       },
       {
         "id": "468d72e0-71b1-5e62-aa9c-e37d8f31588f",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:22",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ساكف",
+          "en": "Lintel.",
+          "fr": "Linteau.",
+          "es": "Dintel."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/b09101b8-9a85-5d71-91c1-94420bd34d8b.jpg"
       },
       {
         "id": "5518987f-66ff-5665-9182-5ca8e89a0429",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:13",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "كوز.",
+          "en": "Small jug.",
+          "fr": "Cruchon.",
+          "es": "Jarro."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/a015c575-9f07-559f-ab7e-05d38f4e40f9.jpg"
       },
       {
         "id": "621e7f00-7493-56e2-823c-2c4e19a49512",
@@ -8894,14 +9365,30 @@
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:9",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عصفور.",
+          "en": "Bird.",
+          "fr": "Oiseau.",
+          "es": "Figura de ave."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/50f60bbd-b7d5-5e39-87f4-181ff949142b.jpg"
       },
       {
         "id": "8c014da5-017c-55b6-8f07-95eca4b0b551",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عنصر من مقرنصات (مقربص).",
+          "en": "Stalactite element (*muqarbas*).",
+          "fr": "Élément de stalactite (mouqarbas).",
+          "es": "Elemento arquitectónico (mocárabe)."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/1ef619be-e5da-5024-8a24-8263078467a8.jpg"
       },
       {
         "id": "9b8ab3ff-1008-5ce8-b032-994aad3a8bf4",
@@ -8915,49 +9402,105 @@
         "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "موقع قلعة بني حماد.",
+          "en": "Site of Qal’at Bani Hammad.",
+          "fr": "Site de la Qalaa des Beni Hammad.",
+          "es": "Sitio arqueológico de la Qalaa de los Banu Hammad."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/7d441eee-2750-52b9-97bb-dc57ad8f6144.jpg"
       },
       {
         "id": "a1ecccac-7c93-51a2-925d-06173dfe0ef5",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شُرّافة.",
+          "en": "Merlon.",
+          "fr": "Merlon.",
+          "es": "Merlón."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/82cc544e-c803-5678-a576-fe3af962be98.jpg"
       },
       {
         "id": "ab174424-adb1-5b57-8894-d4b10135d015",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:39",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ركنيّة عقد.",
+          "en": "Cornerstone of an arch.",
+          "fr": "Écoinçon d’un arc.",
+          "es": "Albanega."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/af1d8598-d239-5b7e-9c3e-55b9e28e154c.jpg"
       },
       {
         "id": "c4ac31eb-6f1b-5165-aa8c-6ca2a725eb94",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:12",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عناصر شماسية.",
+          "en": "Elements of a shutter.",
+          "fr": "Eléments de claustra.",
+          "es": "Elementos de celosía."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/b43e2fc8-bcc1-532b-ac90-5874f97cd502.jpg"
       },
       {
         "id": "c5070245-7d2c-55a5-bf28-dc6513ffa7ed",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:40",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "تاج.",
+          "en": "Capital.",
+          "fr": "Chapiteau.",
+          "es": "Capitel."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/9c34a759-4112-5469-a003-0dfac8ac5ca6.jpg"
       },
       {
         "id": "c9ec39c2-939a-5f52-a861-5f554111d598",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عُميّد من قطعة واحدة.",
+          "en": "Monolithic column.",
+          "fr": "Colonnette monolithe.",
+          "es": "Columnita monolítica"
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/ea158326-40ec-545f-9fea-19c37917dd2c.jpg"
       },
       {
         "id": "fa7b3b4f-6bf6-5a1a-84fd-8f70a066b1c8",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:42",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "جزء من لوحة مطعّمة بالخزف.",
+          "en": "Fragment of a panel with ceramic inlay.",
+          "fr": "Fragment de panneau en marqueterie céramique.",
+          "es": "Fragmento de panel de cerámica."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/29a01ea0-079a-5b22-8c5b-1309410a9533.jpg"
       }
     ],
     "gallery_references": [
@@ -9111,7 +9654,15 @@
           "en": "The metalwork shop at Madinat al-Zahra would have produced this bronze hind.",
           "fr": "Cette biche de bronze doit être issue de l’atelier de fonderie de Madinat al-Zahra.",
           "es": "Del taller de metalistería de Madinat al-Zahra debió de salir este cervatillo de bronce."
-        }
+        },
+        "names": {
+          "ar": "مدينة الزهراء.",
+          "en": "Madinat al-Zahra.",
+          "fr": "Madinat al-Zahira.",
+          "es": "Madinat al-Zahra."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/dfc89d48-57aa-5b60-9110-8f0a9f0d8f7a.jpg"
       },
       {
         "id": "9b938f78-dd1b-5b00-a709-62c11978cdc8",
@@ -9135,7 +9686,16 @@
           "en": "This Portuguese ivory plaque is carved with a deer similar to this hind-shaped spout.",
           "fr": "Sur cette petite plaque d’ivoire, portugaise, figure un cervidé sculpté semblable au petit cerf tête de fontaine.",
           "es": "En esta plaquita de marfil, portuguesa, aparece tallado un cérvido similar al cervatillo surtidor."
-        }
+        },
+        "names": {
+          "ar": "شاهدة تزيينية (قطعة).",
+          "en": "Ornamental plaque (fragment).",
+          "fr": "Stèle ornementale (fragment).",
+          "pt": "Placa ornamental (fragmento).",
+          "es": "Fragmento de placa ornamental."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/5a5743a6-a63e-59a4-9387-3afddc2b81dd.jpg"
       },
       {
         "id": "fa6093d9-67a1-536f-b0bb-38a5d07cb915",
@@ -9689,7 +10249,15 @@
           "en": "Numerous related stucco sculptures of females were found in this palace.",
           "fr": "De nombreuses sculptures féminines en stuc en rapport ont été trouvées dans ce palais.",
           "es": "En este palacio se encontraron numerosas esculturas femeninas de estuco relacionadas."
-        }
+        },
+        "names": {
+          "ar": "خربة المفجر.",
+          "en": "Khirbat al-Mafjar.",
+          "fr": "Khirbat al-Mafjar.",
+          "es": "Jirbat al-Mafyar."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/4ac0cba0-2130-5cf5-94c4-dd7810661e2b.jpg"
       },
       {
         "id": "5911555b-ab81-5062-bc00-bb4a9b8d4c1a",
@@ -9701,7 +10269,15 @@
           "en": "This is a view of Mushatta Palace where the torso was found. As the palace was never finished, the plan is not fully known.",
           "fr": "Vue du palais de Mchatta où la statue fragmentaire a été trouvée. Comme le palais n’a jamais été terminé, le plan n’en est pas complètement connu.",
           "es": "Esta es una perspectiva del Palacio de Mushatta donde se encontró el torso. Como el palacio no se completó nunca, el proyecto no se conoce plenamente."
-        }
+        },
+        "names": {
+          "ar": "قصر المشتى.",
+          "en": "Qasr al-Mushatta.",
+          "fr": "Qasr al-Mchatta.",
+          "es": "Qasr al-Mushatta"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/1a18d574-8318-522e-b8e3-799290a9d27f.jpg"
       },
       {
         "id": "8473d6b1-ff39-54e8-aa27-a77f671d0068",
@@ -9737,7 +10313,16 @@
           "en": "This is the façade of Mushatta Palace from which the female torso comes.",
           "fr": "Façade du palais de Mchatta, d’où provient le fragment de statue féminine.",
           "es": "Esta es la fachada del Palacio de Mushatta del cual proviene el torso femenino."
-        }
+        },
+        "names": {
+          "ar": "واجهة قصر المْشَتّى.",
+          "de": "Fassade des Palastes von Mschatta.",
+          "en": "Façade of the Palace of Mushatta.",
+          "fr": "Façade du palais de Mchatta.",
+          "es": "Fachada del palacio de Mushatta."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/421feb04-5666-57f2-98e0-6bd29110d91a.jpg"
       }
     ],
     "gallery_references": [
@@ -10353,49 +10938,105 @@
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر مُخلف بن عثمان.",
+          "en": "Funerary stele of Mukhlef ibn ‘Uthman.",
+          "fr": "Stèle funéraire de Mukhlef ben Othman.",
+          "es": "Estela funeraria de Mujlef ibn Uzman."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/2712b228-0f4e-57c1-a140-d4a7c6dcf10d.jpg"
       },
       {
         "id": "2cc72222-bc92-577d-b037-11f94f619161",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:18",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عنصران من تلبيس جداري.",
+          "en": "Two fragments of wall-cladding.",
+          "fr": "Deux éléments de revêtement mural.",
+          "es": "Dos azulejos de revestimiento mural."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/30617f0f-3b92-5217-8e1e-cc6d171518d0.jpg"
       },
       {
         "id": "32f51c73-db81-5e08-a00e-f89af413a9e1",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:11",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "صنجة.",
+          "en": "Monetary weight (*sandja*).",
+          "fr": "Dénéral (sandja).",
+          "es": "Ponderal *(sanya)*."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/917bbe84-5280-5e47-addf-bc7ea8e4fee0.jpg"
       },
       {
         "id": "3b5f2dc7-2856-5500-bdbd-60cb4110286c",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "سراج زيت.",
+          "en": "Oil lamp.",
+          "fr": "Lampe à huile.",
+          "es": "Candil."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/08753d9b-571b-5f21-8dc7-4fcc022383f3.jpg"
       },
       {
         "id": "3d072f2e-a588-5c4d-be86-0d22f531c2a4",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:50",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر.",
+          "en": "Funerary stele of Abu ‘Abdallah ibn Khalifa.",
+          "fr": "Stèle funéraire d’Abou Abdallah ibn Khalifa.",
+          "es": "Estela funeraria de Abu Abd Allah ibn Jalifa."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/6c732d35-43b4-5306-9271-959d0dd88580.jpg"
       },
       {
         "id": "468d72e0-71b1-5e62-aa9c-e37d8f31588f",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:22",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ساكف",
+          "en": "Lintel.",
+          "fr": "Linteau.",
+          "es": "Dintel."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/b09101b8-9a85-5d71-91c1-94420bd34d8b.jpg"
       },
       {
         "id": "5518987f-66ff-5665-9182-5ca8e89a0429",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:13",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "كوز.",
+          "en": "Small jug.",
+          "fr": "Cruchon.",
+          "es": "Jarro."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/a015c575-9f07-559f-ab7e-05d38f4e40f9.jpg"
       },
       {
         "id": "821bf5d1-f03e-5876-835a-d807cdb83a6e",
@@ -10409,14 +11050,30 @@
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:9",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عصفور.",
+          "en": "Bird.",
+          "fr": "Oiseau.",
+          "es": "Figura de ave."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/50f60bbd-b7d5-5e39-87f4-181ff949142b.jpg"
       },
       {
         "id": "8c014da5-017c-55b6-8f07-95eca4b0b551",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عنصر من مقرنصات (مقربص).",
+          "en": "Stalactite element (*muqarbas*).",
+          "fr": "Élément de stalactite (mouqarbas).",
+          "es": "Elemento arquitectónico (mocárabe)."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/1ef619be-e5da-5024-8a24-8263078467a8.jpg"
       },
       {
         "id": "9b8ab3ff-1008-5ce8-b032-994aad3a8bf4",
@@ -10430,49 +11087,105 @@
         "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "موقع قلعة بني حماد.",
+          "en": "Site of Qal’at Bani Hammad.",
+          "fr": "Site de la Qalaa des Beni Hammad.",
+          "es": "Sitio arqueológico de la Qalaa de los Banu Hammad."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/7d441eee-2750-52b9-97bb-dc57ad8f6144.jpg"
       },
       {
         "id": "a1ecccac-7c93-51a2-925d-06173dfe0ef5",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شُرّافة.",
+          "en": "Merlon.",
+          "fr": "Merlon.",
+          "es": "Merlón."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/82cc544e-c803-5678-a576-fe3af962be98.jpg"
       },
       {
         "id": "ab174424-adb1-5b57-8894-d4b10135d015",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:39",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ركنيّة عقد.",
+          "en": "Cornerstone of an arch.",
+          "fr": "Écoinçon d’un arc.",
+          "es": "Albanega."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/af1d8598-d239-5b7e-9c3e-55b9e28e154c.jpg"
       },
       {
         "id": "c4ac31eb-6f1b-5165-aa8c-6ca2a725eb94",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:12",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عناصر شماسية.",
+          "en": "Elements of a shutter.",
+          "fr": "Eléments de claustra.",
+          "es": "Elementos de celosía."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/b43e2fc8-bcc1-532b-ac90-5874f97cd502.jpg"
       },
       {
         "id": "c5070245-7d2c-55a5-bf28-dc6513ffa7ed",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:40",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "تاج.",
+          "en": "Capital.",
+          "fr": "Chapiteau.",
+          "es": "Capitel."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/9c34a759-4112-5469-a003-0dfac8ac5ca6.jpg"
       },
       {
         "id": "c9ec39c2-939a-5f52-a861-5f554111d598",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عُميّد من قطعة واحدة.",
+          "en": "Monolithic column.",
+          "fr": "Colonnette monolithe.",
+          "es": "Columnita monolítica"
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/ea158326-40ec-545f-9fea-19c37917dd2c.jpg"
       },
       {
         "id": "fa7b3b4f-6bf6-5a1a-84fd-8f70a066b1c8",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:42",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "جزء من لوحة مطعّمة بالخزف.",
+          "en": "Fragment of a panel with ceramic inlay.",
+          "fr": "Fragment de panneau en marqueterie céramique.",
+          "es": "Fragmento de panel de cerámica."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/29a01ea0-079a-5b22-8c5b-1309410a9533.jpg"
       }
     ],
     "gallery_references": [
@@ -12202,7 +12915,15 @@
           "en": "The bowl of the fountain of the Alhambra palace is carried by lions, showing a long tradition.",
           "fr": "Portée par les lions, la coupe de la fontaine du palais de l’Alhambra est issue d’une longue tradition.",
           "es": "La pila de la fuente del Palacio de la Alhambra está apoyada sobre leones, formando parte de una larga tradición."
-        }
+        },
+        "names": {
+          "ar": "الحمراء.",
+          "en": "Alhambra.",
+          "fr": "Alhambra.",
+          "es": "Alhambra."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/3859d2e3-e75c-51c5-9427-cde592b880ba.jpg"
       },
       {
         "id": "f5b2109e-d0d5-5d0d-bfe9-a0c8b044bdd8",
@@ -12214,7 +12935,15 @@
           "en": "A very lively painted lion on a pottery bowl.",
           "fr": "Lion peint de très vivante manière sur un plat en céramique.",
           "es": "Un león vívidamente pintado en un cuenco de cerámica."
-        }
+        },
+        "names": {
+          "ar": "قطعة من طبق.",
+          "en": "Fragment of plate.",
+          "fr": "Fragment de plat.",
+          "es": "Fragmento de plato."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/2764c096-cc76-5e58-908b-36639dcf9054.jpg"
       },
       {
         "id": "fc0f934c-a60f-5984-b826-24611c304045",
@@ -12409,7 +13138,15 @@
           "en": "This is a view of the palace complex of Mushatta where the lion was found.",
           "fr": "Vue du complexe palatial de Mchatta, où fut trouvé le lion.",
           "es": "Esta es una perspectiva del complejo palatino de Mushatta, el lugar donde se encontró el león."
-        }
+        },
+        "names": {
+          "ar": "قصر المشتى.",
+          "en": "Qasr al-Mushatta.",
+          "fr": "Qasr al-Mchatta.",
+          "es": "Qasr al-Mushatta"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/1a18d574-8318-522e-b8e3-799290a9d27f.jpg"
       },
       {
         "id": "94369548-7782-52b0-adae-f3a0d1f1caf6",
@@ -12428,7 +13165,15 @@
           "en": "The Nasrid fountain with lion sculptures carrying a bowl is a famous example of a lion fountain in Islamic art.",
           "fr": "La fontaine nasride avec des sculptures de lion portant une coupe est un célèbre exemple de fontaine à lion dans l’art islamique.",
           "es": "La fuente nazarí con esculturas en forma de leones que portan un cuenco, constituye un ejemplo conocido de una fuente con forma de león en el arte islámico."
-        }
+        },
+        "names": {
+          "ar": "الحمراء.",
+          "en": "Alhambra.",
+          "fr": "Alhambra.",
+          "es": "Alhambra."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/3859d2e3-e75c-51c5-9427-cde592b880ba.jpg"
       },
       {
         "id": "d2379132-91f2-5a63-8508-ac615d5bf783",
@@ -12452,7 +13197,16 @@
           "en": "This view shows the façade of Mushatta. In the triangles on the left side, numerous lions are shown next to other animals.",
           "fr": "Vue de la façade de Mchatta. Dans les triangles à gauche, de nombreux lions sont montrés à côté d’autres animaux.",
           "es": "Esta perspectiva muestra la fachada de Mushatta. En los espacios triangulares del lado izquierdo, se pueden observar numerosos leones junto con otros animales."
-        }
+        },
+        "names": {
+          "ar": "واجهة قصر المْشَتّى.",
+          "de": "Fassade des Palastes von Mschatta.",
+          "en": "Façade of the Palace of Mushatta.",
+          "fr": "Façade du palais de Mchatta.",
+          "es": "Fachada del palacio de Mushatta."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/421feb04-5666-57f2-98e0-6bd29110d91a.jpg"
       },
       {
         "id": "fa6093d9-67a1-536f-b0bb-38a5d07cb915",
@@ -12642,7 +13396,15 @@
           "en": "Further adaptations of Sassanian visual symbolism can be seen on this early Umayyad coin.",
           "fr": "Différentes adaptations du symbolisme visuel sassanide peuvent être vues sur cette pièce de monnaie de la première période omeyyade.",
           "es": "Se pueden observar adaptaciones posteriores del simbolismo visual sasánida en esta moneda de periodo omeya temprano."
-        }
+        },
+        "names": {
+          "ar": "درهم فضي.",
+          "en": "Coin (*dirham*).",
+          "fr": "Pièce de monnaie (dinar).",
+          "es": "Moneda (dirham)"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/0dc1bf87-a1b1-57f6-8372-33704aab45a0.jpg"
       },
       {
         "id": "13951807-1976-5889-bda1-2525eb1918f4",
@@ -12654,14 +13416,30 @@
           "en": "A fragment of a statue that originally adorned Qasr al-Hayr al-Gharbi. It was once extensively decorated with carved and sculpted stucco.",
           "fr": "Fragment de statue qui décorait à l’origine Qasr al-Khayr al-Gharbi, autrefois largement décoré de stuc sculpté et gravé.",
           "es": "Fragmento de una estatua que adornó originalmente Qasr al-hayr al-gharbi. Anteriormente estuvo decorado profusamente con estuco labrado y esculpido."
-        }
+        },
+        "names": {
+          "ar": "قصر الحير الغربي.",
+          "en": "Qasr al-Hayr al-Gharbi.",
+          "fr": "Qasr al-Khayr al-Gharbi.",
+          "es": "Qasr al-Hayr al-Garbi."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/41413784-4fa8-542b-b3d0-bf149cc986e8.jpg"
       },
       {
         "id": "1db2b71c-1b13-500e-b0ba-c510c7396de5",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "أجزاء من لوحة جدارية.",
+          "en": "Fragment of a mural painting.",
+          "fr": "Fragment de peinture murale.",
+          "es": "Fragmento de pintura mural."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/1a185e79-1470-5c2e-b98b-e41767fff4dd.jpg"
       },
       {
         "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
@@ -12673,21 +13451,45 @@
           "en": "The palace of Khirbat al-Mafjar is thought to have been constructed by the Caliph Hisham. This fragment from a statue is thought to have represented him.",
           "fr": "Le palais de Khirbat al-Mafjar est considéré comme ayant été construit par le calife Hicham. Ce fragment de statue est supposé le représenter.",
           "es": "Se piensa que el palacio de Khirbat al-Majfar fue construyó por el califa Hisham. Se cree que este fragmento de estatua era una representación suya."
-        }
+        },
+        "names": {
+          "ar": "خربة المفجر.",
+          "en": "Khirbat al-Mafjar.",
+          "fr": "Khirbat al-Mafjar.",
+          "es": "Jirbat al-Mafyar."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/4ac0cba0-2130-5cf5-94c4-dd7810661e2b.jpg"
       },
       {
         "id": "5dcd5e36-d273-5b03-a8de-93f266c0b45c",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "لوحة سيكو (Secco).",
+          "en": "Floor painting.",
+          "fr": "Peinture de sol.",
+          "es": "Pavimento pintado."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/a7a9476a-b0a2-5e70-b79c-dc03ebcb0026.jpg"
       },
       {
         "id": "702385a6-59dd-5149-9e14-fc7215434a3d",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ساكف باب.",
+          "en": "Door Lintel.",
+          "fr": "Linteau de porte.",
+          "es": "Dintel de puerta."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/821763c3-07ea-5ee3-8d26-96a5f69e321c.jpg"
       },
       {
         "id": "d861eea4-5eaf-5a74-81c8-1ecb64d9a358",
@@ -12698,7 +13500,15 @@
           "ar": "طراز الملابس الموجودة على هذا التمثال ربما مستمدة من إيران الساسانية و رمزها للسلطة و الأزياء امتص من قبل المجتمع الإسلامي.",
           "en": "The style of clothing found on this statue is probably derived from Sassanian Iran; their power symbolism and fashion was absorbed by the Islamic court.",
           "es": "El estilo de la vestimenta de esta estatua deriva probablemente de la Irán sasánida; los símbolos de poder y la moda fueron absorbidos por la corte islámica."
-        }
+        },
+        "names": {
+          "ar": "لوحة سيكو (Secco).",
+          "en": "Floor painting.",
+          "fr": "Peinture de sol.",
+          "es": "Pavimento pintado."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/71681d49-4b30-5979-94ca-617f6b6e18a2.jpg"
       }
     ],
     "gallery_references": [
@@ -12847,7 +13657,15 @@
           "en": "The sculpture was found in a Umayyad palace in Jordan similar to this one, where scultures were also found.",
           "fr": "La sculpture fut trouvé dans un palais omeyyade de Jordanie similaire à celui-ci, où des sculptures furent également mises au jour.",
           "es": "La escultura fue descubierta en un palacio omeya en Jordania similar a este, donde también se hallaron esculturas."
-        }
+        },
+        "names": {
+          "ar": "قصر الحير الغربي.",
+          "en": "Qasr al-Hayr al-Gharbi.",
+          "fr": "Qasr al-Khayr al-Gharbi.",
+          "es": "Qasr al-Hayr al-Garbi."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/41413784-4fa8-542b-b3d0-bf149cc986e8.jpg"
       },
       {
         "id": "4c2db764-43bb-574c-9e09-b5f486e451c3",
@@ -12871,7 +13689,15 @@
           "en": "A similar female nude statue was found in this palace also dated to the Umayyad period.",
           "fr": "Semblable statue de femme nue fut trouvée dans ce palais également daté la période omeyyade.",
           "es": "Se encontró una estatua similar de un desnudo femenino en este palacio que también data del periodo omeya."
-        }
+        },
+        "names": {
+          "ar": "خربة المفجر.",
+          "en": "Khirbat al-Mafjar.",
+          "fr": "Khirbat al-Mafjar.",
+          "es": "Jirbat al-Mafyar."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/4ac0cba0-2130-5cf5-94c4-dd7810661e2b.jpg"
       },
       {
         "id": "5911555b-ab81-5062-bc00-bb4a9b8d4c1a",
@@ -12883,7 +13709,15 @@
           "en": "The sculpture was uncovered during excavations at the palace; it formed part of the decorative elements of the palace.",
           "fr": "La sculpture fut découverte au cours de fouilles au palais ; elle faisait partie des éléments décoratifs du palais.",
           "es": "La escultura se descubrió durante las excavaciones del palacio, formaba parte de los elementos decorativos del palacio."
-        }
+        },
+        "names": {
+          "ar": "قصر المشتى.",
+          "en": "Qasr al-Mushatta.",
+          "fr": "Qasr al-Mchatta.",
+          "es": "Qasr al-Mushatta"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/1a18d574-8318-522e-b8e3-799290a9d27f.jpg"
       },
       {
         "id": "8473d6b1-ff39-54e8-aa27-a77f671d0068",
@@ -12907,7 +13741,15 @@
           "en": "Another representation of a naked woman in figurative art.",
           "fr": "Autre représentation de femme nue dans l’art figuratif.",
           "es": "Otra representación de una mujer desnuda en arte figurativo."
-        }
+        },
+        "names": {
+          "ar": "دمية على هيئة راقصة.",
+          "en": "Figure of a dancer.",
+          "fr": "Figurine d’une danseuse.",
+          "es": "Figura de bailarina"
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/9215c22a-777c-5c68-be9f-4ee5e84015bb.jpg"
       },
       {
         "id": "d2379132-91f2-5a63-8508-ac615d5bf783",
@@ -13292,7 +14134,15 @@
           "en": "It shows the same techniques, is from the same period and is probably from the same artistic workshop.",
           "fr": "Mêmes technique et période, et vraisemblablement même atelier artistique",
           "es": "Muestra las mismas técnicas, es del mismo período y probablemente también del mismo taller."
-        }
+        },
+        "names": {
+          "ar": "تاج عمود صليبي.",
+          "en": "Column capital.",
+          "fr": "Chapiteau de colonne.",
+          "es": "Capitel."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/b6805a5c-3be8-5329-a30a-cea165b3892c.jpg"
       },
       {
         "id": "81acb278-b50c-55e2-a7e9-2609f1bc2386",
@@ -13304,7 +14154,15 @@
           "en": "It shows the same techniques, is from the same period and is probably from the same artistic workshop.",
           "fr": "Mêmes technique et période, et vraisemblablement même atelier artistique",
           "es": "Muestra las mismas técnicas, es del mismo período y probablemente también del mismo taller."
-        }
+        },
+        "names": {
+          "ar": "إفريز رومانيسك رخامي.",
+          "en": "Marble frieze.",
+          "fr": "Frise de marbre.",
+          "es": "Friso de mármol."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/10c759ca-955c-5e53-bd39-ed221cbfa68e.jpg"
       },
       {
         "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
@@ -13316,7 +14174,15 @@
           "en": "It was at al-Aqsa Mosque.",
           "fr": "Provient de la mosquée al-Aqsa.",
           "es": "Estaba en la mezquita al-Aqsa."
-        }
+        },
+        "names": {
+          "ar": "الجامع الاقصى.",
+          "en": "Aqsa Mosque.",
+          "fr": "Mosquée al-Aqsa.",
+          "es": "Mezquita al-Aqsa."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       }
     ],
     "gallery_references": [
@@ -13451,7 +14317,16 @@
           "en": "This glass mosque lamp is similar to the one depicted on the plaque.",
           "fr": "Même genre d’inscriptions et mêmes motifs végétaux.",
           "es": "Esta lámpara de mezquita es similar a la que está tallada en la placa."
-        }
+        },
+        "names": {
+          "ar": "مصباح مسجد.",
+          "en": "Mosque lamp.",
+          "fr": "Lampe de mosquée.",
+          "es": "Lámpara de mezquita.",
+          "tr": "Cam Kandil."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/a1c262ef-e7cb-540d-b2a6-4585d1e99ba9.jpg"
       },
       {
         "id": "34df1c16-bb7b-5506-b850-656c4bb0f8aa",
@@ -13462,7 +14337,15 @@
           "ar": "يتميز مجمع قلاوون باللوحات وزينة الرخام بنفس الأسلوب",
           "en": "This is the complex of Qalawun which is characterized by panels and decorations inlaid with marble in the same style.",
           "es": "El complejo de Qalawun se caracteriza por los paneles y la decoración incrustados en marfil del mismo estilo."
-        }
+        },
+        "names": {
+          "ar": "مجمّع السلطان المنصور قلاوون (ضريح ومدرسة وبيمارستان).",
+          "en": "Complex of Sultan al-Mansur Qalawun (Mausoleum, Madrasa and Hospital).",
+          "fr": "Complexe du sultan al-Mansour Qalawun (mausolée, *madrasa* et hôpital).",
+          "es": "Complejo del sultán al-Mansur Qalawun (mausoleo, madrasa y hospital)."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/735b96e7-2311-5f61-a94e-6882bc377b56.jpg"
       },
       {
         "id": "4b8ffd8e-ec58-5468-9e97-3c950ff7e6c9",
@@ -13474,14 +14357,32 @@
           "en": "This glass mosque lamp is similar to the one depicted on the plaque.",
           "fr": "Cette lampe de mosquée en verre est caractérisée par ses inscriptions et son décor peint.",
           "es": "Esta lámpara de mezquita es similar a la que está tallada en la placa."
-        }
+        },
+        "names": {
+          "ar": "مصباح مسجد.",
+          "de": "Moscheelampe.",
+          "en": "Mosque lamp.",
+          "fr": "Lampe de mosquée.",
+          "es": "Lámpara de mezquita."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/670c89c3-18d5-55b0-ae34-fde63709cf5c.jpg"
       },
       {
         "id": "96998c67-dbae-5a23-8da5-21ca0231218d",
         "backward_compatibility": "mwnf3:objects:ISL:pt:Mus01_A:36",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "فانوس مسجد.",
+          "en": "Mosque lamp.",
+          "fr": "Lampe de mosquée.",
+          "pt": "Lâmpada de mesquita.",
+          "es": "Lámpara de mezquita."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/e806d8a6-6f90-588b-96ca-fdc21ec5ff7e.jpg"
       },
       {
         "id": "fc08aed9-57d3-59a7-83b4-abccf4770360",
@@ -13493,7 +14394,15 @@
           "en": "A similar candlestick to the ones depicted on the plaque.",
           "fr": "Même genre d’inscriptions et mêmes motifs végétaux.",
           "es": "Candelero similar a los que están tallados en la placa."
-        }
+        },
+        "names": {
+          "ar": "شمعدان قلاوون.",
+          "en": "Candlestick of Qalawun.",
+          "fr": "Chandelier de Qalawun.",
+          "es": "Candelero de Qalawun."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/87f7fb96-3920-5321-8044-d6eb584a6d4e.jpg"
       }
     ],
     "gallery_references": [
@@ -14530,7 +15439,15 @@
         "in_package": false,
         "justifications": {
           "fr": "La mosquée d’Alger et celle de Nédroma ont été construites par le prince almoravide Ali ibn Youssef et le panneau date de la même époque."
-        }
+        },
+        "names": {
+          "ar": "دار الجامعي.",
+          "en": "Dar al-Jam’i.",
+          "fr": "Dar Jamai.",
+          "es": "Dar Yamai."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/3aebc9dd-afc0-52c7-8cf5-82a6ad98e6fb.jpg"
       },
       {
         "id": "2681aa7c-6872-5aaf-afc2-c1e0626603b4",
@@ -14685,7 +15602,15 @@
           "en": "An example of Tulunid carving like that found on the back of this panel.",
           "fr": "Exemple de sculpture toulounide comme celle trouvée au dos de ce panneau.",
           "es": "Un ejemplo de talla tuluní que se puede encontrar al reverso de este panel."
-        }
+        },
+        "names": {
+          "ar": "لوحة.",
+          "en": "Panel.",
+          "fr": "Panneau.",
+          "es": "Panel."
+        },
+        "country_id": "swe",
+        "image": "https://inventory.metanull.eu/pub/b03f7b71-6133-580e-b039-9dc403a9f8d5.jpg"
       },
       {
         "id": "3ea5c496-cc96-57ae-a6e7-f47f064d36cb",
@@ -14697,7 +15622,15 @@
           "en": "An example of Tulunid carving like that found on the back of this panel.",
           "fr": "Exemple de sculpture toulounide comme celle trouvée au dos de ce panneau.",
           "es": "Un ejemplo de talla tuluní que se puede encontrar al reverso de este panel."
-        }
+        },
+        "names": {
+          "ar": "لوحة من خشب الساج.",
+          "en": "Teak Panel.",
+          "fr": "Panneau de teck.",
+          "es": "Tablero de madera de teca."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/159d5b85-e110-5b1e-be42-facb4738f98e.jpg"
       },
       {
         "id": "bf0840a4-cd98-55b6-a59b-9fb15a8371a3",
@@ -14709,7 +15642,15 @@
           "en": "An example of Tulunid carving like that found on the back of this panel.",
           "fr": "Exemple de sculpture toulounide comme celle trouvée au dos de ce panneau.",
           "es": "Un ejemplo de talla tuluní que se puede encontrar al reverso de este panel."
-        }
+        },
+        "names": {
+          "ar": "حشوة من الخشـــب.",
+          "en": "Wooden panel.",
+          "fr": "Panneau de bois.",
+          "es": "Tablero."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/0e096a21-e7de-5275-b0ea-a29b305e6c66.jpg"
       }
     ],
     "gallery_references": [
@@ -15399,7 +16340,16 @@
           "en": "The popular motif of hunter on horseback was used not only on architectural decoration but also on pottery.",
           "fr": "Le populaire motif du chasseur à cheval était utilisé non seulement dans la décoration architecturale mais aussi en poterie.",
           "es": "Además de ser usado en decoración arquitectónica, el popular motivo de un cazador montando a caballo también se usaba en la alfarería."
-        }
+        },
+        "names": {
+          "ar": "صحن رسم عليه فارس.",
+          "en": "Bowl with horseman.",
+          "fr": "Coupe au cavalier.",
+          "it": "Coppa con cavaliere.",
+          "es": "Cuenco con jinete."
+        },
+        "country_id": "ita",
+        "image": "https://inventory.metanull.eu/pub/57b73727-aee7-5429-9e6f-6199d9689a05.jpg"
       },
       {
         "id": "7959f13a-40f0-5501-8335-12c91669bced",
@@ -15411,7 +16361,15 @@
           "en": "Some sultans used the hunter on horseback motif on coins, reflecting the importance of hunting for Turks.",
           "fr": "Certains sultans utilisaient le motif du chasseur à cheval sur des pièces de monnaie, attestant ainsi l’importance de la chasse pour les Turks.",
           "es": "Algunos sultanes usaron el motivo del cazador montando a caballo en monedas, reflejando la importancia de la caza para los turcos."
-        }
+        },
+        "names": {
+          "ar": "قطعة نقدية (درهم).",
+          "en": "Coin (*dirham*).",
+          "fr": "Pièce de monnaie.",
+          "es": "Dirham"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/75219d82-45a4-5d9b-aee4-f5849cd71cf5.jpg"
       },
       {
         "id": "8932676a-f7af-54cc-8d3e-01fd198ce017",
@@ -15423,7 +16381,16 @@
           "en": "The motif of a hunter on horseback was very popular as seen on both this steel mirror and the plaster relief decoration from a palace of Anatolian Seljuqs.",
           "fr": "Le motif du chasseur à cheval était très populaire comme on le voit sur ce miroir en acier et le relief décoratif en plâtre provenant d’un palais seldjoukide d’Anatolie.",
           "es": "El motivo de un cazador montando a caballo era bastante popular, como se puede ver tanto en este espejo de acero como en el relieve de yeso, decoración de un palacio de los selyuquíes de Anatolia."
-        }
+        },
+        "names": {
+          "ar": "مرآة.",
+          "en": "Mirror.",
+          "fr": "Miroir.",
+          "es": "Espejo.",
+          "tr": "Ayna."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/a2ee600b-6efc-5abd-9d67-4d99c3158357.jpg"
       },
       {
         "id": "a9b80a0b-c333-5d03-b325-0cba0190cdc5",
@@ -15435,7 +16402,15 @@
           "en": "Both works display the motif of a hunter on horseback, who is depicted in a medallion on this basin.",
           "fr": "Les deux œuvres reprennent le motif du chasseur à cheval, représenté dans un médaillon sur ce bassin.",
           "es": "Ambos trabajos muestran el motivo de un cazador montando a caballo, el cual está representado en un medallón en esta jofaina."
-        }
+        },
+        "names": {
+          "ar": "حوض.",
+          "en": "Basin.",
+          "fr": "Bassin.",
+          "es": "Jofaina"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/c289cafa-5812-5316-871f-766e2f0f0fcf.jpg"
       }
     ],
     "gallery_references": [
@@ -15717,14 +16692,32 @@
           "ar": "كما يبين هذا المثال النقوش كانت تدمج في الجدران الخارجية.",
           "en": "As this example shows, reliefs were integrated into outer walls.",
           "es": "Como muestra este ejemplo los relieves estaban incorporados en los muros exteriores."
-        }
+        },
+        "names": {
+          "ar": "المسجد الكبير.",
+          "en": "Great Mosque (Ulu Cami).",
+          "fr": "Grande Mosquée (Ulu Cami).",
+          "es": "Mezquita Mayor (Ulu Cami).",
+          "tr": "Ulu Cami."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/5b285a38-05e0-5fe1-96ac-872cd1b90fdc.jpg"
       },
       {
         "id": "5a976782-2e17-535a-a5f4-a976eb8efe6f",
         "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "المسجد الكبير ومشفى ديوريجي.",
+          "en": "Great Mosque and Hospital of Divriği.",
+          "fr": "Grande Mosquée et hôpital de Divriği.",
+          "es": "Mezquita Mayor y Hospital de Divriği.",
+          "tr": "Divriği Ulu Cami."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/88423243-febd-5861-98af-5a4485a517e4.jpg"
       },
       {
         "id": "5d840131-b4e3-5e84-97f2-6fc2d62ea0e2",
@@ -15736,7 +16729,16 @@
           "en": "The relief could also have come from a palace such as this one.",
           "fr": "Le relief pouvait aussi venir d’un palais tel que celui-ci.",
           "es": "El relieve también podría provenir de un palacio como este."
-        }
+        },
+        "names": {
+          "ar": "قصر قوباداباد.",
+          "en": "Kubadabad Palace.",
+          "fr": "Palais de Kubadabad.",
+          "es": "Palacio de Kubadabad",
+          "tr": "Kubad Abad Sarayı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/f541f120-b873-5276-a107-8c5b9b0e23ce.jpg"
       },
       {
         "id": "869b86b6-4148-5cb5-9768-3fc1fa05ffdb",
@@ -15760,7 +16762,16 @@
           "en": "This is another view of the wall with integrated reliefs.",
           "fr": "Autre vue du mur décoré de reliefs intégrés.",
           "es": "Esta es otra perspectiva del muro con relieves."
-        }
+        },
+        "names": {
+          "ar": "قلعة ديار بكر.",
+          "en": "Diyarbakır Citadel.",
+          "fr": "Citadelle de Diyarbakır.",
+          "es": "Ciudadela de Diyarbakır.",
+          "tr": "Diyarbakır Kalesi."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/cd0f4dc5-1c5b-5cea-9884-821efaa0059c.jpg"
       },
       {
         "id": "bf493827-b9c5-5274-9a0c-39fb761a93e1",
@@ -16079,56 +17090,120 @@
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر مُخلف بن عثمان.",
+          "en": "Funerary stele of Mukhlef ibn ‘Uthman.",
+          "fr": "Stèle funéraire de Mukhlef ben Othman.",
+          "es": "Estela funeraria de Mujlef ibn Uzman."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/2712b228-0f4e-57c1-a140-d4a7c6dcf10d.jpg"
       },
       {
         "id": "2cc72222-bc92-577d-b037-11f94f619161",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:18",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عنصران من تلبيس جداري.",
+          "en": "Two fragments of wall-cladding.",
+          "fr": "Deux éléments de revêtement mural.",
+          "es": "Dos azulejos de revestimiento mural."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/30617f0f-3b92-5217-8e1e-cc6d171518d0.jpg"
       },
       {
         "id": "32f51c73-db81-5e08-a00e-f89af413a9e1",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:11",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "صنجة.",
+          "en": "Monetary weight (*sandja*).",
+          "fr": "Dénéral (sandja).",
+          "es": "Ponderal *(sanya)*."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/917bbe84-5280-5e47-addf-bc7ea8e4fee0.jpg"
       },
       {
         "id": "3b5f2dc7-2856-5500-bdbd-60cb4110286c",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "سراج زيت.",
+          "en": "Oil lamp.",
+          "fr": "Lampe à huile.",
+          "es": "Candil."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/08753d9b-571b-5f21-8dc7-4fcc022383f3.jpg"
       },
       {
         "id": "3d072f2e-a588-5c4d-be86-0d22f531c2a4",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:50",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر.",
+          "en": "Funerary stele of Abu ‘Abdallah ibn Khalifa.",
+          "fr": "Stèle funéraire d’Abou Abdallah ibn Khalifa.",
+          "es": "Estela funeraria de Abu Abd Allah ibn Jalifa."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/6c732d35-43b4-5306-9271-959d0dd88580.jpg"
       },
       {
         "id": "42ff53d4-9927-52e7-a2e9-d92b4322baa4",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر أبي بكر بن يوسف.",
+          "en": "Funerary stele of Abu Bakr ibn Yusuf.",
+          "fr": "Stèle funéraire d’Abi-Beker ben Youssouf.",
+          "es": "Estela funeraria de Abu Bakr ibn Yusuf."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/c08daa02-2adc-5294-8fbd-a534c318a78f.jpg"
       },
       {
         "id": "468d72e0-71b1-5e62-aa9c-e37d8f31588f",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:22",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ساكف",
+          "en": "Lintel.",
+          "fr": "Linteau.",
+          "es": "Dintel."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/b09101b8-9a85-5d71-91c1-94420bd34d8b.jpg"
       },
       {
         "id": "5518987f-66ff-5665-9182-5ca8e89a0429",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:13",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "كوز.",
+          "en": "Small jug.",
+          "fr": "Cruchon.",
+          "es": "Jarro."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/a015c575-9f07-559f-ab7e-05d38f4e40f9.jpg"
       },
       {
         "id": "621e7f00-7493-56e2-823c-2c4e19a49512",
@@ -16142,14 +17217,30 @@
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:9",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عصفور.",
+          "en": "Bird.",
+          "fr": "Oiseau.",
+          "es": "Figura de ave."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/50f60bbd-b7d5-5e39-87f4-181ff949142b.jpg"
       },
       {
         "id": "8c014da5-017c-55b6-8f07-95eca4b0b551",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عنصر من مقرنصات (مقربص).",
+          "en": "Stalactite element (*muqarbas*).",
+          "fr": "Élément de stalactite (mouqarbas).",
+          "es": "Elemento arquitectónico (mocárabe)."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/1ef619be-e5da-5024-8a24-8263078467a8.jpg"
       },
       {
         "id": "9b8ab3ff-1008-5ce8-b032-994aad3a8bf4",
@@ -16163,49 +17254,105 @@
         "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "موقع قلعة بني حماد.",
+          "en": "Site of Qal’at Bani Hammad.",
+          "fr": "Site de la Qalaa des Beni Hammad.",
+          "es": "Sitio arqueológico de la Qalaa de los Banu Hammad."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/7d441eee-2750-52b9-97bb-dc57ad8f6144.jpg"
       },
       {
         "id": "a1ecccac-7c93-51a2-925d-06173dfe0ef5",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شُرّافة.",
+          "en": "Merlon.",
+          "fr": "Merlon.",
+          "es": "Merlón."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/82cc544e-c803-5678-a576-fe3af962be98.jpg"
       },
       {
         "id": "ab174424-adb1-5b57-8894-d4b10135d015",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:39",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ركنيّة عقد.",
+          "en": "Cornerstone of an arch.",
+          "fr": "Écoinçon d’un arc.",
+          "es": "Albanega."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/af1d8598-d239-5b7e-9c3e-55b9e28e154c.jpg"
       },
       {
         "id": "c4ac31eb-6f1b-5165-aa8c-6ca2a725eb94",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:12",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عناصر شماسية.",
+          "en": "Elements of a shutter.",
+          "fr": "Eléments de claustra.",
+          "es": "Elementos de celosía."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/b43e2fc8-bcc1-532b-ac90-5874f97cd502.jpg"
       },
       {
         "id": "c5070245-7d2c-55a5-bf28-dc6513ffa7ed",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:40",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "تاج.",
+          "en": "Capital.",
+          "fr": "Chapiteau.",
+          "es": "Capitel."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/9c34a759-4112-5469-a003-0dfac8ac5ca6.jpg"
       },
       {
         "id": "c9ec39c2-939a-5f52-a861-5f554111d598",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عُميّد من قطعة واحدة.",
+          "en": "Monolithic column.",
+          "fr": "Colonnette monolithe.",
+          "es": "Columnita monolítica"
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/ea158326-40ec-545f-9fea-19c37917dd2c.jpg"
       },
       {
         "id": "fa7b3b4f-6bf6-5a1a-84fd-8f70a066b1c8",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:42",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "جزء من لوحة مطعّمة بالخزف.",
+          "en": "Fragment of a panel with ceramic inlay.",
+          "fr": "Fragment de panneau en marqueterie céramique.",
+          "es": "Fragmento de panel de cerámica."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/29a01ea0-079a-5b22-8c5b-1309410a9533.jpg"
       }
     ],
     "gallery_references": [
@@ -16981,56 +18128,120 @@
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر مُخلف بن عثمان.",
+          "en": "Funerary stele of Mukhlef ibn ‘Uthman.",
+          "fr": "Stèle funéraire de Mukhlef ben Othman.",
+          "es": "Estela funeraria de Mujlef ibn Uzman."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/2712b228-0f4e-57c1-a140-d4a7c6dcf10d.jpg"
       },
       {
         "id": "2cc72222-bc92-577d-b037-11f94f619161",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:18",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عنصران من تلبيس جداري.",
+          "en": "Two fragments of wall-cladding.",
+          "fr": "Deux éléments de revêtement mural.",
+          "es": "Dos azulejos de revestimiento mural."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/30617f0f-3b92-5217-8e1e-cc6d171518d0.jpg"
       },
       {
         "id": "32f51c73-db81-5e08-a00e-f89af413a9e1",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:11",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "صنجة.",
+          "en": "Monetary weight (*sandja*).",
+          "fr": "Dénéral (sandja).",
+          "es": "Ponderal *(sanya)*."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/917bbe84-5280-5e47-addf-bc7ea8e4fee0.jpg"
       },
       {
         "id": "3b5f2dc7-2856-5500-bdbd-60cb4110286c",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "سراج زيت.",
+          "en": "Oil lamp.",
+          "fr": "Lampe à huile.",
+          "es": "Candil."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/08753d9b-571b-5f21-8dc7-4fcc022383f3.jpg"
       },
       {
         "id": "3d072f2e-a588-5c4d-be86-0d22f531c2a4",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:50",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر.",
+          "en": "Funerary stele of Abu ‘Abdallah ibn Khalifa.",
+          "fr": "Stèle funéraire d’Abou Abdallah ibn Khalifa.",
+          "es": "Estela funeraria de Abu Abd Allah ibn Jalifa."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/6c732d35-43b4-5306-9271-959d0dd88580.jpg"
       },
       {
         "id": "42ff53d4-9927-52e7-a2e9-d92b4322baa4",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شاهدة قبر أبي بكر بن يوسف.",
+          "en": "Funerary stele of Abu Bakr ibn Yusuf.",
+          "fr": "Stèle funéraire d’Abi-Beker ben Youssouf.",
+          "es": "Estela funeraria de Abu Bakr ibn Yusuf."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/c08daa02-2adc-5294-8fbd-a534c318a78f.jpg"
       },
       {
         "id": "468d72e0-71b1-5e62-aa9c-e37d8f31588f",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:22",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ساكف",
+          "en": "Lintel.",
+          "fr": "Linteau.",
+          "es": "Dintel."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/b09101b8-9a85-5d71-91c1-94420bd34d8b.jpg"
       },
       {
         "id": "5518987f-66ff-5665-9182-5ca8e89a0429",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:13",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "كوز.",
+          "en": "Small jug.",
+          "fr": "Cruchon.",
+          "es": "Jarro."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/a015c575-9f07-559f-ab7e-05d38f4e40f9.jpg"
       },
       {
         "id": "621e7f00-7493-56e2-823c-2c4e19a49512",
@@ -17051,14 +18262,30 @@
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:9",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عصفور.",
+          "en": "Bird.",
+          "fr": "Oiseau.",
+          "es": "Figura de ave."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/50f60bbd-b7d5-5e39-87f4-181ff949142b.jpg"
       },
       {
         "id": "8c014da5-017c-55b6-8f07-95eca4b0b551",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عنصر من مقرنصات (مقربص).",
+          "en": "Stalactite element (*muqarbas*).",
+          "fr": "Élément de stalactite (mouqarbas).",
+          "es": "Elemento arquitectónico (mocárabe)."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/1ef619be-e5da-5024-8a24-8263078467a8.jpg"
       },
       {
         "id": "9b8ab3ff-1008-5ce8-b032-994aad3a8bf4",
@@ -17072,56 +18299,120 @@
         "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "موقع قلعة بني حماد.",
+          "en": "Site of Qal’at Bani Hammad.",
+          "fr": "Site de la Qalaa des Beni Hammad.",
+          "es": "Sitio arqueológico de la Qalaa de los Banu Hammad."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/7d441eee-2750-52b9-97bb-dc57ad8f6144.jpg"
       },
       {
         "id": "a1ecccac-7c93-51a2-925d-06173dfe0ef5",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "شُرّافة.",
+          "en": "Merlon.",
+          "fr": "Merlon.",
+          "es": "Merlón."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/82cc544e-c803-5678-a576-fe3af962be98.jpg"
       },
       {
         "id": "ab174424-adb1-5b57-8894-d4b10135d015",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:39",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "ركنيّة عقد.",
+          "en": "Cornerstone of an arch.",
+          "fr": "Écoinçon d’un arc.",
+          "es": "Albanega."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/af1d8598-d239-5b7e-9c3e-55b9e28e154c.jpg"
       },
       {
         "id": "c4ac31eb-6f1b-5165-aa8c-6ca2a725eb94",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:12",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عناصر شماسية.",
+          "en": "Elements of a shutter.",
+          "fr": "Eléments de claustra.",
+          "es": "Elementos de celosía."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/b43e2fc8-bcc1-532b-ac90-5874f97cd502.jpg"
       },
       {
         "id": "c5070245-7d2c-55a5-bf28-dc6513ffa7ed",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:40",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "تاج.",
+          "en": "Capital.",
+          "fr": "Chapiteau.",
+          "es": "Capitel."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/9c34a759-4112-5469-a003-0dfac8ac5ca6.jpg"
       },
       {
         "id": "c9ec39c2-939a-5f52-a861-5f554111d598",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عُميّد من قطعة واحدة.",
+          "en": "Monolithic column.",
+          "fr": "Colonnette monolithe.",
+          "es": "Columnita monolítica"
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/ea158326-40ec-545f-9fea-19c37917dd2c.jpg"
       },
       {
         "id": "f5b2109e-d0d5-5d0d-bfe9-a0c8b044bdd8",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:14",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قطعة من طبق.",
+          "en": "Fragment of plate.",
+          "fr": "Fragment de plat.",
+          "es": "Fragmento de plato."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/2764c096-cc76-5e58-908b-36639dcf9054.jpg"
       },
       {
         "id": "fa7b3b4f-6bf6-5a1a-84fd-8f70a066b1c8",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:42",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "جزء من لوحة مطعّمة بالخزف.",
+          "en": "Fragment of a panel with ceramic inlay.",
+          "fr": "Fragment de panneau en marqueterie céramique.",
+          "es": "Fragmento de panel de cerámica."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/29a01ea0-079a-5b22-8c5b-1309410a9533.jpg"
       }
     ],
     "gallery_references": [
@@ -17258,7 +18549,15 @@
           "en": "The capital also comes from Challa.",
           "fr": "Le chapiteau et la stèle proviennent également de Chellah.",
           "es": "El capitel también proviene de Chella."
-        }
+        },
+        "names": {
+          "ar": "تاج عمود.",
+          "en": "Capital.",
+          "fr": "Chapiteau.",
+          "es": "Capitel."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/87610eb6-0919-557e-8192-08b413269cef.jpg"
       },
       {
         "id": "24f186e6-e44f-577a-a4ef-893641b5f718",
@@ -17270,7 +18569,15 @@
           "en": "The capital also comes from Challa.",
           "fr": "Le chapiteau et la stèle proviennent également de Chellah.",
           "es": "El capitel también proviene de Chella."
-        }
+        },
+        "names": {
+          "ar": "شاهدة قبر (روسية).",
+          "en": "Funerary stele.",
+          "fr": "Stèle funéraire.",
+          "es": "Estela funeraria."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/55a0a283-bf1f-5479-a0ff-7a2d4977c685.jpg"
       },
       {
         "id": "b2d48a7c-9750-53f4-8be9-cf580ad8008f",
@@ -17282,7 +18589,15 @@
           "en": "This object was found at Challa.",
           "fr": "Chellah est son site d’origine.",
           "es": "Este objeto fue encontrado en Chella."
-        }
+        },
+        "names": {
+          "ar": "روضة شالة.",
+          "en": "Challa Necropolis.",
+          "fr": "Nécropole de Chellah.",
+          "es": "Necrópolis de Chellah."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/dd725483-b5bb-5157-b7ac-c676ea9c98c7.jpg"
       }
     ],
     "gallery_references": [
@@ -17992,7 +19307,15 @@
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01_A:50",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قارورة الحاج.",
+          "en": "Pilgrim’s flask.",
+          "fr": "Gourde de pèlerin.",
+          "es": "Cantimplora de peregrino."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/6007f7e6-d54b-53c2-9a75-22454b7bb8e3.jpg"
       },
       {
         "id": "b233b9f9-606a-5020-b525-f2dfcb494a75",
@@ -18004,7 +19327,15 @@
           "en": "A pilgrim’s flask attributed by its distinct blazon, an 8-petalled rosette without a shield, to a prince of the late Ayyubid period.",
           "fr": "Gourde de pèlerin attribuée à un prince de la période ayyoubide tardive en raison de son blason, qui se distingue par une rosette à huit pétales sans écusson.",
           "es": "Una cantimplora de peregrino atribuida a un príncipe del periodo ayubí tardío, por su blasón distintivo, un rosetón de 8 pétalos sin escudo."
-        }
+        },
+        "names": {
+          "ar": "مطرة الحاج.",
+          "en": "Pilgrim bottle.",
+          "fr": "Gourde de pèlerin.",
+          "es": "Cantimplora."
+        },
+        "country_id": "swe",
+        "image": "https://inventory.metanull.eu/pub/3df37706-4c98-5b48-9470-d462dbf728f3.jpg"
       },
       {
         "id": "b6518af0-5029-5a94-8521-524613b875bb",
@@ -18016,7 +19347,15 @@
           "en": "The Ayyubid ruler al-Zahir, to whom this stone is attributed, was in charge of fortifying the northern walls of Aleppo and the Aleppo Citadel.",
           "fr": "C’est au souverain ayyoubide al-Dahir, à qui cette pierre est attribuée, que l’on doit la fortification des murs nord d’Alep et de sa citadelle.",
           "es": "El gobernador ayubí al-Zahir, a quién se dedica esta piedra, estaba al cargo de la fortificación de las murallas del norte de Alepo y su ciudadela."
-        }
+        },
+        "names": {
+          "ar": "قلعة حلب.",
+          "en": "Citadel of Aleppo.",
+          "fr": "Citadelle d'Alep.",
+          "es": "Ciudadela de Alepo."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/1531880c-4ef6-55d6-b597-7091b1011faa.jpg"
       }
     ],
     "gallery_references": [
@@ -18218,7 +19557,15 @@
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:6",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "تابوت بدر الشرفي.",
+          "en": "Cenotaph of Badr al-Sharafi.",
+          "fr": "Cénotaphe de Badr al-Charafi.",
+          "es": "Cenotafio de Badr al-Sharafi."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/f8303799-6846-5482-9218-96b436be5123.jpg"
       },
       {
         "id": "85a438c7-5833-5106-a6d9-e9bc6b70d317",
@@ -18230,7 +19577,15 @@
           "en": "A rare copper candlestick that may have been an Artuqid endowment to an important religious monument in Jerusalem.",
           "fr": "Cet exceptionnel chandelier fut sans doute l’objet d’une donation à un important monument religieux de Jérusalem.",
           "es": "Un candelabro excepcional de cobre que posiblemente haya sido una donación artúquida a un importante monumento religioso en Jerusalén."
-        }
+        },
+        "names": {
+          "ar": "شمعدان.",
+          "en": "Candlestick.",
+          "fr": "Chandelier.",
+          "es": "Candelero"
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/e64d072e-21b6-52a2-bc99-adc7dd52f55e.jpg"
       },
       {
         "id": "9beb3626-1910-5e59-a90a-ae27e1cb3c8d",
@@ -18241,7 +19596,16 @@
           "ar": "هذا الطبل البرونزي من عهد الدولة الأرتقية أيضا عليه نقوش كتابية بالخط الكوفي الصرحي و لكن أحرفه تنتهي بأشكال بشرية و تنانين بينما التابوت الحجري لا يحتوي أي أشكال.",
           "en": "This bronze Artuqid drum is also inscribed in monumental Kufic but its letters end with human and dragon figures while the cenotaph’s are non-figurative.",
           "es": "Este tambor de bronce artúquida también está compuesto de una inscripción en letra cúfica monumental; sin embargo, sus trazos terminan en figuras de humanos y dragones mientras que las del cenotafio no son figurativas."
-        }
+        },
+        "names": {
+          "ar": "مصراعا باب مع مطرقة.",
+          "en": "Door wings and a knocker.",
+          "fr": "Portes et heurtoir.",
+          "es": "Hojas de puerta y aldaba.",
+          "tr": "Kapı Kanatları ve Tokmağı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/6e682b4b-54b8-57b5-afce-6d19a2abb424.jpg"
       },
       {
         "id": "b6518af0-5029-5a94-8521-524613b875bb",
@@ -18253,7 +19617,15 @@
           "en": "This cenotaph probably belonged to a warrior and was originally located in the prestigious Salihin Cemetery south of Aleppo Citadel.",
           "fr": "Ce cénotaphe fut sans doute celui d’un guerrier et était situé à l’origine dans le prestigieux cimetière Salihin au sud de la citadelle d’Alep.",
           "es": "Este cenotafio perteneció probablemente a un guerrero y fue situado originalmente en el prestigioso cementerio Salihin al sur de la ciudadela de Alepo."
-        }
+        },
+        "names": {
+          "ar": "قلعة حلب.",
+          "en": "Citadel of Aleppo.",
+          "fr": "Citadelle d'Alep.",
+          "es": "Ciudadela de Alepo."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/1531880c-4ef6-55d6-b597-7091b1011faa.jpg"
       },
       {
         "id": "bf493827-b9c5-5274-9a0c-39fb761a93e1",
@@ -18277,7 +19649,15 @@
           "en": "The extraordinary stone-carved calligraphy of the Madrasa al-Shu’aybiyya is contemporary to this equally intricate Artuqid cenotaph.",
           "fr": "Cette extraordinaire calligraphie gravée sur pierre de la *madrasa* al-Shu‘aybiyya est contemporaine de ce cénotaphe artukide, également très sophistiqué.",
           "es": "La extraordinaria caligrafía tallada en piedra de la Madraza de Shu’aybiyya es contemporánea al igualmente complejo cenotafio artúquida."
-        }
+        },
+        "names": {
+          "ar": "المدرسة الشعيبية.",
+          "en": "Madrasa al-Shu’aybiyya.",
+          "fr": "Madrasa al-Shu‘aybiyya.",
+          "es": "Madrasa al-Shu’aybiyya."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/4001b5af-0212-503a-acd4-8527aefe5d4c.jpg"
       },
       {
         "id": "ce544eac-b951-5657-9a7f-51c32a2f26c6",
@@ -18289,7 +19669,16 @@
           "en": "A bronze Artuqid drum inscribed with monumental kufic calligraphy ending with human and dragon figures.",
           "fr": "Tambour artukide en bronze gravé d’une inscription en coufique monumental qui se termine avec des têtes humaines et des têtes de dragons.",
           "es": "Tambor artúquida de bronce con una inscripción monumental cúfica que termina en figuras humanas y de dragones."
-        }
+        },
+        "names": {
+          "ar": "طبل.",
+          "en": "Drum.",
+          "fr": "Tambour.",
+          "es": "Tambor.",
+          "tr": "Davul."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/9b5a5dd5-f527-53ff-ac38-94a06d6f7224.jpg"
       }
     ],
     "gallery_references": [
@@ -18408,7 +19797,15 @@
           "en": "The Citadel of Aleppo also features lion-like sculptures at one of the gates.",
           "fr": "La citadelle d’Alep présente aussi des sculptures semblables à des lions sur l’une des portes.",
           "es": "La ciudadela de Alepo también presenta esculturas en forma de león en una de las puertas."
-        }
+        },
+        "names": {
+          "ar": "قلعة حلب.",
+          "en": "Citadel of Aleppo.",
+          "fr": "Citadelle d'Alep.",
+          "es": "Ciudadela de Alepo."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/1531880c-4ef6-55d6-b597-7091b1011faa.jpg"
       },
       {
         "id": "e1e587a5-e3ec-54cd-a541-b98bd284ead1",
@@ -18420,7 +19817,15 @@
           "en": "The Tower of Baybars in Egypt includes a lion in carved relief, which is why some scholars have mistakenly attributed to him this lion relief from Aleppo.",
           "fr": "La tour de Baybars en Égypte comporte un lion en relief sculpté, ce qui a induit en erreur certains spécialistes qui lui ont attribué à tort ce relief au lion d’Alep.",
           "es": "La Torre de Baybars en Egipto incluye un león en bajorrelieve, que es la razón por la que algunos eruditos le han atribuido equivocadamente este relieve de león de Alepo."
-        }
+        },
+        "names": {
+          "ar": "برج الظاهر بيبرس.",
+          "en": "Tower of al-Zahir Baybars.",
+          "fr": "Tour d'al-Dahir Baybars.",
+          "es": "Torre de al-Zahir Baybars."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/0e409f49-cb12-5fa6-a5f8-5e5beabf3d0c.jpg"
       }
     ],
     "gallery_references": [
@@ -18553,7 +19958,15 @@
           "en": "The window was brought from al-Aqsa Mosque.",
           "fr": "La fenêtre provient de la mosquée al-Aqsa.",
           "es": "La vidriera fue traída desde la mezquita al-Aqsa."
-        }
+        },
+        "names": {
+          "ar": "الجامع الاقصى.",
+          "en": "Aqsa Mosque.",
+          "fr": "Mosquée al-Aqsa.",
+          "es": "Mezquita al-Aqsa."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       },
       {
         "id": "f066d3bf-136b-5661-b693-1a11ebfeb55e",
@@ -18678,7 +20091,15 @@
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:13",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "الحرم الإبراهيمي.",
+          "en": "Haram al-Ibrahimi.",
+          "fr": "Haram al-Ibrahimi.",
+          "es": "Haram al-Ibrahimi."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/93cac079-dd84-5ab5-8d1a-8a645c6c7b1a.jpg"
       },
       {
         "id": "3cc3cd1b-6a98-54f3-8299-5ed61c1d3d3d",
@@ -18697,7 +20118,15 @@
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قبة الصخرة.",
+          "en": "Dome of the Rock.",
+          "fr": "Dôme du Rocher.",
+          "es": "Cúpula de la Roca"
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/fb68e98f-0564-54a2-b63c-b8008159833b.jpg"
       },
       {
         "id": "b3b65730-0a51-56dc-a29d-497a32b57535",
@@ -18721,7 +20150,15 @@
           "en": "The window came from al-Aqsa Mosque.",
           "fr": "La fenêtre venait de la mosquée al-Aqsa.",
           "es": "La vidriera provino de la mezquita al-Aqsa."
-        }
+        },
+        "names": {
+          "ar": "الجامع الاقصى.",
+          "en": "Aqsa Mosque.",
+          "fr": "Mosquée al-Aqsa.",
+          "es": "Mezquita al-Aqsa."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       },
       {
         "id": "f066d3bf-136b-5661-b693-1a11ebfeb55e",
@@ -19884,7 +21321,16 @@
           "en": "Similar stonework items are now on display in this monument, which served as a religious school in the Anatolian Seljuq period.",
           "fr": "De semblables œuvres de pierre se trouvent maintenant dans cet édifice, qui servait d’école religieuse pendant la période seldjoukide d’Anatolie.",
           "es": "Artículos de mampostería similares son ahora exhibidos en este monumento, el cual sirvió como escuela religiosa en el período de los selyuquíes de Anatolia."
-        }
+        },
+        "names": {
+          "ar": "مدرسة المئذنة المستدقة.",
+          "en": "Ince Minareli (‘Slender Minaret’) Madrasa.",
+          "fr": "Madrasa İnce Minareli (du Minaret effilé).",
+          "es": "Madrasa del Alminar Esbelto (Ince Minare).",
+          "tr": "İnce Minareli Medrese."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/bd47f204-478c-5c27-beb2-39e4bccc70ab.jpg"
       },
       {
         "id": "512a98e0-b879-5c4f-8280-321140a92bdf",
@@ -19896,7 +21342,16 @@
           "en": "This relief once decorated the city walls of Konya where this was the grand mosque.",
           "fr": "Ce relief décorait les remparts de la ville de Konya où se trouvait cette Grande Mosquée.",
           "es": "Este relieve alguna vez decoró las paredes de Konya, donde esta era la mezquita mayor."
-        }
+        },
+        "names": {
+          "ar": "مسجد علاء الدين.",
+          "en": "Alaaddin Mosque.",
+          "fr": "Mosquée d’Aladin.",
+          "es": "Mezquita de Alaaddin.",
+          "tr": "Alaaddin Camii."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/e415bc48-8410-5eca-aafc-891e36a624f4.jpg"
       },
       {
         "id": "dd44c4b3-03fc-5979-8e45-d6162ea57c5a",
@@ -19908,7 +21363,15 @@
           "en": "The medieval warriors depicted in this relief would have used such weapons.",
           "fr": "Les guerriers médiévaux représentés sur ce relief utilisaient des armes de ce genre.",
           "es": "Los guerreros medievales representados en este relieve pudieron haber usado estas armas o similares."
-        }
+        },
+        "names": {
+          "ar": "سيف.",
+          "en": "Sword.",
+          "fr": "Épée.",
+          "es": "Espada."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/c2f18d99-766c-5434-b041-d4c5d5cedfca.jpg"
       }
     ],
     "gallery_references": [
@@ -20043,7 +21506,15 @@
           "en": "The building is distinguished by the presence of pierced stucco windows.",
           "fr": "Ces édifices se caractérisent par la présence de fenêtres en stuc ajouré.",
           "es": "Esta construcción se distingue por la presencia de ventanas con estuco calado."
-        }
+        },
+        "names": {
+          "ar": "جامع أحمد بن طولون.",
+          "en": "Mosque of Ahmad Ibn Tulun.",
+          "fr": "Mosqué d’Ahmad ibn Touloun.",
+          "es": "Mezquita de Ahmad ibn Tulun."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/153d1d71-8f64-5dfc-bb35-39673a572a06.jpg"
       },
       {
         "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
@@ -20055,7 +21526,15 @@
           "en": "The building is distinguished by the presence of pierced stucco windows.",
           "fr": "Ces édifices se caractérisent par la présence de fenêtres en stuc ajouré.",
           "es": "Esta construcción se distingue por la presencia de ventanas con estuco calado."
-        }
+        },
+        "names": {
+          "ar": "قبة الصخرة.",
+          "en": "Dome of the Rock.",
+          "fr": "Dôme du Rocher.",
+          "es": "Cúpula de la Roca"
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/fb68e98f-0564-54a2-b63c-b8008159833b.jpg"
       },
       {
         "id": "c3e4b4cd-933f-5d90-8421-12d6189be2e7",

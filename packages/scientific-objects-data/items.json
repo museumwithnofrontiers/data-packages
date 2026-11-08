@@ -2076,7 +2076,15 @@
           "en": "Apart from astrolabes scientific instruments like this geomantic instrument from the Jazira made in the AH 7th / AD 13th century were used for the astronomical calculations.",
           "fr": "Outre les astrolabes, des instruments scientifiques comme cet instrument de géomancie du Djazira, fabriqué au VIIe/XIIIe siècle, étaient utilisés pour les calculs astronomiques.",
           "es": "Además de los astrolabios, este tipo instrumento de geomancia de Al-Yazira del siglo VII A. H. / XIII d. C. se utilizaba en cálculos astronómicos."
-        }
+        },
+        "names": {
+          "ar": "أداة ضرب الرمل.",
+          "en": "Geomantic Instrument.",
+          "fr": "Instrument de géomancie.",
+          "es": "Instrumento de geomancia"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/8a64f764-1cdd-5418-aa2d-cb5f5762f6fe.jpg"
       },
       {
         "id": "de4802a1-86e2-5973-8765-e8cc4ee04f98",
@@ -2304,7 +2312,15 @@
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:18",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "أداة ضرب الرمل.",
+          "en": "Geomantic Instrument.",
+          "fr": "Instrument de géomancie.",
+          "es": "Instrumento de geomancia"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/8a64f764-1cdd-5418-aa2d-cb5f5762f6fe.jpg"
       },
       {
         "id": "de4802a1-86e2-5973-8765-e8cc4ee04f98",
@@ -2448,7 +2464,16 @@
           "en": "In *madrasas* such as this one, the subjects taught included astronomy and the use of the astrolabe.",
           "fr": "Dans les madrasa comme celle de Konya, une des sciences enseignées était l’astronomie, avec l’usage de l’astrolabe.",
           "es": "En madrasas como la de Konya, una de las ciencias que se enseñaban era la astronomía y el uso del astrolabio."
-        }
+        },
+        "names": {
+          "ar": "مدرسة قاراتاي.",
+          "en": "Karatay Madrasa.",
+          "fr": "Madrasa Karatay.",
+          "es": "Madrasa de Karatay.",
+          "tr": "Karatay Medresesi."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/2a6fd091-f851-54ea-9844-1e3d5101a993.jpg"
       },
       {
         "id": "8754893b-4b9d-539e-acd4-ccf6ba2b1397",
@@ -2460,7 +2485,15 @@
           "en": "This is another type of astrological device, used to divine the future.",
           "fr": "Voici un autre type d’instrument d’astronomie, mais celui-ci était utilisé pour deviner le futur.",
           "es": "Este fue otro tipo de instrumento astronómico, pero se usó para adivinar el futuro."
-        }
+        },
+        "names": {
+          "ar": "أداة ضرب الرمل.",
+          "en": "Geomantic Instrument.",
+          "fr": "Instrument de géomancie.",
+          "es": "Instrumento de geomancia"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/8a64f764-1cdd-5418-aa2d-cb5f5762f6fe.jpg"
       },
       {
         "id": "88669f64-b1b2-5647-abdf-3d094a3e4c59",
@@ -2472,7 +2505,15 @@
           "en": "Astrolabes were used to determine prayer times in mosques such as the Andalusian Mosque in Fez.",
           "fr": "Les astrolabes permettaient d’établir les horaires des prières dans les mosquées, comme dans la mosquée des Andalous à Fès.",
           "es": "Los astrolabios ayudaban a establecer las horas de oración en las mezquitas, como en la de los Andalusíes, en Fez."
-        }
+        },
+        "names": {
+          "ar": "مسجد الأندلسيين.",
+          "en": "Andalusian Mosque.",
+          "fr": "Mosquée des Andalous.",
+          "es": "Mezquita de los Andalusíes."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/0a9b6211-ba5b-5ea4-92b6-b975a6795062.jpg"
       },
       {
         "id": "ff3db0a2-4bc7-576e-bbd7-b0882e3ea217",
@@ -2903,7 +2944,16 @@
         "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:32",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "منزل جاقيراغا.",
+          "en": "Çakırağa Mansion.",
+          "fr": "Résidence Çakiraga.",
+          "es": "Mansión Çakırağa",
+          "tr": "Çakırağa Konağı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/c1af7780-7273-51b6-9469-a595881882c0.jpg"
       },
       {
         "id": "23e8db58-0148-5dc3-98b4-98cb5313ba16",
@@ -2915,21 +2965,48 @@
           "en": "Pilgrims used such compasses to find their prayer direction to Mecca and returned back with such certificates for their pilgrimages.",
           "fr": "Les pèlerins se servaient de ces boussoles pour trouver la directio de la prière vers La Mecque et revenaient de pèlerinage avec ces certificats.",
           "es": "Los peregrinos usaban este tipo de brújula para encontrar la dirección a La Meca, y regresaban con estos certificados para su peregrinación."
-        }
+        },
+        "names": {
+          "ar": "وثيقة توكيل بالحج.",
+          "en": "Pilgrimage proxy scroll.",
+          "fr": "Rouleau de pèlerinage.",
+          "es": "Rollo con certificado de peregrinación.",
+          "tr": "Hac Vekaletnamesi."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/432a7fea-7814-537b-b29f-fe1ec88f1c6e.jpg"
       },
       {
         "id": "32434888-ecb9-5b5b-bdc6-bc81ab4851b0",
         "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:24",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "قصر توبكابي.",
+          "en": "Topkapı Palace.",
+          "fr": "Palais de Topkapı.",
+          "es": "Palacio Topkapı",
+          "tr": "Topkapı Sarayı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/88482ad0-fbcb-552f-84dd-9c4d09d9d66b.jpg"
       },
       {
         "id": "79123b79-bd2b-5af1-8898-89d1cb8e5327",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01_A:40",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "عرش السلطان أحمد الأول.",
+          "en": "Throne of Sultan Ahmed I.",
+          "fr": "Trône du sultan Ahmed Ier.",
+          "es": "Trono del sultán Ahmed I.",
+          "tr": "Sultan I. Ahmed’in Tahtı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/344c0d57-b91e-50e4-a8d6-53e37cb3abe6.jpg"
       },
       {
         "id": "ab91307f-d3d5-5f2a-88d0-9f2eb6934a29",
@@ -2953,7 +3030,15 @@
           "en": "Both works are decorated in a lacquer technique known as ‘Edirnekari’.",
           "fr": "Les deux pièces sont décorées avec une technique de laquage appelée “Edirnekari”.",
           "es": "Ambos trabajos están decorados con una técnica de lacado conocida como ‘Edirnekari’."
-        }
+        },
+        "names": {
+          "ar": "ربعة السلطان مراد.",
+          "en": "*Rab’a* of Sultan Murad.",
+          "fr": "Rab’a du sultan Mourad.",
+          "es": "*Rab’a* del sultán Murad."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c83eca59-3f93-5536-9999-9c9784a2080a.jpg"
       }
     ],
     "gallery_references": [
@@ -4193,7 +4278,15 @@
           "en": "Glass finds in the region of Abbasid al-Raqqa included both decorative court items and scientific instruments, both executed in precision quality.",
           "fr": "Le verre trouvé dans la région de Raqqa (abbasside) incluait à la fois des objets décoratifs utilisés à la cour et des instruments scientifiques, tous exécutés avec une grande précision.",
           "es": "El cristal hallado en la región de la Raqa abasí pertenecía a artículos decorativos de la corte y a instrumentos científicos, ambos ejecutados con precisión de gran calidad."
-        }
+        },
+        "names": {
+          "ar": "كأس قاعدي.",
+          "en": "Goblet.",
+          "fr": "Verre à pied",
+          "es": "Copa."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/91fdc747-d32c-5ffd-a0f0-770ca23abc20.jpg"
       },
       {
         "id": "9f4ec4b3-5bb8-51d7-b82f-ba92ec74033b",
@@ -4217,7 +4310,15 @@
           "en": "Al-Raqqa was an important palatial and administrative centre of the Ábbasid caliphate, where the development of art, as well as, science was sponsored.",
           "fr": "Raqqa était un important centre administratif et palatial du califat abbasside où l’on encourageait le développement de l’art aussi bien que celui de la science.",
           "es": "Raqa fue un importante centro palaciego y administrativo del califato abasí, donde se patrocinó el desarrollo del arte, así como el de la ciencia."
-        }
+        },
+        "names": {
+          "ar": "سور مدينة الرافقة (الرقة) وبوابة بغداد.",
+          "en": "City walls of Rafiqa (Raqqa) and the Baghdad Gate.",
+          "fr": "Remparts de la ville de Rafiqa (Raqqa) et Porte de Bagdad.",
+          "es": "Murallas de al-Rafiqa y puerta de Bagdad."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/ea97b32d-9224-5817-af00-25d0c2b31100.jpg"
       }
     ],
     "gallery_references": [
@@ -4502,7 +4603,15 @@
           "en": "A manuscript on surgery.",
           "fr": "Ces instruments médicaux étaient utilisés en chirurgie, ainsi que pour le diagnostic et le traitement des maladies.",
           "es": "Manuscrito que trata sobre cirugía."
-        }
+        },
+        "names": {
+          "ar": "مخطوط في علم الجراحة.",
+          "en": "Manuscript on surgery.",
+          "fr": "Manuscrit de chirurgie.",
+          "es": "Manuscrito de cirugía."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/ec232146-067c-58cb-935a-0393182f2194.jpg"
       },
       {
         "id": "5d530e40-18f0-5e71-b689-999b1ed68ae4",
@@ -4514,7 +4623,15 @@
           "en": "A medical prescription.",
           "fr": "Ces instruments médicaux étaient utilisés en chirurgie, ainsi que pour le diagnostic et le traitement des maladies.",
           "es": "Receta médica."
-        }
+        },
+        "names": {
+          "ar": "وصفة طبية.",
+          "en": "Medical prescription.",
+          "fr": "Ordonnance médicale.",
+          "es": "Receta médica."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/39ed73b9-6cca-5c25-ac1b-850f72ad2c19.jpg"
       },
       {
         "id": "983679b0-e53d-525c-8c34-9b140549ef18",
@@ -4526,7 +4643,15 @@
           "en": "A medical prescription.",
           "fr": "Ces instruments médicaux étaient utilisés en chirurgie, ainsi que pour le diagnostic et le traitement des maladies.",
           "es": "Receta médica."
-        }
+        },
+        "names": {
+          "ar": "جزء من وصفــة طبيـــة.",
+          "en": "Fragment of a medical prescription.",
+          "fr": "Fragment d’ordonnance médicale.",
+          "es": "Fragmento de receta médica."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/afe4c491-f68a-52b2-89d9-a09c9cf4a6d2.jpg"
       },
       {
         "id": "9f4ec4b3-5bb8-51d7-b82f-ba92ec74033b",
@@ -4562,7 +4687,15 @@
           "en": "A medical treatise.",
           "fr": "Ces instruments médicaux étaient utilisés en chirurgie, ainsi que pour le diagnostic et le traitement des maladies.",
           "es": "Tratado médico."
-        }
+        },
+        "names": {
+          "ar": "منبر.",
+          "en": "*Minbar*.",
+          "fr": "Minbar.",
+          "es": "*Minbar*."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/508544bc-6a97-5927-924c-62c10adbc5e4.jpg"
       },
       {
         "id": "e98373dd-6e4e-5ada-9719-c553fa2337f9",
@@ -4585,7 +4718,15 @@
           "ar": "استخدمت هذه الأداة الطبية في الجراحة وتشخيص المرض وتحديد العلاج",
           "en": "This medical instrument was used in surgical procedures, the diagnoses of ailments and treatment.",
           "es": "Otro instrumento médico."
-        }
+        },
+        "names": {
+          "ar": "مخطوط لمؤلف في الطب عنوانه",
+          "en": "Manuscript from the medical treatise *Kitab al-tasrîf liman ajaza an al-talîf fi al-tibb* by Abu al-Qasim Khalaf ibn ‘Abbas al-Andalusi al-Zahrawi.",
+          "fr": "Manuscrit du traité de médecine Kitab al-tasrîf liman ajaza an al-talîf fi al-tibb de Abou al-Qassim Khalaf ibn Abbas al-Andalousi al-Zahraoui.",
+          "es": "Manuscrito del tratado médico *Kitab al-tasrif liman ayaza an al-talif fi al-tibb de Abu al-Qasim Jalaf ibn Abbas al-Andalusi al-Zahrawi.*"
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/f284d3ed-6545-5411-9159-d7b5873eddd8.jpg"
       }
     ],
     "gallery_references": [
@@ -5927,7 +6068,15 @@
           "en": "The astrolabe is from the same period as the Hassan Mosque.",
           "fr": "Il est également contemporain de la mosquée Hassan.",
           "es": "El astrolabio es del mismo periodo que la mezquita Hasan."
-        }
+        },
+        "names": {
+          "ar": "مسجد حسان.",
+          "en": "Hasan Mosque.",
+          "fr": "Mosquée Hassan.",
+          "es": "Mezquita Hasan."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/599b46f9-dec7-5d45-8323-f8bd7e23f8b7.jpg"
       },
       {
         "id": "153c5ddb-dd1d-5e3c-9e80-de0b66684f95",
@@ -5939,7 +6088,15 @@
           "en": "According to the engraved text the astrolabe was bequeathed to the pulpit of the mosque.",
           "fr": "D’après le texte gravé, il a été légué au minbar de la mosquée.",
           "es": "Según el texto en relieve, el astrolabio fue legado al púlpito de la mezquita."
-        }
+        },
+        "names": {
+          "ar": "عناصر منبر.",
+          "en": "Parts of a *minbar*.",
+          "fr": "Éléments de minbar.",
+          "es": "Elementos de *minbar*."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/2c290d7e-800b-5a73-a822-d48fa0fd870d.jpg"
       },
       {
         "id": "16b09d34-6359-51a2-97ca-7d634682b13c",
@@ -5962,7 +6119,15 @@
           "en": "The astrolabe was bequeathed (*habus*) to the Andalusian Mosque.",
           "fr": "Cet instrument a été légué en biens *habous* à la mosquée des Andalous.",
           "es": "El astrolabio fue legado (*habús*) a la mezquita de los Andalusíes."
-        }
+        },
+        "names": {
+          "ar": "مسجد الأندلسيين.",
+          "en": "Andalusian Mosque.",
+          "fr": "Mosquée des Andalous.",
+          "es": "Mezquita de los Andalusíes."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/0a9b6211-ba5b-5ea4-92b6-b975a6795062.jpg"
       },
       {
         "id": "eb797dee-46d6-5927-9b28-91cd43374b40",
@@ -5974,7 +6139,15 @@
           "en": "The astrolabe was made at the time of the construction of the Kutubiya Mosque.",
           "fr": "Il a été fabriqué à l’époque qui correspond à la date de construction de la mosquée Koutoubiya.",
           "es": "El astrolabio se fabricó durante la construcción de la mezquita Kutubiya."
-        }
+        },
+        "names": {
+          "ar": "مسجد الكتبية.",
+          "en": "Kutubiya Mosque.",
+          "fr": "Mosquée Koutoubiya.",
+          "es": "Mezquita Kutubiya."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/f7e00ea7-228d-5992-8cd2-d658e8e6a8be.jpg"
       }
     ],
     "gallery_references": [
@@ -6573,7 +6746,15 @@
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:40",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "سبيل ماء.",
+          "en": "Public drinking fountain.",
+          "fr": "Fontaine publique.",
+          "es": "Fuente pública."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/5481b825-f75c-5d24-afbf-49db7a4d88b7.jpg"
       },
       {
         "id": "8754893b-4b9d-539e-acd4-ccf6ba2b1397",
@@ -6585,7 +6766,15 @@
           "en": "This fanciful instrument, dated to the Ayyubid period, and more divinatory than scientific, is used for predicting the future.",
           "fr": "Cet instrument fantaisiste date de la période ayyoubide. Plus divinatoire que scientifique, il était utilisé pour prédire l’avenir.",
           "es": "Este instrumento extravagante, que data del periodo ayubí, y relacionado más con las artes adivinatorias que con el campo de la ciencia, se utilizaba para predecir el futuro."
-        }
+        },
+        "names": {
+          "ar": "أداة ضرب الرمل.",
+          "en": "Geomantic Instrument.",
+          "fr": "Instrument de géomancie.",
+          "es": "Instrumento de geomancia"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/8a64f764-1cdd-5418-aa2d-cb5f5762f6fe.jpg"
       }
     ],
     "gallery_references": [
@@ -6933,7 +7122,15 @@
           "en": "This building was designated for the free treatment of members of the populace, providing them with medicine and sustenance.",
           "fr": "Ces édifices servaient d’hôpitaux à l’époque moderne et pratiquaient les plus récentes méthodes de diagnostic et de traitement.",
           "es": "Esta construcción fue designada para el tratamiento gratuito de la población, les proveía de medicina y sustento."
-        }
+        },
+        "names": {
+          "ar": "البيمارستان القيمري.",
+          "en": "Hospital (*Bimaristan*) al-Qaymari.",
+          "fr": "Hôpital (*bimaristan*) al-Qaymari.",
+          "es": "Hospital *(bimaristan)* de al-Qaymari."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/c219d875-939a-5cb5-87ad-56f443b63d24.jpg"
       },
       {
         "id": "34df1c16-bb7b-5506-b850-656c4bb0f8aa",
@@ -6945,7 +7142,15 @@
           "en": "This hospital was directed by a medical doctor, Ibn al-‘Afif.",
           "fr": "Ces édifices servaient d’hôpitaux à l’époque moderne et pratiquaient les plus récentes méthodes de diagnostic et de traitement.",
           "es": "Este hospital fue dirigido por el doctor ibn al-Afif, dueño de la receta médica."
-        }
+        },
+        "names": {
+          "ar": "مجمّع السلطان المنصور قلاوون (ضريح ومدرسة وبيمارستان).",
+          "en": "Complex of Sultan al-Mansur Qalawun (Mausoleum, Madrasa and Hospital).",
+          "fr": "Complexe du sultan al-Mansour Qalawun (mausolée, *madrasa* et hôpital).",
+          "es": "Complejo del sultán al-Mansur Qalawun (mausoleo, madrasa y hospital)."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/735b96e7-2311-5f61-a94e-6882bc377b56.jpg"
       },
       {
         "id": "42aad0c1-ac08-52ed-b98e-35a070c4bdeb",
@@ -6957,7 +7162,15 @@
           "en": "A manuscript on surgery.",
           "fr": "Ces instruments médicaux étaient utilisés en chirurgie, ainsi que pour le diagnostic et le traitement des maladies.",
           "es": "Manuscrito que trata sobre cirugía."
-        }
+        },
+        "names": {
+          "ar": "مخطوط في علم الجراحة.",
+          "en": "Manuscript on surgery.",
+          "fr": "Manuscrit de chirurgie.",
+          "es": "Manuscrito de cirugía."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/ec232146-067c-58cb-935a-0393182f2194.jpg"
       },
       {
         "id": "5d530e40-18f0-5e71-b689-999b1ed68ae4",
@@ -6969,7 +7182,15 @@
           "en": "A medical prescription.",
           "fr": "Ces instruments médicaux étaient utilisés en chirurgie, ainsi que pour le diagnostic et le traitement des maladies.",
           "es": "Receta médica."
-        }
+        },
+        "names": {
+          "ar": "وصفة طبية.",
+          "en": "Medical prescription.",
+          "fr": "Ordonnance médicale.",
+          "es": "Receta médica."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/39ed73b9-6cca-5c25-ac1b-850f72ad2c19.jpg"
       },
       {
         "id": "5f18b902-02aa-5f60-bcb2-d6de493dfceb",
@@ -6993,7 +7214,15 @@
           "en": "This building was designated for the free treatment of members of the populace, providing them with medicine and sustenance.",
           "fr": "Ces édifices servaient d’hôpitaux à l’époque moderne et pratiquaient les plus récentes méthodes de diagnostic et de traitement.",
           "es": "Esta construcción fue designada para el tratamiento gratuito de la población, les proveía de medicina y sustento."
-        }
+        },
+        "names": {
+          "ar": "بيمارستان نور الدين.",
+          "en": "Hospital (*Bimaristan*) Nur al-Din.",
+          "fr": "Hôpital (*bimaristan*) Nour al-Din",
+          "es": "Hospital *(bimaristan)* de Nur al-Din."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/9cb33e73-0a70-5099-90f8-766da50f78d8.jpg"
       },
       {
         "id": "983679b0-e53d-525c-8c34-9b140549ef18",
@@ -7005,7 +7234,15 @@
           "en": "A medical prescription.",
           "fr": "Ces instruments médicaux étaient utilisés en chirurgie, ainsi que pour le diagnostic et le traitement des maladies.",
           "es": "Receta médica."
-        }
+        },
+        "names": {
+          "ar": "جزء من وصفــة طبيـــة.",
+          "en": "Fragment of a medical prescription.",
+          "fr": "Fragment d’ordonnance médicale.",
+          "es": "Fragmento de receta médica."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/afe4c491-f68a-52b2-89d9-a09c9cf4a6d2.jpg"
       },
       {
         "id": "a8a7b007-ba46-517e-94a2-c79734028dc9",
@@ -7040,7 +7277,15 @@
           "ar": "استخدمت هذه الأداة الطبية في الجراحة وتشخيص المرض وتحديد العلاج",
           "en": "This medical instrument was used in surgical procedures, the diagnoses of ailments and treatment.",
           "es": "Otro instrumento médico."
-        }
+        },
+        "names": {
+          "ar": "دورق.",
+          "en": "Carafe.",
+          "fr": "Carafe.",
+          "es": "Botella"
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/ef5e9913-511e-5765-8992-c6b55a43fdc8.jpg"
       }
     ],
     "gallery_references": [
@@ -7169,7 +7414,15 @@
           "en": "A manuscript on surgery.",
           "fr": "Ces instruments médicaux étaient utilisés en chirurgie, ainsi que pour le diagnostic et le traitement des maladies.",
           "es": "Manuscrito que trata sobre cirugía."
-        }
+        },
+        "names": {
+          "ar": "مخطوط في علم الجراحة.",
+          "en": "Manuscript on surgery.",
+          "fr": "Manuscrit de chirurgie.",
+          "es": "Manuscrito de cirugía."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/ec232146-067c-58cb-935a-0393182f2194.jpg"
       },
       {
         "id": "5d530e40-18f0-5e71-b689-999b1ed68ae4",
@@ -7181,7 +7434,15 @@
           "en": "A medical prescription.",
           "fr": "Ces instruments médicaux étaient utilisés en chirurgie, ainsi que pour le diagnostic et le traitement des maladies.",
           "es": "Receta médica."
-        }
+        },
+        "names": {
+          "ar": "وصفة طبية.",
+          "en": "Medical prescription.",
+          "fr": "Ordonnance médicale.",
+          "es": "Receta médica."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/39ed73b9-6cca-5c25-ac1b-850f72ad2c19.jpg"
       },
       {
         "id": "983679b0-e53d-525c-8c34-9b140549ef18",
@@ -7193,7 +7454,15 @@
           "en": "A medical prescription.",
           "fr": "Ces instruments médicaux étaient utilisés en chirurgie, ainsi que pour le diagnostic et le traitement des maladies.",
           "es": "Receta médica."
-        }
+        },
+        "names": {
+          "ar": "جزء من وصفــة طبيـــة.",
+          "en": "Fragment of a medical prescription.",
+          "fr": "Fragment d’ordonnance médicale.",
+          "es": "Fragmento de receta médica."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/afe4c491-f68a-52b2-89d9-a09c9cf4a6d2.jpg"
       },
       {
         "id": "9f4ec4b3-5bb8-51d7-b82f-ba92ec74033b",
@@ -7235,7 +7504,15 @@
         "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "مخطوط لمؤلف في الطب عنوانه",
+          "en": "Manuscript from the medical treatise *Kitab al-tasrîf liman ajaza an al-talîf fi al-tibb* by Abu al-Qasim Khalaf ibn ‘Abbas al-Andalusi al-Zahrawi.",
+          "fr": "Manuscrit du traité de médecine Kitab al-tasrîf liman ajaza an al-talîf fi al-tibb de Abou al-Qassim Khalaf ibn Abbas al-Andalousi al-Zahraoui.",
+          "es": "Manuscrito del tratado médico *Kitab al-tasrif liman ayaza an al-talif fi al-tibb de Abu al-Qasim Jalaf ibn Abbas al-Andalusi al-Zahrawi.*"
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/f284d3ed-6545-5411-9159-d7b5873eddd8.jpg"
       }
     ],
     "gallery_references": [
