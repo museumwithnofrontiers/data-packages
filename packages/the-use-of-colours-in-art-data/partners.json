@@ -3766,15 +3766,7 @@
       "ar",
       "en"
     ],
-    "contact_persons": [
-      {
-        "fax": "+968 22081520",
-        "name": "Jamal Hassan al-Moosawi",
-        "email": "jamal.al-moosawi@nm.gov.om",
-        "phone": "+968 22081505",
-        "title": "Secretary-General"
-      }
-    ],
+    "contact_persons": [],
     "additional_urls": [],
     "images": [
       {
@@ -4342,11 +4334,11 @@
       "61c122ac-ea86-5462-8bab-6b86138c49b2"
     ],
     "own_project": {
-      "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-      "name": "Discover Islamic Art",
-      "backward_compatibility": "mwnf3:projects:ISL",
-      "level": null,
-      "exhibition": false
+      "id": "09bed55d-efe6-50e0-8c24-1647bc9822eb",
+      "name": "The Table Is Set",
+      "backward_compatibility": "mwnf3:projects:EXTHE",
+      "level": "partner",
+      "exhibition": true
     },
     "item_count": 1,
     "featured": false,
@@ -4362,8 +4354,23 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/3f63e739-6429-5346-9bc5-b789a431fc6f.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/b1f171ac-4587-54db-ba2d-194554086283.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Tourism and Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "a05b0a22-d90a-5e08-85e3-53fd66868e26",

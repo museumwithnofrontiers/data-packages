@@ -4656,9 +4656,11 @@
     "longitude": null,
     "map_zoom": 16,
     "monument_item_id": null,
-    "level": null,
+    "level": "partner",
     "parent_id": null,
-    "project_uuids": [],
+    "project_uuids": [
+      "e08d1c71-8cff-5fe9-b480-2ae6c530b732"
+    ],
     "item_count": 35,
     "featured": false,
     "languages": [
@@ -4673,8 +4675,37 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/2f084071-beb7-53ce-94ac-662c5fcca3d2.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/c13e94b6-df83-52f1-9075-33ca919ec9ca.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/deaf8889-5d27-5311-bb1d-20fa180954c3.jpg",
+        "alt_text": null,
+        "display_order": 3,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/9b4a48b0-d76c-535b-b715-a4de83c501ef.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture and Tourism - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "8f0d2773-afea-51e8-ab5b-624187d06f77",
@@ -4792,9 +4823,11 @@
     "longitude": null,
     "map_zoom": 16,
     "monument_item_id": null,
-    "level": null,
+    "level": "partner",
     "parent_id": null,
-    "project_uuids": [],
+    "project_uuids": [
+      "e08d1c71-8cff-5fe9-b480-2ae6c530b732"
+    ],
     "item_count": 39,
     "featured": false,
     "languages": [
@@ -4807,10 +4840,29 @@
       "pt",
       "tr"
     ],
-    "contact_persons": [],
+    "contact_persons": [
+      {
+        "email": "dgam@dgam.gov.sy"
+      }
+    ],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/abf2f0c1-ba91-529f-a6ba-26feabfe9cfc.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/ccde27db-fbe8-5caa-bbc8-5d3441071adb.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture, Directorate General of Museums and Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "ad649894-1a51-58ed-a1ba-69c058e7e697",
@@ -4829,10 +4881,29 @@
     "languages": [
       "en"
     ],
-    "contact_persons": [],
+    "contact_persons": [
+      {
+        "email": "dgam@dgam.gov.sy"
+      }
+    ],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/8fdff207-8867-5299-bbcb-6ea83a1706fa.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/04895b3f-42d4-542f-a1bd-c0e3feaeee45.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture, Directorate General of Museums and Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "a0a06f79-6bb6-5eba-a306-be38053da391",
@@ -4908,35 +4979,6 @@
     "logos": []
   },
   {
-    "id": "bc3696f3-8f77-5a5a-8d83-cb8445448b36",
-    "type": "institution",
-    "backward_compatibility": "mwnf3:institutions:Mon01:eg",
-    "country_id": "egy",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
-    "monument_item_id": null,
-    "level": null,
-    "parent_id": null,
-    "project_uuids": [],
-    "item_count": 35,
-    "featured": false,
-    "languages": [
-      "ar",
-      "de",
-      "en",
-      "es",
-      "fr",
-      "it",
-      "pt",
-      "tr"
-    ],
-    "contact_persons": [],
-    "additional_urls": [],
-    "images": [],
-    "logos": []
-  },
-  {
     "id": "2f0ba8e8-9e6d-5ae3-9113-0cb299a90c41",
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon91:pa",
@@ -4955,14 +4997,75 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/f06fbf0f-e1f9-5050-a49b-8b3f37b3faeb.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/e99e8e6e-cdc0-5a0a-9b29-17fbaf4240c4.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Tourism and Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "9d61c11b-d2fa-5227-9f73-d450019497be",
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:pa",
     "country_id": "pse",
+    "latitude": null,
+    "longitude": null,
+    "map_zoom": 16,
+    "monument_item_id": null,
+    "level": "partner",
+    "parent_id": null,
+    "project_uuids": [
+      "e08d1c71-8cff-5fe9-b480-2ae6c530b732"
+    ],
+    "item_count": 35,
+    "featured": false,
+    "languages": [
+      "ar",
+      "de",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "pt",
+      "tr"
+    ],
+    "contact_persons": [],
+    "additional_urls": [],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/3f63e739-6429-5346-9bc5-b789a431fc6f.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/b1f171ac-4587-54db-ba2d-194554086283.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Tourism and Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
+  },
+  {
+    "id": "bc3696f3-8f77-5a5a-8d83-cb8445448b36",
+    "type": "institution",
+    "backward_compatibility": "mwnf3:institutions:Mon01:eg",
+    "country_id": "egy",
     "latitude": null,
     "longitude": null,
     "map_zoom": 16,
@@ -4999,7 +5102,8 @@
     "level": "partner",
     "parent_id": null,
     "project_uuids": [
-      "61c122ac-ea86-5462-8bab-6b86138c49b2"
+      "61c122ac-ea86-5462-8bab-6b86138c49b2",
+      "e08d1c71-8cff-5fe9-b480-2ae6c530b732"
     ],
     "item_count": 35,
     "featured": false,
@@ -5013,15 +5117,32 @@
       "pt",
       "tr"
     ],
-    "contact_persons": [
+    "contact_persons": [],
+    "additional_urls": [],
+    "images": [
       {
-        "name": "Dr. Monther Jamhawi",
-        "title": "Director General"
+        "url": "https://inventory.metanull.eu/pub/09eecd0d-ad05-5956-a431-ee48572be2f7.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/81973b32-896b-5bf7-822b-439856df929b.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": null
       }
     ],
-    "additional_urls": [],
-    "images": [],
-    "logos": []
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/6101ed75-80ca-5b3c-b36d-b76432eb1f62.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Tourism, Department of Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "eff55f70-afdd-5a6d-b577-f7e280407996",
