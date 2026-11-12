@@ -3552,15 +3552,7 @@
       "ar",
       "en"
     ],
-    "contact_persons": [
-      {
-        "fax": "+968 22081520",
-        "name": "Jamal Hassan al-Moosawi",
-        "email": "jamal.al-moosawi@nm.gov.om",
-        "phone": "+968 22081505",
-        "title": "Secretary-General"
-      }
-    ],
+    "contact_persons": [],
     "additional_urls": [],
     "images": [
       {
@@ -4632,14 +4624,31 @@
       "pt",
       "tr"
     ],
-    "contact_persons": [
+    "contact_persons": [],
+    "additional_urls": [],
+    "images": [
       {
-        "name": "Dr. Monther Jamhawi",
-        "title": "Director General"
+        "url": "https://inventory.metanull.eu/pub/09eecd0d-ad05-5956-a431-ee48572be2f7.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/81973b32-896b-5bf7-822b-439856df929b.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": null
       }
     ],
-    "additional_urls": [],
-    "images": [],
-    "logos": []
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/6101ed75-80ca-5b3c-b36d-b76432eb1f62.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Tourism, Department of Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   }
 ]

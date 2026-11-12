@@ -625,7 +625,7 @@
       "level": null,
       "exhibition": true
     },
-    "item_count": 27,
+    "item_count": 26,
     "featured": false,
     "languages": [
       "en"
@@ -1381,17 +1381,17 @@
     "longitude": null,
     "map_zoom": 16,
     "monument_item_id": null,
-    "level": null,
+    "level": "partner",
     "parent_id": null,
     "project_uuids": [
       "61c122ac-ea86-5462-8bab-6b86138c49b2"
     ],
     "own_project": {
-      "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-      "name": "Discover Islamic Art",
-      "backward_compatibility": "mwnf3:projects:ISL",
+      "id": "09bed55d-efe6-50e0-8c24-1647bc9822eb",
+      "name": "The Table Is Set",
+      "backward_compatibility": "mwnf3:projects:EXTHE",
       "level": "partner",
-      "exhibition": false
+      "exhibition": true
     },
     "item_count": 3,
     "featured": false,
@@ -1405,15 +1405,32 @@
       "pt",
       "tr"
     ],
-    "contact_persons": [
+    "contact_persons": [],
+    "additional_urls": [],
+    "images": [
       {
-        "name": "Dr. Monther Jamhawi",
-        "title": "Director General"
+        "url": "https://inventory.metanull.eu/pub/09eecd0d-ad05-5956-a431-ee48572be2f7.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/81973b32-896b-5bf7-822b-439856df929b.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": null
       }
     ],
-    "additional_urls": [],
-    "images": [],
-    "logos": []
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/6101ed75-80ca-5b3c-b36d-b76432eb1f62.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Tourism, Department of Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "e0e750b1-944e-5ed9-b290-6a31c17d5cff",
@@ -1737,17 +1754,17 @@
     "longitude": null,
     "map_zoom": 16,
     "monument_item_id": null,
-    "level": null,
+    "level": "partner",
     "parent_id": null,
     "project_uuids": [
       "61c122ac-ea86-5462-8bab-6b86138c49b2"
     ],
     "own_project": {
-      "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-      "name": "Discover Islamic Art",
-      "backward_compatibility": "mwnf3:projects:ISL",
-      "level": null,
-      "exhibition": false
+      "id": "09bed55d-efe6-50e0-8c24-1647bc9822eb",
+      "name": "The Table Is Set",
+      "backward_compatibility": "mwnf3:projects:EXTHE",
+      "level": "partner",
+      "exhibition": true
     },
     "item_count": 11,
     "featured": false,
@@ -1763,8 +1780,23 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/3f63e739-6429-5346-9bc5-b789a431fc6f.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/b1f171ac-4587-54db-ba2d-194554086283.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Tourism and Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "2f0ba8e8-9e6d-5ae3-9113-0cb299a90c41",
@@ -1794,8 +1826,23 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/f06fbf0f-e1f9-5050-a49b-8b3f37b3faeb.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/e99e8e6e-cdc0-5a0a-9b29-17fbaf4240c4.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Tourism and Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "248c7bfa-06e5-5f42-beec-a7e9bdb14579",
@@ -2153,10 +2200,29 @@
     "languages": [
       "en"
     ],
-    "contact_persons": [],
+    "contact_persons": [
+      {
+        "email": "dgam@dgam.gov.sy"
+      }
+    ],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/328ca41c-8887-5e1c-bb2e-21eeb73d8440.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/dce80329-834e-5a2d-88b1-61185b7c8ff4.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture, Directorate General of Museums and Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "ad649894-1a51-58ed-a1ba-69c058e7e697",
@@ -2184,10 +2250,29 @@
     "languages": [
       "en"
     ],
-    "contact_persons": [],
+    "contact_persons": [
+      {
+        "email": "dgam@dgam.gov.sy"
+      }
+    ],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/8fdff207-8867-5299-bbcb-6ea83a1706fa.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/04895b3f-42d4-542f-a1bd-c0e3feaeee45.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture, Directorate General of Museums and Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "580d4203-2fdf-5800-bff6-a6e45724577a",
@@ -2198,17 +2283,17 @@
     "longitude": null,
     "map_zoom": 16,
     "monument_item_id": null,
-    "level": null,
+    "level": "partner",
     "parent_id": null,
     "project_uuids": [
       "61c122ac-ea86-5462-8bab-6b86138c49b2"
     ],
     "own_project": {
-      "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-      "name": "Discover Islamic Art",
-      "backward_compatibility": "mwnf3:projects:ISL",
-      "level": null,
-      "exhibition": false
+      "id": "09bed55d-efe6-50e0-8c24-1647bc9822eb",
+      "name": "The Table Is Set",
+      "backward_compatibility": "mwnf3:projects:EXTHE",
+      "level": "partner",
+      "exhibition": true
     },
     "item_count": 7,
     "featured": false,
@@ -2222,10 +2307,29 @@
       "pt",
       "tr"
     ],
-    "contact_persons": [],
+    "contact_persons": [
+      {
+        "email": "dgam@dgam.gov.sy"
+      }
+    ],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/abf2f0c1-ba91-529f-a6ba-26feabfe9cfc.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/ccde27db-fbe8-5caa-bbc8-5d3441071adb.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture, Directorate General of Museums and Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "f56fbae3-04a9-59bb-ba75-310d3ef169aa",
@@ -2467,17 +2571,17 @@
     "longitude": null,
     "map_zoom": 16,
     "monument_item_id": null,
-    "level": null,
+    "level": "partner",
     "parent_id": null,
     "project_uuids": [
       "61c122ac-ea86-5462-8bab-6b86138c49b2"
     ],
     "own_project": {
-      "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-      "name": "Discover Islamic Art",
-      "backward_compatibility": "mwnf3:projects:ISL",
-      "level": null,
-      "exhibition": false
+      "id": "09bed55d-efe6-50e0-8c24-1647bc9822eb",
+      "name": "The Table Is Set",
+      "backward_compatibility": "mwnf3:projects:EXTHE",
+      "level": "partner",
+      "exhibition": true
     },
     "item_count": 1,
     "featured": false,
@@ -2493,8 +2597,37 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/2f084071-beb7-53ce-94ac-662c5fcca3d2.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/c13e94b6-df83-52f1-9075-33ca919ec9ca.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/deaf8889-5d27-5311-bb1d-20fa180954c3.jpg",
+        "alt_text": null,
+        "display_order": 3,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/9b4a48b0-d76c-535b-b715-a4de83c501ef.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture and Tourism - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "f61576e8-42c0-5ee1-ac85-8b8e8aa2470b",
