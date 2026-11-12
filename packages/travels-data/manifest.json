@@ -1,0 +1,107 @@
+{
+  "projectKeys": [
+    "travels"
+  ],
+  "projectIds": [
+    "5e1440b4-2988-5fb5-baf2-e86093d5360f",
+    "62d92dd8-dcc2-5958-b362-66cb605c7fa4"
+  ],
+  "version": "1.0.0",
+  "kind": "travels",
+  "rights": {
+    "rights_holder": "Museum Ohne Grenzen e.V. (Museum With No Frontiers)",
+    "terms_url": "https://www.museumwnf.org/about/legal-notice",
+    "attribution": "Content © Museum With No Frontiers, used under the MWNF legal notice."
+  },
+  "site": {
+    "key": "travels",
+    "languages": [
+      {
+        "code": "de",
+        "label": "Deutsch"
+      },
+      {
+        "code": "en",
+        "label": "English"
+      },
+      {
+        "code": "es",
+        "label": "Español"
+      },
+      {
+        "code": "fr",
+        "label": "Français"
+      },
+      {
+        "code": "it",
+        "label": "Italiano"
+      },
+      {
+        "code": "pt",
+        "label": "Português"
+      },
+      {
+        "code": "tr",
+        "label": "Türkçe"
+      }
+    ],
+    "names": {
+      "en": "Travels"
+    },
+    "origin": "https://museumwithnofrontiers.github.io/travels"
+  },
+  "languages": [
+    "ar",
+    "cs",
+    "de",
+    "el",
+    "en",
+    "fa",
+    "fr",
+    "he",
+    "hr",
+    "hu",
+    "it",
+    "pt",
+    "ru",
+    "si",
+    "es",
+    "se",
+    "tr",
+    "ch"
+  ],
+  "projects": {
+    "5e1440b4-2988-5fb5-baf2-e86093d5360f": {
+      "name": {
+        "ar": "الفن الاسلامى فى البحر المتوسط",
+        "de": "Islamische Kunst im Mittelmeerraum",
+        "en": "Islamic Art in the Mediterranean",
+        "fr": "L'Art Islamique en Méditerranée",
+        "it": "L'Arte Islamica nel Mediterraneo",
+        "pt": "A Arte Islâmica no Mediterrâneo",
+        "es": "El Arte Islámico en el Mediterráneo",
+        "tr": "Akdeniz’de İslam Sanatı"
+      },
+      "site_url": null,
+      "related_database_url": null,
+      "artistic_introduction_url": null,
+      "home_site": null
+    },
+    "62d92dd8-dcc2-5958-b362-66cb605c7fa4": {
+      "name": {
+        "ar": "رعاة الفن العظام",
+        "de": "Die Grossen Kunstmäzene",
+        "en": "The Great Patrons of the Arts",
+        "fr": "Les Grands Mécènes de l'Art",
+        "it": "I Grandi Mecenati dell’Arte",
+        "pt": "Os Grandes Mecenas",
+        "es": "Los Grandes Mecenas del Arte",
+        "tr": "Sanatın Büyük Mesenleri"
+      },
+      "site_url": null,
+      "related_database_url": null,
+      "artistic_introduction_url": null,
+      "home_site": null
+    }
+  }
+}
