@@ -10,6 +10,7 @@ import {
   PACKAGES_DIR, SCOPE, ROOT, compareVersions, filesUnder, latestOf, packageFolders, parseVersion,
   pretty, publishedVersions, readJson, repositoryFor, run,
 } from './lib.mjs'
+import { validatePackage } from './search-data.mjs'
 
 const base = process.argv[2]
 const errors = []
@@ -18,6 +19,14 @@ const fail = (folder, message) => errors.push(`packages/${folder}: ${message}`)
 // The files npm would publish, plus the two every package carries. Anything
 // else — the exporters' .gz companions above all — has no place here.
 const ALLOWED = /^(package\.json|README\.md|LICENSE\.md|[^/]+\.json|translations\/[^/]+\.json)$/
+// The search payload (inventory-app M15, ADR 005) is the one package with
+// documents: one item per line, so a changed item is a one-line diff.
+const SEARCH_FOLDER = 'search-data'
+const SEARCH_ALLOWED = /^documents\/[0-9a-f]\.ndjson$/
+// A release may not drop more than this share of the search documents
+// without the pull request label below: a broken export must not empty it.
+const SEARCH_MAX_DROP = 0.05
+const SEARCH_SHRINK_LABEL = 'search-shrink-ok'
 
 function git(...args) {
   const result = run('git', args, { cwd: ROOT })
@@ -41,6 +50,7 @@ function checkLayout(folder, dir) {
     if (!files.includes(required)) fail(folder, `${required} is missing`)
   }
   for (const file of files) {
+    if (folder === SEARCH_FOLDER && SEARCH_ALLOWED.test(file)) continue
     if (!ALLOWED.test(file)) {
       fail(folder, `${file} does not belong in a package`)
       continue
@@ -99,6 +109,22 @@ function checkVersion(folder, pkg) {
   }
 }
 
+// The search payload against mwnf.search/1, and, on a pull request, its
+// document count against the base branch's.
+function checkSearch(folder, dir) {
+  const { errors: invalid, documents } = validatePackage(dir)
+  for (const message of invalid.slice(0, 50)) fail(folder, message)
+  if (invalid.length > 50) fail(folder, `… and ${invalid.length - 50} more mwnf.search/1 errors`)
+  if (!base) return
+  const before = run('git', ['show', `${base}:packages/${folder}/manifest.json`], { cwd: ROOT })
+  if (before.status !== 0) return
+  const previous = JSON.parse(before.stdout)?.counts?.documents ?? 0
+  if (previous > 0 && documents < previous * (1 - SEARCH_MAX_DROP) && process.env.SEARCH_SHRINK_OK !== 'true') {
+    fail(folder, `${documents} documents, down from ${previous} (more than ${SEARCH_MAX_DROP * 100}%); ` +
+      `if that is intended, label the pull request ${SEARCH_SHRINK_LABEL}`)
+  }
+}
+
 const folders = base ? changedFolders() : packageFolders()
 for (const folder of folders) {
   const dir = join(PACKAGES_DIR, folder)
@@ -113,6 +139,7 @@ for (const folder of folders) {
   const pkg = readJson(join(dir, 'package.json'))
   checkPackageJson(folder, pkg)
   checkLayout(folder, dir)
+  if (folder === SEARCH_FOLDER) checkSearch(folder, dir)
   if (base) checkVersion(folder, pkg)
   if (!errors.some((e) => e.startsWith(`packages/${folder}:`))) console.log(`ok  ${pkg.name}@${pkg.version}`)
 }

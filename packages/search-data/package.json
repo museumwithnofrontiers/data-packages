@@ -1,0 +1,28 @@
+{
+  "name": "@museumwnf/search-data",
+  "version": "1.0.1",
+  "type": "module",
+  "private": false,
+  "description": "Search payload of the MWNF inventory (mwnf.search/1): every item a site shows, for the global search",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "main": "./manifest.json",
+  "exports": {
+    ".": "./manifest.json",
+    "./*.json": "./*.json",
+    "./documents/*": "./documents/*"
+  },
+  "files": [
+    "*.json",
+    "documents/*.ndjson",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/museumwithnofrontiers/data-packages.git",
+    "directory": "packages/search-data"
+  }
+}

@@ -79,3 +79,22 @@ Every version after the first is published by the release workflow.
 
 A package that was published before this repository existed is seeded from
 npmjs instead, with `scripts/seed.mjs`, once its trusted publisher is set.
+
+## The search payload
+
+`search-data` is the global search's payload (inventory-app M15, ADR 005), not
+a site's. Besides `manifest.json` and `sites.json` it holds
+`documents/<0-f>.ndjson`, one item per line; no other package may hold files
+outside the usual layout. On top of the usual checks, CI runs
+`scripts/search-data.mjs`, a copy of inventory-app's
+`scripts/exporters/search/schema/validate.mjs` (change both together):
+
+- every document matches `mwnf.search/1`, ids are unique and sorted, and every
+  site a document names is in `sites.json`;
+- every shard's SHA-256 and count match the manifest;
+- a pull request may not drop more than 5% of the documents of the base
+  branch's version unless it carries the label `search-shrink-ok`, so a broken
+  export cannot empty the search.
+
+Its versions are loaded by inventory-app's `deploy-search-ovh.yml` once the
+pin in `scripts/search` is bumped (propagate does it after a publish).

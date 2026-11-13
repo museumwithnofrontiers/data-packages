@@ -1,0 +1,124 @@
+{
+  "schema": "mwnf.search/1",
+  "name": "@museumwnf/search-data",
+  "languages": [
+    "ar",
+    "cs",
+    "de",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "he",
+    "it",
+    "pt",
+    "se",
+    "tr"
+  ],
+  "counts": {
+    "documents": 9403,
+    "excluded_no_site": 328,
+    "by_type": {
+      "detail": 882,
+      "monument": 2063,
+      "object": 6458
+    },
+    "by_language": {
+      "ar": 2447,
+      "cs": 264,
+      "de": 780,
+      "el": 50,
+      "en": 9398,
+      "es": 1989,
+      "fr": 2459,
+      "he": 1,
+      "it": 1121,
+      "pt": 536,
+      "se": 4,
+      "tr": 146
+    },
+    "sites": 88
+  },
+  "shards": [
+    {
+      "file": "documents/0.ndjson",
+      "documents": 592,
+      "sha256": "a467630c8e09029ca7fdde57907acb7cd02928aeb921ac50051c4543fbd5d13f"
+    },
+    {
+      "file": "documents/1.ndjson",
+      "documents": 581,
+      "sha256": "980917318e51dbad598e7cffae3f163d7b786a49b6356e0732ab27fecf856827"
+    },
+    {
+      "file": "documents/2.ndjson",
+      "documents": 568,
+      "sha256": "339b82089f2f64bca1ce2c22b922212f4dae0bc9a0088fcfd301228593bcde6f"
+    },
+    {
+      "file": "documents/3.ndjson",
+      "documents": 578,
+      "sha256": "1a4925e078992c0f1e1af961aa64b433dea6de5e022b7d325d5899193b53fb8a"
+    },
+    {
+      "file": "documents/4.ndjson",
+      "documents": 594,
+      "sha256": "713c1648f749b73e294ce5acc747b4d73b5578a7536de63e8cdad2ab7aaa35f5"
+    },
+    {
+      "file": "documents/5.ndjson",
+      "documents": 622,
+      "sha256": "52881ef88e5d04f3ade3f2c04d1503a069fa5dd4c1d9a45c85714eb2fc3fef84"
+    },
+    {
+      "file": "documents/6.ndjson",
+      "documents": 616,
+      "sha256": "5dd09a96b8de76c1c6f61885f025ec99bc28de30429e2f17420b0cddf325c7f4"
+    },
+    {
+      "file": "documents/7.ndjson",
+      "documents": 538,
+      "sha256": "49652c0e4ff103d2f030ce46fc08fb7976c5d285f0945dc199ed01c5d443764c"
+    },
+    {
+      "file": "documents/8.ndjson",
+      "documents": 656,
+      "sha256": "4a66a436d1af2cbf3de22c7713ba20cd52bcd66e7b6106fb67f245f29b68fa56"
+    },
+    {
+      "file": "documents/9.ndjson",
+      "documents": 594,
+      "sha256": "7ab2188c7e3858617ccd2067151ba2653794612b56a988343120e3b87099a22f"
+    },
+    {
+      "file": "documents/a.ndjson",
+      "documents": 583,
+      "sha256": "3346920c76ebe46b91e1e306239721980d8ff727d8696299a6ffb8395dafbf37"
+    },
+    {
+      "file": "documents/b.ndjson",
+      "documents": 602,
+      "sha256": "9fc49aa9b3e62f0ebc063af67c68b2798e19421cdd21d5a52ed54737a0a4b7f7"
+    },
+    {
+      "file": "documents/c.ndjson",
+      "documents": 550,
+      "sha256": "1c6bd029a2d2040de530b3dd43a543200bcbc19da1199b466d563724d710717d"
+    },
+    {
+      "file": "documents/d.ndjson",
+      "documents": 549,
+      "sha256": "0b6084997ba5a637088091140047aa3957eb857fd09769ea301ced812168c2e5"
+    },
+    {
+      "file": "documents/e.ndjson",
+      "documents": 605,
+      "sha256": "ffbcc3b5e8ba3f365d2ba94f85cdf20dd87b589e1eaaf97535c1e58590e3866e"
+    },
+    {
+      "file": "documents/f.ndjson",
+      "documents": 575,
+      "sha256": "66902e9c0bbd84661c7d75586553c0127f3fcd4cb8eaf7dbfebfb553f2933cfb"
+    }
+  ]
+}

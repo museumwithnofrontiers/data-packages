@@ -1,0 +1,709 @@
+{
+  "schema": "mwnf.search/1",
+  "sites": [
+    {
+      "slug": "amulets",
+      "name": "Amulets and Talismans",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/amulets",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "archaeology",
+      "name": "Archaeological Objects",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/archaeology",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "architectural-elements",
+      "name": "Architectural Elements",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/architectural-elements",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "arms-armoury",
+      "name": "Arms and Armoury",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/arms-armoury",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "arts-in-dialogue",
+      "name": "Arts in Dialogue",
+      "kind": "exhibition",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/arts-in-dialogue",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "baroqueart",
+      "name": "Discover Baroque Art",
+      "kind": "standalone",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/baroqueart",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "baroqueart-absolutism",
+      "name": "Absolutism",
+      "kind": "minisite",
+      "parent": "baroqueart",
+      "origin": "https://museumwithnofrontiers.github.io/baroqueart-absolutism",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "baroqueart-bourgeoisie",
+      "name": "The Ascension of the Bourgeoisie",
+      "kind": "minisite",
+      "parent": "baroqueart",
+      "origin": "https://museumwithnofrontiers.github.io/baroqueart-bourgeoisie",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "baroqueart-devotion",
+      "name": "Devotion and Pilgrimage",
+      "kind": "minisite",
+      "parent": "baroqueart",
+      "origin": "https://museumwithnofrontiers.github.io/baroqueart-devotion",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "baroqueart-enlightenment",
+      "name": "The Age of Enlightenment",
+      "kind": "minisite",
+      "parent": "baroqueart",
+      "origin": "https://museumwithnofrontiers.github.io/baroqueart-enlightenment",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "baroqueart-ephemera",
+      "name": "Ephemera, Festivals and Theatrical Representation",
+      "kind": "minisite",
+      "parent": "baroqueart",
+      "origin": "https://museumwithnofrontiers.github.io/baroqueart-ephemera",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "baroqueart-languages-baroque",
+      "name": "Languages of Baroque",
+      "kind": "minisite",
+      "parent": "baroqueart",
+      "origin": "https://museumwithnofrontiers.github.io/baroqueart-languages-baroque",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "baroqueart-reformation",
+      "name": "Reformation and Counter-Reformation",
+      "kind": "minisite",
+      "parent": "baroqueart",
+      "origin": "https://museumwithnofrontiers.github.io/baroqueart-reformation",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "baroqueart-travelling-and-exotism",
+      "name": "Travelling and Exoticism",
+      "kind": "minisite",
+      "parent": "baroqueart",
+      "origin": "https://museumwithnofrontiers.github.io/baroqueart-travelling-and-exotism",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "calligraphy",
+      "name": "Calligraphy",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/calligraphy",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "carpets",
+      "name": "Carpets",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/carpets",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "ceramics",
+      "name": "Ceramics",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/ceramics",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "clothing",
+      "name": "Clothing and Costume",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/clothing",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "coins-medals",
+      "name": "Coins and Medals",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/coins-medals",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "communication",
+      "name": "Communication and Transportation",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/communication",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "explore",
+      "name": "Explore with MWNF",
+      "kind": "standalone",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/explore",
+      "item_path": "/monument/:id"
+    },
+    {
+      "slug": "funerary-objects",
+      "name": "Funerary Objects",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/funerary-objects",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "galleries",
+      "name": "MWNF Galleries",
+      "kind": "standalone",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/galleries",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "glass",
+      "name": "Glass",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/glass",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "gold-silver",
+      "name": "Gold and Silver",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/gold-silver",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "historical-cars",
+      "name": "Historical Cars",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/historical-cars",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart",
+      "name": "Discover Islamic Art",
+      "kind": "standalone",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/islamicart",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-arabic-calligraphy",
+      "name": "Arabic Calligraphy",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-arabic-calligraphy",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-artistic-introduction",
+      "name": "Artistic Introduction",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-artistic-introduction",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-crusader",
+      "name": "Al-Franj: the Crusaders in the Levant",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-crusader",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-fatimids",
+      "name": "The Fatimids",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-fatimids",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-figural",
+      "name": "Figurative Art",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-figural",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-floral",
+      "name": "Echoes of Paradise: the Garden and Flora in Islamic Art",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-floral",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-geometric",
+      "name": "Geometric Decoration",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-geometric",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-mudejar-art",
+      "name": "Mudéjar Art",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-mudejar-art",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-muslim-west",
+      "name": "The Muslim West",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-muslim-west",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-pilgrimage",
+      "name": "Pilgrimage",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-pilgrimage",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-siculo-norman",
+      "name": "The Normans in Sicily",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-siculo-norman",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-the-abbasids",
+      "name": "The Abbasids",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-the-abbasids",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-the-ayyubids",
+      "name": "The Atabegs and Ayyubids",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-the-ayyubids",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-the-mamluks",
+      "name": "The Mamluks",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-the-mamluks",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-the-ottomans",
+      "name": "The Ottomans",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-the-ottomans",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-the-umayyads",
+      "name": "The Umayyads",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-the-umayyads",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-water",
+      "name": "Water",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-water",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-western-influence",
+      "name": "Western Influence in Ottoman Lands",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-western-influence",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "islamicart-women",
+      "name": "Women",
+      "kind": "minisite",
+      "parent": "islamicart",
+      "origin": "https://museumwithnofrontiers.github.io/islamicart-women",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "ivory",
+      "name": "Ivory",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/ivory",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "jewellery",
+      "name": "Jewellery",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/jewellery",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "landscapes",
+      "name": "Landscapes",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/landscapes",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "leatherworks",
+      "name": "Leatherwork",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/leatherworks",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "manuscripts",
+      "name": "Manuscripts",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/manuscripts",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "metalwork",
+      "name": "Metalwork",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/metalwork",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "mosaics",
+      "name": "Mosaics",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/mosaics",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "musical-instruments",
+      "name": "Musical Instruments",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/musical-instruments",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "paintings",
+      "name": "Paintings",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/paintings",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "photographs",
+      "name": "Photographs",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/photographs",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "porcelain",
+      "name": "Porcelain",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/porcelain",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "portraits",
+      "name": "Portraits",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/portraits",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "precious-stones",
+      "name": "Precious Stones",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/precious-stones",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "prints-drawings",
+      "name": "Prints and Drawings",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/prints-drawings",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "publications",
+      "name": "MWNF Books",
+      "kind": "standalone",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/publications",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "religious-life",
+      "name": "Religious Life",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/religious-life",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "scientific-objects",
+      "name": "Scientific Objects",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/scientific-objects",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "sculptures",
+      "name": "Sculptures",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/sculptures",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "search",
+      "name": "Search",
+      "kind": "search",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/search",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "sharinghistory",
+      "name": "Sharing History",
+      "kind": "standalone",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/sharinghistory",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "sharinghistory-cities-and-urban-spaces",
+      "name": "Cities and Urban Spaces",
+      "kind": "minisite",
+      "parent": "sharinghistory",
+      "origin": "https://museumwithnofrontiers.github.io/sharinghistory-cities-and-urban-spaces",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "sharinghistory-economy-and-trade",
+      "name": "Economy and Trade",
+      "kind": "minisite",
+      "parent": "sharinghistory",
+      "origin": "https://museumwithnofrontiers.github.io/sharinghistory-economy-and-trade",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "sharinghistory-fine-and-applied-arts",
+      "name": "Fine and Applied Arts",
+      "kind": "minisite",
+      "parent": "sharinghistory",
+      "origin": "https://museumwithnofrontiers.github.io/sharinghistory-fine-and-applied-arts",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "sharinghistory-great-inventions-of-the-19th-century",
+      "name": "Great Inventions of the 19th Century",
+      "kind": "minisite",
+      "parent": "sharinghistory",
+      "origin": "https://museumwithnofrontiers.github.io/sharinghistory-great-inventions-of-the-19th-century",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "sharinghistory-international-exhibitions",
+      "name": "International Exhibitions",
+      "kind": "minisite",
+      "parent": "sharinghistory",
+      "origin": "https://museumwithnofrontiers.github.io/sharinghistory-international-exhibitions",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "sharinghistory-migrations",
+      "name": "Migrations",
+      "kind": "minisite",
+      "parent": "sharinghistory",
+      "origin": "https://museumwithnofrontiers.github.io/sharinghistory-migrations",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "sharinghistory-music-literature-dance-and-fashion",
+      "name": "Music, Literature, Dance and Fashion",
+      "kind": "minisite",
+      "parent": "sharinghistory",
+      "origin": "https://museumwithnofrontiers.github.io/sharinghistory-music-literature-dance-and-fashion",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "sharinghistory-rediscovering-the-past",
+      "name": "Rediscovering the Past",
+      "kind": "minisite",
+      "parent": "sharinghistory",
+      "origin": "https://museumwithnofrontiers.github.io/sharinghistory-rediscovering-the-past",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "sharinghistory-reforms-and-social-changes",
+      "name": "Reforms and Social Changes",
+      "kind": "minisite",
+      "parent": "sharinghistory",
+      "origin": "https://museumwithnofrontiers.github.io/sharinghistory-reforms-and-social-changes",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "sharinghistory-travelling",
+      "name": "Travelling",
+      "kind": "minisite",
+      "parent": "sharinghistory",
+      "origin": "https://museumwithnofrontiers.github.io/sharinghistory-travelling",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "textiles",
+      "name": "Textiles",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/textiles",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "the-hijaz-railway",
+      "name": "The Hijaz Railway",
+      "kind": "exhibition",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/the-hijaz-railway",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "the-table-is-set",
+      "name": "The Table Is Set",
+      "kind": "exhibition",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/the-table-is-set",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "the-use-of-colours-in-art",
+      "name": "The Use of Colours in Art",
+      "kind": "exhibition",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/the-use-of-colours-in-art",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "theatre",
+      "name": "Theatre",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/theatre",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "toys-games",
+      "name": "Toys and Games",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/toys-games",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "travels",
+      "name": "MWNF Travel",
+      "kind": "standalone",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/travels",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "wallpaintings",
+      "name": "Wall Paintings and Frescoes",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/wallpaintings",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "water-in-islam",
+      "name": "Water in Islam",
+      "kind": "exhibition",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/water-in-islam",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "weights-measures",
+      "name": "Weights and Measures",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/weights-measures",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "with-brush-and-qalam",
+      "name": "With Brush and Qalam",
+      "kind": "exhibition",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/with-brush-and-qalam",
+      "item_path": "/item/:id"
+    },
+    {
+      "slug": "woodwork",
+      "name": "Furniture and Woodwork",
+      "kind": "gallery",
+      "parent": null,
+      "origin": "https://museumwithnofrontiers.github.io/woodwork",
+      "item_path": "/item/:id"
+    }
+  ]
+}
