@@ -23,6 +23,9 @@ jobs:
           node-version: 24
       - name: Check the packages this pull request changes
         if: github.event_name == 'pull_request'
+        env:
+          # search-data may lose more than 5% of its documents only with this label.
+          SEARCH_SHRINK_OK: ${{ contains(github.event.pull_request.labels.*.name, 'search-shrink-ok') }}
         run: node scripts/check.mjs "origin/${{ github.base_ref }}"
       - name: Check every package's layout
         if: github.event_name != 'pull_request'
