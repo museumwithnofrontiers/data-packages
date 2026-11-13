@@ -1495,10 +1495,10 @@
         "captions": {},
         "photographers": {},
         "copyrights": {
-          "en": "W.-D. Lemke"
+          "en": "Lemke collection, Berlin"
         },
         "photographer": null,
-        "copyright": "W.-D. Lemke"
+        "copyright": "Lemke collection, Berlin"
       }
     ],
     "tag_ids": [
@@ -1845,10 +1845,10 @@
         "captions": {},
         "photographers": {},
         "copyrights": {
-          "en": "St. Weber"
+          "en": "Lemke collection, Berlin"
         },
         "photographer": null,
-        "copyright": "St. Weber"
+        "copyright": "Lemke collection, Berlin"
       }
     ],
     "tag_ids": [
@@ -2084,7 +2084,7 @@
   {
     "id": "742e675b-2783-5254-a6e4-abd2e2dc3cd3",
     "type": "object",
-    "internal_name": "*Monument commemorating the installation of the Hijaz-Damascus telegraph connection, Beirut*",
+    "internal_name": "*Monument commemorating the installation of the Hijaz-Damascus telegraph connection, Damascus*",
     "backward_compatibility": "mwnf3_sharing_history:sh_objects:awe:de:18",
     "project_id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
     "partner_id": "8128a827-15fb-5166-902e-e23aab2a8fd7",
@@ -2106,10 +2106,10 @@
         "captions": {},
         "photographers": {},
         "copyrights": {
-          "en": "W.-D. Lemke"
+          "en": "Lemke collection, Berlin"
         },
         "photographer": null,
-        "copyright": "W.-D. Lemke"
+        "copyright": "Lemke collection, Berlin"
       }
     ],
     "tag_ids": [
@@ -2442,10 +2442,10 @@
         "captions": {},
         "photographers": {},
         "copyrights": {
-          "en": "W.-D. Lemke"
+          "en": "Lemke collection, Berlin"
         },
         "photographer": null,
-        "copyright": "W.-D. Lemke"
+        "copyright": "Lemke collection, Berlin"
       },
       {
         "url": "https://inventory.metanull.eu/pub/e65d28ad-07b7-5bba-8346-5217300914b3.jpg",
@@ -2456,9 +2456,11 @@
         ],
         "captions": {},
         "photographers": {},
-        "copyrights": {},
+        "copyrights": {
+          "en": "Lemke collection, Berlin"
+        },
         "photographer": null,
-        "copyright": null
+        "copyright": "Lemke collection, Berlin"
       },
       {
         "url": "https://inventory.metanull.eu/pub/ab07ea7c-ec0d-5b77-8300-7a4721f5748a.jpg",
@@ -2469,9 +2471,11 @@
         ],
         "captions": {},
         "photographers": {},
-        "copyrights": {},
+        "copyrights": {
+          "en": "Lemke collection, Berlin"
+        },
         "photographer": null,
-        "copyright": null
+        "copyright": "Lemke collection, Berlin"
       },
       {
         "url": "https://inventory.metanull.eu/pub/8ca4686a-1f63-5eff-bbf7-ee33ae7ea967.jpg",
@@ -2482,9 +2486,11 @@
         ],
         "captions": {},
         "photographers": {},
-        "copyrights": {},
+        "copyrights": {
+          "en": "Lemke collection, Berlin"
+        },
         "photographer": null,
-        "copyright": null
+        "copyright": "Lemke collection, Berlin"
       },
       {
         "url": "https://inventory.metanull.eu/pub/275e3a6b-6004-5006-ae91-7b985cd456fd.jpg",
@@ -2495,9 +2501,11 @@
         ],
         "captions": {},
         "photographers": {},
-        "copyrights": {},
+        "copyrights": {
+          "en": "Lemke collection, Berlin"
+        },
         "photographer": null,
-        "copyright": null
+        "copyright": "Lemke collection, Berlin"
       }
     ],
     "tag_ids": [
@@ -33941,6 +33949,33 @@
       {
         "list": "exhibition",
         "site": "the-hijaz-railway",
+        "path": "/theme/3/3/2",
+        "project": null,
+        "exhibition": {
+          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
+          "titles": {
+            "en": "The Hijaz Railway"
+          }
+        },
+        "theme": {
+          "id": "7233ff48-d3bc-569e-a2a1-51267d0afd15",
+          "titles": {
+            "en": "Vision and Contemporary Reflections"
+          }
+        },
+        "subtheme": {
+          "id": "2d07bb0f-b16e-53ad-b710-eb9840a46d50",
+          "titles": {
+            "en": "The Train Station That Once Was, but Is No More"
+          }
+        },
+        "legacy_order": [
+          2
+        ]
+      },
+      {
+        "list": "exhibition",
+        "site": "the-hijaz-railway",
         "path": "/theme/1/3/10",
         "project": null,
         "exhibition": {
@@ -33990,33 +34025,6 @@
         },
         "legacy_order": [
           11
-        ]
-      },
-      {
-        "list": "exhibition",
-        "site": "the-hijaz-railway",
-        "path": "/theme/3/3/2",
-        "project": null,
-        "exhibition": {
-          "id": "9884c4d0-416a-5d95-8365-a92d158c2065",
-          "titles": {
-            "en": "The Hijaz Railway"
-          }
-        },
-        "theme": {
-          "id": "7233ff48-d3bc-569e-a2a1-51267d0afd15",
-          "titles": {
-            "en": "Vision and Contemporary Reflections"
-          }
-        },
-        "subtheme": {
-          "id": "2d07bb0f-b16e-53ad-b710-eb9840a46d50",
-          "titles": {
-            "en": "The Train Station That Once Was, but Is No More"
-          }
-        },
-        "legacy_order": [
-          9007199254740991
         ]
       }
     ],
