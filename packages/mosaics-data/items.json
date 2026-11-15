@@ -641,68 +641,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "0e9a561e-cbdf-500a-b145-7812c743cc12",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:1",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "الفسيفساء جزء رئيس من هذا القصر ويعود تاريخهما للعصر الأموي.",
-          "en": "The mosaic is part of the palace; both are dated to the Umayyad period.",
-          "fr": "La mosaïque fait partie du palais ; toutes deux sont de la période omeyyade.",
-          "es": "El mosaico es parte del palacio; ambos datan del periodo omeya."
-        },
-        "names": {
-          "ar": "القسطل.",
-          "en": "Qastal.",
-          "fr": "Al-Qastal.",
-          "es": "Al-Qastal"
-        },
-        "country_id": "jor",
-        "image": "https://inventory.metanull.eu/pub/e497eaea-f402-5365-8134-40d343f45e80.jpg"
-      },
-      {
-        "id": "36cb81b7-4f72-5fca-806a-a2414db562aa",
-        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:1",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "لدى المسجد الكبير نقش لأسد يهجم على ثور.",
-          "en": "The Great Mosque has a carving of a lion pouncing on a bull.",
-          "fr": "La Grande Mosquée a une sculpture de lion attaquant un taureau.",
-          "es": "La Gran Mezquita presenta un tallado de un león atacando a un toro."
-        },
-        "names": {
-          "ar": "المسجد الكبير.",
-          "en": "Great Mosque (Ulu Cami).",
-          "fr": "Grande Mosquée (Ulu Cami).",
-          "es": "Mezquita Mayor (Ulu Cami).",
-          "tr": "Ulu Cami."
-        },
-        "country_id": "tur",
-        "image": "https://inventory.metanull.eu/pub/5b285a38-05e0-5fe1-96ac-872cd1b90fdc.jpg"
-      },
-      {
-        "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تحمل الأرضية الفسيفساء صورة لأسد يهجم على غزالة.",
-          "en": "A mosaic floor in the palace also depicts a lion pouncing on a gazelle.",
-          "fr": "Le sol de mosaïque du palais représente aussi un lion poursuivant une gazelle.",
-          "es": "Un suelo de mosaico en el palacio también representa un león atacando una gacela."
-        },
-        "names": {
-          "ar": "خربة المفجر.",
-          "en": "Khirbat al-Mafjar.",
-          "fr": "Khirbat al-Mafjar.",
-          "es": "Jirbat al-Mafyar."
-        },
-        "country_id": "pse",
-        "image": "https://inventory.metanull.eu/pub/4ac0cba0-2130-5cf5-94c4-dd7810661e2b.jpg"
-      },
-      {
         "id": "559fe3d7-2ebc-57bb-b93b-d40cacce4a4e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -723,7 +663,72 @@
         "image": "https://inventory.metanull.eu/pub/f32b403b-719b-54cf-8770-51f1a11519ed.jpg"
       },
       {
+        "id": "0e9a561e-cbdf-500a-b145-7812c743cc12",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:1",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "الفسيفساء جزء رئيس من هذا القصر ويعود تاريخهما للعصر الأموي.",
+          "en": "The mosaic is part of the palace; both are dated to the Umayyad period.",
+          "fr": "La mosaïque fait partie du palais ; toutes deux sont de la période omeyyade.",
+          "es": "El mosaico es parte del palacio; ambos datan del periodo omeya."
+        },
+        "names": {
+          "ar": "القسطل.",
+          "en": "Qastal.",
+          "fr": "Al-Qastal.",
+          "es": "Al-Qastal"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/e497eaea-f402-5365-8134-40d343f45e80.jpg"
+      },
+      {
+        "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تحمل الأرضية الفسيفساء صورة لأسد يهجم على غزالة.",
+          "en": "A mosaic floor in the palace also depicts a lion pouncing on a gazelle.",
+          "fr": "Le sol de mosaïque du palais représente aussi un lion poursuivant une gazelle.",
+          "es": "Un suelo de mosaico en el palacio también representa un león atacando una gacela."
+        },
+        "names": {
+          "ar": "خربة المفجر.",
+          "en": "Khirbat al-Mafjar.",
+          "fr": "Khirbat al-Mafjar.",
+          "es": "Jirbat al-Mafyar."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/4ac0cba0-2130-5cf5-94c4-dd7810661e2b.jpg"
+      },
+      {
+        "id": "36cb81b7-4f72-5fca-806a-a2414db562aa",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:1",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "لدى المسجد الكبير نقش لأسد يهجم على ثور.",
+          "en": "The Great Mosque has a carving of a lion pouncing on a bull.",
+          "fr": "La Grande Mosquée a une sculpture de lion attaquant un taureau.",
+          "es": "La Gran Mezquita presenta un tallado de un león atacando a un toro."
+        },
+        "names": {
+          "ar": "المسجد الكبير.",
+          "en": "Great Mosque (Ulu Cami).",
+          "fr": "Grande Mosquée (Ulu Cami).",
+          "es": "Mezquita Mayor (Ulu Cami).",
+          "tr": "Ulu Cami."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/5b285a38-05e0-5fe1-96ac-872cd1b90fdc.jpg"
+      },
+      {
         "id": "9fdca272-4041-5355-84f2-5cf19779524e",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:tn:Mus01:44",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -1060,19 +1065,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "486238d7-a097-5c5c-aed4-3125d1f36409",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:17",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "فسيفساء من العصر الأموي مع بقايا بيزنطية.",
-          "en": "Mosaic from the Umayyad period with Byzantine remains.",
-          "fr": "Mosaïque datant de l’époque omeyyade avec une survivance byzantine.",
-          "es": "Mosaico del periodo omeya con vestigios bizantinos."
-        }
-      },
-      {
         "id": "f45a5578-70b1-5466-95c5-1e8cf51008ba",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:31",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1089,6 +1083,19 @@
         },
         "country_id": "jor",
         "image": "https://inventory.metanull.eu/pub/a6ea1288-a46b-5b83-ba62-e2f0983ccc85.jpg"
+      },
+      {
+        "id": "486238d7-a097-5c5c-aed4-3125d1f36409",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:17",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "فسيفساء من العصر الأموي مع بقايا بيزنطية.",
+          "en": "Mosaic from the Umayyad period with Byzantine remains.",
+          "fr": "Mosaïque datant de l’époque omeyyade avec une survivance byzantine.",
+          "es": "Mosaico del periodo omeya con vestigios bizantinos."
+        }
       }
     ],
     "gallery_references": [
@@ -1377,19 +1384,50 @@
     "media": [],
     "related_items": [
       {
-        "id": "486238d7-a097-5c5c-aed4-3125d1f36409",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:17",
+        "id": "a32edb8e-fb20-5784-a0b9-a942023390cd",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
+        "in_package": false,
         "justifications": {
-          "ar": "تحمل الأرضيتان زخارف حيوانية, نباتية, وأشكال هندسية ذو ارتباط زمنى تسلسي.",
-          "en": "Both mosaic floors have animal, floral and geometric motifs, and are chronologically related.",
-          "fr": "Les deux sols couverts de mosaïques ont des motifs animaliers, floraux et géométrique, et sont en rapport au plan chronologique.",
-          "es": "Ambos suelos de mosaico presentan animales, motivos florales y geométricos y están relacionados cronológicamente."
-        }
+          "ar": "زُين القصر بأرضيات من الفسيفساء المُحملة بزخارف نباتية وحيوانية.",
+          "en": "The *qasr* had mosaic floors decorated with animal figures and floral motifs.",
+          "fr": "Le qasr avait des sols en mosaïque décorés de figures animalières et de motifs floraux.",
+          "es": "EL *qasr* tiene suelos de mosaico decorados con figuras de animales y motivos florales."
+        },
+        "names": {
+          "ar": "قصر الحلابات.",
+          "en": "Qasr al-Hallabat.",
+          "fr": "Qasr al-Hallabat.",
+          "es": "Qasr al-Hallabat"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/8bde7c65-2515-5e09-9e01-7fb6c56a149d.jpg"
+      },
+      {
+        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:4",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يحتوي هذا الأثر على ألواح من الفسيفساء, يظهر على البعض منها زخارف نباتية مماثلة للموجودة على الأرضية.",
+          "en": "The monument has mosaic panels, some of which show floral motifs similar to those on the mosaic floor.",
+          "fr": "Le monument a des panneaux de mosaïque, dont certains montrent des motifs floraux semblables à ceux de la mosaïque de sol.",
+          "es": "El monumento posee panales de mosaicos, algunos de los cuales muestran motivos florales similares a los utilizados en los suelos."
+        },
+        "names": {
+          "ar": "قبة الصخرة.",
+          "en": "Dome of the Rock.",
+          "fr": "Dôme du Rocher.",
+          "es": "Cúpula de la Roca"
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/fb68e98f-0564-54a2-b63c-b8008159833b.jpg"
       },
       {
         "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1410,6 +1448,7 @@
       },
       {
         "id": "84f6b107-47b2-5cd1-a520-3a4f89856221",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:11",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1429,47 +1468,21 @@
         "image": "https://inventory.metanull.eu/pub/c5e8a9ee-39bb-5b61-b368-898365ffcec7.jpg"
       },
       {
-        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:4",
+        "id": "486238d7-a097-5c5c-aed4-3125d1f36409",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
+        "in_package": true,
         "justifications": {
-          "ar": "يحتوي هذا الأثر على ألواح من الفسيفساء, يظهر على البعض منها زخارف نباتية مماثلة للموجودة على الأرضية.",
-          "en": "The monument has mosaic panels, some of which show floral motifs similar to those on the mosaic floor.",
-          "fr": "Le monument a des panneaux de mosaïque, dont certains montrent des motifs floraux semblables à ceux de la mosaïque de sol.",
-          "es": "El monumento posee panales de mosaicos, algunos de los cuales muestran motivos florales similares a los utilizados en los suelos."
-        },
-        "names": {
-          "ar": "قبة الصخرة.",
-          "en": "Dome of the Rock.",
-          "fr": "Dôme du Rocher.",
-          "es": "Cúpula de la Roca"
-        },
-        "country_id": "pse",
-        "image": "https://inventory.metanull.eu/pub/fb68e98f-0564-54a2-b63c-b8008159833b.jpg"
-      },
-      {
-        "id": "a32edb8e-fb20-5784-a0b9-a942023390cd",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:5",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "زُين القصر بأرضيات من الفسيفساء المُحملة بزخارف نباتية وحيوانية.",
-          "en": "The *qasr* had mosaic floors decorated with animal figures and floral motifs.",
-          "fr": "Le qasr avait des sols en mosaïque décorés de figures animalières et de motifs floraux.",
-          "es": "EL *qasr* tiene suelos de mosaico decorados con figuras de animales y motivos florales."
-        },
-        "names": {
-          "ar": "قصر الحلابات.",
-          "en": "Qasr al-Hallabat.",
-          "fr": "Qasr al-Hallabat.",
-          "es": "Qasr al-Hallabat"
-        },
-        "country_id": "jor",
-        "image": "https://inventory.metanull.eu/pub/8bde7c65-2515-5e09-9e01-7fb6c56a149d.jpg"
+          "ar": "تحمل الأرضيتان زخارف حيوانية, نباتية, وأشكال هندسية ذو ارتباط زمنى تسلسي.",
+          "en": "Both mosaic floors have animal, floral and geometric motifs, and are chronologically related.",
+          "fr": "Les deux sols couverts de mosaïques ont des motifs animaliers, floraux et géométrique, et sont en rapport au plan chronologique.",
+          "es": "Ambos suelos de mosaico presentan animales, motivos florales y geométricos y están relacionados cronológicamente."
+        }
       },
       {
         "id": "fc496894-497a-5358-b6b4-2e9135336e42",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:39",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -1608,6 +1621,7 @@
     "related_items": [
       {
         "id": "34df1c16-bb7b-5506-b850-656c4bb0f8aa",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:15",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2172,51 +2186,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "38ac8909-b6b3-578f-84ca-ee3dab9091b2",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:40",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "تمّ رصف الأرضيتان بالفسيفساء خلال الفترة الأموية بأشكال مُتقاطعة.",
-          "en": "Both are mosaic floors of churches, built and paved during the Umayyad period.",
-          "fr": "Les deux sont des sols couverts de mosaïques d’églises, construites et dallées pendant la période omeyyade.",
-          "es": "Ambos son suelos de mosaico en iglesias, construidas y pavimentadas durante el periodo omeya."
-        }
-      },
-      {
-        "id": "3b905371-82f4-562e-9ed1-808c1a7eff1f",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:23",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "يُعدّ هذا الموقع أحد أهم محطات الحج المسيحية في فلسطين حيث وُجدت هذه الأرضية الفسيفساء بمنطقة مادبا والتى أصبحت مقصد للحجيج عام 2000.",
-          "en": "This monument is one of the most famous Christian pilgrim sites in Palestine; the mosaic floor was found in the district of Madaba, which also became a pilgrim site in 2000.",
-          "fr": "Ce monument est l’un des sites de pèlerinage les plus célèbres de Palestine ; le sol de mosaïque fut trouvé dans le quartier de Madaba, qui est aussi lieu de pèlerinage  depuis l’an 2000.",
-          "es": "Este monumento es uno los lugares cristianos de peregrinación más famosos en Palestina; el suelo de mosaico fue hallado en el distrito de Madaba, que también se convirtió en lugar de peregrinación en el 2000."
-        },
-        "names": {
-          "ar": "كنيسة المهد.",
-          "en": "Church of the Nativity.",
-          "fr": "Église de la Nativité.",
-          "es": "Iglesia de la Natividad"
-        },
-        "country_id": "pse",
-        "image": "https://inventory.metanull.eu/pub/cf36b7c6-8e7f-55df-92d0-954d87d581c4.jpg"
-      },
-      {
-        "id": "486238d7-a097-5c5c-aed4-3125d1f36409",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:17",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "تمّ رصف الأرضيتان بالفسيفساء خلال الفترة الأموية بأشكال مُتقاطعة.",
-          "en": "Both are mosaic floors paved during the Umayyad period and with intersecting figures.",
-          "fr": "Les deux sont des sols couverts de mosaïques à l’époque omeyyade et à motifs sécants.",
-          "es": "Ambos suelos de mosaico se pavimentaron durante el periodo omeya con figuras entrecruzadas."
-        }
-      },
-      {
         "id": "559fe3d7-2ebc-57bb-b93b-d40cacce4a4e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2238,6 +2209,7 @@
       },
       {
         "id": "a32edb8e-fb20-5784-a0b9-a942023390cd",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2255,6 +2227,53 @@
         },
         "country_id": "jor",
         "image": "https://inventory.metanull.eu/pub/8bde7c65-2515-5e09-9e01-7fb6c56a149d.jpg"
+      },
+      {
+        "id": "3b905371-82f4-562e-9ed1-808c1a7eff1f",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:23",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يُعدّ هذا الموقع أحد أهم محطات الحج المسيحية في فلسطين حيث وُجدت هذه الأرضية الفسيفساء بمنطقة مادبا والتى أصبحت مقصد للحجيج عام 2000.",
+          "en": "This monument is one of the most famous Christian pilgrim sites in Palestine; the mosaic floor was found in the district of Madaba, which also became a pilgrim site in 2000.",
+          "fr": "Ce monument est l’un des sites de pèlerinage les plus célèbres de Palestine ; le sol de mosaïque fut trouvé dans le quartier de Madaba, qui est aussi lieu de pèlerinage  depuis l’an 2000.",
+          "es": "Este monumento es uno los lugares cristianos de peregrinación más famosos en Palestina; el suelo de mosaico fue hallado en el distrito de Madaba, que también se convirtió en lugar de peregrinación en el 2000."
+        },
+        "names": {
+          "ar": "كنيسة المهد.",
+          "en": "Church of the Nativity.",
+          "fr": "Église de la Nativité.",
+          "es": "Iglesia de la Natividad"
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/cf36b7c6-8e7f-55df-92d0-954d87d581c4.jpg"
+      },
+      {
+        "id": "486238d7-a097-5c5c-aed4-3125d1f36409",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:17",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "تمّ رصف الأرضيتان بالفسيفساء خلال الفترة الأموية بأشكال مُتقاطعة.",
+          "en": "Both are mosaic floors paved during the Umayyad period and with intersecting figures.",
+          "fr": "Les deux sont des sols couverts de mosaïques à l’époque omeyyade et à motifs sécants.",
+          "es": "Ambos suelos de mosaico se pavimentaron durante el periodo omeya con figuras entrecruzadas."
+        }
+      },
+      {
+        "id": "38ac8909-b6b3-578f-84ca-ee3dab9091b2",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:40",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "تمّ رصف الأرضيتان بالفسيفساء خلال الفترة الأموية بأشكال مُتقاطعة.",
+          "en": "Both are mosaic floors of churches, built and paved during the Umayyad period.",
+          "fr": "Les deux sont des sols couverts de mosaïques d’églises, construites et dallées pendant la période omeyyade.",
+          "es": "Ambos son suelos de mosaico en iglesias, construidas y pavimentadas durante el periodo omeya."
+        }
       }
     ],
     "gallery_references": [
