@@ -1101,6 +1101,7 @@
     "related_items": [
       {
         "id": "0ae5bb98-ff82-5c47-b575-e5dded2d383a",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:20",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1121,28 +1122,8 @@
         "image": "https://inventory.metanull.eu/pub/be3948af-7a80-5001-aba9-76191a617f40.jpg"
       },
       {
-        "id": "9beb3626-1910-5e59-a90a-ae27e1cb3c8d",
-        "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:4",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "كلا القطعتين صنعتا في جنوب شرق الأناضول و الذي كان مركزا مهما للمشغولات المعدنية في القرن السدس – السابع الهجري / الثاني عشر – الثالث عشر الميلادي.",
-          "en": "Both were produced in southeast Anatolia, which was an important centre for metalwork in the AH 6th–7th / AD 12th–13th centuries.",
-          "fr": "Les deux ont été produits dans l’Anatolie du Sud-Est, qui était un important centre de travail du métal au VIe-VIIe siècle H (XIIe-XIIIe siècle J.-C.)",
-          "es": "Ambos fueron producidos en el sureste de Anatolia, la cual era un importante centro para las artesanías de metal en los siglos VI-VII / XII-XIII."
-        },
-        "names": {
-          "ar": "مصراعا باب مع مطرقة.",
-          "en": "Door wings and a knocker.",
-          "fr": "Portes et heurtoir.",
-          "es": "Hojas de puerta y aldaba.",
-          "tr": "Kapı Kanatları ve Tokmağı."
-        },
-        "country_id": "tur",
-        "image": "https://inventory.metanull.eu/pub/6e682b4b-54b8-57b5-afce-6d19a2abb424.jpg"
-      },
-      {
         "id": "d6880977-13ca-5aa6-b786-648161801155",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:15",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1163,6 +1144,7 @@
       },
       {
         "id": "f7a106fc-4854-569f-bbae-0f22ab8f3514",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:it:Mus01_C:41",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1181,6 +1163,28 @@
         },
         "country_id": "ita",
         "image": "https://inventory.metanull.eu/pub/19d58014-d839-52c0-8ee6-ec9742da0c65.jpg"
+      },
+      {
+        "id": "9beb3626-1910-5e59-a90a-ae27e1cb3c8d",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:4",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "كلا القطعتين صنعتا في جنوب شرق الأناضول و الذي كان مركزا مهما للمشغولات المعدنية في القرن السدس – السابع الهجري / الثاني عشر – الثالث عشر الميلادي.",
+          "en": "Both were produced in southeast Anatolia, which was an important centre for metalwork in the AH 6th–7th / AD 12th–13th centuries.",
+          "fr": "Les deux ont été produits dans l’Anatolie du Sud-Est, qui était un important centre de travail du métal au VIe-VIIe siècle H (XIIe-XIIIe siècle J.-C.)",
+          "es": "Ambos fueron producidos en el sureste de Anatolia, la cual era un importante centro para las artesanías de metal en los siglos VI-VII / XII-XIII."
+        },
+        "names": {
+          "ar": "مصراعا باب مع مطرقة.",
+          "en": "Door wings and a knocker.",
+          "fr": "Portes et heurtoir.",
+          "es": "Hojas de puerta y aldaba.",
+          "tr": "Kapı Kanatları ve Tokmağı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/6e682b4b-54b8-57b5-afce-6d19a2abb424.jpg"
       }
     ],
     "gallery_references": [

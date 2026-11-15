@@ -846,18 +846,36 @@
     "media": [],
     "related_items": [
       {
-        "id": "51757aaf-3959-52b5-9501-f542549914de",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:41",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {}
-      },
-      {
         "id": "7708dbf7-ffa5-54f1-857f-9c7cdcd9258f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "مصبنة طوقان.",
+          "en": "Tuqan Soap Factory.",
+          "fr": "Manufacture de savon de la famille Touqan.",
+          "es": "Jabonería de la familia Tuqan."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/1293a899-b14b-5706-ade0-29c48e6324ff.jpg"
+      },
+      {
+        "id": "51757aaf-3959-52b5-9501-f542549914de",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:41",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {},
+        "names": {
+          "ar": "’ كف‘ أو تميمة على شكل راحة كف.",
+          "en": "‘Keff’ or hand-palm amulet.",
+          "fr": "Amulette “main de Fatma” ou “keff”.",
+          "es": "Amuleto con la “mano de Fátima” *(keff)*."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/1839cc26-1426-51f1-82c4-1b84bd6de890.jpg"
       }
     ],
     "gallery_references": [
@@ -27802,19 +27820,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "0ba3cb5d-c156-521a-bf55-a6d0e2384ede",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:27",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تعود هذه القطعة للمسجد الأقصى.",
-          "en": "This piece was brought from al-Aqsa Mosque.",
-          "fr": "Pièce transférée de la mosquée al-Aqsa.",
-          "es": "Este artículo fue traído desde la mezquita al-Aqsa."
-        }
-      },
-      {
         "id": "84f6b107-47b2-5cd1-a520-3a4f89856221",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:11",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -27826,19 +27833,8 @@
         }
       },
       {
-        "id": "9cc9092e-917f-5963-aa95-2f593ab99290",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:7",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "عود هذه القطعة للمسجد الأقصى.",
-          "en": "This piece was brought from al-Aqsa Mosque.",
-          "fr": "Pièce transférée de la mosquée al-Aqsa.",
-          "es": "Este artículo fue traído desde la mezquita al-Aqsa."
-        }
-      },
-      {
         "id": "b3b65730-0a51-56dc-a29d-497a32b57535",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -27847,10 +27843,61 @@
           "en": "This piece was brought from al-Aqsa Mosque.",
           "fr": "Pièce transférée de la mosquée al-Aqsa.",
           "es": "Este artículo fue traído desde la mezquita al-Aqsa."
-        }
+        },
+        "names": {
+          "ar": "شباك جصي معشق بالزجاج الملون.",
+          "en": "Stucco stained-glass window.",
+          "fr": "Fenêtre en stuc à vitrail.",
+          "es": "Vidriera de estuco."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/50e9e469-6ccd-5b98-8496-d0a57104cd75.jpg"
+      },
+      {
+        "id": "9cc9092e-917f-5963-aa95-2f593ab99290",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:7",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "عود هذه القطعة للمسجد الأقصى.",
+          "en": "This piece was brought from al-Aqsa Mosque.",
+          "fr": "Pièce transférée de la mosquée al-Aqsa.",
+          "es": "Este artículo fue traído desde la mezquita al-Aqsa."
+        },
+        "names": {
+          "ar": "دعامة خشبية.",
+          "en": "Wooden beam.",
+          "fr": "Poutre de bois.",
+          "es": "Viga de madera."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/0629673a-9ce7-5dc8-8242-6559545c0e23.jpg"
+      },
+      {
+        "id": "0ba3cb5d-c156-521a-bf55-a6d0e2384ede",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:27",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تعود هذه القطعة للمسجد الأقصى.",
+          "en": "This piece was brought from al-Aqsa Mosque.",
+          "fr": "Pièce transférée de la mosquée al-Aqsa.",
+          "es": "Este artículo fue traído desde la mezquita al-Aqsa."
+        },
+        "names": {
+          "ar": "المصحف المملوكي رقم 7.",
+          "en": "Qur’anic manuscript No. 7.",
+          "fr": "Manuscrit coranique n° 7.",
+          "es": "Manuscrito coránico n.º 7"
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/26e9161c-581a-5600-8635-e1352a18abb7.jpg"
       },
       {
         "id": "dc5f0937-d5aa-54f6-ab26-c328b079d9bf",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:28",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -27859,7 +27906,15 @@
           "en": "This piece was brought from al-Aqsa Mosque.",
           "fr": "Pièce transférée de la mosquée al-Aqsa.",
           "es": "Este artículo fue traído desde la mezquita al-Aqsa."
-        }
+        },
+        "names": {
+          "ar": "مصحف برسباي.",
+          "en": "*Mashaf* (Qur’anic manuscript) of Barsbay.",
+          "fr": "Machaf (manuscrit coranique) de Barsbay.",
+          "es": "Manuscrito coránico *(mashaf)* de Barsbay."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/8948ef92-039f-5c73-a444-2e48c828f578.jpg"
       }
     ],
     "gallery_references": [
@@ -28286,7 +28341,29 @@
     "media": [],
     "related_items": [
       {
+        "id": "dd3d69c9-87b8-5e84-8df5-fe7b386ddd81",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:34",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يتشابه البابان من حيث التخطيط والشكل وبانيهما هو السلطان سليمان القانوني.",
+          "en": "The two gates are similar in layout and form and both were built by Sultan Sulayman the Magnificent.",
+          "fr": "Les deux portes sont similaires par le plan et la forme et furent toutes deux construites par le sultan Soliman le Magnifique.",
+          "es": "Ambas puertas tienen son similares en su diseño y su forma, y ambas fueron construidas por el sultán Süleyman el Magnífico."
+        },
+        "names": {
+          "ar": "باب الأسباط.",
+          "en": "Bab al-Asbat.",
+          "fr": "Bab al-Asbat.",
+          "es": "Bab al-Asbat."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/9172a650-53cc-55f7-ba4b-1e30a4f3b6d4.jpg"
+      },
+      {
         "id": "0f423815-f3be-51a7-ab13-23fc5d185723",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:19",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -28299,6 +28376,7 @@
       },
       {
         "id": "62e625a3-a3f0-51a2-b3d3-9ee1fce45141",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:25",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -28307,19 +28385,16 @@
           "en": "The gate and the Süleymaniye Complex were both commissioned by Sultan Sulayman the Magnificent and built in approximately the same period.",
           "fr": "La porte et le complexe de la Süleymaniye furent tous deux commandités par le sultan Soliman le Magnifique et construits à peu près à la même époque.",
           "es": "Tanto la puerta como el complejo Süleymaniye fueron encargados por el sultán Süleyman el Magnífico y construidos aproximadamente en el mismo período."
-        }
-      },
-      {
-        "id": "dd3d69c9-87b8-5e84-8df5-fe7b386ddd81",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:34",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "يتشابه البابان من حيث التخطيط والشكل وبانيهما هو السلطان سليمان القانوني.",
-          "en": "The two gates are similar in layout and form and both were built by Sultan Sulayman the Magnificent.",
-          "fr": "Les deux portes sont similaires par le plan et la forme et furent toutes deux construites par le sultan Soliman le Magnifique.",
-          "es": "Ambas puertas tienen son similares en su diseño y su forma, y ambas fueron construidas por el sultán Süleyman el Magnífico."
-        }
+        },
+        "names": {
+          "ar": "مجمع السليمانية.",
+          "en": "Süleymaniye Complex.",
+          "fr": "Complexe Süleymaniye.",
+          "es": "Complejo Süleymaniye",
+          "tr": "Süleymaniye Külliyesi."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/57c0489b-7968-57d5-8b15-eb1afbcc24a2.jpg"
       }
     ],
     "gallery_references": [],
@@ -29068,6 +29143,7 @@
     "related_items": [
       {
         "id": "3b905371-82f4-562e-9ed1-808c1a7eff1f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -29080,6 +29156,7 @@
       },
       {
         "id": "7c3a4cbc-d305-5a96-aabc-cbcebe9d6397",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:15",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -29088,7 +29165,15 @@
           "en": "In the church there are many Crusader pillar capitals.",
           "fr": "Il y a de nombreux chapiteaux croisés dans l’église.",
           "es": "En la iglesia hay varios capiteles de los cruzados."
-        }
+        },
+        "names": {
+          "ar": "تاج عمود صليبي.",
+          "en": "Column capital.",
+          "fr": "Chapiteau de colonne.",
+          "es": "Capitel."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/b6805a5c-3be8-5329-a30a-cea165b3892c.jpg"
       }
     ],
     "gallery_references": [],
@@ -29384,7 +29469,21 @@
     "media": [],
     "related_items": [
       {
+        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:4",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "تتشابه الفسيفساء من حيث المواضيع والتقنيات.",
+          "en": "The mosaics have similarities in techniques and themes.",
+          "fr": "Les mosaïques présentent des similitudes dans la technique et dans les thèmes.",
+          "es": "Los mosaicos comparten similitudes en las técnicas y temáticas."
+        }
+      },
+      {
         "id": "74efc106-e576-5569-bfb1-3b51d81c8622",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:20",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -29397,6 +29496,7 @@
       },
       {
         "id": "7c3a4cbc-d305-5a96-aabc-cbcebe9d6397",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:15",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -29405,19 +29505,15 @@
           "en": "In the church there are many Crusader pillar capitals from the same period.",
           "fr": "Il y a de nombreux chapiteaux croisés de la même période dans l’église.",
           "es": "En la iglesia hay varios capiteles de los cruzados del mismo período."
-        }
-      },
-      {
-        "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:4",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "تتشابه الفسيفساء من حيث المواضيع والتقنيات.",
-          "en": "The mosaics have similarities in techniques and themes.",
-          "fr": "Les mosaïques présentent des similitudes dans la technique et dans les thèmes.",
-          "es": "Los mosaicos comparten similitudes en las técnicas y temáticas."
-        }
+        },
+        "names": {
+          "ar": "تاج عمود صليبي.",
+          "en": "Column capital.",
+          "fr": "Chapiteau de colonne.",
+          "es": "Capitel."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/b6805a5c-3be8-5329-a30a-cea165b3892c.jpg"
       }
     ],
     "gallery_references": [],
@@ -29662,6 +29758,7 @@
     "related_items": [
       {
         "id": "74efc106-e576-5569-bfb1-3b51d81c8622",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:20",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -29673,31 +29770,8 @@
         }
       },
       {
-        "id": "7c3a4cbc-d305-5a96-aabc-cbcebe9d6397",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:15",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "من نفس الفترة والطراز.",
-          "en": "From the same period and in the same style.",
-          "fr": "Même période et même style.",
-          "es": "Del mismo período y en el mismo estilo."
-        }
-      },
-      {
-        "id": "81acb278-b50c-55e2-a7e9-2609f1bc2386",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:10",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "من نفس الفترة والطراز.",
-          "en": "From the same period and in the same style.",
-          "fr": "Même période et même style.",
-          "es": "Del mismo período y en el mismo estilo."
-        }
-      },
-      {
         "id": "fa43ec8c-60c3-5b69-a9f9-58baa9238f86",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:33",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -29706,7 +29780,57 @@
           "en": "From the same period and in the same style.",
           "fr": "Même période et même style.",
           "es": "Del mismo período y en el mismo estilo."
-        }
+        },
+        "names": {
+          "ar": "المدرسة الصلاحية.",
+          "en": "Madrasa al-Salahiyya.",
+          "fr": "Madrasa al-Salahiyya.",
+          "es": "Madrasa al-Salahiyya."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/e38a5787-e3c2-5bda-b202-232909d3d86a.jpg"
+      },
+      {
+        "id": "81acb278-b50c-55e2-a7e9-2609f1bc2386",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:10",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "من نفس الفترة والطراز.",
+          "en": "From the same period and in the same style.",
+          "fr": "Même période et même style.",
+          "es": "Del mismo período y en el mismo estilo."
+        },
+        "names": {
+          "ar": "إفريز رومانيسك رخامي.",
+          "en": "Marble frieze.",
+          "fr": "Frise de marbre.",
+          "es": "Friso de mármol."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/10c759ca-955c-5e53-bd39-ed221cbfa68e.jpg"
+      },
+      {
+        "id": "7c3a4cbc-d305-5a96-aabc-cbcebe9d6397",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:15",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "من نفس الفترة والطراز.",
+          "en": "From the same period and in the same style.",
+          "fr": "Même période et même style.",
+          "es": "Del mismo período y en el mismo estilo."
+        },
+        "names": {
+          "ar": "تاج عمود صليبي.",
+          "en": "Column capital.",
+          "fr": "Chapiteau de colonne.",
+          "es": "Capitel."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/b6805a5c-3be8-5329-a30a-cea165b3892c.jpg"
       }
     ],
     "gallery_references": [],
@@ -29947,91 +30071,8 @@
     ],
     "related_items": [
       {
-        "id": "13951807-1976-5889-bda1-2525eb1918f4",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:28",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
-          "en": "Built by Hisham, the same patron.",
-          "fr": "Construit par Hicham, le même mécène.",
-          "es": "Construido por Hisham, el mismo patrocinador."
-        }
-      },
-      {
-        "id": "22d721a5-3840-5af9-8c84-912b213423e2",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:34",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
-          "en": "Built by Hisham, the same patron.",
-          "fr": "Construit par Hicham, le même mécène.",
-          "es": "Construido por Hisham, el mismo patrocinador."
-        }
-      },
-      {
-        "id": "2845f62e-721b-5562-b2d1-dd922c8f21c6",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:9",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ العثور على القطعة داخل نطاق مواقع التنقيب الأثرية.",
-          "en": "Object found in the course of archaeological excavations at the site.",
-          "fr": "Objet mis au jour au cours de fouilles archéologiques sur le site.",
-          "es": "Objeto encontrado en el transcurso de las excavaciones arqueológicas en el emplazamiento."
-        }
-      },
-      {
-        "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
-          "en": "Built by Hisham, the same patron.",
-          "fr": "Construit par Hicham, le même mécène.",
-          "es": "Construido por Hisham, el mismo patrocinador."
-        }
-      },
-      {
-        "id": "67da3bf9-1dff-5d68-9ebd-67e76ff4f866",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:33",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
-          "en": "Built by Hisham, the same patron.",
-          "fr": "Construit par Hicham, le même mécène.",
-          "es": "Construido por Hisham, el mismo patrocinador."
-        }
-      },
-      {
-        "id": "8473d6b1-ff39-54e8-aa27-a77f671d0068",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:5",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "يُعتقد أنّ هذا التمثال يرجع نسبه لهشام بن عبد الملك, خليفة قصر الحلابات.",
-          "en": "This is believed to be the statue of Hisham, the patron of the monument.",
-          "fr": "On pense que cette statue est celle de Hicham, le mécène du monument.",
-          "es": "Se cree que la estatua representa a Hisham, el patrocinador del palacio de Hellbat."
-        }
-      },
-      {
-        "id": "9905bf41-30f3-505a-84b5-5d1abdf32a88",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:34",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ العثور على القطعة داخل نطاق مواقع التنقيب الأثرية.",
-          "en": "Object found in the course of archaeological excavations at the site.",
-          "fr": "Objet mis au jour au cours de fouilles archéologiques sur le site.",
-          "es": "Objeto encontrado en el transcurso de las excavaciones arqueológicas en el emplazamiento."
-        }
-      },
-      {
         "id": "a32edb8e-fb20-5784-a0b9-a942023390cd",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -30040,10 +30081,103 @@
           "en": "Built by Hisham, the same patron.",
           "fr": "Construit par Hicham, le même mécène.",
           "es": "Construido por Hisham, el mismo patrocinador."
-        }
+        },
+        "names": {
+          "ar": "قصر الحلابات.",
+          "en": "Qasr al-Hallabat.",
+          "fr": "Qasr al-Hallabat.",
+          "es": "Qasr al-Hallabat"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/8bde7c65-2515-5e09-9e01-7fb6c56a149d.jpg"
+      },
+      {
+        "id": "67da3bf9-1dff-5d68-9ebd-67e76ff4f866",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:33",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
+          "en": "Built by Hisham, the same patron.",
+          "fr": "Construit par Hicham, le même mécène.",
+          "es": "Construido por Hisham, el mismo patrocinador."
+        },
+        "names": {
+          "ar": "البوابة الكبرى.",
+          "en": "Citadel of Amman (Audience Hall).",
+          "fr": "Citadelle d’Amman (salle d’audience).",
+          "es": "Salón de audiencias de la ciudadela de Ammán"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/4bdfed44-26fd-52c3-9ff8-59e4f5a313db.jpg"
+      },
+      {
+        "id": "22d721a5-3840-5af9-8c84-912b213423e2",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:34",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
+          "en": "Built by Hisham, the same patron.",
+          "fr": "Construit par Hicham, le même mécène.",
+          "es": "Construido por Hisham, el mismo patrocinador."
+        },
+        "names": {
+          "ar": "البركة الدائرية في جبل القلعة.",
+          "en": "Citadel of Amman (Water Reservoir).",
+          "fr": "Citadelle d’Amman (réservoir d’eau).",
+          "es": "Aljibe de la ciudadela de Ammán."
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/6a23e9bd-de4b-598b-bd14-9cef6f78286c.jpg"
+      },
+      {
+        "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
+          "en": "Built by Hisham, the same patron.",
+          "fr": "Construit par Hicham, le même mécène.",
+          "es": "Construido por Hisham, el mismo patrocinador."
+        },
+        "names": {
+          "ar": "خربة المفجر.",
+          "en": "Khirbat al-Mafjar.",
+          "fr": "Khirbat al-Mafjar.",
+          "es": "Jirbat al-Mafyar."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/4ac0cba0-2130-5cf5-94c4-dd7810661e2b.jpg"
+      },
+      {
+        "id": "13951807-1976-5889-bda1-2525eb1918f4",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:28",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
+          "en": "Built by Hisham, the same patron.",
+          "fr": "Construit par Hicham, le même mécène.",
+          "es": "Construido por Hisham, el mismo patrocinador."
+        },
+        "names": {
+          "ar": "قصر الحير الغربي.",
+          "en": "Qasr al-Hayr al-Gharbi.",
+          "fr": "Qasr al-Khayr al-Gharbi.",
+          "es": "Qasr al-Hayr al-Garbi."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/41413784-4fa8-542b-b3d0-bf149cc986e8.jpg"
       },
       {
         "id": "a6b5680d-cf96-54cd-a277-33d29b9b9e13",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:35",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -30052,10 +30186,19 @@
           "en": "Built by Hisham, the same patron.",
           "fr": "Construit par Hicham, le même mécène.",
           "es": "Construido por Hisham, el mismo patrocinador."
-        }
+        },
+        "names": {
+          "ar": "قصر الحير الشرقي.",
+          "en": "Qasr al-Hayr al-Sharqi.",
+          "fr": "Qasr al-Khayr al-Charqi.",
+          "es": "Qasr al-Hayr al-Sharqi."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/3126c8ae-ba97-5422-8c0b-7cd5373b3e97.jpg"
       },
       {
         "id": "c69cb729-5a18-54d1-b7ac-2cfc3ae623ed",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -30064,7 +30207,78 @@
           "en": "Object found in the course of archaeological excavations at the site.",
           "fr": "Objet mis au jour au cours de fouilles archéologiques sur le site.",
           "es": "Objeto encontrado en el transcurso de las excavaciones arqueológicas en el emplazamiento."
-        }
+        },
+        "names": {
+          "ar": "حجر محفور.",
+          "en": "Inscription stone.",
+          "fr": "Pierre votive gravée.",
+          "es": "Piedra con inscripción"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/d069bfe3-7f54-5108-aa2b-b551455b7eb3.jpg"
+      },
+      {
+        "id": "2845f62e-721b-5562-b2d1-dd922c8f21c6",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:9",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ العثور على القطعة داخل نطاق مواقع التنقيب الأثرية.",
+          "en": "Object found in the course of archaeological excavations at the site.",
+          "fr": "Objet mis au jour au cours de fouilles archéologiques sur le site.",
+          "es": "Objeto encontrado en el transcurso de las excavaciones arqueológicas en el emplazamiento."
+        },
+        "names": {
+          "ar": "مبخرة.",
+          "en": "Incense burner.",
+          "fr": "Brûleur d’encens.",
+          "es": "Pebetero"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/35c2239b-fba1-50ca-9738-f5a680fa2518.jpg"
+      },
+      {
+        "id": "9905bf41-30f3-505a-84b5-5d1abdf32a88",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:34",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ العثور على القطعة داخل نطاق مواقع التنقيب الأثرية.",
+          "en": "Object found in the course of archaeological excavations at the site.",
+          "fr": "Objet mis au jour au cours de fouilles archéologiques sur le site.",
+          "es": "Objeto encontrado en el transcurso de las excavaciones arqueológicas en el emplazamiento."
+        },
+        "names": {
+          "ar": "إبريق.",
+          "en": "Jug.",
+          "fr": "Cruche.",
+          "es": "Jarra"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/7327d87e-274f-5fee-a5be-6e0bcfedf7aa.jpg"
+      },
+      {
+        "id": "8473d6b1-ff39-54e8-aa27-a77f671d0068",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:5",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يُعتقد أنّ هذا التمثال يرجع نسبه لهشام بن عبد الملك, خليفة قصر الحلابات.",
+          "en": "This is believed to be the statue of Hisham, the patron of the monument.",
+          "fr": "On pense que cette statue est celle de Hicham, le mécène du monument.",
+          "es": "Se cree que la estatua representa a Hisham, el patrocinador del palacio de Hellbat."
+        },
+        "names": {
+          "ar": "القسم السفلي من تمثال.",
+          "en": "Lower half of a sculpturesque high relief.",
+          "fr": "Moitié inférieure d’un haut-relief.",
+          "es": "Mitad inferior de un altorrelieve."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/43baf1f9-498d-5776-8844-f509c630b641.jpg"
       }
     ],
     "gallery_references": [],
@@ -30343,19 +30557,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "16512ef6-b198-5c9c-9905-fe8825a14887",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:24",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "نفس باني القلعة.",
-          "en": "It has the same builder as the citadel.",
-          "fr": "Même constructeur que la citadelle.",
-          "es": "Tiene al mismo constructor de la ciudadela."
-        }
-      },
-      {
         "id": "2a96e20e-2325-5bea-be93-cd4c4d73eac0",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:8",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -30364,22 +30567,40 @@
           "en": "The inscription indicates Salah al-Din, who was the builder of the Salah al-Din al-Ayyubi citadel in Cairo.",
           "fr": "L’inscription désigne Saladin, qui fut le constructeur de la citadelle de Saladin au Caire.",
           "es": "La inscripción alude a Salah al-Din, quien fue el constructor de la ciudadela de Salah al-Din al-Ayyubi en El Cairo."
-        }
+        },
+        "names": {
+          "ar": "قلعة صلاح الدين الأيوبي.",
+          "en": "Citadel of Salah al-Din al-Ayyubi.",
+          "fr": "Citadelle de Salah al-Din al-Ayyoubi (*qala’a al-Gabal* ou château de la montagne).",
+          "es": "Ciudadela de Salah al-Din (Saladino)."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/4cb88f23-2f47-5425-a26f-ade59cbc9bdc.jpg"
       },
       {
-        "id": "3a8f4926-8bbd-5e0d-af9c-239cc5185d26",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:2",
+        "id": "16512ef6-b198-5c9c-9905-fe8825a14887",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:24",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "أجاء النقش من قلعة القدس، ويشير إلى بعض أعمال صلاح الدين في القلعة.",
-          "en": "The inscription comes from the citadel of Jerusalem and alludes to some of the works of Salah al-Din in the citadel.",
-          "fr": "L’inscription provient de la citadelle de Jérusalem et fait allusion à des travaux de Saladin dans la citadelle.",
-          "es": "La inscripción proviene de la ciudadela de Jerusalén y alude a algunos de los trabajos de Salah al-Din en la ciudadela."
-        }
+          "ar": "نفس باني القلعة.",
+          "en": "It has the same builder as the citadel.",
+          "fr": "Même constructeur que la citadelle.",
+          "es": "Tiene al mismo constructor de la ciudadela."
+        },
+        "names": {
+          "ar": "قلعة صلاح الدين.",
+          "en": "Qal‘at Salah al-Din (Saladin).",
+          "fr": "Qal’at Salah al-Din (Saladin).",
+          "es": "Castillo de Saladino (Qal'at Salah al-Din)."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/bcaca7ad-3959-588e-8ed3-00c29962f462.jpg"
       },
       {
         "id": "3d83888a-750e-5a9e-9d4f-9db7b89ce318",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:25",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -30388,10 +30609,40 @@
           "en": "The citadel was used and added to by Salah al-Din al-Ayyubi and Crac des Chevaliers played an important role in the wars of Salah al-Din.",
           "fr": "La citadelle fut utilisée et ajoutée à la ville Salah al-Din al-Ayyoubi (Saladin), et le Krac des Chevaliers a joué un rôle important dans les guerres de Saladin.",
           "es": "La ciudadela fue usada y añadida por Salah al-Din al-Ayyubi y Krak des Chevaliers tuvo un papel importante en las guerras de Salah al-Din."
-        }
+        },
+        "names": {
+          "ar": "قلعة الحصن.",
+          "en": "Crac des Chevaliers.",
+          "fr": "Krak des Chevaliers.",
+          "es": "Krak des Chevaliers."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/3263d454-d13e-56f9-a6d1-46ff51b6745a.jpg"
+      },
+      {
+        "id": "3a8f4926-8bbd-5e0d-af9c-239cc5185d26",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:2",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "أجاء النقش من قلعة القدس، ويشير إلى بعض أعمال صلاح الدين في القلعة.",
+          "en": "The inscription comes from the citadel of Jerusalem and alludes to some of the works of Salah al-Din in the citadel.",
+          "fr": "L’inscription provient de la citadelle de Jérusalem et fait allusion à des travaux de Saladin dans la citadelle.",
+          "es": "La inscripción proviene de la ciudadela de Jerusalén y alude a algunos de los trabajos de Salah al-Din en la ciudadela."
+        },
+        "names": {
+          "ar": "نقش من خندق قلعة القدس.",
+          "en": "Marble inscription panel.",
+          "fr": "Panneau épigraphié en marbre.",
+          "es": "Lápida de mármol con inscripción."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/ef08baa1-be6c-54eb-963d-f47b0f5e4dcd.jpg"
       },
       {
         "id": "6945b03a-e793-5c51-8b45-3e3ebf550370",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:12",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -30400,7 +30651,15 @@
           "en": "Salah al-Din contributed to the building of the citadel.",
           "fr": "Saladin a contribué à la construction de la citadelle.",
           "es": "Salah al-Din contribuyó en la construcción de la ciudadela."
-        }
+        },
+        "names": {
+          "ar": "زبدية خزفية.",
+          "en": "Ceramic bowl.",
+          "fr": "Coupe en céramique.",
+          "es": "Cuenco de cerámica."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/42cbba07-6959-5503-abfa-dbae9e00224f.jpg"
       }
     ],
     "gallery_references": [],
@@ -30882,31 +31141,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "55fc5107-27bd-5be8-8051-2257dd0d3ecc",
-        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:25",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "مبخرة متطورة تكنولوجيا عليها مشاهد من الحياة العسكرية التي استخدمت في القصور الأيوبية في القلعة.",
-          "en": "A technologically sophisticated incense burner with scenes of military courtly life. It would have been used in the Ayyubid palaces of the Citadel.",
-          "fr": "Brûleur d’encens d’une technique sophistiquée orné de scènes de vie militaire à la cour ; sans doute utilisé dans les palais ayyoubides de la citadelle.",
-          "es": "Un quemador de incienso tecnológicamente sofisticado con escenas de la vida militar y de la corte. Es posible que haya sido utilizado en los palacios ayubíes de la ciudadela."
-        }
-      },
-      {
-        "id": "5810bcf6-3090-5c9a-95b3-fd9192d2285e",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:39",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "إعادة بناء قلعة دمشق تم من قبل الملك العادل الذي دفن في حجرة القبور الأثرية للمدرسة العادلية الواقعة بالقرب منها.",
-          "en": "The rebuilding of the Damascus Citadel was undertaken by al-Malik al-Adil who is buried in the monumental tomb-chamber of Madrasa al-Adiliyya located nearby.",
-          "fr": "La reconstruction de la citadelle de Damas fut entreprise par al-Malik al-‘Adil qui est enterré dans le monumental mausolée de la *madrasa* al-‘Adiliyya située à proximité.",
-          "es": "La reconstrucción de la ciudadela de Damasco fue llevada a cabo por al-Malik al-Adil quien está enterrado en la monumental cámara funeraria de la Madraza al-Adiliyya ubicada muy cerca."
-        }
-      },
-      {
         "id": "b7d8bb26-2c68-5db9-95da-c605a3f30ba8",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:26",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -30915,10 +31151,62 @@
           "en": "Los ayubíes construyeron ciudadelas estratégicas en localizaciones distantes con propósitos comerciales y comunicativos.",
           "fr": "Les Ayyoubides construisirent des citadelles stratégiques à des emplacements éloignés dans le but de faciliter le commerce et les communications",
           "es": "La reconstrucción de la ciudadela de Damasco fue llevada a cabo por al-Malik al-Adil quien está enterrado en la monumental cámara funeraria de la Madraza al-Adiliyya ubicada muy cerca."
-        }
+        },
+        "names": {
+          "ar": "قلعة شميميس.",
+          "en": "Qal'a Shmemis.",
+          "fr": "Qalaa Shmemis.",
+          "es": "Castillo *(qal'a)* de Shmemis."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/322e3603-2443-5bb8-a853-633fe920e131.jpg"
+      },
+      {
+        "id": "5810bcf6-3090-5c9a-95b3-fd9192d2285e",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:39",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "إعادة بناء قلعة دمشق تم من قبل الملك العادل الذي دفن في حجرة القبور الأثرية للمدرسة العادلية الواقعة بالقرب منها.",
+          "en": "The rebuilding of the Damascus Citadel was undertaken by al-Malik al-Adil who is buried in the monumental tomb-chamber of Madrasa al-Adiliyya located nearby.",
+          "fr": "La reconstruction de la citadelle de Damas fut entreprise par al-Malik al-‘Adil qui est enterré dans le monumental mausolée de la *madrasa* al-‘Adiliyya située à proximité.",
+          "es": "La reconstrucción de la ciudadela de Damasco fue llevada a cabo por al-Malik al-Adil quien está enterrado en la monumental cámara funeraria de la Madraza al-Adiliyya ubicada muy cerca."
+        },
+        "names": {
+          "ar": "المدرسة العادلية.",
+          "en": "Madrasa al-‘Adiliyya.",
+          "fr": "Madrasa al-‘Adiliyya.",
+          "es": "Madrasa al-Adiliyya."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/7db3a976-1dae-5955-a591-6febee5d464e.jpg"
+      },
+      {
+        "id": "55fc5107-27bd-5be8-8051-2257dd0d3ecc",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:25",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "مبخرة متطورة تكنولوجيا عليها مشاهد من الحياة العسكرية التي استخدمت في القصور الأيوبية في القلعة.",
+          "en": "A technologically sophisticated incense burner with scenes of military courtly life. It would have been used in the Ayyubid palaces of the Citadel.",
+          "fr": "Brûleur d’encens d’une technique sophistiquée orné de scènes de vie militaire à la cour ; sans doute utilisé dans les palais ayyoubides de la citadelle.",
+          "es": "Un quemador de incienso tecnológicamente sofisticado con escenas de la vida militar y de la corte. Es posible que haya sido utilizado en los palacios ayubíes de la ciudadela."
+        },
+        "names": {
+          "ar": "مبخرة.",
+          "de": "Räucherkugel bzw. Handwärmer.",
+          "en": "Incense-burner or hand-warmer.",
+          "fr": "Encensoir ou chaufferette.",
+          "es": "Incensario."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/c47bdd2a-45fa-5add-a48c-f3fd1fd860f4.jpg"
       },
       {
         "id": "bfab383a-8a92-580d-828e-595be606bc38",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:19",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -30927,7 +31215,15 @@
           "en": "Abundant arrow-heads excavated in the southwest region of the citadel suggest a weapon manufacturing workshop. This painting shows a battle scene.",
           "fr": "Les nombreuses têtes de flèches découvertes dans la zone sud-ouest de la citadelle suggèrent l’existence d’un atelier de fabrique d’armes. Cette peinture montre une scène de bataille.",
           "es": "La abundante cantidad de puntas de flecha excavadas en la región suroeste de la ciudadela sugiere la existencia de un taller de fabricación de armas. Esta pintura muestra una escena de batalla."
-        }
+        },
+        "names": {
+          "ar": "لوحة.",
+          "en": "Painting.",
+          "fr": "Peinture.",
+          "es": "Pintura."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/742799bb-fdc4-560a-a510-1c3822fdf40d.jpg"
       }
     ],
     "gallery_references": [],
@@ -31418,19 +31714,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "423ba8e5-2a5f-5713-a133-86900cda8eda",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:1",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "يحمل الدينار اسم الخليفة عبد الملك بن مروان باني قبة الصخرة.",
-          "en": "The *dinar* bears the name of Caliph ‘Abd al-Malik ibn Marwan, builder of the Dome of the Rock.",
-          "fr": "Le *dinar* porte le nom du calife Abd al-Malik ibn Marwan, qui fit construire le Dôme du Rocher.",
-          "es": "El dinar porta el nombre del califa Abd al-Malik ibn Marwan, constructor de la Cúpula de la Roca."
-        }
-      },
-      {
         "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -31439,46 +31724,19 @@
           "en": "Part of a complete project which was implemented in the area of al-Haram al-Sharif.",
           "fr": "Élément d’un projet complet réalisé dans la zone du Haram al-Charif.",
           "es": "Parte de un proyecto completo que fue implementado en el área de Haram al-Sharif."
-        }
-      },
-      {
-        "id": "6fb6ea4d-c7c1-56d9-a527-f3139df0a217",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:3",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "أ تعود هذه القطعة للمسجد الأقصى.",
-          "en": "This piece was brought from the Dome of the Rock.",
-          "fr": "Pièce transférée du Dôme du Rocher.",
-          "es": "Este artículo fue traído desde la Cúpula de la Roca."
-        }
-      },
-      {
-        "id": "a0123f90-172b-59e1-9291-e46637556232",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:12",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "عود هذه القطعة للمسجد الأقصى.",
-          "en": "This piece was brought from the Dome of the Rock.",
-          "fr": "Pièce transférée du Dôme du Rocher.",
-          "es": "Este artículo fue traído desde la Cúpula de la Roca."
-        }
-      },
-      {
-        "id": "e1a05d50-90fe-5598-b556-5c2fb0929803",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:23",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تعود هذه القطعة للمسجد الأقصى.",
-          "en": "This piece was brought from the Dome of the Rock.",
-          "fr": "Pièce transférée du Dôme du Rocher.",
-          "es": "Este artículo fue traído desde la Cúpula de la Roca."
-        }
+        },
+        "names": {
+          "ar": "الحرم الشريف.",
+          "en": "Haram al-Sharif (Noble Sanctuary).",
+          "fr": "Al-Haram al-Charif (le Noble Sanctuaire).",
+          "es": "Al-Haram al-Sharif (el Noble Santuario)."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/dc9aa87c-464b-5b43-aff4-60895e4ec60f.jpg"
       },
       {
         "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -31490,7 +31748,71 @@
         }
       },
       {
+        "id": "6fb6ea4d-c7c1-56d9-a527-f3139df0a217",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:3",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "أ تعود هذه القطعة للمسجد الأقصى.",
+          "en": "This piece was brought from the Dome of the Rock.",
+          "fr": "Pièce transférée du Dôme du Rocher.",
+          "es": "Este artículo fue traído desde la Cúpula de la Roca."
+        },
+        "names": {
+          "ar": "جزء من إفريز رخامي.",
+          "en": "Section of a marble frieze.",
+          "fr": "Section de frise en marbre.",
+          "es": "Fragmentos de friso de mármol."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/93751273-e0db-5f98-9efe-61d9a3c4dab0.jpg"
+      },
+      {
+        "id": "a0123f90-172b-59e1-9291-e46637556232",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:12",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "عود هذه القطعة للمسجد الأقصى.",
+          "en": "This piece was brought from the Dome of the Rock.",
+          "fr": "Pièce transférée du Dôme du Rocher.",
+          "es": "Este artículo fue traído desde la Cúpula de la Roca."
+        },
+        "names": {
+          "ar": "سياج معدني.",
+          "en": "Metal grille/enclosure.",
+          "fr": "Grille / clôture en fer.",
+          "es": "Reja metálica."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/0e1ce3ed-c273-50ea-b754-82cedaa7a1d8.jpg"
+      },
+      {
+        "id": "e1a05d50-90fe-5598-b556-5c2fb0929803",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:23",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تعود هذه القطعة للمسجد الأقصى.",
+          "en": "This piece was brought from the Dome of the Rock.",
+          "fr": "Pièce transférée du Dôme du Rocher.",
+          "es": "Este artículo fue traído desde la Cúpula de la Roca."
+        },
+        "names": {
+          "ar": "باب قبة الصخرة.",
+          "en": "Door from the Dome of the Rock.",
+          "fr": "Porte du Dôme du Rocher.",
+          "es": "Puerta de la Cúpula de la Roca."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/062045a9-d8fe-55a9-93bc-09859fca8376.jpg"
+      },
+      {
         "id": "f542a798-8c47-5278-ad25-50059baf16a0",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -31499,7 +31821,37 @@
           "en": "‘Abd al-Malik ordered the construction of the Dome of the Rock and this stone bears his name and the period.",
           "fr": "C’est Abd al-Malik qui fit construire le Dôme du Rocher ; cette pierre porte son nom et indique la période.",
           "es": "Abd al-Malik ordenó la construcción de la Cúpula de la Roca, y este mojón tiene grabado su nombre y el período."
-        }
+        },
+        "names": {
+          "ar": "دليل مسافات.",
+          "en": "Distance marker (milestone).",
+          "fr": "Borne.",
+          "es": "Mojon.",
+          "tr": "Mesafe taşı (Miltaşı)."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/0b6afdff-de04-5cb0-9bf4-ee364ec1a8b4.jpg"
+      },
+      {
+        "id": "423ba8e5-2a5f-5713-a133-86900cda8eda",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:1",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يحمل الدينار اسم الخليفة عبد الملك بن مروان باني قبة الصخرة.",
+          "en": "The *dinar* bears the name of Caliph ‘Abd al-Malik ibn Marwan, builder of the Dome of the Rock.",
+          "fr": "Le *dinar* porte le nom du calife Abd al-Malik ibn Marwan, qui fit construire le Dôme du Rocher.",
+          "es": "El dinar porta el nombre del califa Abd al-Malik ibn Marwan, constructor de la Cúpula de la Roca."
+        },
+        "names": {
+          "ar": "قطعة نقدية.",
+          "en": "Coin.",
+          "fr": "Pièce de monnaie.",
+          "es": "Dinar."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/7e092ac2-f1ee-581b-8d0f-b3e1f3ea106d.jpg"
       }
     ],
     "gallery_references": [
@@ -31955,31 +32307,29 @@
     "media": [],
     "related_items": [
       {
-        "id": "1e0c9215-79ce-5adf-be3e-ef5843a0c009",
-        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:6",
+        "id": "93203c86-42c5-54ef-86ab-b477e11842f8",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:22",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "بينما المجمعات التجارية الكبيرة مثل البازار الكبير يخدم المدن فإن مثل هذه الخانات تخدم القوافل على طرق التجارة.",
-          "en": "While big commercial complexes like the Grand Bazaar served the cities, such caravanserais served the caravans on the trade routes.",
-          "fr": "Les grands complexes commerciaux comme le Grand Bazar servaient les villes, mais les caravansérails comme celui-ci étaient destinés aux caravanes sur les routes de commerce.",
-          "es": "Mientras que grandes complejos como el Gran Bazar servían a ciudades, tales caravasares servían a caravanas en las rutas comerciales."
-        }
-      },
-      {
-        "id": "30cc044e-0a2b-54f3-bff7-87670c679203",
-        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:23",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تتضمن التحفة الفنية للمعمار سنان لهذا المجمع أيضا أسواق مقنطرة.",
-          "en": "The masterpiece of the architect Sinan, this complex also includes a shopping arcade.",
-          "fr": "Chef-d'œuvre de l’architecte Sinan, ce complexe comporte aussi une galerie de boutiques.",
-          "es": "Este complejo, la obra maestra del arquitecto Sinan, también cuenta con una galería comercial."
-        }
+          "ar": "كلا المجمعين التجاريين ما يزال نشطان و هما في قلب المركز الاقتصادي في مدينتيهما اسطنبول و القاهرة.",
+          "en": "Both commercial complexes are still active and are at the heart of the economy of their cities, Istanbul and Cairo.",
+          "fr": "Les deux complexes commerciaux sont encore en activité et se trouvent au cœur de l’économie de leurs villes respectives, Istanbul et Le Caire.",
+          "es": "Ambos complejos comerciales siguen activos y son el corazón de la economía de sus ciudades, Estambul y El Cairo."
+        },
+        "names": {
+          "ar": "وكالة بازرعة.",
+          "en": "Wikala (*caravanserai*) of Bazar’a.",
+          "fr": "Wikala (caravansérail) de Bazar’a.",
+          "es": "Caravasar *(wikala)* de Bazara."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/5a362e73-7821-50f5-8b10-ae71a6ee6783.jpg"
       },
       {
         "id": "4410695e-1450-5263-a481-fa1c0e2e7a22",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:20",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -31991,31 +32341,30 @@
         }
       },
       {
-        "id": "73a186bf-c916-5473-94f8-30aa969e3624",
-        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:26",
+        "id": "1e0c9215-79ce-5adf-be3e-ef5843a0c009",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:6",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "يتضمن هذا المجمع على طريق الحج أيضا خان و سوق مسقوف مقنطر الذي يسهل سفر الحجاج و القوافل.",
-          "en": "This complex on the pilgrimage route also includes a caravanserai and a shopping arcade that facilitated the travelling pilgrims and caravans.",
-          "fr": "Ce complexe sur la route de pèlerinage comporte aussi un caravansérail et une galerie de boutiques très commodes pour les voyageurs et les pèlerins.",
-          "es": "Este complejo en la ruta de peregrinación también cuenta con un caravasar y una galería comercial que ayudaba a los peregrinos y a las caravanas."
-        }
-      },
-      {
-        "id": "93203c86-42c5-54ef-86ab-b477e11842f8",
-        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:22",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "كلا المجمعين التجاريين ما يزال نشطان و هما في قلب المركز الاقتصادي في مدينتيهما اسطنبول و القاهرة.",
-          "en": "Both commercial complexes are still active and are at the heart of the economy of their cities, Istanbul and Cairo.",
-          "fr": "Les deux complexes commerciaux sont encore en activité et se trouvent au cœur de l’économie de leurs villes respectives, Istanbul et Le Caire.",
-          "es": "Ambos complejos comerciales siguen activos y son el corazón de la economía de sus ciudades, Estambul y El Cairo."
-        }
+          "ar": "بينما المجمعات التجارية الكبيرة مثل البازار الكبير يخدم المدن فإن مثل هذه الخانات تخدم القوافل على طرق التجارة.",
+          "en": "While big commercial complexes like the Grand Bazaar served the cities, such caravanserais served the caravans on the trade routes.",
+          "fr": "Les grands complexes commerciaux comme le Grand Bazar servaient les villes, mais les caravansérails comme celui-ci étaient destinés aux caravanes sur les routes de commerce.",
+          "es": "Mientras que grandes complejos como el Gran Bazar servían a ciudades, tales caravasares servían a caravanas en las rutas comerciales."
+        },
+        "names": {
+          "ar": "خان أغزيقارة (نزل).",
+          "en": "Ağzıkara Han (caravanserai).",
+          "fr": "Agzikara Han (caravansérail).",
+          "es": "Han (caravasar) de Ağzıkara",
+          "tr": "Ağzıkara Han."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/ef326668-06a8-576d-8624-fd7b745b515c.jpg"
       },
       {
         "id": "972eaeb6-771d-51c1-8f3d-d7b7014a17dc",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:15",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -32024,7 +32373,60 @@
           "en": "Both were located in important commercial cities; the Koza Han specialised in the silk cocoon trade while the Grand Bazaar was a general market-place.",
           "fr": "Les deux marchés étaient situés dans d’importantes villes commerçantes ; le *han* Koza était spécialisé dans le négoce des cocons de soie tandis que le Grand Bazar était un marché généraliste.",
           "es": "Ambos estaban ubicados en importantes ciudades comerciales; el han Koza se especializaba en el comercio de capullos de seda mientras que el Gran Bazar era un mercado general."
-        }
+        },
+        "names": {
+          "ar": "نزل قوزة (الشرنقة).",
+          "en": "Koza Han.",
+          "fr": "Han Koza.",
+          "es": "Han (caravasar) Koza.",
+          "tr": "Koza Hanı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/7ae870ae-73e7-5c1a-9df4-01b86eb38075.jpg"
+      },
+      {
+        "id": "30cc044e-0a2b-54f3-bff7-87670c679203",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:23",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تتضمن التحفة الفنية للمعمار سنان لهذا المجمع أيضا أسواق مقنطرة.",
+          "en": "The masterpiece of the architect Sinan, this complex also includes a shopping arcade.",
+          "fr": "Chef-d'œuvre de l’architecte Sinan, ce complexe comporte aussi une galerie de boutiques.",
+          "es": "Este complejo, la obra maestra del arquitecto Sinan, también cuenta con una galería comercial."
+        },
+        "names": {
+          "ar": "مسجد السليمية.",
+          "en": "Selimiye Mosque.",
+          "fr": "Mosquée Selimiye.",
+          "es": "Mezquita Selimiye",
+          "tr": "Selimiye Camii."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/ca14fa35-381b-54a8-8e65-5baaf217e04e.jpg"
+      },
+      {
+        "id": "73a186bf-c916-5473-94f8-30aa969e3624",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:26",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يتضمن هذا المجمع على طريق الحج أيضا خان و سوق مسقوف مقنطر الذي يسهل سفر الحجاج و القوافل.",
+          "en": "This complex on the pilgrimage route also includes a caravanserai and a shopping arcade that facilitated the travelling pilgrims and caravans.",
+          "fr": "Ce complexe sur la route de pèlerinage comporte aussi un caravansérail et une galerie de boutiques très commodes pour les voyageurs et les pèlerins.",
+          "es": "Este complejo en la ruta de peregrinación también cuenta con un caravasar y una galería comercial que ayudaba a los peregrinos y a las caravanas."
+        },
+        "names": {
+          "ar": "مجمَّع سوقولو محمد باشا.",
+          "en": "Sokullu Mehmed Paşa Complex.",
+          "fr": "Complexe Sokullu Mehmed Pacha.",
+          "es": "Complejo de Sokullu Mehmed Paşa",
+          "tr": "Sokullu Mehmed Paşa Külliyesi."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/233c0c50-a788-55ba-b7f8-4404d1967bb6.jpg"
       }
     ],
     "gallery_references": [],
@@ -32499,19 +32901,50 @@
     "media": [],
     "related_items": [
       {
-        "id": "3c8378b6-b15a-5c21-874e-d7a334e3dab5",
-        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:26",
+        "id": "b186a1dd-c9a1-595e-887f-c136139c0a6d",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "بالإضافة للنظافة فإن الحمّامات كان تعطي مكان لنشاطات اجتماعية  عامة و للاسترخاء الذي تظهره هذه اللوحة الفاطمية.",
-          "en": "In addition to cleanliness, hammams offered a space for informal social activities and relaxation, to which this Fatimid painting may allude.",
-          "fr": "Au-delà de la propreté, les hammams offraient un espace d’activités sociales informelles et de relaxation, à quoi cette peinture fatimide fait allusion.",
-          "es": "Además de ofrecer un lugar para el aseo, los hammams servían como espacio para actividades sociales informales y la relajación, a lo cual parece aludir esta pintura fatimí."
-        }
+          "ar": "حمّام نور الدين في دمشق هو قريب من عصر حمّام الصباغين الذي يني في تلسمان في الجزائر و الأخير كان له أقواس من الطراز الإسلامي الغربي بشكل حدوة حصان تستند إلى أعمدة.",
+          "en": "Hammam Nur al-Din in Damascus is a near-contemporary of Hammam al-Sabaghine built in Tlemcen, Algeria, the latter with typically Muslim-West horseshoe arches resting on columns.",
+          "fr": "Le hammam Nour al-Din de Damas est presque contemporain du hammam Essabaghine construit à Tlemcen, en Algérie, ce dernier comportant des arcs outrepassés, typiques de l’Occident musulman, reposant sur des colonnes.",
+          "es": "El hammam de Nur al-Din en Damasco es casi contemporáneo al hammam al-Sabbagin construido en Tlemcen, Algeria, con los típicos arcos de herradura descansando sobre columnas propios del occidente musulmán."
+        },
+        "names": {
+          "ar": "حمام الصباغين.",
+          "en": "Hammam al-Sabaghine (Baths of the Dyers).",
+          "fr": "Hammam Essebaghine (bains des Teinturiers).",
+          "es": "Baño de los Tintoreros (Hammam al-Sabbagin)."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/af71a041-b693-5b49-879f-0e6bbc067433.jpg"
+      },
+      {
+        "id": "c37ffe04-f331-50a3-8853-714465f7a769",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:12",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "بني حمّام نور الدين قرب نظام تغذية الماء المسمى بالطالي و الذي مصدر مياهه كان من نهر بردى.",
+          "en": "Hammam Nur al-Din was built next to the water supply system called al-Tali, the source of which was the waters of the River Barada.",
+          "fr": "Le hammam Nour al-Din Zangi fut construit à côté du système d’approvisionnement en eau, appelé *al-tali*, laquelle eau provenant de la rivière Barada.",
+          "es": "El hammam de Nur al-Din se construyó junto al sistema de distribución de agua llamado al-Tali, cuya fuente eran las aguas del río Barada."
+        },
+        "names": {
+          "ar": "طالع دمشق (نظام الماء).",
+          "en": "The *tali'* (water system) of Damascus.",
+          "fr": "Système de distribution d'eau de Damas (*tali‘*).",
+          "es": "Sistema de distribución de agua *(tali')* de Damasco."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/monuments/isl/sy/1/12/plans/1.jpg"
       },
       {
         "id": "8d173c69-e270-52ea-8792-452101a75d8b",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:15",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -32523,28 +32956,25 @@
         }
       },
       {
-        "id": "b186a1dd-c9a1-595e-887f-c136139c0a6d",
-        "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:3",
+        "id": "3c8378b6-b15a-5c21-874e-d7a334e3dab5",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:26",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "حمّام نور الدين في دمشق هو قريب من عصر حمّام الصباغين الذي يني في تلسمان في الجزائر و الأخير كان له أقواس من الطراز الإسلامي الغربي بشكل حدوة حصان تستند إلى أعمدة.",
-          "en": "Hammam Nur al-Din in Damascus is a near-contemporary of Hammam al-Sabaghine built in Tlemcen, Algeria, the latter with typically Muslim-West horseshoe arches resting on columns.",
-          "fr": "Le hammam Nour al-Din de Damas est presque contemporain du hammam Essabaghine construit à Tlemcen, en Algérie, ce dernier comportant des arcs outrepassés, typiques de l’Occident musulman, reposant sur des colonnes.",
-          "es": "El hammam de Nur al-Din en Damasco es casi contemporáneo al hammam al-Sabbagin construido en Tlemcen, Algeria, con los típicos arcos de herradura descansando sobre columnas propios del occidente musulmán."
-        }
-      },
-      {
-        "id": "c37ffe04-f331-50a3-8853-714465f7a769",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:12",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "بني حمّام نور الدين قرب نظام تغذية الماء المسمى بالطالي و الذي مصدر مياهه كان من نهر بردى.",
-          "en": "Hammam Nur al-Din was built next to the water supply system called al-Tali, the source of which was the waters of the River Barada.",
-          "fr": "Le hammam Nour al-Din Zangi fut construit à côté du système d’approvisionnement en eau, appelé *al-tali*, laquelle eau provenant de la rivière Barada.",
-          "es": "El hammam de Nur al-Din se construyó junto al sistema de distribución de agua llamado al-Tali, cuya fuente eran las aguas del río Barada."
-        }
+          "ar": "بالإضافة للنظافة فإن الحمّامات كان تعطي مكان لنشاطات اجتماعية  عامة و للاسترخاء الذي تظهره هذه اللوحة الفاطمية.",
+          "en": "In addition to cleanliness, hammams offered a space for informal social activities and relaxation, to which this Fatimid painting may allude.",
+          "fr": "Au-delà de la propreté, les hammams offraient un espace d’activités sociales informelles et de relaxation, à quoi cette peinture fatimide fait allusion.",
+          "es": "Además de ofrecer un lugar para el aseo, los hammams servían como espacio para actividades sociales informales y la relajación, a lo cual parece aludir esta pintura fatimí."
+        },
+        "names": {
+          "ar": "عنصر معماري مأخوذ من حمام.",
+          "en": "Frescoed architectural fragment from a bathhouse.",
+          "fr": "Fragment de fresque de hammam.",
+          "es": "Fragmento de fresco de unos baños."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/143abde8-db11-5cf1-8f9a-fbbebf2fad52.jpg"
       }
     ],
     "gallery_references": [],
@@ -32793,31 +33223,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "09735692-5b84-55c8-9f6f-7ae132533658",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:18",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "أحضر الشمعدان من الحرم الإبراهيمي، حيث كان موقوفا عليه.",
-          "en": "The candlestick was brought from al-Haram al-Ibrahimi, where it had been placed.",
-          "fr": "Le chandelier avait été transféré du Haram al-Ibrahimi, où il avait été placé.",
-          "es": "El candelero fue traído desde el Haram al-Ibrahimi, donde había sido colocado."
-        }
-      },
-      {
-        "id": "0e4485e1-3fb0-5d8c-a83c-5315bc85cb66",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:38",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "غطاء قبر سيدنا إبراهيم في الحرم الإبراهيمي.",
-          "en": "Tomb cover for the Prophet Ibraham in al-Haram al-Ibrahimi.",
-          "fr": "Couverture de tombe pour le prophète Abraham au Haram al-Ibrahimi.",
-          "es": "Cobertura de la tumba del profeta Abraham en Haram al-Ibrahimi."
-        }
-      },
-      {
         "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -32826,22 +33233,40 @@
           "en": "Known since the Ayyubid period as al-Haramayn al-Sharifayn, the two buildings were constructed as complements and were jointly administered by an overseer.",
           "fr": "Connus depuis la période ayyoubide sous le nom de Haram al-Charif, les deux édifices furent construits comme compléments l’un de l’autre et étaient gérés conjointement par le même administrateur.",
           "es": "Conocido desde el período ayyubí como Haramayn al-Sharifayn, los dos edificios fueron construidos como complementos y eran administrados en conjunto por un supervisor."
-        }
+        },
+        "names": {
+          "ar": "الحرم الشريف.",
+          "en": "Haram al-Sharif (Noble Sanctuary).",
+          "fr": "Al-Haram al-Charif (le Noble Sanctuaire).",
+          "es": "Al-Haram al-Sharif (el Noble Santuario)."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/dc9aa87c-464b-5b43-aff4-60895e4ec60f.jpg"
       },
       {
-        "id": "a65b9f90-12e9-50e4-9065-9d1274ef0a10",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:21",
+        "id": "09735692-5b84-55c8-9f6f-7ae132533658",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:18",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "أحضرت المبخرة من الحرم الإبراهيمي، حيث كانت موقوفة عليه.",
-          "en": "The incense burner was an endowment to al-Haram al-Ibrahimi.",
-          "fr": "Le brûleur d’encens était une donation au Haram al-Ibrahimi.",
-          "es": "El incensario fue una donación para el Haram al-Ibrahimi."
-        }
+          "ar": "أحضر الشمعدان من الحرم الإبراهيمي، حيث كان موقوفا عليه.",
+          "en": "The candlestick was brought from al-Haram al-Ibrahimi, where it had been placed.",
+          "fr": "Le chandelier avait été transféré du Haram al-Ibrahimi, où il avait été placé.",
+          "es": "El candelero fue traído desde el Haram al-Ibrahimi, donde había sido colocado."
+        },
+        "names": {
+          "ar": "شمعدان الناصر محمد بن قلاوون.",
+          "en": "Candlestick of al-Nasir Muhammad bin Qalawun.",
+          "fr": "Chandelier d’al-Nasir Muhammad ibn Qalawun.",
+          "es": "Candelero de al-Nasir Muhammad ibn Qalawun."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/948f2208-7104-5204-a904-ed7c536ceaaf.jpg"
       },
       {
         "id": "fc08aed9-57d3-59a7-83b4-abccf4770360",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:20",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -32850,10 +33275,40 @@
           "en": "The candlestick was brought from al-Haram al-Ibrahimi, where it had been placed.",
           "fr": "Le chandelier avait été transféré du Haram al-Ibrahimi, où il avait été placé.",
           "es": "El candelero fue traído desde el Haram al-Ibrahimi, donde había sido colocado."
-        }
+        },
+        "names": {
+          "ar": "شمعدان قلاوون.",
+          "en": "Candlestick of Qalawun.",
+          "fr": "Chandelier de Qalawun.",
+          "es": "Candelero de Qalawun."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/87f7fb96-3920-5321-8044-d6eb584a6d4e.jpg"
+      },
+      {
+        "id": "a65b9f90-12e9-50e4-9065-9d1274ef0a10",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:21",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "أحضرت المبخرة من الحرم الإبراهيمي، حيث كانت موقوفة عليه.",
+          "en": "The incense burner was an endowment to al-Haram al-Ibrahimi.",
+          "fr": "Le brûleur d’encens était une donation au Haram al-Ibrahimi.",
+          "es": "El incensario fue una donación para el Haram al-Ibrahimi."
+        },
+        "names": {
+          "ar": "مبخرة جقمق.",
+          "en": "Incense Burner.",
+          "fr": "Encensoir.",
+          "es": "Incensario."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/051176c2-f1d0-5885-8f7e-4116340acc11.jpg"
       },
       {
         "id": "fc210313-c572-52b3-ab9c-6ec080f0812a",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:25",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -32861,7 +33316,36 @@
           "en": "The lamp was brought from al-Haram al-Ibrahimi, where it had been placed.",
           "fr": "Le chandelier avait été transféré du Haram al-Ibrahimi, où il avait été placé.",
           "es": "La lámpara fue traída desde el Haram al-Ibrahimi, donde había sido colocada."
-        }
+        },
+        "names": {
+          "ar": "مشكاة الحرم الإبراهيمي.",
+          "en": "Oil lamp.",
+          "fr": "Lampe à huile.",
+          "es": "Lámpara."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/3ad6bf78-0289-5969-9d5a-4389bb862798.jpg"
+      },
+      {
+        "id": "0e4485e1-3fb0-5d8c-a83c-5315bc85cb66",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:38",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "غطاء قبر سيدنا إبراهيم في الحرم الإبراهيمي.",
+          "en": "Tomb cover for the Prophet Ibraham in al-Haram al-Ibrahimi.",
+          "fr": "Couverture de tombe pour le prophète Abraham au Haram al-Ibrahimi.",
+          "es": "Cobertura de la tumba del profeta Abraham en Haram al-Ibrahimi."
+        },
+        "names": {
+          "ar": "غطاء قبر نبي الله إبراهيم.",
+          "en": "*Kiswa* (tomb cover) for the Prophet of God, Ibrahim (Abraham).",
+          "fr": "Kiswa, voile du tombeau d’Abraham.",
+          "es": "Cobertura *(kiswa)* de la tumba de Abraham."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/dbaddc43-d5c2-542e-ad7e-c27087f5eef5.jpg"
       }
     ],
     "gallery_references": [],
@@ -33328,7 +33812,29 @@
     "media": [],
     "related_items": [
       {
+        "id": "34df1c16-bb7b-5506-b850-656c4bb0f8aa",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:15",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "السلطان قلاوون تم معالجته من مرض هدد حياته في بيمارستان نور الدين و هذه الحادثة ألهمته ببناء المجمع الشهير في القاهرة.",
+          "en": "Sultan Qalawun was cured of life-threatening illness at Bimaristan Nur al-Din. The experience inspired him to build the famous complex in Cairo.",
+          "fr": "Le sultan Qalawun fut guéri d’une maladie mortelle au *bimaristan* Nour al-Din. Cette expérience lui inspira la construction du fameux complexe du Caire.",
+          "es": "El sultán Qalawun se curó de la enfermedad que amenazaba su vida en el Bimaristan Nur al-Din. La experiencia le inspiró para construir el famoso complejo en El Cairo."
+        },
+        "names": {
+          "ar": "مجمّع السلطان المنصور قلاوون (ضريح ومدرسة وبيمارستان).",
+          "en": "Complex of Sultan al-Mansur Qalawun (Mausoleum, Madrasa and Hospital).",
+          "fr": "Complexe du sultan al-Mansour Qalawun (mausolée, *madrasa* et hôpital).",
+          "es": "Complejo del sultán al-Mansur Qalawun (mausoleo, madrasa y hospital)."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/735b96e7-2311-5f61-a94e-6882bc377b56.jpg"
+      },
+      {
         "id": "10e14593-faff-5437-b999-efaa138e0262",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:13",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -33340,19 +33846,8 @@
         }
       },
       {
-        "id": "34df1c16-bb7b-5506-b850-656c4bb0f8aa",
-        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:15",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "السلطان قلاوون تم معالجته من مرض هدد حياته في بيمارستان نور الدين و هذه الحادثة ألهمته ببناء المجمع الشهير في القاهرة.",
-          "en": "Sultan Qalawun was cured of life-threatening illness at Bimaristan Nur al-Din. The experience inspired him to build the famous complex in Cairo.",
-          "fr": "Le sultan Qalawun fut guéri d’une maladie mortelle au *bimaristan* Nour al-Din. Cette expérience lui inspira la construction du fameux complexe du Caire.",
-          "es": "El sultán Qalawun se curó de la enfermedad que amenazaba su vida en el Bimaristan Nur al-Din. La experiencia le inspiró para construir el famoso complejo en El Cairo."
-        }
-      },
-      {
         "id": "5d530e40-18f0-5e71-b689-999b1ed68ae4",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -33361,22 +33856,19 @@
           "en": "A medical prescription of Egyptian Mamluk origin. There is no doubt that such documents would have been used in the Zangid-period Bimaristan Nur al-Din.",
           "fr": "Prescription médicale originaire de l’Égypte mamelouke. Il ne fait pas de doute que de tels documents ont dû être utilisés dans le *bimaristan* Nour al-Din de la période zenguide.",
           "es": "Una receta médica de origen mameluco egipcio. No hay duda de que documentos como este fueron utilizados en el Bimaristan de Nur al-Din durante el periodo zanguí."
-        }
-      },
-      {
-        "id": "5f18b902-02aa-5f60-bcb2-d6de493dfceb",
-        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:48",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "وجدت أدوات طب الأسنان التي  تعود للفترة العباسية و هناك أدوات مشابهة بالتأكيد طورت لاحقا في سوريا تحت الرعاية الزنكية.",
-          "en": "Dentistry tools have been found, dating back to the Abbasid period. Similar instruments were certainly further developed in Syria under Zangid patronage.",
-          "fr": "On a découvert des instruments de dentisterie datant de la période abbasside. Des instruments similaires furent certainement développés par la suite en Syrie sous protectorat zenguide.",
-          "es": "Se ha encontrado instrumental odontológico que data del periodo abasí. Instrumentos similares se siguieron desarrollando en Siria bajo el patronazgo zanguí."
-        }
+        },
+        "names": {
+          "ar": "وصفة طبية.",
+          "en": "Medical prescription.",
+          "fr": "Ordonnance médicale.",
+          "es": "Receta médica."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/39ed73b9-6cca-5c25-ac1b-850f72ad2c19.jpg"
       },
       {
         "id": "a8a7b007-ba46-517e-94a2-c79734028dc9",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:47",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -33385,10 +33877,40 @@
           "en": "Surgical tools, some dating back to the Abbasid period, would certainly have been further developed in Syria under Zangid patronage.",
           "fr": "Des instruments chirurgicaux, certains remontant à la période abbasside, furent certainement développés par la suite en Syrie sous protectorat zenguide.",
           "es": "Con certeza los instrumentos quirúrgicos, algunos datados del periodo abasí, se siguieron desarrollando en Siria bajo el patronazgo zangí."
-        }
+        },
+        "names": {
+          "ar": "مشرط جراحي.",
+          "en": "Surgical scalpel.",
+          "fr": "Scalpel chirurgical.",
+          "es": "Bisturí."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/c7122264-05af-52af-862e-adde511cd478.jpg"
+      },
+      {
+        "id": "5f18b902-02aa-5f60-bcb2-d6de493dfceb",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:48",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "وجدت أدوات طب الأسنان التي  تعود للفترة العباسية و هناك أدوات مشابهة بالتأكيد طورت لاحقا في سوريا تحت الرعاية الزنكية.",
+          "en": "Dentistry tools have been found, dating back to the Abbasid period. Similar instruments were certainly further developed in Syria under Zangid patronage.",
+          "fr": "On a découvert des instruments de dentisterie datant de la période abbasside. Des instruments similaires furent certainement développés par la suite en Syrie sous protectorat zenguide.",
+          "es": "Se ha encontrado instrumental odontológico que data del periodo abasí. Instrumentos similares se siguieron desarrollando en Siria bajo el patronazgo zanguí."
+        },
+        "names": {
+          "ar": "أداة لخلع الأضراس.",
+          "en": "Implement to remove teeth.",
+          "fr": "Instrument pour l’arrachage des dents.",
+          "es": "Extractor de dientes."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/7311c6b2-04b1-5df6-919a-5cab652debf5.jpg"
       },
       {
         "id": "ffe82953-5509-586c-bf0c-5858cbd0964d",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -33397,7 +33919,15 @@
           "en": "A medical manuscript the like of which would have been found in a library attached to the bimaristan. Hospital libraries were typically set up in the main iwan.",
           "fr": "Manuscrit de médecine identique à celui qui fut sans doute trouvé dans une bibliothèque attachée au *bimaristan*. Les bibliothèques d’hôpital étaient traditionnellement installées dans l’*iwan* principal.",
           "es": "Un manuscrito médico como los que pudieran ser encontrados en una biblioteca contigua al bimaristan. Las bibliotecas hospitalarias eran instaladas normalmente en el iwan principal."
-        }
+        },
+        "names": {
+          "ar": "مخطوط لمؤلف في الطب عنوانه",
+          "en": "Manuscript from the medical treatise *Kitab al-tasrîf liman ajaza an al-talîf fi al-tibb* by Abu al-Qasim Khalaf ibn ‘Abbas al-Andalusi al-Zahrawi.",
+          "fr": "Manuscrit du traité de médecine Kitab al-tasrîf liman ajaza an al-talîf fi al-tibb de Abou al-Qassim Khalaf ibn Abbas al-Andalousi al-Zahraoui.",
+          "es": "Manuscrito del tratado médico *Kitab al-tasrif liman ayaza an al-talif fi al-tibb de Abu al-Qasim Jalaf ibn Abbas al-Andalusi al-Zahrawi.*"
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/f284d3ed-6545-5411-9159-d7b5873eddd8.jpg"
       }
     ],
     "gallery_references": [],
@@ -33669,6 +34199,7 @@
     "related_items": [
       {
         "id": "9873a1b6-73ad-5b84-bb1e-759fa743d103",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:22",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -33677,10 +34208,39 @@
           "en": "Khan al-Harir (the silk caravanserai) was one of the building projects of Darwish Pasha, which was built to benefit the deed of his mosque.",
           "fr": "Khan al-Harir (le caravansérail de la soie) était l’un des programmes architecturaux de Darwich Pacha destinés à pourvoir au fonctionnement de sa mosquée.",
           "es": "Jan al-Harir (el caravanserai de seda) fue uno de los proyectos constructivos de Darwish Pasha, que fue construido para ayudar a financiar la obra de su mezquita."
-        }
+        },
+        "names": {
+          "ar": "جامع الدرويشية.",
+          "en": "Jami al-Darwishiyya.",
+          "fr": "Jami al-Darwichiyya.",
+          "es": "*Yami* al-Darwishiyya."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/2d883354-4b31-58e7-a260-3c4e2affe2a4.jpg"
+      },
+      {
+        "id": "f0fbf3fe-1168-5514-90da-4ae1a4c94a50",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:se:Mus01_A:36",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "قطع من الحرير مثل هذا القماش  العثماني البروكار المطرز قد تم بيعها في التكية السليمانية.",
+          "en": "Silk items such as this Ottoman Brocade textile would have been sold at Takiyya al- Sulaymaniyya.",
+          "es": "Es posible que artículos de seda como este tejido brocado otomano se hayan vendido en Takiyya al-Süleymaniye."
+        },
+        "names": {
+          "ar": "بروكار.",
+          "en": "Brocade.",
+          "fr": "Brocart",
+          "es": "Brocado"
+        },
+        "country_id": "swe",
+        "image": "https://inventory.metanull.eu/pub/f2108946-a02a-5650-aa33-c09c79c02b40.jpg"
       },
       {
         "id": "e160d8e8-b92a-510d-9233-09013a954962",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus02:34",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -33689,18 +34249,15 @@
           "en": "A luxurious silk and gold Ottoman Kaftan for a child that has survived intact. Textiles such as this would have been sold at at Takiyya al- Sulaymaniyya.",
           "fr": "Luxueux caftan d’enfant en soie et or conservé intact. Période ottomane. Des textiles comme celui-ci devaient être vendus à la *takiyya* al-Sulaymaniyya.",
           "es": "Un suntuoso caftán otomano de seda y oro para niño que ha permanecido intacto. Es posible que tejidos como este se hayan vendido en Takiyya al- Süleymaniye."
-        }
-      },
-      {
-        "id": "f0fbf3fe-1168-5514-90da-4ae1a4c94a50",
-        "backward_compatibility": "mwnf3:objects:ISL:se:Mus01_A:36",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "قطع من الحرير مثل هذا القماش  العثماني البروكار المطرز قد تم بيعها في التكية السليمانية.",
-          "en": "Silk items such as this Ottoman Brocade textile would have been sold at Takiyya al- Sulaymaniyya.",
-          "es": "Es posible que artículos de seda como este tejido brocado otomano se hayan vendido en Takiyya al-Süleymaniye."
-        }
+        },
+        "names": {
+          "ar": "قفطان.",
+          "en": "Kaftan.",
+          "fr": "Caftan.",
+          "es": "Caftán"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/83cdf250-8f32-504d-8a40-fd4734e31ac7.jpg"
       }
     ],
     "gallery_references": [],
@@ -34558,19 +35115,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "5b39f275-54df-59e1-af9d-1758c033e5d5",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:43",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "يظهر اسم المقام على الختم.",
-          "en": "The name of the *maqam* appears on the list of holy places.",
-          "fr": "Le nom du *maqam* figure sur la liste de lieux saints.",
-          "es": "El nombre del maqam aparece en la lista de los lugares santos."
-        }
-      },
-      {
         "id": "a94d6e26-81d2-5650-b785-1ad7d1e3be12",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:19",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -34579,7 +35125,36 @@
           "en": "One of the series of *maqam* at spread across Palestine.",
           "fr": "L’un des nombreux *maqam* dispersés en Palestine.",
           "es": "Uno de la serie de maqamat esparcidos por Palestina."
-        }
+        },
+        "names": {
+          "ar": "مقام النبي صمويل.",
+          "en": "Maqam of the Prophet Samuel.",
+          "fr": "Maqam du prophète Samuel.",
+          "es": "Maqam al-Nabi Samuel."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/e2422e0b-c6c3-5df4-93b4-d5910e1aec27.jpg"
+      },
+      {
+        "id": "5b39f275-54df-59e1-af9d-1758c033e5d5",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:43",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يظهر اسم المقام على الختم.",
+          "en": "The name of the *maqam* appears on the list of holy places.",
+          "fr": "Le nom du *maqam* figure sur la liste de lieux saints.",
+          "es": "El nombre del maqam aparece en la lista de los lugares santos."
+        },
+        "names": {
+          "ar": "خاتم بأسماء الأماكن المقدسة في فلسطين.",
+          "en": "Printing block (stamp) listing holy places in the region of Palestine.",
+          "fr": "Plaque d’impression d’une liste des lieux saints de Palestine.",
+          "es": "Plancha de impresión con la lista de los lugares santos de Palestina."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/adafcf47-b45b-5998-af86-5e3cf15be7de.jpg"
       }
     ],
     "gallery_references": [],
@@ -34883,19 +35458,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "05acaf62-d991-5bb0-84e8-9dc3c172a502",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:5",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "هذا الحفر الخشبي العالي الجودة بشكل هندسي نجمي يرى في كل من محراب المدرسة الحلوية                 و نعش صلاح الدين الأصلي.",
-          "en": "High-quality astral-geometric woodcarving, are seen both in the mihrab of Madrasa al-Halawiyya and in Saladin’s original coffin.",
-          "fr": "Des sculptures sur bois à motifs géométriques et thèmes astraux de très grande qualité sont visibles à la fois sur le *mihrab* de la *madrasa* al-Halawiyya et le cercueil original de Saladin.",
-          "es": "El tallado de madera de alta calidad con motivos geométricos astrales se puede observar tanto en el mihrab de la Madraza al-Halawiyya como en el féretro original de Saladino."
-        }
-      },
-      {
         "id": "2a96e20e-2325-5bea-be93-cd4c4d73eac0",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:8",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -34904,22 +35468,19 @@
           "en": "In addition to Saladin’s triumph over the Crusaders, he conquered Egypt from the Fatimids and built an impregnable Citadel in Cairo.",
           "fr": "En plus de son triomphe sur les Croisés, Saladin prit l’Égypte aux Fatimides et édifia une citadelle imprenable au Caire.",
           "es": "Además del triunfo sobre los cruzados, Saladino conquistó Egipto arrebatándolo de los fatimíes, y construyó la inexpugnable Ciudadela de El Cairo."
-        }
-      },
-      {
-        "id": "3a8f4926-8bbd-5e0d-af9c-239cc5185d26",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:2",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "هذا الرخام المنقوش صنع بعد إعادة فتح القدس من قبل صلاح الدين و الذي يعمل على حماية المدينة             و يمجد نصر صلاح الدين.",
-          "en": "Created after Saladin’s reconquest of Jerusalem, this marble inscription served to protect the city and commemorate Saladin’s victory.",
-          "fr": "Crée après la reconquête de Jérusalem par Saladin, cette inscription sur marbre servait à protéger la ville et commémorer la victoire de Saladin.",
-          "es": "Esta inscripción de mármol creada después de que Saladino reconquistara Jerusalén servía para proteger la ciudad y conmemorar la victoria de Saladino."
-        }
+        },
+        "names": {
+          "ar": "قلعة صلاح الدين الأيوبي.",
+          "en": "Citadel of Salah al-Din al-Ayyubi.",
+          "fr": "Citadelle de Salah al-Din al-Ayyoubi (*qala’a al-Gabal* ou château de la montagne).",
+          "es": "Ciudadela de Salah al-Din (Saladino)."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/4cb88f23-2f47-5425-a26f-ade59cbc9bdc.jpg"
       },
       {
         "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -34931,7 +35492,50 @@
         }
       },
       {
+        "id": "05acaf62-d991-5bb0-84e8-9dc3c172a502",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:5",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "هذا الحفر الخشبي العالي الجودة بشكل هندسي نجمي يرى في كل من محراب المدرسة الحلوية                 و نعش صلاح الدين الأصلي.",
+          "en": "High-quality astral-geometric woodcarving, are seen both in the mihrab of Madrasa al-Halawiyya and in Saladin’s original coffin.",
+          "fr": "Des sculptures sur bois à motifs géométriques et thèmes astraux de très grande qualité sont visibles à la fois sur le *mihrab* de la *madrasa* al-Halawiyya et le cercueil original de Saladin.",
+          "es": "El tallado de madera de alta calidad con motivos geométricos astrales se puede observar tanto en el mihrab de la Madraza al-Halawiyya como en el féretro original de Saladino."
+        },
+        "names": {
+          "ar": "محراب المدرسة الحلاوية.",
+          "en": "Mihrab of the Madrasa al-Halawiyya.",
+          "fr": "Mihrab de la madrasa al-Halawiyya.",
+          "es": "*Mihrab* de la madrasa al-Halawiyya."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/6eeed9af-9f18-5241-9b3d-4ca4c2485ad0.jpg"
+      },
+      {
+        "id": "3a8f4926-8bbd-5e0d-af9c-239cc5185d26",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:2",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "هذا الرخام المنقوش صنع بعد إعادة فتح القدس من قبل صلاح الدين و الذي يعمل على حماية المدينة             و يمجد نصر صلاح الدين.",
+          "en": "Created after Saladin’s reconquest of Jerusalem, this marble inscription served to protect the city and commemorate Saladin’s victory.",
+          "fr": "Crée après la reconquête de Jérusalem par Saladin, cette inscription sur marbre servait à protéger la ville et commémorer la victoire de Saladin.",
+          "es": "Esta inscripción de mármol creada después de que Saladino reconquistara Jerusalén servía para proteger la ciudad y conmemorar la victoria de Saladino."
+        },
+        "names": {
+          "ar": "نقش من خندق قلعة القدس.",
+          "en": "Marble inscription panel.",
+          "fr": "Panneau épigraphié en marbre.",
+          "es": "Lápida de mármol con inscripción."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/ef08baa1-be6c-54eb-963d-f47b0f5e4dcd.jpg"
+      },
+      {
         "id": "9ac5a090-8009-512f-bf82-741324800a8f",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -34940,7 +35544,15 @@
           "en": "A biography of Saladin that was written soon after his death by his confidant known as Ibn Shaddad. This copy was completed in 626/1228.",
           "fr": "Biographie de Saladin écrite peu après sa mort par son confident Ibn Shaddad. Ce manuscrit fut terminé en 626/1228.",
           "es": "Una biografía de Saladino que se escribió poco después de su muerte por su hombre de confianza conocido como Ibn Shaddad. La copia se completó en 626/1228."
-        }
+        },
+        "names": {
+          "ar": "النوادر السلطانية والمحاسن اليوسفية.",
+          "en": "Manuscript *Al-Nawadar al-Sultaniya wa al-Mahasin al-Yusufiya*\\[Sovereign Rarities and Yusufi Merits\\].",
+          "fr": "Manuscrit Al-Nawadar al-Sultaniya wa al-Mahasin al-Yusufiya [Raretés et mérites de Youssouf].",
+          "es": "Manuscrito de *Al-Nawadar al-Sultaniya wa al-Mahasin al-Yusufiya \\[Rarezas reales y méritos de Yusuf\\]*."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/001c913b-3059-5261-a481-abb055f498cd.jpg"
       }
     ],
     "gallery_references": [],
@@ -35128,31 +35740,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "1e8c52f2-59ae-5930-b434-948802ee9220",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:27",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "كانت قوارير المياه المحمولة بواسطة الحُجاج, تقليد شائع خلال فترات الحكم المملوكية والعثمانية.",
-          "en": "Portable water flasks were common items carried by pilgrims during the Mamluk and Ottoman periods.",
-          "fr": "Les gourdes d’eau portables étaient des objets couramment emportés par les pèlerins aux périodes mamelouke et ottomane.",
-          "es": "Las cantimploras para llevar agua eran artículos de uso común entre los peregrinos durante el periodo omeya y mameluco."
-        }
-      },
-      {
-        "id": "92b6403f-d36a-550d-b953-dceb45d22cf5",
-        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:11",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "المدوارة هي آخر محطة في طريق الحج السوري داخل أراضي الأردن. يُعتبر مفتاح الكعبة عنصر هام حيث له ارتباط وثيق بالحج.",
-          "en": "Mudawwara is the last station on the Syrian pilgrimage route in the lands of Jordan. The key of the Ka’ba is a very important item in relation to pilgrimage.",
-          "fr": "Moudawwara est la dernière étape sur la route du pèlerinage syrien. La clé de la Kaaba est une pièce très importante en relation avec le pèlerinage.",
-          "es": "Al-Mudawwara fue el último lugar de parada de la ruta de peregrinación siria en las tierras del Jordán. La llave de la Kaaba es un artículo muy importante relacionado con la peregrinación."
-        }
-      },
-      {
         "id": "9d02de34-15a1-5e36-948f-bfe9b4a617e0",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:26",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -35161,10 +35750,61 @@
           "en": "Built by the same patron (Governor of Damascus, Adullah Pasha).",
           "fr": "Construit par le même mécène (le gouverneur de Damas, Abdullah Pacha).",
           "es": "Construido por el mismo patrocinador (Gobernador de Damasco, Adullah Pasha)."
-        }
+        },
+        "names": {
+          "ar": "قلعة الحسا.",
+          "en": "Hasa Fortress.",
+          "fr": "Forteresse d’al-Hasa.",
+          "es": "Fortaleza de Al-Hasa"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/da1728e3-49fd-5884-9f40-a81d01ef7c34.jpg"
+      },
+      {
+        "id": "92b6403f-d36a-550d-b953-dceb45d22cf5",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:11",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "المدوارة هي آخر محطة في طريق الحج السوري داخل أراضي الأردن. يُعتبر مفتاح الكعبة عنصر هام حيث له ارتباط وثيق بالحج.",
+          "en": "Mudawwara is the last station on the Syrian pilgrimage route in the lands of Jordan. The key of the Ka’ba is a very important item in relation to pilgrimage.",
+          "fr": "Moudawwara est la dernière étape sur la route du pèlerinage syrien. La clé de la Kaaba est une pièce très importante en relation avec le pèlerinage.",
+          "es": "Al-Mudawwara fue el último lugar de parada de la ruta de peregrinación siria en las tierras del Jordán. La llave de la Kaaba es un artículo muy importante relacionado con la peregrinación."
+        },
+        "names": {
+          "ar": "مفتاح الكعبة.",
+          "en": "Key for the Ka’ba.",
+          "fr": "Clé de la Kaaba.",
+          "es": "Llave de la Kaaba."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/37201898-5a4d-5fa1-bb7f-cb54c832da53.jpg"
+      },
+      {
+        "id": "1e8c52f2-59ae-5930-b434-948802ee9220",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:27",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "كانت قوارير المياه المحمولة بواسطة الحُجاج, تقليد شائع خلال فترات الحكم المملوكية والعثمانية.",
+          "en": "Portable water flasks were common items carried by pilgrims during the Mamluk and Ottoman periods.",
+          "fr": "Les gourdes d’eau portables étaient des objets couramment emportés par les pèlerins aux périodes mamelouke et ottomane.",
+          "es": "Las cantimploras para llevar agua eran artículos de uso común entre los peregrinos durante el periodo omeya y mameluco."
+        },
+        "names": {
+          "ar": "مطرة للحج.",
+          "en": "A pilgrim’s flask.",
+          "fr": "Gourde de pèlerin.",
+          "es": "Cantimplora de peregrino"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/91fd5501-1c0d-50a7-88ae-5c6d5a84f517.jpg"
       },
       {
         "id": "a422b89c-541c-5d0c-b8ef-5292227a2201",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:33",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -35173,10 +35813,19 @@
           "en": "Portable water flasks were common items carried by pilgrims during the Mamluk and Ottoman periods.",
           "fr": "Les gourdes d’eau portables étaient des objets couramment emportés par les pèlerins aux périodes mamelouke et ottomane.",
           "es": "Las cantimploras para llevar agua eran artículos de uso común entre los peregrinos durante el periodo omeya y mameluco."
-        }
+        },
+        "names": {
+          "ar": "مطرة رحال.",
+          "en": "Pilgrim’s Flask.",
+          "fr": "Gourde de pèlerin.",
+          "es": "Cantimplora de peregrino."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/0886679d-4379-581b-ba51-006a2fbacb20.jpg"
       },
       {
         "id": "f542a798-8c47-5278-ad25-50059baf16a0",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -35185,7 +35834,16 @@
           "en": "Umayyad milestones mark the way on the pilgrimage route to the holy lands in Arabia.",
           "fr": "Des bornes omeyyades ponctuent la route du pèlerinage vers la Terre sainte en Arabie.",
           "es": "Los hitos omeyas marcan el camino en la ruta de peregrinación a tierras santas de Arabia."
-        }
+        },
+        "names": {
+          "ar": "دليل مسافات.",
+          "en": "Distance marker (milestone).",
+          "fr": "Borne.",
+          "es": "Mojon.",
+          "tr": "Mesafe taşı (Miltaşı)."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/0b6afdff-de04-5cb0-9bf4-ee364ec1a8b4.jpg"
       }
     ],
     "gallery_references": [],
@@ -35684,79 +36342,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "1e8c52f2-59ae-5930-b434-948802ee9220",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:27",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "كانت قوارير المياه المحمولة بواسطة الحُجاج, تقليد شائع خلال فترات الحكم المملوكية والعثمانية.",
-          "en": "Portable water flasks were common items carried by pilgrims during the Mamluk and Ottoman periods.",
-          "fr": "Les gourdes d’eau portables étaient des objets couramment emportés par les pèlerins aux périodes mamelouke et ottomane.",
-          "es": "Las cantimploras para llevar agua eran artículos de uso común entre los peregrinos durante el periodo omeya y mameluco."
-        }
-      },
-      {
-        "id": "24c1f590-96bb-5348-8df5-0771f85e31e4",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:35",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ البناء وِفقًا لأمر من نفس الولي, وهو (سليمان القانوني).",
-          "en": "Built by the same patron (Sulayman the Magnificent).",
-          "fr": "Construit par le même mécène (Soliman le Magnifique).",
-          "es": "Construido por el mismo patrocinador (Suleyman el Magnífico)."
-        }
-      },
-      {
-        "id": "2721de89-5c9b-5af1-ab68-78041a5f2c61",
-        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:19",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ البناء وِفقًا لأمر من نفس الولي, وهو (سليمان القانوني).",
-          "en": "Built by the same patron (Sulayman the Magnificent).",
-          "fr": "Construit par le même mécène (Soliman le Magnifique).",
-          "es": "Construido por el mismo patrocinador (Suleyman el Magnífico)."
-        }
-      },
-      {
-        "id": "34344960-90a1-56d8-ab23-52de9332f9bd",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:28",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ البناء وِفقًا لأمر من نفس الولي, وهو (سليمان القانوني).",
-          "en": "Built by the same patron (Sulayman the Magnificent).",
-          "fr": "Construit par le même mécène (Soliman le Magnifique).",
-          "es": "Construido por el mismo patrocinador (Suleyman el Magnífico)."
-        }
-      },
-      {
-        "id": "62e625a3-a3f0-51a2-b3d3-9ee1fce45141",
-        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:25",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ البناء وِفقًا لأمر من نفس الولي, وهو (سليمان القانوني).",
-          "en": "Built by the same patron (Sulayman the Magnificent).",
-          "fr": "Construit par le même mécène (Soliman le Magnifique).",
-          "es": "Construido por el mismo patrocinador (Suleyman el Magnífico)."
-        }
-      },
-      {
-        "id": "92b6403f-d36a-550d-b953-dceb45d22cf5",
-        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:11",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "كانت القطرانة محطة على طريق الحج السوري. يُعتبر مفتاح الكعبة عُنصر هام حيث له ارتباط وثيق بالحج.",
-          "en": "Qatranah was a pilgrimage station on the Syrian route. The key of the Ka’ba is a very important item in relation to pilgrimage.",
-          "fr": "Qatranah était une étape importante sur la route du pèlerinage syrien. La clé de la Kaaba est une pièce très importante en relation avec le pèlerinage.",
-          "es": "Al-Qatrana fue un lugar de parada en el peregrinaje de la ruta siria. La llave de la Kaaba es un artículo muy importante relacionado con la peregrinación."
-        }
-      },
-      {
         "id": "a397d721-71ab-55fa-a9e2-546b3287e116",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:8",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -35765,10 +36352,146 @@
           "en": "Built under the same patron (Sulayman the Magnificent).",
           "fr": "Construit sous le même mécène (Soliman le Magnifique).",
           "es": "Construido por el mismo patrocinador (Suleyman el Magnífico)."
-        }
+        },
+        "names": {
+          "ar": "القصبة (القلعة).",
+          "en": "Kasbah (citadel).",
+          "fr": "Casbah (citadelle).",
+          "es": "Ciudadela."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/845eb6f2-12f2-573b-98c7-032d4c98f08c.jpg"
+      },
+      {
+        "id": "2721de89-5c9b-5af1-ab68-78041a5f2c61",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:19",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ البناء وِفقًا لأمر من نفس الولي, وهو (سليمان القانوني).",
+          "en": "Built by the same patron (Sulayman the Magnificent).",
+          "fr": "Construit par le même mécène (Soliman le Magnifique).",
+          "es": "Construido por el mismo patrocinador (Suleyman el Magnífico)."
+        },
+        "names": {
+          "ar": "جامع سليمان باشا.",
+          "en": "Mosque of Sulayman Pasha.",
+          "fr": "Mosquée de Soliman Pacha.",
+          "es": "Mezquita de Süleyman Paşa"
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/1e3f5192-9eef-55b3-9be9-bca441486e5c.jpg"
+      },
+      {
+        "id": "34344960-90a1-56d8-ab23-52de9332f9bd",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:28",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ البناء وِفقًا لأمر من نفس الولي, وهو (سليمان القانوني).",
+          "en": "Built by the same patron (Sulayman the Magnificent).",
+          "fr": "Construit par le même mécène (Soliman le Magnifique).",
+          "es": "Construido por el mismo patrocinador (Suleyman el Magnífico)."
+        },
+        "names": {
+          "ar": "قلعة معان.",
+          "en": "The Fortress at Ma’an.",
+          "fr": "Forteresse de Ma’an.",
+          "es": "Fortaleza de Ma’an"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/b1ed59f7-ec9a-5a7d-9e77-046fd8021cdc.jpg"
+      },
+      {
+        "id": "24c1f590-96bb-5348-8df5-0771f85e31e4",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:35",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ البناء وِفقًا لأمر من نفس الولي, وهو (سليمان القانوني).",
+          "en": "Built by the same patron (Sulayman the Magnificent).",
+          "fr": "Construit par le même mécène (Soliman le Magnifique).",
+          "es": "Construido por el mismo patrocinador (Suleyman el Magnífico)."
+        },
+        "names": {
+          "ar": "قلعة ضبعة.",
+          "en": "Dhab’a Fortress.",
+          "fr": "Forteresse de Dhab’a.",
+          "es": "Fortaleza de Dhaba"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/992e8f98-ff64-5b53-8319-ad96ea6d8bcb.jpg"
+      },
+      {
+        "id": "62e625a3-a3f0-51a2-b3d3-9ee1fce45141",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:25",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ البناء وِفقًا لأمر من نفس الولي, وهو (سليمان القانوني).",
+          "en": "Built by the same patron (Sulayman the Magnificent).",
+          "fr": "Construit par le même mécène (Soliman le Magnifique).",
+          "es": "Construido por el mismo patrocinador (Suleyman el Magnífico)."
+        },
+        "names": {
+          "ar": "مجمع السليمانية.",
+          "en": "Süleymaniye Complex.",
+          "fr": "Complexe Süleymaniye.",
+          "es": "Complejo Süleymaniye",
+          "tr": "Süleymaniye Külliyesi."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/57c0489b-7968-57d5-8b15-eb1afbcc24a2.jpg"
+      },
+      {
+        "id": "92b6403f-d36a-550d-b953-dceb45d22cf5",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:11",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "كانت القطرانة محطة على طريق الحج السوري. يُعتبر مفتاح الكعبة عُنصر هام حيث له ارتباط وثيق بالحج.",
+          "en": "Qatranah was a pilgrimage station on the Syrian route. The key of the Ka’ba is a very important item in relation to pilgrimage.",
+          "fr": "Qatranah était une étape importante sur la route du pèlerinage syrien. La clé de la Kaaba est une pièce très importante en relation avec le pèlerinage.",
+          "es": "Al-Qatrana fue un lugar de parada en el peregrinaje de la ruta siria. La llave de la Kaaba es un artículo muy importante relacionado con la peregrinación."
+        },
+        "names": {
+          "ar": "مفتاح الكعبة.",
+          "en": "Key for the Ka’ba.",
+          "fr": "Clé de la Kaaba.",
+          "es": "Llave de la Kaaba."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/37201898-5a4d-5fa1-bb7f-cb54c832da53.jpg"
+      },
+      {
+        "id": "1e8c52f2-59ae-5930-b434-948802ee9220",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:27",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "كانت قوارير المياه المحمولة بواسطة الحُجاج, تقليد شائع خلال فترات الحكم المملوكية والعثمانية.",
+          "en": "Portable water flasks were common items carried by pilgrims during the Mamluk and Ottoman periods.",
+          "fr": "Les gourdes d’eau portables étaient des objets couramment emportés par les pèlerins aux périodes mamelouke et ottomane.",
+          "es": "Las cantimploras para llevar agua eran artículos de uso común entre los peregrinos durante el periodo omeya y mameluco."
+        },
+        "names": {
+          "ar": "مطرة للحج.",
+          "en": "A pilgrim’s flask.",
+          "fr": "Gourde de pèlerin.",
+          "es": "Cantimplora de peregrino"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/91fd5501-1c0d-50a7-88ae-5c6d5a84f517.jpg"
       },
       {
         "id": "a422b89c-541c-5d0c-b8ef-5292227a2201",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:33",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -35777,10 +36500,19 @@
           "en": "Portable water flasks were common items carried by pilgrims during the Mamluk and Ottoman periods.",
           "fr": "Les gourdes d’eau portables étaient des objets couramment emportés par les pèlerins aux périodes mamelouke et ottomane.",
           "es": "Las cantimploras para llevar agua eran artículos de uso común entre los peregrinos durante el periodo omeya y mameluco."
-        }
+        },
+        "names": {
+          "ar": "مطرة رحال.",
+          "en": "Pilgrim’s Flask.",
+          "fr": "Gourde de pèlerin.",
+          "es": "Cantimplora de peregrino."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/0886679d-4379-581b-ba51-006a2fbacb20.jpg"
       },
       {
         "id": "f542a798-8c47-5278-ad25-50059baf16a0",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -35789,7 +36521,16 @@
           "en": "Umayyad milestone would have marked the pilgrimage route to the Holy Lands in Arabia.",
           "fr": "Des bornes omeyyades ponctuent la route du pèlerinage vers la Terre sainte en Arabie.",
           "es": "Los hitos omeyas marcan el camino en la ruta de peregrinación a tierras santas de Arabia."
-        }
+        },
+        "names": {
+          "ar": "دليل مسافات.",
+          "en": "Distance marker (milestone).",
+          "fr": "Borne.",
+          "es": "Mojon.",
+          "tr": "Mesafe taşı (Miltaşı)."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/0b6afdff-de04-5cb0-9bf4-ee364ec1a8b4.jpg"
       }
     ],
     "gallery_references": [],
@@ -36414,6 +37155,7 @@
     "related_items": [
       {
         "id": "fa6d29c2-c6f8-50f2-8dc0-8cb061d97188",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:7",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -36422,10 +37164,19 @@
           "en": "It was built by the same builder, Amir Tankaz al-Nasiri.",
           "fr": "Même constructeur, l’émir Tankaz al-Nasiri.",
           "es": "Fue construido por el mismo constructor, emir Tankaz al-Nasiri."
-        }
+        },
+        "names": {
+          "ar": "المدرسة التنكزية.",
+          "en": "Madrasa Tankaziyya.",
+          "fr": "Madrasa al-Tankaziyya.",
+          "es": "Madrasa Tankaziyya"
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/7ca77426-8352-550c-b9e4-14e947d6d63b.jpg"
       },
       {
         "id": "fc210313-c572-52b3-ab9c-6ec080f0812a",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:25",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -36434,7 +37185,15 @@
           "en": "It was donated by the builder of the market, Amir Tankaz al-Nasiri.",
           "fr": "Legs du constructeur du marché, l’émir Tankaz al-Nasiri.",
           "es": "Fue donado por el constructor del mercado, emir Tankaz al-Nasiri."
-        }
+        },
+        "names": {
+          "ar": "مشكاة الحرم الإبراهيمي.",
+          "en": "Oil lamp.",
+          "fr": "Lampe à huile.",
+          "es": "Lámpara."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/3ad6bf78-0289-5969-9d5a-4389bb862798.jpg"
       }
     ],
     "gallery_references": [
@@ -37024,43 +37783,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "0356286a-7b78-54d7-b0a8-bf8bfd97a059",
-        "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:33",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "مثال على بلاطة  أصلية من إزنيق التي أنتجت بلاطات مماثلة لها من طراز إزنيق  و لكن محليا في دمشق.",
-          "en": "An example of an original Iznik tile after which tiles were produced in the Iznik style but locally in Damascus.",
-          "fr": "Exemplaire original d’un carreau d’Iznik d’après lequel des carreaux furent fabriqués dans le style d’Iznik mais localement à Damas.",
-          "es": "Un ejemplo de un azulejo originario de Nicea después del cual los azulejos se elaboraron con el estilo de Nicea, pero producidos localmente en Damasco."
-        }
-      },
-      {
-        "id": "5691ad24-fe0c-597d-8ca1-206be34877d4",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:39",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "استخدام اللوحات لتزيين المساجد كان شائعا خلال الفترة العثمانية  و العديد منها صنعت محليا في دمشق.",
-          "en": "The use of tile panels to decorate mosques was common during the Ottoman period, many of which were produced locally in Damascus.",
-          "fr": "L’usage de panneaux de carreaux pour décorer les mosquées était courant durant la période ottomane, nombre d’entre eux étaient produits sur place à Damas.",
-          "es": "El uso de paneles de azulejo para decorar mezquitas fue común durante el periodo otomano, muchos de los cuales se produjeron localmente en Damasco."
-        }
-      },
-      {
-        "id": "62e625a3-a3f0-51a2-b3d3-9ee1fce45141",
-        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:25",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "مجمع السليمانية كان قد أمر ببنائه  السلطان سليمان المعظم و له المزايا الكلاسيكية للعمارة العثمانية.",
-          "en": "The Süleymaniye Complex was commissioned by Sulayman the Magnificent. It has the classical features of Ottoman architecture.",
-          "fr": "Le complexe Süleymaniye fut commandité par Soliman le magnifique. Il comporte les caractéristiques classiques de l’architecture ottomane.",
-          "es": "El Complejo Süleymaniye fue encargado por Süleyman El Magnífico. Presenta los rasgos típicos de la arquitectura otomana."
-        }
-      },
-      {
         "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -37073,6 +37797,7 @@
       },
       {
         "id": "bdeda37e-0f4a-5fd6-ad87-d9dacdb11131",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:9",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -37081,10 +37806,84 @@
           "en": "To accommodate the pilgrims in Jerusalem, a construction similar to Takiyya al-Sulaymaniyya was built by Sultan Sulayman’s wife, Haseki Hurrem Sultan.",
           "fr": "Pour héberger les pèlerins à Jérusalem, un édifice similaire à la *takiyya* al-Sulaymaniyya fut construit par la femme du sultan Soliman, la sultane Haseki Hürrem.",
           "es": "La esposa del sultán Süleyman Haseki Hürrem Sultan comisionó una construcción similar a Takiyya al- Süleymaniye para alojar a los peregrinos en Jerusalén."
-        }
+        },
+        "names": {
+          "ar": "العمارة العامرة.",
+          "en": "‘Imara al-‘Amira (Flourishing Edifice).",
+          "fr": "Al-‘Imara al-‘Amira (“L’édifice florissant”).",
+          "es": "Al-‘Imara al-‘Amira (el edificio floreciente)."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/2bdb8cee-a680-5d83-a2d1-5a178fe61d8f.jpg"
+      },
+      {
+        "id": "62e625a3-a3f0-51a2-b3d3-9ee1fce45141",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:25",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "مجمع السليمانية كان قد أمر ببنائه  السلطان سليمان المعظم و له المزايا الكلاسيكية للعمارة العثمانية.",
+          "en": "The Süleymaniye Complex was commissioned by Sulayman the Magnificent. It has the classical features of Ottoman architecture.",
+          "fr": "Le complexe Süleymaniye fut commandité par Soliman le magnifique. Il comporte les caractéristiques classiques de l’architecture ottomane.",
+          "es": "El Complejo Süleymaniye fue encargado por Süleyman El Magnífico. Presenta los rasgos típicos de la arquitectura otomana."
+        },
+        "names": {
+          "ar": "مجمع السليمانية.",
+          "en": "Süleymaniye Complex.",
+          "fr": "Complexe Süleymaniye.",
+          "es": "Complejo Süleymaniye",
+          "tr": "Süleymaniye Külliyesi."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/57c0489b-7968-57d5-8b15-eb1afbcc24a2.jpg"
+      },
+      {
+        "id": "5691ad24-fe0c-597d-8ca1-206be34877d4",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:39",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "استخدام اللوحات لتزيين المساجد كان شائعا خلال الفترة العثمانية  و العديد منها صنعت محليا في دمشق.",
+          "en": "The use of tile panels to decorate mosques was common during the Ottoman period, many of which were produced locally in Damascus.",
+          "fr": "L’usage de panneaux de carreaux pour décorer les mosquées était courant durant la période ottomane, nombre d’entre eux étaient produits sur place à Damas.",
+          "es": "El uso de paneles de azulejo para decorar mezquitas fue común durante el periodo otomano, muchos de los cuales se produjeron localmente en Damasco."
+        },
+        "names": {
+          "ar": "لوح خزفي.",
+          "en": "Panel of tiles.",
+          "fr": "Panneau en carreaux de céramique.",
+          "es": "Panel de azulejos."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/66b4e8cc-9d73-5d52-a46d-a41d009ed8dc.jpg"
+      },
+      {
+        "id": "0356286a-7b78-54d7-b0a8-bf8bfd97a059",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:33",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "مثال على بلاطة  أصلية من إزنيق التي أنتجت بلاطات مماثلة لها من طراز إزنيق  و لكن محليا في دمشق.",
+          "en": "An example of an original Iznik tile after which tiles were produced in the Iznik style but locally in Damascus.",
+          "fr": "Exemplaire original d’un carreau d’Iznik d’après lequel des carreaux furent fabriqués dans le style d’Iznik mais localement à Damas.",
+          "es": "Un ejemplo de un azulejo originario de Nicea después del cual los azulejos se elaboraron con el estilo de Nicea, pero producidos localmente en Damasco."
+        },
+        "names": {
+          "ar": "لوح خزفي مزجَّج عليه صورة الكعبة.",
+          "en": "Ceramic tile with a picture of the Ka‘ba.",
+          "fr": "Carreau de céramique à représentation de la Kaaba.",
+          "es": "Azulejo con la Kaaba pintada.",
+          "tr": "Kabe Tasvirli Çini Pano."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/54923db7-665b-5a5b-a780-dd9cfdc91f77.jpg"
       },
       {
         "id": "f3529449-1169-568c-8cd7-715fa25e50d1",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:46",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -37093,7 +37892,15 @@
           "en": "Tile production illustrates, like the architecture of the period, the provincial style of adopted Ottoman motifs which were widely used in early Ottoman Damascene mosques.",
           "fr": "La production de carreaux illustre, de même que l’architecture de l’époque, le style provincial de motifs ottomans utilisés qui étaient largement répandus dans les premières mosquées ottomanes de Damas.",
           "es": "La producción de azulejos ilustra, al igual que la arquitectura del periodo, el estilo provincial de motivos otomanos adoptados y que se utilizaron ampliamente en las mezquitas de Damasco en la época otomana temprana."
-        }
+        },
+        "names": {
+          "ar": "بلاطة جدارية.",
+          "en": "Wall tile.",
+          "fr": "Carreau mural.",
+          "es": "Azulejo."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/cb812e4c-e3af-55ed-9f43-a59e108f3d5e.jpg"
       }
     ],
     "gallery_references": [
@@ -38062,55 +38869,42 @@
     "media": [],
     "related_items": [
       {
-        "id": "08fc2f57-a61c-58cb-a4a0-79aaa993eee4",
-        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:49",
+        "id": "afc571f4-5986-5e46-b1ec-3dde40394350",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "إفريز مزين من الحجر المنحوت كان قد نفِّذ خلال عهد الوليد و هو الذي رعى بناء مسجد أمية الكبير في دمشق.",
-          "en": "A decorative frieze of carved stone that was executed during the reign of al-Walid, the sponsor of the Great Umayyad Mosque of Damascus.",
-          "fr": "Frise décorative en pierre sculptée qui fut exécutée durant le règne d’al-Walid, le mécène de la Grande Mosquée omeyyade de Damas.",
-          "es": "Un friso decorativo en piedra tallada que fue elaborado durante el reinado de al-Walid, el patrocinador de la Gran Mezquita Omeya de Damasco."
-        }
+          "ar": "خلافا للمسجد الأموي فإن مجاز  العقود  للمسجد الأزهر هو متعامد بشكل مبتكر مع جدار القبلة.",
+          "en": "Unlike the Umayyad mosque, the transept aisle of the Mosque of al-Azhar is innovatively perpendicular to the qibla wall.",
+          "fr": "Contrairement à la Mosquée Omeyyade, le transept central de la mosquée al-Azhar est, de manière novatrice, perpendiculaire au mur de la *qibla*.",
+          "es": "A diferencia de la Mezquita Omeya, el transepto de la Mezquita de al-Azhar incorpora una innovación al ser perpendicular a la pared de la qibla."
+        },
+        "names": {
+          "ar": "الجـــــامع الأزهر.",
+          "en": "Mosque of al-Azhar.",
+          "fr": "Mosquée al-Azhar.",
+          "es": "Mezquita de al-Azhar."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/2a5d554d-5a67-5e7d-bb88-321114e733dd.jpg"
       },
       {
-        "id": "36cb81b7-4f72-5fca-806a-a2414db562aa",
-        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:1",
+        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
+        "in_package": true,
         "justifications": {
-          "ar": "طراز المسجد الكبير في القيروان يظهر التأثير البعيد المدى للمسجد الأموي في دمشق.",
-          "en": "The peristyle courtyard and the transept of the prayer hall found in Diyarbakir’s great mosque follow the standards set by the Umayyad model.",
-          "fr": "La cour à péristyle et le transept de la salle de prière de la Grande Mosquée de Diyarbakir suivent les standards établis par le modèle omeyyade.",
-          "es": "El patio peristilo y el transepto de la sala de oración en la Mezquita Mayor de Diyarbakir sigue los estándares establecidos por el modelo omeya."
-        }
-      },
-      {
-        "id": "4e4e72ee-c59e-5dac-bbc4-668eefd07742",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:18",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "ضريح بيبرس يني قرب المسجد الأموي و استوحي من طرازه المعماري و الذي يتميز بالفسيفساء المذهبة و النقوش بشكل لفائف من الكرمة.",
-          "en": "Baybars’ mausoleum was built near the Umayyad Mosque and was inspired by its architectural style, featuring gold mosaics and vine-scroll carving.",
-          "fr": "Le mausolée de Baybars fut construit près de la Mosquée Omeyyade et inspiré par son style architectural, avec mosaïques d’or et volutes de vignes sculptées.",
-          "es": "El Mausoleo de Baybars fue construido cerca de la Mezquita Omeya y se inspiró en su estilo arquitectónico, destacando sus mosaicos dorados y sus tallas de vides."
-        }
-      },
-      {
-        "id": "824bc44a-ecba-5266-8efa-c68c70d08dec",
-        "backward_compatibility": "mwnf3:monuments:ISL:tn:Mon01:2",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "الفناء ذو البهو المعمد لجناح قاعة المصلين الذي يوجد في المسجد الكبير في ديار بكر يتبع المعايير الموضوعة من قبل النموذج الأموي.",
-          "en": "The style of the Great Kairouan Mosque shows the far-reaching impact of the Umayyad Mosque of Damascus.",
-          "fr": "Le style de la Grande Mosquée de Kairouan est particulièrement éloquent sur l’impact de la Mosquée Omeyyade de Damas.",
-          "es": "El estilo de la Mezquita Mayor de Kairuán muestra el impacto trascendental de la Mezquita Omeya de Damasco."
+          "ar": "المسجد الأقصى الذي  هو موقع قديم مقدس و أكثر الأماكن قدسية في الإسلام بعد مكة و المدينة تم تجديده من قبل والد الوليد.",
+          "en": "The Aqsa Mosque, an ancient Holy site and the most sacred place in Islam after Mecca and Medina, was renovated by al-Walid’s father.",
+          "fr": "La mosquée al-Aqsa, troisième lieu saint de l’islam après La Mecque et Médine, fut rénovée par le père d’al-Walid.",
+          "es": "La mezquita Al-Aqsa, un enclave sagrado antiguo, y el lugar más sagrado para el Islam después de La Meca y La Medina, fue renovado por el padre de al-Walid."
         }
       },
       {
         "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -38122,28 +38916,90 @@
         }
       },
       {
-        "id": "afc571f4-5986-5e46-b1ec-3dde40394350",
-        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:3",
+        "id": "4e4e72ee-c59e-5dac-bbc4-668eefd07742",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:18",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "خلافا للمسجد الأموي فإن مجاز  العقود  للمسجد الأزهر هو متعامد بشكل مبتكر مع جدار القبلة.",
-          "en": "Unlike the Umayyad mosque, the transept aisle of the Mosque of al-Azhar is innovatively perpendicular to the qibla wall.",
-          "fr": "Contrairement à la Mosquée Omeyyade, le transept central de la mosquée al-Azhar est, de manière novatrice, perpendiculaire au mur de la *qibla*.",
-          "es": "A diferencia de la Mezquita Omeya, el transepto de la Mezquita de al-Azhar incorpora una innovación al ser perpendicular a la pared de la qibla."
-        }
+          "ar": "ضريح بيبرس يني قرب المسجد الأموي و استوحي من طرازه المعماري و الذي يتميز بالفسيفساء المذهبة و النقوش بشكل لفائف من الكرمة.",
+          "en": "Baybars’ mausoleum was built near the Umayyad Mosque and was inspired by its architectural style, featuring gold mosaics and vine-scroll carving.",
+          "fr": "Le mausolée de Baybars fut construit près de la Mosquée Omeyyade et inspiré par son style architectural, avec mosaïques d’or et volutes de vignes sculptées.",
+          "es": "El Mausoleo de Baybars fue construido cerca de la Mezquita Omeya y se inspiró en su estilo arquitectónico, destacando sus mosaicos dorados y sus tallas de vides."
+        },
+        "names": {
+          "ar": "المدرسة الظاهرية.",
+          "en": "Madrasa al-Zahiriyya.",
+          "fr": "Madrasa al-Zahiriyya.",
+          "es": "Madrasa al-Zahiriyya."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/2d737406-762f-5866-9e6f-7edfee13b96b.jpg"
       },
       {
-        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:3",
+        "id": "824bc44a-ecba-5266-8efa-c68c70d08dec",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tn:Mon01:2",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
+        "in_package": false,
         "justifications": {
-          "ar": "المسجد الأقصى الذي  هو موقع قديم مقدس و أكثر الأماكن قدسية في الإسلام بعد مكة و المدينة تم تجديده من قبل والد الوليد.",
-          "en": "The Aqsa Mosque, an ancient Holy site and the most sacred place in Islam after Mecca and Medina, was renovated by al-Walid’s father.",
-          "fr": "La mosquée al-Aqsa, troisième lieu saint de l’islam après La Mecque et Médine, fut rénovée par le père d’al-Walid.",
-          "es": "La mezquita Al-Aqsa, un enclave sagrado antiguo, y el lugar más sagrado para el Islam después de La Meca y La Medina, fue renovado por el padre de al-Walid."
-        }
+          "ar": "الفناء ذو البهو المعمد لجناح قاعة المصلين الذي يوجد في المسجد الكبير في ديار بكر يتبع المعايير الموضوعة من قبل النموذج الأموي.",
+          "en": "The style of the Great Kairouan Mosque shows the far-reaching impact of the Umayyad Mosque of Damascus.",
+          "fr": "Le style de la Grande Mosquée de Kairouan est particulièrement éloquent sur l’impact de la Mosquée Omeyyade de Damas.",
+          "es": "El estilo de la Mezquita Mayor de Kairuán muestra el impacto trascendental de la Mezquita Omeya de Damasco."
+        },
+        "names": {
+          "ar": "جامع القيروان الكبير.",
+          "en": "Great Mosque of Kairouan.",
+          "fr": "Grande Mosquée de Kairouan.",
+          "es": "Mezquita Mayor."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/7e6bfc26-ba57-5b2f-8e26-6c49bf80a4d3.jpg"
+      },
+      {
+        "id": "36cb81b7-4f72-5fca-806a-a2414db562aa",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:1",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "طراز المسجد الكبير في القيروان يظهر التأثير البعيد المدى للمسجد الأموي في دمشق.",
+          "en": "The peristyle courtyard and the transept of the prayer hall found in Diyarbakir’s great mosque follow the standards set by the Umayyad model.",
+          "fr": "La cour à péristyle et le transept de la salle de prière de la Grande Mosquée de Diyarbakir suivent les standards établis par le modèle omeyyade.",
+          "es": "El patio peristilo y el transepto de la sala de oración en la Mezquita Mayor de Diyarbakir sigue los estándares establecidos por el modelo omeya."
+        },
+        "names": {
+          "ar": "المسجد الكبير.",
+          "en": "Great Mosque (Ulu Cami).",
+          "fr": "Grande Mosquée (Ulu Cami).",
+          "es": "Mezquita Mayor (Ulu Cami).",
+          "tr": "Ulu Cami."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/5b285a38-05e0-5fe1-96ac-872cd1b90fdc.jpg"
+      },
+      {
+        "id": "08fc2f57-a61c-58cb-a4a0-79aaa993eee4",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:49",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "إفريز مزين من الحجر المنحوت كان قد نفِّذ خلال عهد الوليد و هو الذي رعى بناء مسجد أمية الكبير في دمشق.",
+          "en": "A decorative frieze of carved stone that was executed during the reign of al-Walid, the sponsor of the Great Umayyad Mosque of Damascus.",
+          "fr": "Frise décorative en pierre sculptée qui fut exécutée durant le règne d’al-Walid, le mécène de la Grande Mosquée omeyyade de Damas.",
+          "es": "Un friso decorativo en piedra tallada que fue elaborado durante el reinado de al-Walid, el patrocinador de la Gran Mezquita Omeya de Damasco."
+        },
+        "names": {
+          "ar": "كتلة صخرية عليها نقش بارز لزخرفة نباتية من رمان وأغصان منمنمة.",
+          "de": "Steinblock mit floralem Relief aus stilisierten Ranken und Granatäpfeln.",
+          "en": "Decorative stone with stylised scrollwork and pomegranates.",
+          "fr": "Pierre décorative à relief de rinceaux stylisés et de grenades.",
+          "es": "Piedra decorativa con tallos y granadas estilizados."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/124c2399-9521-5bc2-a6cd-3e707f1892e7.jpg"
       }
     ],
     "gallery_references": [
@@ -38466,6 +39322,7 @@
     "related_items": [
       {
         "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -38474,10 +39331,19 @@
           "en": "The wall of Buraq forms part of the Western Wall of al-Haram al-Sharif.",
           "fr": "Le mur de Buraq fait partie du mur occidental du Haram al-Charif.",
           "es": "El muro de al-Buraq forma parte del muro occidental del Haram al-Sharif."
-        }
+        },
+        "names": {
+          "ar": "الحرم الشريف.",
+          "en": "Haram al-Sharif (Noble Sanctuary).",
+          "fr": "Al-Haram al-Charif (le Noble Sanctuaire).",
+          "es": "Al-Haram al-Sharif (el Noble Santuario)."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/dc9aa87c-464b-5b43-aff4-60895e4ec60f.jpg"
       },
       {
         "id": "5b39f275-54df-59e1-af9d-1758c033e5d5",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:43",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -38486,7 +39352,15 @@
           "en": "The wall is included on the list of holy places in Palestine.",
           "fr": "L’édifice figure sur cette liste de lieux saints de Palestine.",
           "es": "El muro está incluido en la lista de los lugares santos de Palestina."
-        }
+        },
+        "names": {
+          "ar": "خاتم بأسماء الأماكن المقدسة في فلسطين.",
+          "en": "Printing block (stamp) listing holy places in the region of Palestine.",
+          "fr": "Plaque d’impression d’une liste des lieux saints de Palestine.",
+          "es": "Plancha de impresión con la lista de los lugares santos de Palestina."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/adafcf47-b45b-5998-af86-5e3cf15be7de.jpg"
       }
     ],
     "gallery_references": [],

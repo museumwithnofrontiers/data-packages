@@ -1887,6 +1887,7 @@
     "related_items": [
       {
         "id": "039d2f5d-461a-5a1d-8e3f-0de426d00dc5",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:es:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1894,32 +1895,19 @@
           "en": "The brazier is a royal object and was used in a palace.",
           "fr": "Le brasier est un objet royal et était utilisé au palais.",
           "es": "El brasero es un objeto real y fue utilizado en palacio."
-        }
-      },
-      {
-        "id": "1557e889-e4c0-511e-92f2-cf332ab357cf",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:13",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "en": "Both objects have the same function of burning incense and both depict human figures within arches.",
-          "fr": "Les deux objets ont la même fonction de brûleur d’encens, et tous deux représentent des figures humaines dans des arcs.",
-          "es": "Ambos objetos cumplen la misma función de quemar incienso y ambos contienen representaciones de figuras humanas enmarcadas dentro de arcos."
-        }
-      },
-      {
-        "id": "32434888-ecb9-5b5b-bdc6-bc81ab4851b0",
-        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:24",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "en": "The brazier is a royal object and was used in a palace.",
-          "fr": "Le brasier est un objet royal et était utilisé au palais.",
-          "es": "El brasero es un objeto real y fue utilizado en palacio."
-        }
+        },
+        "names": {
+          "ar": "قصر الجعفرية (الجزء الإسلامي).",
+          "en": "Aljafería Palace (Islamic part).",
+          "fr": "Palais de la Aljafería (partie islamique).",
+          "es": "Palacio de la Aljafería (parte islámica)."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/efa208e7-f6b5-53df-a546-47c2a4266c46.jpg"
       },
       {
         "id": "37690bf6-e1be-58cb-a87c-157e41138520",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1927,10 +1915,20 @@
           "en": "The brazier is a royal object and was used in a palace.",
           "fr": "Le brasier est un objet royal et était utilisé au palais.",
           "es": "El brasero es un objeto real y fue utilizado en palacio."
-        }
+        },
+        "names": {
+          "ar": "مبنى الجامع الكبير في باليرمو داخل كنيسة المتوجة",
+          "en": "Uscibene",
+          "fr": "Uscibene.",
+          "it": "Uscibene.",
+          "es": "Uscibene"
+        },
+        "country_id": "ita",
+        "image": "https://inventory.metanull.eu/pub/eab36d0b-6d7c-5e27-bb78-144777c131fb.jpg"
       },
       {
         "id": "48d6d059-d57f-523e-9607-450c25bfbe55",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:6",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1938,66 +1936,40 @@
           "en": "The brazier was found at the palace and is part of its collection of objects from daily life.",
           "fr": "Le brasier fut trouvé au palais et fait partie de sa collection d’objets de la vie quotidienne.",
           "es": "El brasero fue hallado en el palacio y es parte de la colección de objetos utilizados en la vida diaria."
-        }
+        },
+        "names": {
+          "ar": "الفدين.",
+          "en": "Fudayn.",
+          "fr": "Al-Foudayn.",
+          "es": "Al-Fudayn"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/4e061756-028e-5d6a-bfc0-df5cf3749fdb.jpg"
       },
       {
-        "id": "556ddc9e-29c0-523e-bb8e-eb53f4c45d06",
-        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_D:5",
+        "id": "32434888-ecb9-5b5b-bdc6-bc81ab4851b0",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:24",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "en": "Both objects depict an eagle with outstretched wings and are from same period.",
-          "fr": "Les deux objets représentent un aigle aux ailes éployées et sont de la même période.",
-          "es": "Ambos objetos contienen una representación de un águila con las extendidas que datan de la misma dinastía."
-        }
-      },
-      {
-        "id": "6fb6ea4d-c7c1-56d9-a527-f3139df0a217",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:3",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "en": "Both objects depict figures within arches and are chronologically related.",
-          "fr": "Les deux objets représentent des figures humaines dans des arcs et sont en rapport en termes de chronologie.",
-          "es": "Ambos objetos representan figuras enmarcadas dentro de arcos y están relacionadas cronológicamente."
-        }
-      },
-      {
-        "id": "94369548-7782-52b0-adae-f3a0d1f1caf6",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:32",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "en": "Both objects show a naked female figure and they are dated to same dynasty.",
-          "fr": "Les deux objets figurent un personnage féminin nu et datent de la même dynastie.",
-          "es": "Ambos objetos muestran una figura femenina desnuda y datan de la misma dinastía."
-        }
-      },
-      {
-        "id": "b2622fa1-69d2-576f-a92d-7b7e0bbf3c7e",
-        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:8",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تحمل القطعتان العنصر المعماري الخاص بالأقواس المزينة.",
-          "en": "Both objects have the architectural element of decorated arches.",
-          "fr": "Les deux objets ont un élément architectural d’arcs décorés.",
-          "es": "Ambos objetos presentan el elemento arquitectónico de los arcos decorados."
-        }
-      },
-      {
-        "id": "be324a5a-63a0-50d4-ac98-af5bb7d7c6f1",
-        "backward_compatibility": "mwnf3:objects:ISL:pt:Mus01_B:29",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "en": "Both objects depict an eagle with outstretched wings and date to the same dynasty.",
-          "fr": "Les deux objets représentent un aigle aux ailes éployées et datent de la même dynastie.",
-          "es": "Ambos objetos contienen una representación de un águila con las extendidas que datan de la misma dinastía."
-        }
+          "en": "The brazier is a royal object and was used in a palace.",
+          "fr": "Le brasier est un objet royal et était utilisé au palais.",
+          "es": "El brasero es un objeto real y fue utilizado en palacio."
+        },
+        "names": {
+          "ar": "قصر توبكابي.",
+          "en": "Topkapı Palace.",
+          "fr": "Palais de Topkapı.",
+          "es": "Palacio Topkapı",
+          "tr": "Topkapı Sarayı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/88482ad0-fbcb-552f-84dd-9c4d09d9d66b.jpg"
       },
       {
         "id": "d2379132-91f2-5a63-8508-ac615d5bf783",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:50",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2006,10 +1978,20 @@
           "en": "Both objects show a naked female figure and they are dated to same dynasty.",
           "fr": "Les deux objets figurent un personnage féminin nu et datent de la même dynastie.",
           "es": "Ambos objetos muestran una figura femenina desnuda y datan de la misma dinastía."
-        }
+        },
+        "names": {
+          "ar": "كِسرة من تمثال امرأة من المشتى.",
+          "de": "Fragment einer Frauenstatue aus Mschatta.",
+          "en": "Fragment of a female statue from Mushatta.",
+          "fr": "Fragment de statue de femme provenant de Mchatta.",
+          "es": "Fragmento de estatua femenina de Mushatta."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/810738d2-f6ab-561f-80c5-1d37ced4b601.jpg"
       },
       {
         "id": "eddda363-37ec-580d-af63-63f93facde5f",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2018,7 +2000,137 @@
           "en": "Both objects have the architectural element of decorated arches.",
           "fr": "Les deux objets ont un élément architectural d’arcs décorés.",
           "es": "Ambos objetos presentan el elemento arquitectónico de los arcos decorados."
-        }
+        },
+        "names": {
+          "ar": "لــــوحة رخاميــة.",
+          "en": "Marble mosaic panel.",
+          "fr": "Panneau en mosaïque de marbre.",
+          "es": "Panel con mosaico de mármol"
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/5bbf85ee-8fce-552a-9cb5-ffdd2ddf41cc.jpg"
+      },
+      {
+        "id": "b2622fa1-69d2-576f-a92d-7b7e0bbf3c7e",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:8",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تحمل القطعتان العنصر المعماري الخاص بالأقواس المزينة.",
+          "en": "Both objects have the architectural element of decorated arches.",
+          "fr": "Les deux objets ont un élément architectural d’arcs décorés.",
+          "es": "Ambos objetos presentan el elemento arquitectónico de los arcos decorados."
+        },
+        "names": {
+          "ar": "إفريز.",
+          "en": "Frieze.",
+          "fr": "Frise.",
+          "es": "Friso"
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/d0e22cd0-f640-55ef-9d20-49fc67eeadaa.jpg"
+      },
+      {
+        "id": "94369548-7782-52b0-adae-f3a0d1f1caf6",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:32",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "Both objects show a naked female figure and they are dated to same dynasty.",
+          "fr": "Les deux objets figurent un personnage féminin nu et datent de la même dynastie.",
+          "es": "Ambos objetos muestran una figura femenina desnuda y datan de la misma dinastía."
+        },
+        "names": {
+          "ar": "الجزء السفلي من تمثال لامرأة شبه عارية.",
+          "en": "Lower part of a semi-naked female statue.",
+          "fr": "Partie inférieure d’une statue de figure féminine semi-vêtue.",
+          "es": "Parte inferior de estatua femenina semidesnuda"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/02956f58-d406-5cbc-bb33-dfb0eb67c043.jpg"
+      },
+      {
+        "id": "556ddc9e-29c0-523e-bb8e-eb53f4c45d06",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_D:5",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "Both objects depict an eagle with outstretched wings and are from same period.",
+          "fr": "Les deux objets représentent un aigle aux ailes éployées et sont de la même période.",
+          "es": "Ambos objetos contienen una representación de un águila con las extendidas que datan de la misma dinastía."
+        },
+        "names": {
+          "ar": "حوض للوضوء.",
+          "en": "Ablutions basin.",
+          "fr": "Cuve à ablutions.",
+          "es": "Pila de abluciones."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/04a71878-7a68-5245-a233-8db5a246d320.jpg"
+      },
+      {
+        "id": "6fb6ea4d-c7c1-56d9-a527-f3139df0a217",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:3",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "Both objects depict figures within arches and are chronologically related.",
+          "fr": "Les deux objets représentent des figures humaines dans des arcs et sont en rapport en termes de chronologie.",
+          "es": "Ambos objetos representan figuras enmarcadas dentro de arcos y están relacionadas cronológicamente."
+        },
+        "names": {
+          "ar": "جزء من إفريز رخامي.",
+          "en": "Section of a marble frieze.",
+          "fr": "Section de frise en marbre.",
+          "es": "Fragmentos de friso de mármol."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/93751273-e0db-5f98-9efe-61d9a3c4dab0.jpg"
+      },
+      {
+        "id": "be324a5a-63a0-50d4-ac98-af5bb7d7c6f1",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pt:Mus01_B:29",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "Both objects depict an eagle with outstretched wings and date to the same dynasty.",
+          "fr": "Les deux objets représentent un aigle aux ailes éployées et datent de la même dynastie.",
+          "es": "Ambos objetos contienen una representación de un águila con las extendidas que datan de la misma dinastía."
+        },
+        "names": {
+          "ar": "شاهدة تزيينية (قطعة).",
+          "en": "Ornamental plaque (fragment).",
+          "fr": "Stèle ornementale (fragment).",
+          "pt": "Placa ornamental (fragmento).",
+          "es": "Fragmento de placa ornamental."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/5a5743a6-a63e-59a4-9387-3afddc2b81dd.jpg"
+      },
+      {
+        "id": "1557e889-e4c0-511e-92f2-cf332ab357cf",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:13",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "Both objects have the same function of burning incense and both depict human figures within arches.",
+          "fr": "Les deux objets ont la même fonction de brûleur d’encens, et tous deux représentent des figures humaines dans des arcs.",
+          "es": "Ambos objetos cumplen la misma función de quemar incienso y ambos contienen representaciones de figuras humanas enmarcadas dentro de arcos."
+        },
+        "names": {
+          "ar": "مبخرة.",
+          "en": "Incense burner.",
+          "fr": "Brûleur d’encens.",
+          "es": "Pebetero."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/d5d45b08-4dfc-507d-a5b4-b47f1bfeb7b2.jpg"
       }
     ],
     "gallery_references": [
@@ -4676,40 +4788,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "32434888-ecb9-5b5b-bdc6-bc81ab4851b0",
-        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:24",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "en": "The palace complex of Topkapı in Istanbul was the seat of the Ottoman sultans, as the Alhambra was for the Nasrids.",
-          "fr": "L’ensemble palatial de Topkapi à Istanbul fut le siège des sultans ottomans, de même que l’Alhambra fut celui",
-          "es": "El conjunto palatino de Topkapi en Estambul fue sede de los sultanes otomanos, como la Alhambra lo fue de los nazaríes."
-        }
-      },
-      {
-        "id": "44db66ac-94d1-513a-affd-eaec477e9022",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:8",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "en": "The Amman Citadel is thought to be a primitive Eastern antecedent of the Alhambra.",
-          "fr": "La citadelle d’Amman est considérée comme un préalable de l’Alhambra en Orient.",
-          "es": "La ciudadela de Ammán está considerada como el primitivo precedente en Oriente de la Alhambra."
-        }
-      },
-      {
-        "id": "56be57e8-2f07-5969-a236-a5ddc30a31cd",
-        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:11",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "en": "This large lamp, a first in Nasrid metalwork, originally hung in the mosque of the Alhambra.",
-          "fr": "Cette grande lampe, chef-d’œuvre de l’art du métal nasride, était suspendue à l’origine dans la mosquée de l’Alhambra.",
-          "es": "Esta gran lámpara, hito de la metalistería nazarí, colgaba originalmente en la mezquita de la Alhambra."
-        }
-      },
-      {
         "id": "71097c2f-9da3-5adb-aa87-3f145ff8eb64",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:es:Mon01:2",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4717,21 +4797,19 @@
           "en": "The concept of city-palace established with Madinat al-Zahra in al-Andalus served as a model for the Alhambra more than three centuries later.",
           "fr": "Le concept de ville-palais instauré par Madinat al-Zahra en al-Andalus a servi de modèle pour l’Alhambra plus de trois siècles plus tard.",
           "es": "El concepto de ciudad-palacio instaurado por Madinat al-Zahra en al-Andalus sirvió de modelo para la Alhambra más de tres siglos después."
-        }
-      },
-      {
-        "id": "a1ecccac-7c93-51a2-925d-06173dfe0ef5",
-        "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:17",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "en": "The simple prisms that make up this squinch from an Algerian palace are thought to be primitive forerunners of the muqarnas of the Alhambra.",
-          "fr": "Les prismes simples qui composent cette trompe d’un palais algérien sont considérés comme les précédents primitifs de l’Alhambra.",
-          "es": "Los simples prismas que componen esta trompa de un palacio argelino se consideran los primitivos antecedentes de los mocárabes de la Alhambra."
-        }
+        },
+        "names": {
+          "ar": "مدينة الزهراء.",
+          "en": "Madinat al-Zahra.",
+          "fr": "Madinat al-Zahira.",
+          "es": "Madinat al-Zahra."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/dfc89d48-57aa-5b60-9110-8f0a9f0d8f7a.jpg"
       },
       {
         "id": "a53029d7-49b5-598b-a2b7-dff9718cec2f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:es:Mon01:26",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4739,10 +4817,39 @@
           "en": "Artists from the Nasrid Kingdom of Granada worked on the construction of the Palace of Pedro I in Seville.",
           "fr": "Des artistes venus du royaume nasride de Grenade ont travaillé à la construction du palais de Pierre Ier à Séville.",
           "es": "En la construcción del palacio de Pedro I en Sevilla trabajaron artistas llegados del reino nazarí de Granada."
-        }
+        },
+        "names": {
+          "ar": "قصر اشبيلية.",
+          "en": "Seville Citadel.",
+          "fr": "Alcázar de Séville.",
+          "es": "Alcázar de Sevilla."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/74eab1a1-6159-5aa1-bed9-10f40d25095b.jpg"
+      },
+      {
+        "id": "44db66ac-94d1-513a-affd-eaec477e9022",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:8",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "The Amman Citadel is thought to be a primitive Eastern antecedent of the Alhambra.",
+          "fr": "La citadelle d’Amman est considérée comme un préalable de l’Alhambra en Orient.",
+          "es": "La ciudadela de Ammán está considerada como el primitivo precedente en Oriente de la Alhambra."
+        },
+        "names": {
+          "ar": "دار الإمارة في قلعة عمّان.",
+          "en": "Citadel of Amman (general view).",
+          "fr": "Citadelle d’Amman.",
+          "es": "Ciudadela de Ammán (conjunto)."
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/6d57f7ed-4023-5b69-9ca0-8c1d3ac88d5f.jpg"
       },
       {
         "id": "c4f183be-6942-575f-9ae0-ce28b3134f1f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:9",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4750,32 +4857,40 @@
           "en": "The muqarnas vaults in this Almohad mosque were developed into the great vaults of the Riyad Palace in the Alhambra.",
           "fr": "Les voûtes de mouqarnas de cette mosquée almohade évoluèrent pour aboutir aux grandes voûtes du palais du Riyad de l’Alhambra.",
           "es": "Las bóvedas de mocárabes de esta mezquita almohade evolucionaron hasta originar las grandes bóvedas del palacio del Riyad en la Alhambra."
-        }
+        },
+        "names": {
+          "ar": "مسجد تنمل.",
+          "en": "Tinmel Mosque.",
+          "fr": "Mosquée de Tinmel.",
+          "es": "Mezquita de Tinmel."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/cfa0f7b1-8985-5002-b516-041e919e3d85.jpg"
       },
       {
-        "id": "d1d438f0-83d2-5fda-b51d-574d3965aaa9",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus02:5",
+        "id": "32434888-ecb9-5b5b-bdc6-bc81ab4851b0",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:24",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "en": "The decoration on this coloured textile is similar to the decoration used on the structures of the Alhambra.",
-          "fr": "La décoration de ce tissu coloré est semblable à celle qui couvre l’architecture de l’Alhambra.",
-          "es": "La decoración de este tejido coloreado es similar a la que recubre la arquitectura de la Alhambra."
-        }
-      },
-      {
-        "id": "ec2c57d8-01b2-5a85-a6b0-e8cf22d03e9a",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:43",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "en": "Its perfect moulding and exquisite decoration suggest that this jar was reserved for palace use in the Alhambra.",
-          "fr": "Avec son modelé parfait et sa décoration exquise, cette jarre a probablement fait partie de la vaisselle réservée à l’enceinte palatiale de l’Alhambra.",
-          "es": "Por su perfecto modelado y su exquisita decoración, quizá este tarro formó parte de la vajilla reservada al ámbito palatino de la Alhambra."
-        }
+          "en": "The palace complex of Topkapı in Istanbul was the seat of the Ottoman sultans, as the Alhambra was for the Nasrids.",
+          "fr": "L’ensemble palatial de Topkapi à Istanbul fut le siège des sultans ottomans, de même que l’Alhambra fut celui",
+          "es": "El conjunto palatino de Topkapi en Estambul fue sede de los sultanes otomanos, como la Alhambra lo fue de los nazaríes."
+        },
+        "names": {
+          "ar": "قصر توبكابي.",
+          "en": "Topkapı Palace.",
+          "fr": "Palais de Topkapı.",
+          "es": "Palacio Topkapı",
+          "tr": "Topkapı Sarayı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/88482ad0-fbcb-552f-84dd-9c4d09d9d66b.jpg"
       },
       {
         "id": "fb0d852c-219c-5753-93b5-9648fdd94679",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4783,7 +4898,96 @@
           "en": "This magnificent dome originally covered a room in the Nasrid Palacio del Partal in the Alhambra.",
           "fr": "Cette magnifique toiture hémisphérique couvrait originellement une salle du palais nasride du Partal de l’Alhambra.",
           "es": "Esta magnífica armadura semiesférica cubría originalmente una sala del palacio nazarí del Partal de la Alhambra."
-        }
+        },
+        "names": {
+          "ar": "قبة من الحمراء.",
+          "de": "Alhambra-Kuppel.",
+          "en": "Alhambra cupola.",
+          "fr": "Coupole de l’Alhambra.",
+          "es": "Cúpula de la Alhambra."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/733fc460-167b-532f-8dc4-364e3688c78f.jpg"
+      },
+      {
+        "id": "a1ecccac-7c93-51a2-925d-06173dfe0ef5",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:17",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "The simple prisms that make up this squinch from an Algerian palace are thought to be primitive forerunners of the muqarnas of the Alhambra.",
+          "fr": "Les prismes simples qui composent cette trompe d’un palais algérien sont considérés comme les précédents primitifs de l’Alhambra.",
+          "es": "Los simples prismas que componen esta trompa de un palacio argelino se consideran los primitivos antecedentes de los mocárabes de la Alhambra."
+        },
+        "names": {
+          "ar": "شُرّافة.",
+          "en": "Merlon.",
+          "fr": "Merlon.",
+          "es": "Merlón."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/82cc544e-c803-5678-a576-fe3af962be98.jpg"
+      },
+      {
+        "id": "56be57e8-2f07-5969-a236-a5ddc30a31cd",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:11",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "This large lamp, a first in Nasrid metalwork, originally hung in the mosque of the Alhambra.",
+          "fr": "Cette grande lampe, chef-d’œuvre de l’art du métal nasride, était suspendue à l’origine dans la mosquée de l’Alhambra.",
+          "es": "Esta gran lámpara, hito de la metalistería nazarí, colgaba originalmente en la mezquita de la Alhambra."
+        },
+        "names": {
+          "ar": "قنديل.",
+          "en": "Lamp.",
+          "fr": "Lampe.",
+          "es": "Lámpara"
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/d946f919-86bf-501c-9c24-d1e8d5fa18ab.jpg"
+      },
+      {
+        "id": "ec2c57d8-01b2-5a85-a6b0-e8cf22d03e9a",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:43",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "Its perfect moulding and exquisite decoration suggest that this jar was reserved for palace use in the Alhambra.",
+          "fr": "Avec son modelé parfait et sa décoration exquise, cette jarre a probablement fait partie de la vaisselle réservée à l’enceinte palatiale de l’Alhambra.",
+          "es": "Por su perfecto modelado y su exquisita decoración, quizá este tarro formó parte de la vajilla reservada al ámbito palatino de la Alhambra."
+        },
+        "names": {
+          "ar": "جرة ذات شكل برميلي.",
+          "en": "*Albarello*\\-shaped *tarro* (jar).",
+          "fr": "Tarro (jarre) en forme d’albarelle.",
+          "es": "Tarro en forma de albarelo"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/7e20c245-bbf3-56dd-a037-a54c30b6683e.jpg"
+      },
+      {
+        "id": "d1d438f0-83d2-5fda-b51d-574d3965aaa9",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus02:5",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "The decoration on this coloured textile is similar to the decoration used on the structures of the Alhambra.",
+          "fr": "La décoration de ce tissu coloré est semblable à celle qui couvre l’architecture de l’Alhambra.",
+          "es": "La decoración de este tejido coloreado es similar a la que recubre la arquitectura de la Alhambra."
+        },
+        "names": {
+          "ar": "نسيج حريري برسوم هندسية.",
+          "en": "Silk textile with geometric pattern.",
+          "fr": "Panneau de tissu à motifs géométriques.",
+          "es": "Tejido de seda con motivos geométricos."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/a854149b-0fc9-5f47-a69d-80e71b585cc1.jpg"
       }
     ],
     "gallery_references": [],
@@ -5118,19 +5322,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "0ba3cb5d-c156-521a-bf55-a6d0e2384ede",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:27",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تعود هذه القطعة للمسجد الأقصى.",
-          "en": "This piece was brought from al-Aqsa Mosque.",
-          "fr": "Pièce transférée de la mosquée al-Aqsa.",
-          "es": "Este artículo fue traído desde la mezquita al-Aqsa."
-        }
-      },
-      {
         "id": "84f6b107-47b2-5cd1-a520-3a4f89856221",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:11",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -5139,22 +5332,19 @@
           "en": "The Umayyad mosque was built in the same period and in the same style as the mosque in al-Haram al-Sharif.",
           "fr": "La Mosquée Omeyyade fut construite à la même époque et dans le même style que différents bâtiments du Haram al-Charif.",
           "es": "La Mezquita Omeya fue construida en el mismo período y en el mismo estilo que la mezquita en Haram al-Sharif."
-        }
-      },
-      {
-        "id": "9cc9092e-917f-5963-aa95-2f593ab99290",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:7",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "عود هذه القطعة للمسجد الأقصى.",
-          "en": "This piece was brought from al-Aqsa Mosque.",
-          "fr": "Pièce transférée de la mosquée al-Aqsa.",
-          "es": "Este artículo fue traído desde la mezquita al-Aqsa."
-        }
+        },
+        "names": {
+          "ar": "الجامع الأموي.",
+          "en": "Umayyad Mosque",
+          "fr": "Mosquée omeyyade.",
+          "es": "Mezquita Omeya."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/c5e8a9ee-39bb-5b61-b368-898365ffcec7.jpg"
       },
       {
         "id": "b3b65730-0a51-56dc-a29d-497a32b57535",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -5163,10 +5353,61 @@
           "en": "This piece was brought from al-Aqsa Mosque.",
           "fr": "Pièce transférée de la mosquée al-Aqsa.",
           "es": "Este artículo fue traído desde la mezquita al-Aqsa."
-        }
+        },
+        "names": {
+          "ar": "شباك جصي معشق بالزجاج الملون.",
+          "en": "Stucco stained-glass window.",
+          "fr": "Fenêtre en stuc à vitrail.",
+          "es": "Vidriera de estuco."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/50e9e469-6ccd-5b98-8496-d0a57104cd75.jpg"
+      },
+      {
+        "id": "9cc9092e-917f-5963-aa95-2f593ab99290",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:7",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "عود هذه القطعة للمسجد الأقصى.",
+          "en": "This piece was brought from al-Aqsa Mosque.",
+          "fr": "Pièce transférée de la mosquée al-Aqsa.",
+          "es": "Este artículo fue traído desde la mezquita al-Aqsa."
+        },
+        "names": {
+          "ar": "دعامة خشبية.",
+          "en": "Wooden beam.",
+          "fr": "Poutre de bois.",
+          "es": "Viga de madera."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/0629673a-9ce7-5dc8-8242-6559545c0e23.jpg"
+      },
+      {
+        "id": "0ba3cb5d-c156-521a-bf55-a6d0e2384ede",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:27",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تعود هذه القطعة للمسجد الأقصى.",
+          "en": "This piece was brought from al-Aqsa Mosque.",
+          "fr": "Pièce transférée de la mosquée al-Aqsa.",
+          "es": "Este artículo fue traído desde la mezquita al-Aqsa."
+        },
+        "names": {
+          "ar": "المصحف المملوكي رقم 7.",
+          "en": "Qur’anic manuscript No. 7.",
+          "fr": "Manuscrit coranique n° 7.",
+          "es": "Manuscrito coránico n.º 7"
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/26e9161c-581a-5600-8635-e1352a18abb7.jpg"
       },
       {
         "id": "dc5f0937-d5aa-54f6-ab26-c328b079d9bf",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:28",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -5175,7 +5416,15 @@
           "en": "This piece was brought from al-Aqsa Mosque.",
           "fr": "Pièce transférée de la mosquée al-Aqsa.",
           "es": "Este artículo fue traído desde la mezquita al-Aqsa."
-        }
+        },
+        "names": {
+          "ar": "مصحف برسباي.",
+          "en": "*Mashaf* (Qur’anic manuscript) of Barsbay.",
+          "fr": "Machaf (manuscrit coranique) de Barsbay.",
+          "es": "Manuscrito coránico *(mashaf)* de Barsbay."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/8948ef92-039f-5c73-a444-2e48c828f578.jpg"
       }
     ],
     "gallery_references": [
@@ -6281,91 +6530,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "13951807-1976-5889-bda1-2525eb1918f4",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:28",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
-          "en": "Built by the same patron (Hisham).",
-          "fr": "Construit par le même mécène (Hicham).",
-          "es": "Construido por el mismo patrocinador (Hisham)."
-        }
-      },
-      {
-        "id": "22d721a5-3840-5af9-8c84-912b213423e2",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:34",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
-          "en": "Built by the same patron (Hisham).",
-          "fr": "Construit par le même mécène (Hicham).",
-          "es": "Construido por el mismo patrocinador (Hisham)."
-        }
-      },
-      {
-        "id": "2845f62e-721b-5562-b2d1-dd922c8f21c6",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:9",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ العثور على القطعة داخل نطاق مواقع التنقيب الأثرية.",
-          "en": "Object found in the course of archaeological excavations at the site.",
-          "fr": "Objet mis au jour au cours de fouilles archéologiques sur le site.",
-          "es": "Objeto encontrado en el transcurso de las excavaciones arqueológicas en el emplazamiento."
-        }
-      },
-      {
-        "id": "44db66ac-94d1-513a-affd-eaec477e9022",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:8",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
-          "en": "Built by the same patron (Hisham).",
-          "fr": "Construit par le même mécène (Hicham).",
-          "es": "Construido por el mismo patrocinador (Hisham)."
-        }
-      },
-      {
-        "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
-          "en": "Built by the same patron (Hisham).",
-          "fr": "Construit par le même mécène (Hicham).",
-          "es": "Construido por el mismo patrocinador (Hisham)."
-        }
-      },
-      {
-        "id": "8473d6b1-ff39-54e8-aa27-a77f671d0068",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:5",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "يُعتقد أنّ هذا التمثال يرجع نسبه لهشام بن عبد الملك, صاحب النصب التذكاري.",
-          "en": "This statue is believed to be the statue of Hisham, the patron of the monument.",
-          "fr": "On pense que cette statue est celle de Hicham, le mécène du palais d’Hallabat.",
-          "es": "Se cree que la estatua representa a Hisham, el patrocinador del palacio de Hellbat."
-        }
-      },
-      {
-        "id": "9905bf41-30f3-505a-84b5-5d1abdf32a88",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:34",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ العثور على القطعة داخل نطاق مواقع التنقيب الأثرية.",
-          "en": "Object found in the course of archaeological excavations at the site.",
-          "fr": "Objet mis au jour au cours de fouilles archéologiques sur le site.",
-          "es": "Objeto encontrado en el transcurso de las excavaciones arqueológicas en el emplazamiento."
-        }
-      },
-      {
         "id": "a32edb8e-fb20-5784-a0b9-a942023390cd",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -6374,10 +6540,103 @@
           "en": "Built by the same patron (Hisham).",
           "fr": "Construit par le même mécène (Hicham).",
           "es": "Construido por el mismo patrocinador (Hisham)."
-        }
+        },
+        "names": {
+          "ar": "قصر الحلابات.",
+          "en": "Qasr al-Hallabat.",
+          "fr": "Qasr al-Hallabat.",
+          "es": "Qasr al-Hallabat"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/8bde7c65-2515-5e09-9e01-7fb6c56a149d.jpg"
+      },
+      {
+        "id": "44db66ac-94d1-513a-affd-eaec477e9022",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:8",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
+          "en": "Built by the same patron (Hisham).",
+          "fr": "Construit par le même mécène (Hicham).",
+          "es": "Construido por el mismo patrocinador (Hisham)."
+        },
+        "names": {
+          "ar": "دار الإمارة في قلعة عمّان.",
+          "en": "Citadel of Amman (general view).",
+          "fr": "Citadelle d’Amman.",
+          "es": "Ciudadela de Ammán (conjunto)."
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/6d57f7ed-4023-5b69-9ca0-8c1d3ac88d5f.jpg"
+      },
+      {
+        "id": "22d721a5-3840-5af9-8c84-912b213423e2",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:34",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
+          "en": "Built by the same patron (Hisham).",
+          "fr": "Construit par le même mécène (Hicham).",
+          "es": "Construido por el mismo patrocinador (Hisham)."
+        },
+        "names": {
+          "ar": "البركة الدائرية في جبل القلعة.",
+          "en": "Citadel of Amman (Water Reservoir).",
+          "fr": "Citadelle d’Amman (réservoir d’eau).",
+          "es": "Aljibe de la ciudadela de Ammán."
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/6a23e9bd-de4b-598b-bd14-9cef6f78286c.jpg"
+      },
+      {
+        "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
+          "en": "Built by the same patron (Hisham).",
+          "fr": "Construit par le même mécène (Hicham).",
+          "es": "Construido por el mismo patrocinador (Hisham)."
+        },
+        "names": {
+          "ar": "خربة المفجر.",
+          "en": "Khirbat al-Mafjar.",
+          "fr": "Khirbat al-Mafjar.",
+          "es": "Jirbat al-Mafyar."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/4ac0cba0-2130-5cf5-94c4-dd7810661e2b.jpg"
+      },
+      {
+        "id": "13951807-1976-5889-bda1-2525eb1918f4",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:28",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ البناء وِفقًا لأمر من نفس الراعي, وهو (هشام بن عبد الملك).",
+          "en": "Built by the same patron (Hisham).",
+          "fr": "Construit par le même mécène (Hicham).",
+          "es": "Construido por el mismo patrocinador (Hisham)."
+        },
+        "names": {
+          "ar": "قصر الحير الغربي.",
+          "en": "Qasr al-Hayr al-Gharbi.",
+          "fr": "Qasr al-Khayr al-Gharbi.",
+          "es": "Qasr al-Hayr al-Garbi."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/41413784-4fa8-542b-b3d0-bf149cc986e8.jpg"
       },
       {
         "id": "a6b5680d-cf96-54cd-a277-33d29b9b9e13",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:35",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -6386,10 +6645,19 @@
           "en": "Built by the same patron (Hisham).",
           "fr": "Construit par le même mécène (Hicham).",
           "es": "Construido por el mismo patrocinador (Hisham)."
-        }
+        },
+        "names": {
+          "ar": "قصر الحير الشرقي.",
+          "en": "Qasr al-Hayr al-Sharqi.",
+          "fr": "Qasr al-Khayr al-Charqi.",
+          "es": "Qasr al-Hayr al-Sharqi."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/3126c8ae-ba97-5422-8c0b-7cd5373b3e97.jpg"
       },
       {
         "id": "c69cb729-5a18-54d1-b7ac-2cfc3ae623ed",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -6398,7 +6666,78 @@
           "en": "Object found in the course of archaeological excavations at the site.",
           "fr": "Objet mis au jour au cours de fouilles archéologiques sur le site.",
           "es": "Objeto encontrado en el transcurso de las excavaciones arqueológicas en el emplazamiento."
-        }
+        },
+        "names": {
+          "ar": "حجر محفور.",
+          "en": "Inscription stone.",
+          "fr": "Pierre votive gravée.",
+          "es": "Piedra con inscripción"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/d069bfe3-7f54-5108-aa2b-b551455b7eb3.jpg"
+      },
+      {
+        "id": "2845f62e-721b-5562-b2d1-dd922c8f21c6",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:9",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ العثور على القطعة داخل نطاق مواقع التنقيب الأثرية.",
+          "en": "Object found in the course of archaeological excavations at the site.",
+          "fr": "Objet mis au jour au cours de fouilles archéologiques sur le site.",
+          "es": "Objeto encontrado en el transcurso de las excavaciones arqueológicas en el emplazamiento."
+        },
+        "names": {
+          "ar": "مبخرة.",
+          "en": "Incense burner.",
+          "fr": "Brûleur d’encens.",
+          "es": "Pebetero"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/35c2239b-fba1-50ca-9738-f5a680fa2518.jpg"
+      },
+      {
+        "id": "9905bf41-30f3-505a-84b5-5d1abdf32a88",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:34",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ العثور على القطعة داخل نطاق مواقع التنقيب الأثرية.",
+          "en": "Object found in the course of archaeological excavations at the site.",
+          "fr": "Objet mis au jour au cours de fouilles archéologiques sur le site.",
+          "es": "Objeto encontrado en el transcurso de las excavaciones arqueológicas en el emplazamiento."
+        },
+        "names": {
+          "ar": "إبريق.",
+          "en": "Jug.",
+          "fr": "Cruche.",
+          "es": "Jarra"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/7327d87e-274f-5fee-a5be-6e0bcfedf7aa.jpg"
+      },
+      {
+        "id": "8473d6b1-ff39-54e8-aa27-a77f671d0068",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:5",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يُعتقد أنّ هذا التمثال يرجع نسبه لهشام بن عبد الملك, صاحب النصب التذكاري.",
+          "en": "This statue is believed to be the statue of Hisham, the patron of the monument.",
+          "fr": "On pense que cette statue est celle de Hicham, le mécène du palais d’Hallabat.",
+          "es": "Se cree que la estatua representa a Hisham, el patrocinador del palacio de Hellbat."
+        },
+        "names": {
+          "ar": "القسم السفلي من تمثال.",
+          "en": "Lower half of a sculpturesque high relief.",
+          "fr": "Moitié inférieure d’un haut-relief.",
+          "es": "Mitad inferior de un altorrelieve."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/43baf1f9-498d-5776-8844-f509c630b641.jpg"
       }
     ],
     "gallery_references": [],
@@ -6633,18 +6972,36 @@
     "media": [],
     "related_items": [
       {
-        "id": "5344782c-fb62-599c-9ef6-3199332425b7",
-        "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:28",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {}
-      },
-      {
         "id": "f89111b0-2414-5c74-8c1e-962fef086b7c",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:2",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
-        "justifications": {}
+        "justifications": {},
+        "names": {
+          "ar": "الجامع الكبير.",
+          "en": "Djama’a al-Kebir (Great Mosque).",
+          "fr": "Grande Mosquée (djamaa el-kebir).",
+          "es": "Mezquita Mayor (Yamaa al-Kabir)."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/c1eef089-1abb-570e-aab5-fd55211bd406.jpg"
+      },
+      {
+        "id": "5344782c-fb62-599c-9ef6-3199332425b7",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:28",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {},
+        "names": {
+          "ar": "الجامع الكبير.",
+          "en": "Djama’a al-Kebir (Great Mosque).",
+          "fr": "Djamaa el-Kebir (Grande Mosquée).",
+          "es": "Mezquita Mayor (Yamaa al-Kabir)."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/01540d4a-6285-5ead-aad4-1824d4b2c104.jpg"
       }
     ],
     "gallery_references": [],
@@ -6962,19 +7319,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "423ba8e5-2a5f-5713-a133-86900cda8eda",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:1",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "يحمل الدينار اسم الخليفة عبد الملك بن مروان باني قبة الصخرة.",
-          "en": "The *dinar* bears the name of Caliph ‘Abd al-Malik ibn Marwan, builder of the Dome of the Rock.",
-          "fr": "Le *dinar* porte le nom du calife Abd al-Malik ibn Marwan, qui fit construire le Dôme du Rocher.",
-          "es": "El dinar porta el nombre del califa Abd al-Malik ibn Marwan, constructor de la Cúpula de la Roca."
-        }
-      },
-      {
         "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -6983,46 +7329,19 @@
           "en": "Part of a complete project which was implemented in the area of al-Haram al-Sharif.",
           "fr": "Élément d’un projet complet réalisé dans la zone du Haram al-Charif.",
           "es": "Parte de un proyecto completo que fue implementado en el área de Haram al-Sharif."
-        }
-      },
-      {
-        "id": "6fb6ea4d-c7c1-56d9-a527-f3139df0a217",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:3",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "أ تعود هذه القطعة للمسجد الأقصى.",
-          "en": "This piece was brought from the Dome of the Rock.",
-          "fr": "Pièce transférée du Dôme du Rocher.",
-          "es": "Este artículo fue traído desde la Cúpula de la Roca."
-        }
-      },
-      {
-        "id": "a0123f90-172b-59e1-9291-e46637556232",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:12",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "عود هذه القطعة للمسجد الأقصى.",
-          "en": "This piece was brought from the Dome of the Rock.",
-          "fr": "Pièce transférée du Dôme du Rocher.",
-          "es": "Este artículo fue traído desde la Cúpula de la Roca."
-        }
-      },
-      {
-        "id": "e1a05d50-90fe-5598-b556-5c2fb0929803",
-        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:23",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تعود هذه القطعة للمسجد الأقصى.",
-          "en": "This piece was brought from the Dome of the Rock.",
-          "fr": "Pièce transférée du Dôme du Rocher.",
-          "es": "Este artículo fue traído desde la Cúpula de la Roca."
-        }
+        },
+        "names": {
+          "ar": "الحرم الشريف.",
+          "en": "Haram al-Sharif (Noble Sanctuary).",
+          "fr": "Al-Haram al-Charif (le Noble Sanctuaire).",
+          "es": "Al-Haram al-Sharif (el Noble Santuario)."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/dc9aa87c-464b-5b43-aff4-60895e4ec60f.jpg"
       },
       {
         "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -7034,7 +7353,71 @@
         }
       },
       {
+        "id": "6fb6ea4d-c7c1-56d9-a527-f3139df0a217",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:3",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "أ تعود هذه القطعة للمسجد الأقصى.",
+          "en": "This piece was brought from the Dome of the Rock.",
+          "fr": "Pièce transférée du Dôme du Rocher.",
+          "es": "Este artículo fue traído desde la Cúpula de la Roca."
+        },
+        "names": {
+          "ar": "جزء من إفريز رخامي.",
+          "en": "Section of a marble frieze.",
+          "fr": "Section de frise en marbre.",
+          "es": "Fragmentos de friso de mármol."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/93751273-e0db-5f98-9efe-61d9a3c4dab0.jpg"
+      },
+      {
+        "id": "a0123f90-172b-59e1-9291-e46637556232",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:12",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "عود هذه القطعة للمسجد الأقصى.",
+          "en": "This piece was brought from the Dome of the Rock.",
+          "fr": "Pièce transférée du Dôme du Rocher.",
+          "es": "Este artículo fue traído desde la Cúpula de la Roca."
+        },
+        "names": {
+          "ar": "سياج معدني.",
+          "en": "Metal grille/enclosure.",
+          "fr": "Grille / clôture en fer.",
+          "es": "Reja metálica."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/0e1ce3ed-c273-50ea-b754-82cedaa7a1d8.jpg"
+      },
+      {
+        "id": "e1a05d50-90fe-5598-b556-5c2fb0929803",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:23",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تعود هذه القطعة للمسجد الأقصى.",
+          "en": "This piece was brought from the Dome of the Rock.",
+          "fr": "Pièce transférée du Dôme du Rocher.",
+          "es": "Este artículo fue traído desde la Cúpula de la Roca."
+        },
+        "names": {
+          "ar": "باب قبة الصخرة.",
+          "en": "Door from the Dome of the Rock.",
+          "fr": "Porte du Dôme du Rocher.",
+          "es": "Puerta de la Cúpula de la Roca."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/062045a9-d8fe-55a9-93bc-09859fca8376.jpg"
+      },
+      {
         "id": "f542a798-8c47-5278-ad25-50059baf16a0",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -7043,7 +7426,37 @@
           "en": "‘Abd al-Malik ordered the construction of the Dome of the Rock and this stone bears his name and the period.",
           "fr": "C’est Abd al-Malik qui fit construire le Dôme du Rocher ; cette pierre porte son nom et indique la période.",
           "es": "Abd al-Malik ordenó la construcción de la Cúpula de la Roca, y este mojón tiene grabado su nombre y el período."
-        }
+        },
+        "names": {
+          "ar": "دليل مسافات.",
+          "en": "Distance marker (milestone).",
+          "fr": "Borne.",
+          "es": "Mojon.",
+          "tr": "Mesafe taşı (Miltaşı)."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/0b6afdff-de04-5cb0-9bf4-ee364ec1a8b4.jpg"
+      },
+      {
+        "id": "423ba8e5-2a5f-5713-a133-86900cda8eda",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:1",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يحمل الدينار اسم الخليفة عبد الملك بن مروان باني قبة الصخرة.",
+          "en": "The *dinar* bears the name of Caliph ‘Abd al-Malik ibn Marwan, builder of the Dome of the Rock.",
+          "fr": "Le *dinar* porte le nom du calife Abd al-Malik ibn Marwan, qui fit construire le Dôme du Rocher.",
+          "es": "El dinar porta el nombre del califa Abd al-Malik ibn Marwan, constructor de la Cúpula de la Roca."
+        },
+        "names": {
+          "ar": "قطعة نقدية.",
+          "en": "Coin.",
+          "fr": "Pièce de monnaie.",
+          "es": "Dinar."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/7e092ac2-f1ee-581b-8d0f-b3e1f3ea106d.jpg"
       }
     ],
     "gallery_references": [
@@ -7459,23 +7872,37 @@
     "related_items": [
       {
         "id": "255d46e7-702d-567d-a268-09af7f2f4b6d",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:BAR:at:Mon11:37",
         "project_id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
         "in_package": false,
         "justifications": {
           "de": "Der beliebte Künstler Bartolomeo Altomonte, der häufig dieselben religiösen Themen behandeln musste, verwendete oder variierte oft Entwürfe seines Vaters oder von sich selbst.",
           "en": "The popular artist Bartolomeo Altomonte who often had to deal with the same religious topics sometimes used and varied designs done by his father or by himself."
-        }
+        },
+        "names": {
+          "de": "Ehemalige Stiftskirche Spital am Pyhrn  \nPfarrkirche Maria Himmelfahrt Spital am Pyhrn",
+          "en": "Former Monastery Church Spital am Pyhrn  \nParish Church dedicated to the Ascension of Maria Spital am Pyhrn"
+        },
+        "country_id": "aut",
+        "image": "https://inventory.metanull.eu/pub/7ee2cfa6-8ec0-5ef8-90d9-135887501306.jpg"
       },
       {
         "id": "82548e9a-a709-5f7b-95e4-7a24e41f67b8",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:BAR:at:Mon11:39",
         "project_id": "76eaf6c2-8025-53bc-9e39-106803a3917e",
         "in_package": false,
         "justifications": {
           "de": "Da in Stift Wilhering beinahe dieselben Künstler gearbeitet haben, ist es sehr interessant, die Kirchenfassaden, die Grundrisse, die Fresken und die Altargemälde zu vergleichen.",
           "en": "As in Stift Wilhering almost the same artists were working it is most interesting to compare the church´s facades, the building plans, the fresco-paintings and the altar-paintings."
-        }
+        },
+        "names": {
+          "de": "Stiftskirche Wilhering  \nStiftskirche der Zisterzienser in Wilhering",
+          "en": "Wilhering Abbey Church  \nCistercian Abbey Church in Wilhering"
+        },
+        "country_id": "aut",
+        "image": "https://inventory.metanull.eu/pub/aa89f810-1406-57a0-b5f1-f014e16ce7fb.jpg"
       }
     ],
     "gallery_references": [],
@@ -7767,40 +8194,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "153c5ddb-dd1d-5e3c-9e80-de0b66684f95",
-        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_C:4",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "en": "The primitive pulpit of the Andalusian Mosque allows us to imagine how the one made for the Great Mosque of Córdoba might have looked.",
-          "fr": "Le minbar – d’origine – de la mosquée des Andalous donne une idée de la décoration de celui qui fut fabriqué pour la mosquée de Cordoue au Xe siècle.",
-          "es": "El primitivo *minbar* de la mezquita de los Andaluces permite imaginar cómo pudo ser la decoración del fabricado para la mezquita de Córdoba en el s. X."
-        }
-      },
-      {
-        "id": "824bc44a-ecba-5266-8efa-c68c70d08dec",
-        "backward_compatibility": "mwnf3:monuments:ISL:tn:Mon01:2",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "en": "The Great Mosques of Kairouan and Córdoba were the most venerated sanctuaries of the Muslim West.",
-          "fr": "La Grande Mosquée de Kairouan et celle de Cordoue furent les sanctuaires les plus vénérés de l’Occident musulman.",
-          "es": "La mezquita mayor de Kairuán y la de Córdoba fueron los santuarios más venerables del Occidente musulmán."
-        }
-      },
-      {
-        "id": "84f6b107-47b2-5cd1-a520-3a4f89856221",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:11",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "en": "The superposition of two arcades in the naves of the Great Mosque of Córdoba was used first in the mosque of Damascus.",
-          "fr": "Les élévations de la mosquée de Damas préfigurent la superposition des deux arches dans les nefs de la mosquée de Cordoue.",
-          "es": "En los alzados de la mezquita de Damasco está el antecedente de la superposición de dos arquerías en las naves de la mezquita cordobesa."
-        }
-      },
-      {
         "id": "afc571f4-5986-5e46-b1ec-3dde40394350",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -7808,21 +8203,39 @@
           "en": "The Egyptian al-Azhar Mosque imitated and developed the ‘T’ layout first used in the Great Mosque of Córdoba using pieced vaults.",
           "fr": "La mosquée égyptienne al-Azhar imita et développa le plan en “T” créé auparavant dans celle de Cordoue au moyen de voûtes à lucarnes.",
           "es": "La mezquita egipcia de al-Azhar imitó y desarrolló el esquema de planta en “T” creado antes en la de Córdoba mediante bóvedas lucernarios."
-        }
+        },
+        "names": {
+          "ar": "الجـــــامع الأزهر.",
+          "en": "Mosque of al-Azhar.",
+          "fr": "Mosquée al-Azhar.",
+          "es": "Mezquita de al-Azhar."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/2a5d554d-5a67-5e7d-bb88-321114e733dd.jpg"
       },
       {
-        "id": "c8611ac1-8c86-5516-902f-55987d9022e3",
-        "backward_compatibility": "mwnf3:objects:ISL:pt:Mus01_B:22",
+        "id": "eb797dee-46d6-5927-9b28-91cd43374b40",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "en": "This Portuguese capital dates to the time of the Caliphate, when the artistic splendour of the Great Mosque of Córdoba was at its peak.",
-          "fr": "Ce chapiteau portugais est daté de l’époque califale, l’apogée de la splendeur artistique de la mosquée de Cordoue.",
-          "es": "Este capitel portugués está fechado en época califal, el momento de máximo esplendor artístico de la mezquita de Córdoba."
-        }
+          "en": "Almohad minarets such as this one followed the prototype of the minaret of the Great Mosque of Córdoba, now hidden by the bell tower.",
+          "fr": "Les minarets almohades, comme celui de la Koutoubiya, suivirent le prototype de minaret de la mosquée de Cordoue, aujourd’hui occulté par la tour-clocher.",
+          "es": "Los alminares almohades, como este de la Kutubiyya, siguieron el prototipo de alminar de la mezquita de Córdoba, hoy oculto por la torre campanario."
+        },
+        "names": {
+          "ar": "مسجد الكتبية.",
+          "en": "Kutubiya Mosque.",
+          "fr": "Mosquée Koutoubiya.",
+          "es": "Mezquita Kutubiya."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/f7e00ea7-228d-5992-8cd2-d658e8e6a8be.jpg"
       },
       {
         "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -7833,18 +8246,48 @@
         }
       },
       {
-        "id": "eb797dee-46d6-5927-9b28-91cd43374b40",
-        "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:4",
+        "id": "84f6b107-47b2-5cd1-a520-3a4f89856221",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:11",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "en": "Almohad minarets such as this one followed the prototype of the minaret of the Great Mosque of Córdoba, now hidden by the bell tower.",
-          "fr": "Les minarets almohades, comme celui de la Koutoubiya, suivirent le prototype de minaret de la mosquée de Cordoue, aujourd’hui occulté par la tour-clocher.",
-          "es": "Los alminares almohades, como este de la Kutubiyya, siguieron el prototipo de alminar de la mezquita de Córdoba, hoy oculto por la torre campanario."
-        }
+          "en": "The superposition of two arcades in the naves of the Great Mosque of Córdoba was used first in the mosque of Damascus.",
+          "fr": "Les élévations de la mosquée de Damas préfigurent la superposition des deux arches dans les nefs de la mosquée de Cordoue.",
+          "es": "En los alzados de la mezquita de Damasco está el antecedente de la superposición de dos arquerías en las naves de la mezquita cordobesa."
+        },
+        "names": {
+          "ar": "الجامع الأموي.",
+          "en": "Umayyad Mosque",
+          "fr": "Mosquée omeyyade.",
+          "es": "Mezquita Omeya."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/c5e8a9ee-39bb-5b61-b368-898365ffcec7.jpg"
+      },
+      {
+        "id": "824bc44a-ecba-5266-8efa-c68c70d08dec",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tn:Mon01:2",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "The Great Mosques of Kairouan and Córdoba were the most venerated sanctuaries of the Muslim West.",
+          "fr": "La Grande Mosquée de Kairouan et celle de Cordoue furent les sanctuaires les plus vénérés de l’Occident musulman.",
+          "es": "La mezquita mayor de Kairuán y la de Córdoba fueron los santuarios más venerables del Occidente musulmán."
+        },
+        "names": {
+          "ar": "جامع القيروان الكبير.",
+          "en": "Great Mosque of Kairouan.",
+          "fr": "Grande Mosquée de Kairouan.",
+          "es": "Mezquita Mayor."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/7e6bfc26-ba57-5b2f-8e26-6c49bf80a4d3.jpg"
       },
       {
         "id": "fc496894-497a-5358-b6b4-2e9135336e42",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:39",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -7852,10 +8295,60 @@
           "en": "This Jordanian mosaic is an example of the work that decorated Muslim homes and the Great Mosque of Córdoba.",
           "fr": "Ce sol de l’église de Masouh en Jordanie est un exemple du travail de la mosaïque dans les édifices musulmans. La mosquée de Cordoue en fut également ornée.",
           "es": "Este mosaico jordano es un ejemplo de labor musivaria en edificios musulmanes, con la que también se decoró la mezquita de Córdoba."
-        }
+        },
+        "names": {
+          "ar": "فسيفساء مسوح.",
+          "en": "The church at Massuh mosaic.",
+          "fr": "Mosaïque de l’église de Masouh.",
+          "es": "Mosaico de la iglesia de Massuh"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/72e16473-2d23-5863-8cd1-124e37bd01fd.jpg"
+      },
+      {
+        "id": "153c5ddb-dd1d-5e3c-9e80-de0b66684f95",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_C:4",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "The primitive pulpit of the Andalusian Mosque allows us to imagine how the one made for the Great Mosque of Córdoba might have looked.",
+          "fr": "Le minbar – d’origine – de la mosquée des Andalous donne une idée de la décoration de celui qui fut fabriqué pour la mosquée de Cordoue au Xe siècle.",
+          "es": "El primitivo *minbar* de la mezquita de los Andaluces permite imaginar cómo pudo ser la decoración del fabricado para la mezquita de Córdoba en el s. X."
+        },
+        "names": {
+          "ar": "عناصر منبر.",
+          "en": "Parts of a *minbar*.",
+          "fr": "Éléments de minbar.",
+          "es": "Elementos de *minbar*."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/2c290d7e-800b-5a73-a822-d48fa0fd870d.jpg"
+      },
+      {
+        "id": "c8611ac1-8c86-5516-902f-55987d9022e3",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:pt:Mus01_B:22",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "This Portuguese capital dates to the time of the Caliphate, when the artistic splendour of the Great Mosque of Córdoba was at its peak.",
+          "fr": "Ce chapiteau portugais est daté de l’époque califale, l’apogée de la splendeur artistique de la mosquée de Cordoue.",
+          "es": "Este capitel portugués está fechado en época califal, el momento de máximo esplendor artístico de la mezquita de Córdoba."
+        },
+        "names": {
+          "ar": "تاجُ عمود.",
+          "en": "Capital.",
+          "fr": "Chapiteau.",
+          "pt": "Capitel",
+          "es": "Capitel."
+        },
+        "country_id": "prt",
+        "image": "https://inventory.metanull.eu/pub/d78b9033-5119-5f94-bdb5-3ee12cd662bb.jpg"
       },
       {
         "id": "ff3db0a2-4bc7-576e-bbd7-b0882e3ea217",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus03:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -7863,7 +8356,15 @@
           "en": "Astrolabes like this one were used to determine prayer times in the Great Mosque of Córdoba.",
           "fr": "Ce modèle d’astrolabe établissait les heures de prière dans la mosquée de Cordoue.",
           "es": "Astrolabios como este establecerían las horas de oración en la mezquita de Córdoba."
-        }
+        },
+        "names": {
+          "ar": "إسطرلاب.",
+          "en": "Astrolabe.",
+          "fr": "Astrolabe.",
+          "es": "Astrolabio."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/0b09c13f-23c2-553b-aaf0-7b3c7633965e.jpg"
       }
     ],
     "gallery_references": [],
@@ -9537,91 +10038,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "541b09ae-62ac-5f8d-bf31-c3e32a645e1e",
-        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:1",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "هذه القطعة النقدية المكتشفة في المغرب صكت في إفريقيا (تونس ) خلال السنوات الأولى لدخول الإسلام في المغرب.",
-          "en": "Discovered in Morocco, this coin was minted in Ifriqiya (Tunisia) during the early years of Islamicisation in Morocco.",
-          "fr": "Découverte au Maroc, cette pièce de monnaie a été frappée en Ifriqiya (Tunisie) durant les premières années de l’islamisation du Maroc.",
-          "es": "Esta moneda, descubierta en Marruecos, se acuñó en Ifriqiya (Túnez) durante los primeros años de islamización en Marruecos."
-        }
-      },
-      {
-        "id": "620147b9-073c-55b0-9874-1ee32624af18",
-        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:3",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "كتبت بالخط كوفي مغربي خلال الفترة الإدريسية (عهد الأدارسة).",
-          "en": "Written in Maghrebian *kufic* script during the Idrisid period.",
-          "fr": "Écrit en coufique maghrébin à l’époque idrisside.",
-          "es": "Escrito en cúfico magrebí durante el periodo idrisí."
-        }
-      },
-      {
-        "id": "6a08e982-ac48-53be-af6e-40c671acdc1e",
-        "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:20",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "الجزء القديم من الضريح كان مكان إقامة و عبادة لمؤسس مدينة فاس.",
-          "en": "The old part of the mausoleum was the place of residence and worship for the founder of Fez.",
-          "fr": "La partie ancienne du mausolée (le horm) fut le lieu de résidence et de prière du fondateur de Fès.",
-          "es": "La parte antigua del mausoleo era la residencia y lugar de oración del fundador de Fez."
-        }
-      },
-      {
-        "id": "7071b851-7d36-5699-a554-c47d6c0caa29",
-        "backward_compatibility": "mwnf3:monuments:ISL:tn:Mon01:1",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "المكان الأكثر قدسية في تونس يعود أصله للأغلبيين / العباسيين هو معاصر لمسجد القرويين.",
-          "en": "The most prestigious sanctuary in Tunis, of Aghlabid/Abbasid origin, is contemporary to the Qarawiyyin.",
-          "fr": "Le plus prestigieux sanctuaire de Tunis, d’origine aghlabide/abbasside, est contemporain de la Qaraouiyine.",
-          "es": "El santuario más prestigioso en Túnez capital, es de origen aglabí o abbasí y contemporáneo a Qarawiyyin."
-        }
-      },
-      {
-        "id": "70e81fc7-992c-56d9-a3b4-5af8b1052c23",
-        "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:6",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "مثال عن منبر مستخدم من قبل الإمام خلال صلاة الجمعة في المساجد الكبيرة مثل القرويين.",
-          "en": "An example of a pulpit used by the *imam* during Friday prayers at great mosques such as the Qarawiyyin.",
-          "fr": "Le minbar est utilisé par l’imam lors du prêche du Vendredi dans les mosquées cathédrales comme la Qaraouiyine.",
-          "es": "Ejemplo de un púlpito utilizado por el imam durante la oración del viernes en grandes mezquitas como la de Qarawiyin."
-        }
-      },
-      {
-        "id": "84f6b107-47b2-5cd1-a520-3a4f89856221",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:11",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "بشكل مخالف للتقليد المغربي فإن  صحون مسجد القرويين ليست متعامدة ولكن متوازية كما في الشرق . أدق مثال لهذا هو الجامع الكبير في دمشق.",
-          "en": "Contrary to Maghrebian tradition, the naves of the Qarawiyyin are not perpendicular but parallel, as in the East. The finest example of this is the Great Mosque of Damascus.",
-          "fr": "Contrairement à la tradition maghrébine, les nefs de la Qaraouiyine sont, non pas perpendiculaires, mais parallèles, comme en Orient, dont le fleuron est la Grande Mosquée de Damas",
-          "es": "Contrario a la tradición magrebí, las naves de Qarawiyyin son paralelas como en el Este. La gran mezquita de Damasco es el ejemplo más refinado."
-        }
-      },
-      {
-        "id": "88669f64-b1b2-5647-abdf-3d094a3e4c59",
-        "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:2",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "مسجد أنشئ خلال نفس الفترة من قبل أخت مؤسس مسجد القرويين.",
-          "en": "Mosque founded during the same period by the sister of the founder of the Qarawiyyin.",
-          "fr": "Mosquée fondée à la même époque par la sœur de la fondatrice de la Qaraouiyine.",
-          "es": "Esta mezquita fue fundada durante el mismo periodo por la hermana del fundador de la de Qarawiyyin."
-        }
-      },
-      {
         "id": "afc571f4-5986-5e46-b1ec-3dde40394350",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -9630,10 +10048,40 @@
           "en": "The mosques had similar destinies: initially modest places of worship, over the centuries they became important centres of learning and of spirituality.",
           "fr": "La Qaraouiyine et al-Azhar ont eu des destins similaires : modestes lieux de prière au départ, elles sont devenues, au fil des siècles, deux hauts lieux du savoir et de la spiritualité, l’un au Maghreb, l’autre au Machrek.",
           "es": "Mezquitas de destino similar: lugares de oración modestos que, con los siglos, se volvieron importantes centros de aprendizaje y espiritualidad."
-        }
+        },
+        "names": {
+          "ar": "الجـــــامع الأزهر.",
+          "en": "Mosque of al-Azhar.",
+          "fr": "Mosquée al-Azhar.",
+          "es": "Mezquita de al-Azhar."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/2a5d554d-5a67-5e7d-bb88-321114e733dd.jpg"
+      },
+      {
+        "id": "88669f64-b1b2-5647-abdf-3d094a3e4c59",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:2",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "مسجد أنشئ خلال نفس الفترة من قبل أخت مؤسس مسجد القرويين.",
+          "en": "Mosque founded during the same period by the sister of the founder of the Qarawiyyin.",
+          "fr": "Mosquée fondée à la même époque par la sœur de la fondatrice de la Qaraouiyine.",
+          "es": "Esta mezquita fue fundada durante el mismo periodo por la hermana del fundador de la de Qarawiyyin."
+        },
+        "names": {
+          "ar": "مسجد الأندلسيين.",
+          "en": "Andalusian Mosque.",
+          "fr": "Mosquée des Andalous.",
+          "es": "Mezquita de los Andalusíes."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/0a9b6211-ba5b-5ea4-92b6-b975a6795062.jpg"
       },
       {
         "id": "c8dbcf02-342b-5fc8-bb35-85f68f7406dd",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -9642,10 +10090,124 @@
           "en": "In the AH 5th / AD 11th century, the Almoravids added to the Qarawiyyin a *mihrab* and decorative domes in a style borrowed from the Koubba.",
           "fr": "Au Ve siècle H (XIe siècle J.-C.), les Almoravides ont doté la mosquée Qaraouiyine d’un mihrab, de coupoles et d’éléments décoratifs empruntés au même registre que celui de la koubba.",
           "es": "En el siglo V A. H. / XI d. C., los almorávides le añadieron al Qarawiyyin un mihrab y cúpulas decorativas en un estilo Qubba que se tomó prestado."
-        }
+        },
+        "names": {
+          "ar": "القبة المرابطية.",
+          "en": "Almoravid Koubba.",
+          "fr": "Koubba almoravide.",
+          "es": "*Qubba* almorávide."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/487209da-e1c3-538b-ae22-ca903d601bfa.jpg"
+      },
+      {
+        "id": "6a08e982-ac48-53be-af6e-40c671acdc1e",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:20",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "الجزء القديم من الضريح كان مكان إقامة و عبادة لمؤسس مدينة فاس.",
+          "en": "The old part of the mausoleum was the place of residence and worship for the founder of Fez.",
+          "fr": "La partie ancienne du mausolée (le horm) fut le lieu de résidence et de prière du fondateur de Fès.",
+          "es": "La parte antigua del mausoleo era la residencia y lugar de oración del fundador de Fez."
+        },
+        "names": {
+          "ar": "ضريح مولاي إدريس.",
+          "en": "Mulay Idris Mausoleum.",
+          "fr": "Mausolée Moulay Idriss.",
+          "es": "Mausoleo de Mulay Idris."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/ca85e9d9-55f7-5885-ac19-af9e7db21843.jpg"
+      },
+      {
+        "id": "84f6b107-47b2-5cd1-a520-3a4f89856221",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:11",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "بشكل مخالف للتقليد المغربي فإن  صحون مسجد القرويين ليست متعامدة ولكن متوازية كما في الشرق . أدق مثال لهذا هو الجامع الكبير في دمشق.",
+          "en": "Contrary to Maghrebian tradition, the naves of the Qarawiyyin are not perpendicular but parallel, as in the East. The finest example of this is the Great Mosque of Damascus.",
+          "fr": "Contrairement à la tradition maghrébine, les nefs de la Qaraouiyine sont, non pas perpendiculaires, mais parallèles, comme en Orient, dont le fleuron est la Grande Mosquée de Damas",
+          "es": "Contrario a la tradición magrebí, las naves de Qarawiyyin son paralelas como en el Este. La gran mezquita de Damasco es el ejemplo más refinado."
+        },
+        "names": {
+          "ar": "الجامع الأموي.",
+          "en": "Umayyad Mosque",
+          "fr": "Mosquée omeyyade.",
+          "es": "Mezquita Omeya."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/c5e8a9ee-39bb-5b61-b368-898365ffcec7.jpg"
+      },
+      {
+        "id": "7071b851-7d36-5699-a554-c47d6c0caa29",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tn:Mon01:1",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "المكان الأكثر قدسية في تونس يعود أصله للأغلبيين / العباسيين هو معاصر لمسجد القرويين.",
+          "en": "The most prestigious sanctuary in Tunis, of Aghlabid/Abbasid origin, is contemporary to the Qarawiyyin.",
+          "fr": "Le plus prestigieux sanctuaire de Tunis, d’origine aghlabide/abbasside, est contemporain de la Qaraouiyine.",
+          "es": "El santuario más prestigioso en Túnez capital, es de origen aglabí o abbasí y contemporáneo a Qarawiyyin."
+        },
+        "names": {
+          "ar": "جامع الزيتونة الكبير.",
+          "en": "Great Mosque of Zaytuna.",
+          "fr": "Grande Mosquée Zitouna.",
+          "es": "Mezquita Mayor el-Zituna."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/463eaf17-6c31-5fc6-aca9-36adea90bad8.jpg"
+      },
+      {
+        "id": "70e81fc7-992c-56d9-a3b4-5af8b1052c23",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:6",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "مثال عن منبر مستخدم من قبل الإمام خلال صلاة الجمعة في المساجد الكبيرة مثل القرويين.",
+          "en": "An example of a pulpit used by the *imam* during Friday prayers at great mosques such as the Qarawiyyin.",
+          "fr": "Le minbar est utilisé par l’imam lors du prêche du Vendredi dans les mosquées cathédrales comme la Qaraouiyine.",
+          "es": "Ejemplo de un púlpito utilizado por el imam durante la oración del viernes en grandes mezquitas como la de Qarawiyin."
+        },
+        "names": {
+          "ar": "منبر.",
+          "en": "Prayer pulpit (*minbar*).",
+          "fr": "Chaire à prêcher (minbar).",
+          "es": "Púlpito *(minbar)*."
+        },
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/325522fb-c4b9-50fc-b6cf-c51c752d2fc6.jpg"
+      },
+      {
+        "id": "541b09ae-62ac-5f8d-bf31-c3e32a645e1e",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:1",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "هذه القطعة النقدية المكتشفة في المغرب صكت في إفريقيا (تونس ) خلال السنوات الأولى لدخول الإسلام في المغرب.",
+          "en": "Discovered in Morocco, this coin was minted in Ifriqiya (Tunisia) during the early years of Islamicisation in Morocco.",
+          "fr": "Découverte au Maroc, cette pièce de monnaie a été frappée en Ifriqiya (Tunisie) durant les premières années de l’islamisation du Maroc.",
+          "es": "Esta moneda, descubierta en Marruecos, se acuñó en Ifriqiya (Túnez) durante los primeros años de islamización en Marruecos."
+        },
+        "names": {
+          "ar": "دينار (سوليدوس).",
+          "en": "*Dinar* (*solidus*).",
+          "fr": "Dinar (solidus).",
+          "es": "Dinar (*solidus*)."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/f29ea04c-74e8-5657-93dc-461df36035c0.jpg"
       },
       {
         "id": "feb05415-c114-5cb2-91ec-a718e42d10ce",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:2",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -9654,7 +10216,36 @@
           "en": "Issued in Ouatit (Fez region) during the reign of Idris II (AH 188–213 / AD 803–29).",
           "fr": "Émis à Ouatit (région de Fès) durant le règne d’Idriss II (188-213 H / 803-829 J.-C.).",
           "es": "Moneda emitida en Ouatit (región de Fez) durante el reinado de Idris II (188–213 A. H. / 803–29 d. C.)."
-        }
+        },
+        "names": {
+          "ar": "درهم.",
+          "en": "*Dirham*.",
+          "fr": "Dirham.",
+          "es": "Dirham."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/0eae48a0-8036-570d-b607-953ee6ffec61.jpg"
+      },
+      {
+        "id": "620147b9-073c-55b0-9874-1ee32624af18",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:3",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "كتبت بالخط كوفي مغربي خلال الفترة الإدريسية (عهد الأدارسة).",
+          "en": "Written in Maghrebian *kufic* script during the Idrisid period.",
+          "fr": "Écrit en coufique maghrébin à l’époque idrisside.",
+          "es": "Escrito en cúfico magrebí durante el periodo idrisí."
+        },
+        "names": {
+          "ar": "قرآن.",
+          "en": "Qur’an.",
+          "fr": "Coran.",
+          "es": "Corán."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/3a87e85e-034d-5734-a756-1bbe72118464.jpg"
       }
     ],
     "gallery_references": [
@@ -10471,6 +11062,7 @@
     "related_items": [
       {
         "id": "fa6d29c2-c6f8-50f2-8dc0-8cb061d97188",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:7",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -10479,10 +11071,19 @@
           "en": "It was built by the same builder, Amir Tankaz al-Nasiri.",
           "fr": "Même constructeur, l’émir Tankaz al-Nasiri.",
           "es": "Fue construido por el mismo constructor, emir Tankaz al-Nasiri."
-        }
+        },
+        "names": {
+          "ar": "المدرسة التنكزية.",
+          "en": "Madrasa Tankaziyya.",
+          "fr": "Madrasa al-Tankaziyya.",
+          "es": "Madrasa Tankaziyya"
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/7ca77426-8352-550c-b9e4-14e947d6d63b.jpg"
       },
       {
         "id": "fc210313-c572-52b3-ab9c-6ec080f0812a",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pa:Mus01:25",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -10491,7 +11092,15 @@
           "en": "It was donated by the builder of the market, Amir Tankaz al-Nasiri.",
           "fr": "Legs du constructeur du marché, l’émir Tankaz al-Nasiri.",
           "es": "Fue donado por el constructor del mercado, emir Tankaz al-Nasiri."
-        }
+        },
+        "names": {
+          "ar": "مشكاة الحرم الإبراهيمي.",
+          "en": "Oil lamp.",
+          "fr": "Lampe à huile.",
+          "es": "Lámpara."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/3ad6bf78-0289-5969-9d5a-4389bb862798.jpg"
       }
     ],
     "gallery_references": [

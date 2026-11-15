@@ -196,31 +196,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "0ee82313-3b00-5065-9b57-8b032c634961",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_D:36",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "هذا مثال عن نموذج أولي فاطمي يستخدم عادة في منطقة بلاد الشام( مصر ، فلسطين و سوريا ) خلال الحملات الصليبية.",
-          "en": "This is an example of the Fatimid prototype commonly used in the region of the Levant (Egypt, Palestine and Syria) during the Crusades.",
-          "fr": "Cette pièce d’or est un exemple du prototype fatimide couramment utilisé dans la région du Levant (Égypte, Palestine et Syrie) durant les Croisades.",
-          "es": "Este es un ejemplo del prototipo fatimí utilizado comúnmente en la región del levante Mediterráneo (Egipto, Palestina y Siria) durante Las Cruzadas."
-        }
-      },
-      {
-        "id": "5702c937-55b7-5f65-adc4-2d6ddc8a7f83",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:42",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "هذه القطع النقدية الصليبية صكت بعد نحو سبعين عاما من إصدار صلاح الدين للدينار.",
-          "en": "These Crusader coins were minted some 70 years after Saladin issued the dinar.",
-          "fr": "Ces pièces franques ont été frappées quelque soixante-dix ans après que Saladin eut émis le dinar.",
-          "es": "Estas monedas de Las Cruzadas fueron acuñadas alrededor de 70 años después de que Saladino expidiera el dinar."
-        }
-      },
-      {
         "id": "6bbbcf07-40bd-5762-b33a-6bc832cfdf78",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:29",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -238,6 +215,32 @@
         },
         "country_id": "jor",
         "image": "https://inventory.metanull.eu/pub/bdbcb7de-24eb-529c-879f-c3ad6ccb403c.jpg"
+      },
+      {
+        "id": "0ee82313-3b00-5065-9b57-8b032c634961",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_D:36",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "هذا مثال عن نموذج أولي فاطمي يستخدم عادة في منطقة بلاد الشام( مصر ، فلسطين و سوريا ) خلال الحملات الصليبية.",
+          "en": "This is an example of the Fatimid prototype commonly used in the region of the Levant (Egypt, Palestine and Syria) during the Crusades.",
+          "fr": "Cette pièce d’or est un exemple du prototype fatimide couramment utilisé dans la région du Levant (Égypte, Palestine et Syrie) durant les Croisades.",
+          "es": "Este es un ejemplo del prototipo fatimí utilizado comúnmente en la región del levante Mediterráneo (Egipto, Palestina y Siria) durante Las Cruzadas."
+        }
+      },
+      {
+        "id": "5702c937-55b7-5f65-adc4-2d6ddc8a7f83",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:42",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "هذه القطع النقدية الصليبية صكت بعد نحو سبعين عاما من إصدار صلاح الدين للدينار.",
+          "en": "These Crusader coins were minted some 70 years after Saladin issued the dinar.",
+          "fr": "Ces pièces franques ont été frappées quelque soixante-dix ans après que Saladin eut émis le dinar.",
+          "es": "Estas monedas de Las Cruzadas fueron acuñadas alrededor de 70 años después de que Saladino expidiera el dinar."
+        }
       }
     ],
     "gallery_references": [
@@ -374,19 +377,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "0ee82313-3b00-5065-9b57-8b032c634961",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_D:36",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "هذا مثال عن نمط أولي فاطمي الذي تعتمد عليه القطع النقدية الأيوبية.",
-          "en": "This is an example of the Fatimid prototype on which the Ayyubid coin is based.",
-          "fr": "Ceci est un exemple du prototype fatimide sur lequel la pièce ayyoubide est basée.",
-          "es": "Este es un ejemplo de un prototipo fatimí en el que se basa esta moneda ayubí."
-        }
-      },
-      {
         "id": "23643565-2f67-5fbb-a44a-abd9cfd3771f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:20",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -406,59 +398,29 @@
         "image": "https://inventory.metanull.eu/pub/13bad7f2-f146-5e50-a727-819d5f5dc79c.jpg"
       },
       {
-        "id": "285a5515-b0ba-5597-a7d7-017f779ad7ca",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:29",
+        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "en": "The same Ayyubid ruler who minted this coin, Saladin, also restored the Great Umayyad Mosque, as commemorated by this marble panel.",
-          "fr": "Le même souverain ayyoubide qui fit frapper cette pièce, Saladin, restaura également la Grande Mosquée omeyyade, ainsi que le commémore ce panneau de marbre.",
-          "es": "El mismo gobernador ayubí que acuñó esta moneda, Saladino, también restauró la Gran Mezquita Omeya, como conmemora este panel de mármol."
+          "ar": "المحراب في المسجد الأقصى المقدس الذي أمر ببنائه  صلاح الدين يعود لنفس العام  الذي تم فيه الاحتفال بتحرير القدس.",
+          "en": "The mihrab in the venerated al-Aqsa Mosque was commissioned by Saladin in the same year, celebrating the liberation of Jerusalem.",
+          "fr": "Le mihrab de la très vénérée mosquée al-Aqsa fut commandité par Saladin la même année pour célébrer la libération de Jérusalem.",
+          "es": "El mihrab en la venerada mezquita de al-Aqsa fue encargado por Saladino en el mismo año, para la celebración de la liberación de Jerusalén."
         },
         "names": {
-          "ar": "لوح رخامي.",
-          "en": "Marble panel.",
-          "fr": "Panneau de marbre.",
-          "es": "Lápida de mármol.",
-          "se": "Marmorpanel."
+          "ar": "الجامع الاقصى.",
+          "en": "Aqsa Mosque.",
+          "fr": "Mosquée al-Aqsa.",
+          "es": "Mezquita al-Aqsa."
         },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/b3e1d56f-9e14-57d0-a345-0d9da6f022cc.jpg"
-      },
-      {
-        "id": "2c533f45-08f6-5fae-8ad7-6634c0b3f6b0",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:36",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "بالإضافة لصك النقد بنى صلاح الدين خانات  مثل الحصون لضمان استمرار التجارة و السفر.",
-          "en": "In addition to minting coins, Saladin constructed fortress-like caravanserais to ensure the continuity of commerce and travel.",
-          "fr": "En plus de frapper de la monnaie, Saladin fit construire des caravansérails ressemblant à des forteresses pour assurer la pérennité des transports et du commerce.",
-          "es": "Además de acuñar las monedas, Saladino construyó caravasares como recintos amurallados para garantizar la continuidad del comercio y los viajes."
-        },
-        "names": {
-          "ar": "خان العروس.",
-          "en": "Khan al-'Arus.",
-          "fr": "Khan al-Arous.",
-          "es": "*Jan* al-Arus."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/3d4058e0-7aac-50a0-87e0-4eb31435fdfb.jpg"
-      },
-      {
-        "id": "603d37ce-f178-5cd4-9e44-f5656d6bd87a",
-        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:8",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "على خلاف القطع النقدية في شرق المتوسط فإن التصميم ذو الشكل المربع أدخل في الغرب خلال القرن السابع / الثالث عشر.",
-          "en": "Unlike the coins in the eastern Mediterranean, a square shaped design was introduced in the west during the 7th/13th century.",
-          "fr": "À la différence des pièces de monnaie de la Méditerranée orientale, un modèle de forme carrée fut introduit en Occident au cours du VIIe siècle H (XIIIe siècle J.-C.).",
-          "es": "A diferencia de las monedas en el Mediterráneo oriental, un diseño cuadrado se introdujo en el oeste durante los siglos VII/ XIII."
-        }
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       },
       {
         "id": "84f6b107-47b2-5cd1-a520-3a4f89856221",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:11",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -478,7 +440,76 @@
         "image": "https://inventory.metanull.eu/pub/c5e8a9ee-39bb-5b61-b368-898365ffcec7.jpg"
       },
       {
+        "id": "2c533f45-08f6-5fae-8ad7-6634c0b3f6b0",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:36",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "بالإضافة لصك النقد بنى صلاح الدين خانات  مثل الحصون لضمان استمرار التجارة و السفر.",
+          "en": "In addition to minting coins, Saladin constructed fortress-like caravanserais to ensure the continuity of commerce and travel.",
+          "fr": "En plus de frapper de la monnaie, Saladin fit construire des caravansérails ressemblant à des forteresses pour assurer la pérennité des transports et du commerce.",
+          "es": "Además de acuñar las monedas, Saladino construyó caravasares como recintos amurallados para garantizar la continuidad del comercio y los viajes."
+        },
+        "names": {
+          "ar": "خان العروس.",
+          "en": "Khan al-'Arus.",
+          "fr": "Khan al-Arous.",
+          "es": "*Jan* al-Arus."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/3d4058e0-7aac-50a0-87e0-4eb31435fdfb.jpg"
+      },
+      {
+        "id": "0ee82313-3b00-5065-9b57-8b032c634961",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_D:36",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "هذا مثال عن نمط أولي فاطمي الذي تعتمد عليه القطع النقدية الأيوبية.",
+          "en": "This is an example of the Fatimid prototype on which the Ayyubid coin is based.",
+          "fr": "Ceci est un exemple du prototype fatimide sur lequel la pièce ayyoubide est basée.",
+          "es": "Este es un ejemplo de un prototipo fatimí en el que se basa esta moneda ayubí."
+        }
+      },
+      {
+        "id": "603d37ce-f178-5cd4-9e44-f5656d6bd87a",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:8",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "على خلاف القطع النقدية في شرق المتوسط فإن التصميم ذو الشكل المربع أدخل في الغرب خلال القرن السابع / الثالث عشر.",
+          "en": "Unlike the coins in the eastern Mediterranean, a square shaped design was introduced in the west during the 7th/13th century.",
+          "fr": "À la différence des pièces de monnaie de la Méditerranée orientale, un modèle de forme carrée fut introduit en Occident au cours du VIIe siècle H (XIIIe siècle J.-C.).",
+          "es": "A diferencia de las monedas en el Mediterráneo oriental, un diseño cuadrado se introdujo en el oeste durante los siglos VII/ XIII."
+        }
+      },
+      {
+        "id": "285a5515-b0ba-5597-a7d7-017f779ad7ca",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:29",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "en": "The same Ayyubid ruler who minted this coin, Saladin, also restored the Great Umayyad Mosque, as commemorated by this marble panel.",
+          "fr": "Le même souverain ayyoubide qui fit frapper cette pièce, Saladin, restaura également la Grande Mosquée omeyyade, ainsi que le commémore ce panneau de marbre.",
+          "es": "El mismo gobernador ayubí que acuñó esta moneda, Saladino, también restauró la Gran Mezquita Omeya, como conmemora este panel de mármol."
+        },
+        "names": {
+          "ar": "لوح رخامي.",
+          "en": "Marble panel.",
+          "fr": "Panneau de marbre.",
+          "es": "Lápida de mármol.",
+          "se": "Marmorpanel."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/b3e1d56f-9e14-57d0-a345-0d9da6f022cc.jpg"
+      },
+      {
         "id": "d3cd72eb-4da3-52ee-8fe8-e450b2d00a90",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:43",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -488,26 +519,6 @@
           "fr": "Semblable à la monnaie de Saladin mais frappée quelque 70 ans plus tard, les nouvelles pièces franques furent frappées en 649 H / 1251 J.-C. et évitent de mentionner des noms ou phrases islamiques.",
           "es": "Parecidas a las monedas de Saladino, pero acuñadas alrededor de 70 años más tarde, las nuevas monedas de los cruzados fueron acuñadas en el 649/1251 y evitan mencionar nombres o frases islámicas."
         }
-      },
-      {
-        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:3",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "المحراب في المسجد الأقصى المقدس الذي أمر ببنائه  صلاح الدين يعود لنفس العام  الذي تم فيه الاحتفال بتحرير القدس.",
-          "en": "The mihrab in the venerated al-Aqsa Mosque was commissioned by Saladin in the same year, celebrating the liberation of Jerusalem.",
-          "fr": "Le mihrab de la très vénérée mosquée al-Aqsa fut commandité par Saladin la même année pour célébrer la libération de Jérusalem.",
-          "es": "El mihrab en la venerada mezquita de al-Aqsa fue encargado por Saladino en el mismo año, para la celebración de la liberación de Jerusalén."
-        },
-        "names": {
-          "ar": "الجامع الاقصى.",
-          "en": "Aqsa Mosque.",
-          "fr": "Mosquée al-Aqsa.",
-          "es": "Mezquita al-Aqsa."
-        },
-        "country_id": "pse",
-        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       }
     ],
     "gallery_references": [
@@ -658,6 +669,7 @@
     "related_items": [
       {
         "id": "a07c1b97-5ce9-5d4e-a870-1d3149e2561d",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:13",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -678,6 +690,7 @@
       },
       {
         "id": "f2d44375-8dae-54d9-a249-8d2091ccc818",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:14",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -884,6 +897,7 @@
     "related_items": [
       {
         "id": "6a08e982-ac48-53be-af6e-40c671acdc1e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:20",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1037,6 +1051,7 @@
     "related_items": [
       {
         "id": "10e14593-faff-5437-b999-efaa138e0262",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:13",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1051,27 +1066,8 @@
         "image": "https://inventory.metanull.eu/pub/d7effca6-123d-5c9b-816f-06ba76bbb9b5.jpg"
       },
       {
-        "id": "36a35ce8-0f8d-522b-8ff1-593fcf2e3c64",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:8",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "اسم نور الدين و المنطقة التي حكمها وهي الموصل كلاهما منقوشان على هذه القطعة الزجاجية التي تجعلها معاصرة  للفلس.",
-          "en": "Nur al-Din’s name and the region that he ruled, namely Mosul, are both inscribed on this glass fragment, making it contemporary to the fils.",
-          "fr": "Le nom de Nour al-Din et la région qu’il gouvernait, appelée Mossoul, sont tous deux inscrits sur ce fragment de verre, ce qui le rend contemporain du fils.",
-          "es": "El nombre de Nur al-Din y la región sobre la que gobernó, concretamente Mosul, están inscritos sobre este fragmento de vidrio, siendo así contemporáneo al felús."
-        },
-        "names": {
-          "ar": "أجزاء من دورق.",
-          "en": "Fragments of a flask.",
-          "fr": "Fragments de flacon.",
-          "es": "Fragmentos de frasco."
-        },
-        "country_id": "gbr",
-        "image": "https://inventory.metanull.eu/pub/69ea8851-5aef-5a08-9181-e98ead3838dd.jpg"
-      },
-      {
         "id": "8d173c69-e270-52ea-8792-452101a75d8b",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:15",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1087,6 +1083,7 @@
       },
       {
         "id": "d018849b-366a-5081-8d07-48583374c2f8",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:38",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1104,6 +1101,27 @@
         },
         "country_id": "syr",
         "image": "https://inventory.metanull.eu/pub/1a3a2231-d822-5d86-aabf-4bdd99efe3d5.jpg"
+      },
+      {
+        "id": "36a35ce8-0f8d-522b-8ff1-593fcf2e3c64",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:8",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "اسم نور الدين و المنطقة التي حكمها وهي الموصل كلاهما منقوشان على هذه القطعة الزجاجية التي تجعلها معاصرة  للفلس.",
+          "en": "Nur al-Din’s name and the region that he ruled, namely Mosul, are both inscribed on this glass fragment, making it contemporary to the fils.",
+          "fr": "Le nom de Nour al-Din et la région qu’il gouvernait, appelée Mossoul, sont tous deux inscrits sur ce fragment de verre, ce qui le rend contemporain du fils.",
+          "es": "El nombre de Nur al-Din y la región sobre la que gobernó, concretamente Mosul, están inscritos sobre este fragmento de vidrio, siendo así contemporáneo al felús."
+        },
+        "names": {
+          "ar": "أجزاء من دورق.",
+          "en": "Fragments of a flask.",
+          "fr": "Fragments de flacon.",
+          "es": "Fragmentos de frasco."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/69ea8851-5aef-5a08-9181-e98ead3838dd.jpg"
       }
     ],
     "gallery_references": [
@@ -2315,7 +2333,29 @@
     "media": [],
     "related_items": [
       {
+        "id": "dba5d352-7562-5547-8859-795834833d9c",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:17",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ تداول تلك العملات من قِبل التجار داخل الخانات.",
+          "en": "Coins would have been used by merchants in the caravanserai.",
+          "fr": "Ces pièces devaient être utilisées par les commerçants au caravansérail.",
+          "es": "Las monedas habrían sido utilizadas por los comerciantes del caravasar."
+        },
+        "names": {
+          "ar": "وكالة الغوري.",
+          "en": "Wikala (*caravanserai*) of al-Ghuri.",
+          "fr": "Wikala (caravansérail) du sultan al-Ghuri.",
+          "es": "Caravasar *(wikala)* de al-Guri."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/f2f7469f-07b2-5440-afed-331846fd6c44.jpg"
+      },
+      {
         "id": "41e129a3-beb8-5d49-b285-77e893004f1e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:14",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2335,19 +2375,29 @@
         "image": "https://inventory.metanull.eu/pub/63165ebf-7295-580d-ae3c-551236a7fe09.jpg"
       },
       {
-        "id": "423ba8e5-2a5f-5713-a133-86900cda8eda",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:1",
+        "id": "bea26544-aced-52fd-b07c-079721229f74",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:6",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
+        "in_package": false,
         "justifications": {
-          "ar": "عملة إسلامية خالصة وأموية حيث تمّ إعادة تشكيلها بصيغة دينية.",
-          "en": "Another Umayyad pure Islamic, post-reform coin with the formula of faith.",
-          "fr": "Autre pièce omeyyade intégralement islamique postérieure à la réforme, avec la profession de foi.",
-          "es": "Otra moneda islámica omeya intacta de la post-reforma con la fórmula de la fe."
-        }
+          "ar": "تمّ تداول تلك العملات من قِبل التجار داخل الأسواق الخاصة بالقطن.",
+          "en": "Coins would have been used by merchants in the Cotton Market.",
+          "fr": "Ces pièces devaient être utilisées par les commerçants au souk du Coton.",
+          "es": "Las monedas habrían sido utilizadas por los comerciantes del Mercado del Algodón."
+        },
+        "names": {
+          "ar": "سوق القطانين.",
+          "en": "Suq al-Qattanin (Market of the Cotton Merchants).",
+          "fr": "Souk al-Qattanine (marché des marchands de coton).",
+          "es": "Zoco al-Qattanin (de los comerciantes de algodón)."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/509abefb-e640-5b0d-87a1-2a72ddfbb2fb.jpg"
       },
       {
         "id": "4410695e-1450-5263-a481-fa1c0e2e7a22",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:20",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2367,19 +2417,8 @@
         "image": "https://inventory.metanull.eu/pub/17d77b7a-247c-5f05-ba62-11ca9df542c4.jpg"
       },
       {
-        "id": "49f2b6a3-b42a-59a2-b31f-cd0aa20c6df8",
-        "backward_compatibility": "mwnf3:objects:ISL:tn:Mus01:26",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "عملة إسلامية خالصة حيث تمّ إعادة تشكيلها بصيغة دينية ذات خط عربي.",
-          "en": "A pure Islamic coin with the formula of faith and Arabic text.",
-          "fr": "Pièce intégralement islamique avec la profession de foi et une légende en arabe.",
-          "es": "Una moneda islámica intacta, con la fórmula de la fe y texto árabe."
-        }
-      },
-      {
         "id": "4ae2cfc2-4c0d-52a7-89bc-b2b14db2655e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:tn:Mon01:29",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2399,19 +2438,8 @@
         "image": "https://inventory.metanull.eu/pub/09cd815d-bc8a-551e-ba43-a2e745717a03.jpg"
       },
       {
-        "id": "5702c937-55b7-5f65-adc4-2d6ddc8a7f83",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:42",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "عملة إسلامية خالصة حيث تمّ إعادة تشكيلها بصيغة دينية ذات خط عربي.",
-          "en": "A pure Islamic coin with the formula of faith and Arabic text.",
-          "fr": "Pièce intégralement islamique avec la profession de foi et une légende en arabe.",
-          "es": "Una moneda islámica intacta, con la fórmula de la fe y texto árabe."
-        }
-      },
-      {
         "id": "571615de-6d27-5fda-8d4c-3d97eedc3cc2",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:28",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2432,39 +2460,8 @@
         "image": "https://inventory.metanull.eu/pub/e5be2a24-fe97-5384-9ef6-761e71684a59.jpg"
       },
       {
-        "id": "a0dd981d-e256-57f4-ba5c-7f37591cb8b5",
-        "backward_compatibility": "mwnf3:objects:ISL:it:Mus01:26",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "عملة إسلامية خالصة وأموية حيث تمّ إعادة تشكيلها بصيغة دينية.",
-          "en": "Another Umayyad pure Islamic, post-reform coin with the formula of faith.",
-          "fr": "Autre pièce omeyyade intégralement islamique postérieure à la réforme, avec la profession de foi.",
-          "es": "Otra moneda islámica omeya intacta de la post-reforma con la fórmula de la fe."
-        }
-      },
-      {
-        "id": "bea26544-aced-52fd-b07c-079721229f74",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:6",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ تداول تلك العملات من قِبل التجار داخل الأسواق الخاصة بالقطن.",
-          "en": "Coins would have been used by merchants in the Cotton Market.",
-          "fr": "Ces pièces devaient être utilisées par les commerçants au souk du Coton.",
-          "es": "Las monedas habrían sido utilizadas por los comerciantes del Mercado del Algodón."
-        },
-        "names": {
-          "ar": "سوق القطانين.",
-          "en": "Suq al-Qattanin (Market of the Cotton Merchants).",
-          "fr": "Souk al-Qattanine (marché des marchands de coton).",
-          "es": "Zoco al-Qattanin (de los comerciantes de algodón)."
-        },
-        "country_id": "pse",
-        "image": "https://inventory.metanull.eu/pub/509abefb-e640-5b0d-87a1-2a72ddfbb2fb.jpg"
-      },
-      {
         "id": "c05416d9-806c-5e25-8cf9-7445bc244f42",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:27",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -2476,27 +2473,21 @@
         }
       },
       {
-        "id": "dba5d352-7562-5547-8859-795834833d9c",
-        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:17",
+        "id": "a0dd981d-e256-57f4-ba5c-7f37591cb8b5",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:it:Mus01:26",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
+        "in_package": true,
         "justifications": {
-          "ar": "تمّ تداول تلك العملات من قِبل التجار داخل الخانات.",
-          "en": "Coins would have been used by merchants in the caravanserai.",
-          "fr": "Ces pièces devaient être utilisées par les commerçants au caravansérail.",
-          "es": "Las monedas habrían sido utilizadas por los comerciantes del caravasar."
-        },
-        "names": {
-          "ar": "وكالة الغوري.",
-          "en": "Wikala (*caravanserai*) of al-Ghuri.",
-          "fr": "Wikala (caravansérail) du sultan al-Ghuri.",
-          "es": "Caravasar *(wikala)* de al-Guri."
-        },
-        "country_id": "egy",
-        "image": "https://inventory.metanull.eu/pub/f2f7469f-07b2-5440-afed-331846fd6c44.jpg"
+          "ar": "عملة إسلامية خالصة وأموية حيث تمّ إعادة تشكيلها بصيغة دينية.",
+          "en": "Another Umayyad pure Islamic, post-reform coin with the formula of faith.",
+          "fr": "Autre pièce omeyyade intégralement islamique postérieure à la réforme, avec la profession de foi.",
+          "es": "Otra moneda islámica omeya intacta de la post-reforma con la fórmula de la fe."
+        }
       },
       {
         "id": "feb05415-c114-5cb2-91ec-a718e42d10ce",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:2",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -2505,6 +2496,45 @@
           "en": "A pure Islamic coin with Arabic texts and verses from the Qur’an.",
           "fr": "Pièce intégralement islamique portant des légendes et des versets du Coran en arabe.",
           "es": "Una moneda islámica intacta con textos y versos árabes del Corán."
+        }
+      },
+      {
+        "id": "5702c937-55b7-5f65-adc4-2d6ddc8a7f83",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:42",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "عملة إسلامية خالصة حيث تمّ إعادة تشكيلها بصيغة دينية ذات خط عربي.",
+          "en": "A pure Islamic coin with the formula of faith and Arabic text.",
+          "fr": "Pièce intégralement islamique avec la profession de foi et une légende en arabe.",
+          "es": "Una moneda islámica intacta, con la fórmula de la fe y texto árabe."
+        }
+      },
+      {
+        "id": "49f2b6a3-b42a-59a2-b31f-cd0aa20c6df8",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:tn:Mus01:26",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "عملة إسلامية خالصة حيث تمّ إعادة تشكيلها بصيغة دينية ذات خط عربي.",
+          "en": "A pure Islamic coin with the formula of faith and Arabic text.",
+          "fr": "Pièce intégralement islamique avec la profession de foi et une légende en arabe.",
+          "es": "Una moneda islámica intacta, con la fórmula de la fe y texto árabe."
+        }
+      },
+      {
+        "id": "423ba8e5-2a5f-5713-a133-86900cda8eda",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:1",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "عملة إسلامية خالصة وأموية حيث تمّ إعادة تشكيلها بصيغة دينية.",
+          "en": "Another Umayyad pure Islamic, post-reform coin with the formula of faith.",
+          "fr": "Autre pièce omeyyade intégralement islamique postérieure à la réforme, avec la profession de foi.",
+          "es": "Otra moneda islámica omeya intacta de la post-reforma con la fórmula de la fe."
         }
       }
     ],
@@ -3300,15 +3330,17 @@
     "media": [],
     "related_items": [
       {
-        "id": "49f2b6a3-b42a-59a2-b31f-cd0aa20c6df8",
-        "backward_compatibility": "mwnf3:objects:ISL:tn:Mus01:26",
+        "id": "4a8d9ff0-728a-5330-bca2-3801640f6f98",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:28",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {}
       },
       {
-        "id": "4a8d9ff0-728a-5330-bca2-3801640f6f98",
-        "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:28",
+        "id": "49f2b6a3-b42a-59a2-b31f-cd0aa20c6df8",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:tn:Mus01:26",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {}
@@ -3463,19 +3495,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "0ee82313-3b00-5065-9b57-8b032c634961",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_D:36",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "عملة ذهبية أخرى بنقوش مشابهة لكن من فترة مختلفة",
-          "en": "Another gold coin with a similar use of inscription but from a different period.",
-          "fr": "Ces pièces de monnaie son apparentées par les inscriptions et le minerai. Elles datent de différentes périodes.",
-          "es": "Otra moneda de oro con un uso similar en la inscripción, pero de un periodo distinto."
-        }
-      },
-      {
         "id": "32f51c73-db81-5e08-a00e-f89af413a9e1",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:11",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -3496,6 +3517,7 @@
       },
       {
         "id": "4a8d9ff0-728a-5330-bca2-3801640f6f98",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:28",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -3507,8 +3529,9 @@
         }
       },
       {
-        "id": "541b09ae-62ac-5f8d-bf31-c3e32a645e1e",
-        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:1",
+        "id": "5956a116-f2da-52fd-9a46-aa5a243e3598",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:it:Mus01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {
@@ -3519,8 +3542,22 @@
         }
       },
       {
-        "id": "5956a116-f2da-52fd-9a46-aa5a243e3598",
-        "backward_compatibility": "mwnf3:objects:ISL:it:Mus01:23",
+        "id": "0ee82313-3b00-5065-9b57-8b032c634961",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_D:36",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "عملة ذهبية أخرى بنقوش مشابهة لكن من فترة مختلفة",
+          "en": "Another gold coin with a similar use of inscription but from a different period.",
+          "fr": "Ces pièces de monnaie son apparentées par les inscriptions et le minerai. Elles datent de différentes périodes.",
+          "es": "Otra moneda de oro con un uso similar en la inscripción, pero de un periodo distinto."
+        }
+      },
+      {
+        "id": "541b09ae-62ac-5f8d-bf31-c3e32a645e1e",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {
@@ -3695,6 +3732,7 @@
     "related_items": [
       {
         "id": "423ba8e5-2a5f-5713-a133-86900cda8eda",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -3851,6 +3889,7 @@
     "related_items": [
       {
         "id": "c05416d9-806c-5e25-8cf9-7445bc244f42",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:27",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -4044,6 +4083,7 @@
     "related_items": [
       {
         "id": "0ee82313-3b00-5065-9b57-8b032c634961",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_D:36",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -4351,92 +4391,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "4410695e-1450-5263-a481-fa1c0e2e7a22",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:20",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ تداول العملات المعدنية من قِبل التجار داخل الحانات.",
-          "en": "Coins would have been used by people in the inn.",
-          "fr": "Les gens utilisaient des pièces de monnaie à l’auberge.",
-          "es": "Es posible que las monedas hayan sido utilizadas en la posada."
-        },
-        "names": {
-          "ar": "خان الحرير.",
-          "en": "Khan al-Harir",
-          "fr": "Khan al-Harir.",
-          "es": "*Jan* al-Harir."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/17d77b7a-247c-5f05-ba62-11ca9df542c4.jpg"
-      },
-      {
-        "id": "4ae2cfc2-4c0d-52a7-89bc-b2b14db2655e",
-        "backward_compatibility": "mwnf3:monuments:ISL:tn:Mon01:29",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ تداول العملات المعدنية من قِبل التجار داخل السوق.",
-          "en": "Coins would have been used by merchants in the Suq.",
-          "fr": "Les marchands utilisaient des pièces de monnaie au souk.",
-          "es": "Es posible que las monedas hayan sido utilizadas en el zoco."
-        },
-        "names": {
-          "ar": "سوق الشاشيّة.",
-          "en": "Suq of the Chechias (the fez market).",
-          "fr": "Souk des Chéchias (le marché des bonnets en laine).",
-          "es": "Zoco de los Bonetes (Suq Shashiya)."
-        },
-        "country_id": "tun",
-        "image": "https://inventory.metanull.eu/pub/09cd815d-bc8a-551e-ba43-a2e745717a03.jpg"
-      },
-      {
-        "id": "541b09ae-62ac-5f8d-bf31-c3e32a645e1e",
-        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:1",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "تحمل العملات المعدنية الأموية نصوص ثنائية اللغة.",
-          "en": "Both Umayyad coins have text in two languages.",
-          "fr": "Les deux pièces omeyyades ont un texte bilingue.",
-          "es": "Ambas monedas omeyas muestran textos en dos idiomas."
-        }
-      },
-      {
-        "id": "571615de-6d27-5fda-8d4c-3d97eedc3cc2",
-        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:28",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ تداول العملات المعدنية من قِبل التجار داخل البازار الكبير.",
-          "en": "Coins would have been used by merchants in the Grand Bazaar.",
-          "fr": "Les marchands utilisaient des pièces de monnaie au Grand Bazar.",
-          "es": "Es posible que las monedas hayan sido utilizadas en El Gran Bazar."
-        },
-        "names": {
-          "ar": "البازار الكبير.",
-          "en": "Grand Bazaar",
-          "fr": "Grand Bazar.",
-          "es": "Gran Bazar.",
-          "tr": "Kapalıçarşı."
-        },
-        "country_id": "tur",
-        "image": "https://inventory.metanull.eu/pub/e5be2a24-fe97-5384-9ef6-761e71684a59.jpg"
-      },
-      {
-        "id": "7959f13a-40f0-5501-8335-12c91669bced",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:20",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "تحمل العملة المعدنية صورًا لبشر مزودة بخط عربي.",
-          "en": "This coin also depicts a human figure in addition to an Arabic inscription.",
-          "fr": "Cette pièce décrit également une figure humaine en plus d’une inscription en arabe.",
-          "es": "La moneda representa una figura humana además de una inscripción árabe."
-        }
-      },
-      {
         "id": "93203c86-42c5-54ef-86ab-b477e11842f8",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:22",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4457,6 +4413,7 @@
       },
       {
         "id": "bea26544-aced-52fd-b07c-079721229f74",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:6",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4476,7 +4433,85 @@
         "image": "https://inventory.metanull.eu/pub/509abefb-e640-5b0d-87a1-2a72ddfbb2fb.jpg"
       },
       {
+        "id": "4410695e-1450-5263-a481-fa1c0e2e7a22",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:20",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ تداول العملات المعدنية من قِبل التجار داخل الحانات.",
+          "en": "Coins would have been used by people in the inn.",
+          "fr": "Les gens utilisaient des pièces de monnaie à l’auberge.",
+          "es": "Es posible que las monedas hayan sido utilizadas en la posada."
+        },
+        "names": {
+          "ar": "خان الحرير.",
+          "en": "Khan al-Harir",
+          "fr": "Khan al-Harir.",
+          "es": "*Jan* al-Harir."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/17d77b7a-247c-5f05-ba62-11ca9df542c4.jpg"
+      },
+      {
+        "id": "4ae2cfc2-4c0d-52a7-89bc-b2b14db2655e",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tn:Mon01:29",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ تداول العملات المعدنية من قِبل التجار داخل السوق.",
+          "en": "Coins would have been used by merchants in the Suq.",
+          "fr": "Les marchands utilisaient des pièces de monnaie au souk.",
+          "es": "Es posible que las monedas hayan sido utilizadas en el zoco."
+        },
+        "names": {
+          "ar": "سوق الشاشيّة.",
+          "en": "Suq of the Chechias (the fez market).",
+          "fr": "Souk des Chéchias (le marché des bonnets en laine).",
+          "es": "Zoco de los Bonetes (Suq Shashiya)."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/09cd815d-bc8a-551e-ba43-a2e745717a03.jpg"
+      },
+      {
+        "id": "571615de-6d27-5fda-8d4c-3d97eedc3cc2",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:28",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ تداول العملات المعدنية من قِبل التجار داخل البازار الكبير.",
+          "en": "Coins would have been used by merchants in the Grand Bazaar.",
+          "fr": "Les marchands utilisaient des pièces de monnaie au Grand Bazar.",
+          "es": "Es posible que las monedas hayan sido utilizadas en El Gran Bazar."
+        },
+        "names": {
+          "ar": "البازار الكبير.",
+          "en": "Grand Bazaar",
+          "fr": "Grand Bazar.",
+          "es": "Gran Bazar.",
+          "tr": "Kapalıçarşı."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/e5be2a24-fe97-5384-9ef6-761e71684a59.jpg"
+      },
+      {
+        "id": "541b09ae-62ac-5f8d-bf31-c3e32a645e1e",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:1",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "تحمل العملات المعدنية الأموية نصوص ثنائية اللغة.",
+          "en": "Both Umayyad coins have text in two languages.",
+          "fr": "Les deux pièces omeyyades ont un texte bilingue.",
+          "es": "Ambas monedas omeyas muestran textos en dos idiomas."
+        }
+      },
+      {
         "id": "cfc7015e-ba7b-5103-9a4b-43fffe552d24",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:41",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -4485,6 +4520,19 @@
           "en": "This coin also depicts a human figure in addition to an Arabic inscription.",
           "fr": "Cette pièce décrit également une figure humaine en plus d’une inscription en arabe.",
           "se": "La moneda representa una figura humana además de una inscripción árabe."
+        }
+      },
+      {
+        "id": "7959f13a-40f0-5501-8335-12c91669bced",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:20",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "تحمل العملة المعدنية صورًا لبشر مزودة بخط عربي.",
+          "en": "This coin also depicts a human figure in addition to an Arabic inscription.",
+          "fr": "Cette pièce décrit également une figure humaine en plus d’une inscription en arabe.",
+          "es": "La moneda representa una figura humana además de una inscripción árabe."
         }
       }
     ],
@@ -4626,6 +4674,7 @@
     "related_items": [
       {
         "id": "8932676a-f7af-54cc-8d3e-01fd198ce017",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01_A:12",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -5273,43 +5322,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "01db1c07-82e0-567a-891f-8a16068181cd",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_G:42",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "هذه العملة تصويرية تحاكي التصاميم الساسانية السابقة. وقد تم إنتاجها خلال عهد الخليفة \"عبد الملك\" قبل أن يأمر بسك عملات معدنية غير تصويرية فقط.",
-          "en": "This figurative coin imitates earlier Sassanian designs. It was produced during Caliph ‘Abd Al-Malik’s reign before he ordered non-figurative coins only.",
-          "fr": "Cette pièce figurative imite les motifs sassanides antérieurs. Elle a été produite sous le règne du calife Abd al-Malik avant qu’il n’interdise la frappe de pièces figuratives.",
-          "es": "Esta moneda figurativa imita un diseño sasánida. Se produjo en el reinado de Abd al-Malik antes de que solo permitiese monedas no figurativas."
-        }
-      },
-      {
-        "id": "541b09ae-62ac-5f8d-bf31-c3e32a645e1e",
-        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:1",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "العملات المعدنية الذي كتب عليها بالخط العربي منتشرة في جميع أنحاء الدولة الأموية ؛ تعود هذه العملة إلى عهد سليمان ، نجل 'عبد الملك'.",
-          "en": "Coinage with Arabic calligraphy spread across the Umayyad domain; this coin dates to the brief reign of Sulayman, ‘Abd al-Malik’s son.",
-          "fr": "Pièce avec calligraphie arabe répandue dans l’aire omeyyade ; elle remonte au bref règne de Sulayman, fils d’Abd al-Malik.",
-          "es": "Las monedas con caligrafía arábica se extendieron por el dominio omeya; esta data del breve reinado de Sulayman, hijo de Abd al-Malik."
-        }
-      },
-      {
-        "id": "69654e77-fcb8-5e56-8ab2-fb9b8b39f35b",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_G:2",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "هذه العملة البرونزية هي مثال آخر على الأسلوب الكتابي الذي تطور بعد إصلاحات عبد الملك سنة 77/696 ميلادي.",
-          "en": "This bronze coin is another example of the epigraphic style that evolved after ‘Abd al-Malik’s reforms of AH 77 / AD 696.",
-          "fr": "Cette pièce de bronze est un autre exemple du style épigraphique qui fait son apparition après les réformes d’Abd al-Malik en 77/696.",
-          "es": "Esta moneda de bronce es otro ejemplo del estilo epigráfico que evolucionó tras las reformas de Abd al-Malik en el 77 A. H. / 696 d. C."
-        }
-      },
-      {
         "id": "912b204e-c92a-58e3-8cab-b04e1caa9f7e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -5330,6 +5344,7 @@
       },
       {
         "id": "a0dd981d-e256-57f4-ba5c-7f37591cb8b5",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:it:Mus01:26",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -5342,10 +5357,50 @@
       },
       {
         "id": "d4bd63d5-45fe-58a2-9476-795fe33754f5",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {}
+      },
+      {
+        "id": "69654e77-fcb8-5e56-8ab2-fb9b8b39f35b",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_G:2",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "هذه العملة البرونزية هي مثال آخر على الأسلوب الكتابي الذي تطور بعد إصلاحات عبد الملك سنة 77/696 ميلادي.",
+          "en": "This bronze coin is another example of the epigraphic style that evolved after ‘Abd al-Malik’s reforms of AH 77 / AD 696.",
+          "fr": "Cette pièce de bronze est un autre exemple du style épigraphique qui fait son apparition après les réformes d’Abd al-Malik en 77/696.",
+          "es": "Esta moneda de bronce es otro ejemplo del estilo epigráfico que evolucionó tras las reformas de Abd al-Malik en el 77 A. H. / 696 d. C."
+        }
+      },
+      {
+        "id": "01db1c07-82e0-567a-891f-8a16068181cd",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_G:42",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "هذه العملة تصويرية تحاكي التصاميم الساسانية السابقة. وقد تم إنتاجها خلال عهد الخليفة \"عبد الملك\" قبل أن يأمر بسك عملات معدنية غير تصويرية فقط.",
+          "en": "This figurative coin imitates earlier Sassanian designs. It was produced during Caliph ‘Abd Al-Malik’s reign before he ordered non-figurative coins only.",
+          "fr": "Cette pièce figurative imite les motifs sassanides antérieurs. Elle a été produite sous le règne du calife Abd al-Malik avant qu’il n’interdise la frappe de pièces figuratives.",
+          "es": "Esta moneda figurativa imita un diseño sasánida. Se produjo en el reinado de Abd al-Malik antes de que solo permitiese monedas no figurativas."
+        }
+      },
+      {
+        "id": "541b09ae-62ac-5f8d-bf31-c3e32a645e1e",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:1",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "العملات المعدنية الذي كتب عليها بالخط العربي منتشرة في جميع أنحاء الدولة الأموية ؛ تعود هذه العملة إلى عهد سليمان ، نجل 'عبد الملك'.",
+          "en": "Coinage with Arabic calligraphy spread across the Umayyad domain; this coin dates to the brief reign of Sulayman, ‘Abd al-Malik’s son.",
+          "fr": "Pièce avec calligraphie arabe répandue dans l’aire omeyyade ; elle remonte au bref règne de Sulayman, fils d’Abd al-Malik.",
+          "es": "Las monedas con caligrafía arábica se extendieron por el dominio omeya; esta data del breve reinado de Sulayman, hijo de Abd al-Malik."
+        }
       }
     ],
     "gallery_references": [
@@ -5497,19 +5552,71 @@
     "media": [],
     "related_items": [
       {
-        "id": "01db1c07-82e0-567a-891f-8a16068181cd",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_G:42",
+        "id": "e8a8501f-19e5-5494-af52-177609f85cd8",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:32",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
+        "in_package": false,
         "justifications": {
-          "ar": "تحمل هذه العملة المعدنية أيضًا صورة إنسان كما أنها مزودة بنقش عربي.",
-          "en": "This coin also depicts a human figure in addition to an Arabic inscription.",
-          "fr": "Cette pièce représente aussi une figure humaine en plus de l’inscription en arabe.",
-          "es": "Esta moneda también representa una figura humana junto con una inscripción árabe."
-        }
+          "ar": "تمّ تداول تلك العملات من قِبل التجار داخل الخانات.",
+          "en": "Coins would have been used by merchants in the caravanserai.",
+          "fr": "Ces pièces devaient être utilisées par les commerçants au caravansérail.",
+          "es": "Las monedas habrían sido utilizadas por los comerciantes del caravasar."
+        },
+        "names": {
+          "ar": "وكالة السلطان قايتباي.",
+          "en": "Wikala (caravanserai) of Qaytbay.",
+          "fr": "Wikala (caravansérail) de Qaytbay.",
+          "es": "Caravasar *(wikala)* de Qaytbay."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/af671678-f460-5af5-bc50-15fd4e0355d6.jpg"
+      },
+      {
+        "id": "67da3bf9-1dff-5d68-9ebd-67e76ff4f866",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:33",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ سك هذه العملة في مدينة عمَّان.",
+          "en": "This coin was minted in the city of Amman.",
+          "fr": "Cette pièce fut frappée dans la ville d’Amman.",
+          "es": "Esta moneda se acuñó en la ciudad de Ammán."
+        },
+        "names": {
+          "ar": "البوابة الكبرى.",
+          "en": "Citadel of Amman (Audience Hall).",
+          "fr": "Citadelle d’Amman (salle d’audience).",
+          "es": "Salón de audiencias de la ciudadela de Ammán"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/4bdfed44-26fd-52c3-9ff8-59e4f5a313db.jpg"
+      },
+      {
+        "id": "bea26544-aced-52fd-b07c-079721229f74",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:6",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمّ تداول تلك العملات من قِبل التجار داخل الأسواق الخاصة بالقطن.",
+          "en": "Coins would have been used by merchants in the Cotton Market.",
+          "fr": "Ces pièces devaient être utilisées par les commerçants au souk du Coton.",
+          "es": "Las monedas habrían sido utilizadas por los comerciantes del Mercado del Algodón."
+        },
+        "names": {
+          "ar": "سوق القطانين.",
+          "en": "Suq al-Qattanin (Market of the Cotton Merchants).",
+          "fr": "Souk al-Qattanine (marché des marchands de coton).",
+          "es": "Zoco al-Qattanin (de los comerciantes de algodón)."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/509abefb-e640-5b0d-87a1-2a72ddfbb2fb.jpg"
       },
       {
         "id": "4410695e-1450-5263-a481-fa1c0e2e7a22",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:20",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -5530,6 +5637,7 @@
       },
       {
         "id": "4ae2cfc2-4c0d-52a7-89bc-b2b14db2655e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:tn:Mon01:29",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -5550,6 +5658,7 @@
       },
       {
         "id": "571615de-6d27-5fda-8d4c-3d97eedc3cc2",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:28",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -5570,28 +5679,9 @@
         "image": "https://inventory.metanull.eu/pub/e5be2a24-fe97-5384-9ef6-761e71684a59.jpg"
       },
       {
-        "id": "67da3bf9-1dff-5d68-9ebd-67e76ff4f866",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:33",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ سك هذه العملة في مدينة عمَّان.",
-          "en": "This coin was minted in the city of Amman.",
-          "fr": "Cette pièce fut frappée dans la ville d’Amman.",
-          "es": "Esta moneda se acuñó en la ciudad de Ammán."
-        },
-        "names": {
-          "ar": "البوابة الكبرى.",
-          "en": "Citadel of Amman (Audience Hall).",
-          "fr": "Citadelle d’Amman (salle d’audience).",
-          "es": "Salón de audiencias de la ciudadela de Ammán"
-        },
-        "country_id": "jor",
-        "image": "https://inventory.metanull.eu/pub/4bdfed44-26fd-52c3-9ff8-59e4f5a313db.jpg"
-      },
-      {
-        "id": "7959f13a-40f0-5501-8335-12c91669bced",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:20",
+        "id": "01db1c07-82e0-567a-891f-8a16068181cd",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_G:42",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {
@@ -5602,27 +5692,8 @@
         }
       },
       {
-        "id": "bea26544-aced-52fd-b07c-079721229f74",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:6",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمّ تداول تلك العملات من قِبل التجار داخل الأسواق الخاصة بالقطن.",
-          "en": "Coins would have been used by merchants in the Cotton Market.",
-          "fr": "Ces pièces devaient être utilisées par les commerçants au souk du Coton.",
-          "es": "Las monedas habrían sido utilizadas por los comerciantes del Mercado del Algodón."
-        },
-        "names": {
-          "ar": "سوق القطانين.",
-          "en": "Suq al-Qattanin (Market of the Cotton Merchants).",
-          "fr": "Souk al-Qattanine (marché des marchands de coton).",
-          "es": "Zoco al-Qattanin (de los comerciantes de algodón)."
-        },
-        "country_id": "pse",
-        "image": "https://inventory.metanull.eu/pub/509abefb-e640-5b0d-87a1-2a72ddfbb2fb.jpg"
-      },
-      {
         "id": "cfc7015e-ba7b-5103-9a4b-43fffe552d24",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:41",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -5634,24 +5705,17 @@
         }
       },
       {
-        "id": "e8a8501f-19e5-5494-af52-177609f85cd8",
-        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:32",
+        "id": "7959f13a-40f0-5501-8335-12c91669bced",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:20",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
+        "in_package": true,
         "justifications": {
-          "ar": "تمّ تداول تلك العملات من قِبل التجار داخل الخانات.",
-          "en": "Coins would have been used by merchants in the caravanserai.",
-          "fr": "Ces pièces devaient être utilisées par les commerçants au caravansérail.",
-          "es": "Las monedas habrían sido utilizadas por los comerciantes del caravasar."
-        },
-        "names": {
-          "ar": "وكالة السلطان قايتباي.",
-          "en": "Wikala (caravanserai) of Qaytbay.",
-          "fr": "Wikala (caravansérail) de Qaytbay.",
-          "es": "Caravasar *(wikala)* de Qaytbay."
-        },
-        "country_id": "egy",
-        "image": "https://inventory.metanull.eu/pub/af671678-f460-5af5-bc50-15fd4e0355d6.jpg"
+          "ar": "تحمل هذه العملة المعدنية أيضًا صورة إنسان كما أنها مزودة بنقش عربي.",
+          "en": "This coin also depicts a human figure in addition to an Arabic inscription.",
+          "fr": "Cette pièce représente aussi une figure humaine en plus de l’inscription en arabe.",
+          "es": "Esta moneda también representa una figura humana junto con una inscripción árabe."
+        }
       }
     ],
     "gallery_references": [
@@ -6545,7 +6609,29 @@
     "media": [],
     "related_items": [
       {
+        "id": "e8a8501f-19e5-5494-af52-177609f85cd8",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:32",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تداول تجار الوكالة عملات كهذه.",
+          "en": "The merchants at the *wikala* would have dealt with such coins.",
+          "fr": "Les marchands de la *wikala* commerçaient avec ces pièces.",
+          "es": "Es posible que los comerciantes del *wikala* hayan negociado con monedas como estas."
+        },
+        "names": {
+          "ar": "وكالة السلطان قايتباي.",
+          "en": "Wikala (caravanserai) of Qaytbay.",
+          "fr": "Wikala (caravansérail) de Qaytbay.",
+          "es": "Caravasar *(wikala)* de Qaytbay."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/af671678-f460-5af5-bc50-15fd4e0355d6.jpg"
+      },
+      {
         "id": "06a78daa-be7f-5db5-908f-e05f2ebfb0b5",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:12",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -6565,17 +6651,8 @@
         "image": "https://inventory.metanull.eu/pub/04359e8b-10e7-5697-a806-02fe62d2901b.jpg"
       },
       {
-        "id": "3a0d9391-5934-5a05-a66d-5b570463ddec",
-        "backward_compatibility": "mwnf3:objects:ISL:se:Mus01_A:45",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "القطعتان من نفس الفئة المعدنية كما يحملان آيات من الذكر الحكيم ونصوص عربية تصف اسم الحاكم ويعودان لنفس السلالة الحاكمة.",
-          "en": "Both coins are of the same denomination, bear Qur’anic verses and Arabic texts giving the name of a ruler, and were struck under the same dynasty."
-        }
-      },
-      {
         "id": "3c0a8afd-9a9e-52f1-a2f3-a48c17f4d63f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:tn:Mon01:21",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -6595,43 +6672,8 @@
         "image": "https://inventory.metanull.eu/pub/d509c4f5-a3f9-5058-8027-46e168743f86.jpg"
       },
       {
-        "id": "49f2b6a3-b42a-59a2-b31f-cd0aa20c6df8",
-        "backward_compatibility": "mwnf3:objects:ISL:tn:Mus01:26",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "القطعتان من نفس الفئة المعدنية كما يحملان آيات من الذكر الحكيم ونصوص عربية تصف اسم الحاكم.",
-          "en": "Both coins are of the same denomination and bear Qur’anic verses and Arabic texts giving the name of a ruler.",
-          "fr": "Les deux pièces ont la même dénomination et portent des versets coraniques et des textes en arabe qui donnent le nom d’un souverain.",
-          "es": "Ambas monedas son de mismo valor, portando versos del Corán y textos árabes mencionando el nombre de un gobernador."
-        }
-      },
-      {
-        "id": "4a8d9ff0-728a-5330-bca2-3801640f6f98",
-        "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:28",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "القطعتان من نفس الفئة المعدنية. يعودان للسلالة الحاكمة ذاتها  كما يحملان آيات من الذكر الحكيم ونصوص عربية تصف اسم الحاكم والمكان وتاريخ السك.",
-          "en": "Both coins are of the same denomination and dynasty and bear Qur’anic verses and Arabic texts giving the name of a ruler and the place and year of minting.",
-          "fr": "Les deux pièces ont la même dénomination, sont de la même dynastie et portent des versets coraniques et des textes en arabe donnant le nom d’un souverain ainsi que le lieu et la date d’émission.",
-          "es": "Ambas monedas son de mismo valor y dinastía, portando versos del Corán y textos árabes mencionando el nombre de un gobernador así como el lugar y el año en que fueron acuñadas."
-        }
-      },
-      {
-        "id": "5702c937-55b7-5f65-adc4-2d6ddc8a7f83",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:42",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "القطعتان من نفس الفئة المعدنية كما يحملان آيات من الذكر الحكيم ونصوص عربية تصف اسم الحاكم.",
-          "en": "Both coins are of the same denomination and bear Qur’anic verses and Arabic texts giving the name of a ruler.",
-          "fr": "Les deux pièces ont la même dénomination et portent des versets coraniques et des textes en arabe donnant le nom d’un souverain.",
-          "es": "Ambas monedas son de mismo valor, portando versos del Corán y textos árabes mencionando el nombre de un gobernador."
-        }
-      },
-      {
         "id": "571615de-6d27-5fda-8d4c-3d97eedc3cc2",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:28",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -6652,7 +6694,34 @@
         "image": "https://inventory.metanull.eu/pub/e5be2a24-fe97-5384-9ef6-761e71684a59.jpg"
       },
       {
+        "id": "4a8d9ff0-728a-5330-bca2-3801640f6f98",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:dz:Mus01:28",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "القطعتان من نفس الفئة المعدنية. يعودان للسلالة الحاكمة ذاتها  كما يحملان آيات من الذكر الحكيم ونصوص عربية تصف اسم الحاكم والمكان وتاريخ السك.",
+          "en": "Both coins are of the same denomination and dynasty and bear Qur’anic verses and Arabic texts giving the name of a ruler and the place and year of minting.",
+          "fr": "Les deux pièces ont la même dénomination, sont de la même dynastie et portent des versets coraniques et des textes en arabe donnant le nom d’un souverain ainsi que le lieu et la date d’émission.",
+          "es": "Ambas monedas son de mismo valor y dinastía, portando versos del Corán y textos árabes mencionando el nombre de un gobernador así como el lugar y el año en que fueron acuñadas."
+        }
+      },
+      {
+        "id": "df86393e-c508-5ae4-9acc-14d37c1a879f",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:51",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "القطعتان من نفس الفئة المعدنية كما يحملان آيات من الذكر الحكيم ونصوص عربية تصف اسم الحاكم والمكان وتاريخ السك.",
+          "en": "Both coins are pure Islamic coins bearing Qur’anic verses and Arabic texts giving the name of a ruler and the place and year of minting.",
+          "fr": "Les deux pièces sont des pièces intégralement islamique qui portent des versets coraniques et des textes en arabe donnant le nom d’un souverain ainsi que le lieu et la date d’émission.",
+          "es": "Ambas son monedas islámicas intactas que presentan textos árabes mencionando el nombre de un gobernador y el año en que fueron acuñadas."
+        }
+      },
+      {
         "id": "5956a116-f2da-52fd-9a46-aa5a243e3598",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:it:Mus01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -6665,6 +6734,7 @@
       },
       {
         "id": "603d37ce-f178-5cd4-9e44-f5656d6bd87a",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_F:8",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -6676,36 +6746,41 @@
         }
       },
       {
-        "id": "df86393e-c508-5ae4-9acc-14d37c1a879f",
-        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:51",
+        "id": "3a0d9391-5934-5a05-a66d-5b570463ddec",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:se:Mus01_A:45",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {
-          "ar": "القطعتان من نفس الفئة المعدنية كما يحملان آيات من الذكر الحكيم ونصوص عربية تصف اسم الحاكم والمكان وتاريخ السك.",
-          "en": "Both coins are pure Islamic coins bearing Qur’anic verses and Arabic texts giving the name of a ruler and the place and year of minting.",
-          "fr": "Les deux pièces sont des pièces intégralement islamique qui portent des versets coraniques et des textes en arabe donnant le nom d’un souverain ainsi que le lieu et la date d’émission.",
-          "es": "Ambas son monedas islámicas intactas que presentan textos árabes mencionando el nombre de un gobernador y el año en que fueron acuñadas."
+          "ar": "القطعتان من نفس الفئة المعدنية كما يحملان آيات من الذكر الحكيم ونصوص عربية تصف اسم الحاكم ويعودان لنفس السلالة الحاكمة.",
+          "en": "Both coins are of the same denomination, bear Qur’anic verses and Arabic texts giving the name of a ruler, and were struck under the same dynasty."
         }
       },
       {
-        "id": "e8a8501f-19e5-5494-af52-177609f85cd8",
-        "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:32",
+        "id": "5702c937-55b7-5f65-adc4-2d6ddc8a7f83",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:42",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
+        "in_package": true,
         "justifications": {
-          "ar": "تداول تجار الوكالة عملات كهذه.",
-          "en": "The merchants at the *wikala* would have dealt with such coins.",
-          "fr": "Les marchands de la *wikala* commerçaient avec ces pièces.",
-          "es": "Es posible que los comerciantes del *wikala* hayan negociado con monedas como estas."
-        },
-        "names": {
-          "ar": "وكالة السلطان قايتباي.",
-          "en": "Wikala (caravanserai) of Qaytbay.",
-          "fr": "Wikala (caravansérail) de Qaytbay.",
-          "es": "Caravasar *(wikala)* de Qaytbay."
-        },
-        "country_id": "egy",
-        "image": "https://inventory.metanull.eu/pub/af671678-f460-5af5-bc50-15fd4e0355d6.jpg"
+          "ar": "القطعتان من نفس الفئة المعدنية كما يحملان آيات من الذكر الحكيم ونصوص عربية تصف اسم الحاكم.",
+          "en": "Both coins are of the same denomination and bear Qur’anic verses and Arabic texts giving the name of a ruler.",
+          "fr": "Les deux pièces ont la même dénomination et portent des versets coraniques et des textes en arabe donnant le nom d’un souverain.",
+          "es": "Ambas monedas son de mismo valor, portando versos del Corán y textos árabes mencionando el nombre de un gobernador."
+        }
+      },
+      {
+        "id": "49f2b6a3-b42a-59a2-b31f-cd0aa20c6df8",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:tn:Mus01:26",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "القطعتان من نفس الفئة المعدنية كما يحملان آيات من الذكر الحكيم ونصوص عربية تصف اسم الحاكم.",
+          "en": "Both coins are of the same denomination and bear Qur’anic verses and Arabic texts giving the name of a ruler.",
+          "fr": "Les deux pièces ont la même dénomination et portent des versets coraniques et des textes en arabe qui donnent le nom d’un souverain.",
+          "es": "Ambas monedas son de mismo valor, portando versos del Corán y textos árabes mencionando el nombre de un gobernador."
+        }
       }
     ],
     "gallery_references": [
@@ -11309,27 +11384,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "12bae6d3-94c8-5cf9-9fd6-ebd8d724da67",
-        "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:8",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "صكت  القطعة النقدية في عهد الموحدين الذين بنوا مسجد الحسن.",
-          "en": "This coin was minted under the Almohad dynasty, which built the Hassan Mosque.",
-          "fr": "Cette pièce a été frappée sous le règne de la dynastie almohade qui a construit la mosquée Koutoubiya, la mosquée Hassan, la Giralda.",
-          "es": "Esta moneda fue acuñada por la dinastía almohade que construyó la mezquita Hasan."
-        },
-        "names": {
-          "ar": "مسجد حسان.",
-          "en": "Hasan Mosque.",
-          "fr": "Mosquée Hassan.",
-          "es": "Mezquita Hasan."
-        },
-        "country_id": "mar",
-        "image": "https://inventory.metanull.eu/pub/599b46f9-dec7-5d45-8323-f8bd7e23f8b7.jpg"
-      },
-      {
         "id": "202097f0-f5d2-5953-889d-9ac02af60426",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:es:Mon01:9",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -11349,24 +11405,8 @@
         "image": "https://inventory.metanull.eu/pub/dd51c17f-23e5-5d7c-adbb-4b15979c4a0f.jpg"
       },
       {
-        "id": "c4f183be-6942-575f-9ae0-ce28b3134f1f",
-        "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:9",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "fr": "Les monuments religieux de cette époque lui sont contemporains, comme la mosquée Koutoubiya, à Marrakech, la mosquée Hassan à Rabat, la Giralda à Séville."
-        },
-        "names": {
-          "ar": "مسجد تنمل.",
-          "en": "Tinmel Mosque.",
-          "fr": "Mosquée de Tinmel.",
-          "es": "Mezquita de Tinmel."
-        },
-        "country_id": "mar",
-        "image": "https://inventory.metanull.eu/pub/cfa0f7b1-8985-5002-b516-041e919e3d85.jpg"
-      },
-      {
         "id": "eb797dee-46d6-5927-9b28-91cd43374b40",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -11384,6 +11424,45 @@
         },
         "country_id": "mar",
         "image": "https://inventory.metanull.eu/pub/f7e00ea7-228d-5992-8cd2-d658e8e6a8be.jpg"
+      },
+      {
+        "id": "12bae6d3-94c8-5cf9-9fd6-ebd8d724da67",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:8",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "صكت  القطعة النقدية في عهد الموحدين الذين بنوا مسجد الحسن.",
+          "en": "This coin was minted under the Almohad dynasty, which built the Hassan Mosque.",
+          "fr": "Cette pièce a été frappée sous le règne de la dynastie almohade qui a construit la mosquée Koutoubiya, la mosquée Hassan, la Giralda.",
+          "es": "Esta moneda fue acuñada por la dinastía almohade que construyó la mezquita Hasan."
+        },
+        "names": {
+          "ar": "مسجد حسان.",
+          "en": "Hasan Mosque.",
+          "fr": "Mosquée Hassan.",
+          "es": "Mezquita Hasan."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/599b46f9-dec7-5d45-8323-f8bd7e23f8b7.jpg"
+      },
+      {
+        "id": "c4f183be-6942-575f-9ae0-ce28b3134f1f",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:9",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "fr": "Les monuments religieux de cette époque lui sont contemporains, comme la mosquée Koutoubiya, à Marrakech, la mosquée Hassan à Rabat, la Giralda à Séville."
+        },
+        "names": {
+          "ar": "مسجد تنمل.",
+          "en": "Tinmel Mosque.",
+          "fr": "Mosquée de Tinmel.",
+          "es": "Mezquita de Tinmel."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/cfa0f7b1-8985-5002-b516-041e919e3d85.jpg"
       }
     ],
     "gallery_references": [

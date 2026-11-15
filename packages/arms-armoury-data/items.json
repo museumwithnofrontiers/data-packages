@@ -199,39 +199,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "42a95db0-705d-5ebb-926f-d8bab4c95c82",
-        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:7",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "على خلاف سيوف الفرسان  في فترة دولة بني نصر  فإن السيوف المملوكية كانت منحنية.",
-          "en": "Unlike Nasrid *jineta* swords, Mamluk swords tended to be curved.",
-          "fr": "Les épées mameloukes étaient généralement courbées, à la différence des épées jinetas nasrides.",
-          "es": "Las espadas mamelucas solían ser curvadas, diferentes a las espadas jinetas nazaríes."
-        }
-      },
-      {
-        "id": "5afb9d0a-a173-5509-83ce-e5ce7f4da179",
-        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:34",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "هذه الرسالة المملوكية حول المبارزة  بالسيوف هي دليل على أهمية هذه المهارة في العصور الوسطى.",
-          "en": "This Mamluk treatise on swordsmanship is evidence of the importance of this skill in the Middle Ages.",
-          "fr": "Ce traité d’escrime mamelouk reflète l’importance du maniement de l’épée au Moyen Âge.",
-          "es": "Este tratado de esgrima mameluco refleja la importancia del manejo de la espada en la Edad Media."
-        },
-        "names": {
-          "ar": "صفحة من مخطوط في ألعاب الفروسية.",
-          "en": "Page from a manuscript on horsemanship.",
-          "fr": "Page d’un manuscrit sur l’équitation et l’escrime.",
-          "es": "Página de manuscrito sobre equitación y esgrima."
-        },
-        "country_id": "egy",
-        "image": "https://inventory.metanull.eu/pub/ee843b69-4c5f-5d15-9c42-5262ab08533f.jpg"
-      },
-      {
         "id": "991bde22-6f40-5b6e-800e-44dfdaba422f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:es:Mon01:15",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -251,7 +220,55 @@
         "image": "https://inventory.metanull.eu/pub/3859d2e3-e75c-51c5-9427-cde592b880ba.jpg"
       },
       {
+        "id": "42a95db0-705d-5ebb-926f-d8bab4c95c82",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:7",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "على خلاف سيوف الفرسان  في فترة دولة بني نصر  فإن السيوف المملوكية كانت منحنية.",
+          "en": "Unlike Nasrid *jineta* swords, Mamluk swords tended to be curved.",
+          "fr": "Les épées mameloukes étaient généralement courbées, à la différence des épées jinetas nasrides.",
+          "es": "Las espadas mamelucas solían ser curvadas, diferentes a las espadas jinetas nazaríes."
+        }
+      },
+      {
+        "id": "5afb9d0a-a173-5509-83ce-e5ce7f4da179",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:34",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "هذه الرسالة المملوكية حول المبارزة  بالسيوف هي دليل على أهمية هذه المهارة في العصور الوسطى.",
+          "en": "This Mamluk treatise on swordsmanship is evidence of the importance of this skill in the Middle Ages.",
+          "fr": "Ce traité d’escrime mamelouk reflète l’importance du maniement de l’épée au Moyen Âge.",
+          "es": "Este tratado de esgrima mameluco refleja la importancia del manejo de la espada en la Edad Media."
+        },
+        "names": {
+          "ar": "صفحة من مخطوط في ألعاب الفروسية.",
+          "en": "Page from a manuscript on horsemanship.",
+          "fr": "Page d’un manuscrit sur l’équitation et l’escrime.",
+          "es": "Página de manuscrito sobre equitación y esgrima."
+        },
+        "country_id": "egy",
+        "image": "https://inventory.metanull.eu/pub/ee843b69-4c5f-5d15-9c42-5262ab08533f.jpg"
+      },
+      {
+        "id": "f30819fe-fb4c-5ec9-a552-17d8231b324a",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:37",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "هذا الدرع  من الزرد سيحمي جسم الجندي من ضربات  السيوف.",
+          "en": "This coat of mail would protect the soldier’s body from sword blows.",
+          "fr": "La cotte de maille protégeait le corps des soldats du tranchant de l’épée.",
+          "es": "La cota de mallas protegía al cuerpo del soldado de cortes con la espada."
+        }
+      },
+      {
         "id": "bfab383a-8a92-580d-828e-595be606bc38",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:19",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -269,18 +286,6 @@
         },
         "country_id": "gbr",
         "image": "https://inventory.metanull.eu/pub/742799bb-fdc4-560a-a510-1c3822fdf40d.jpg"
-      },
-      {
-        "id": "f30819fe-fb4c-5ec9-a552-17d8231b324a",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:37",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "هذا الدرع  من الزرد سيحمي جسم الجندي من ضربات  السيوف.",
-          "en": "This coat of mail would protect the soldier’s body from sword blows.",
-          "fr": "La cotte de maille protégeait le corps des soldats du tranchant de l’épée.",
-          "es": "La cota de mallas protegía al cuerpo del soldado de cortes con la espada."
-        }
       }
     ],
     "gallery_references": [
@@ -2591,6 +2596,7 @@
     "related_items": [
       {
         "id": "18c15448-b023-55e4-944b-b20b8f98eb2e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:7",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2611,6 +2617,7 @@
       },
       {
         "id": "4a45199e-3af5-504d-9932-a1e4ed67dc93",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:12",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2631,6 +2638,7 @@
       },
       {
         "id": "54e4dfd7-48fc-5972-94f5-cea81c315201",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:it:Mus01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2651,7 +2659,16 @@
         "image": "https://inventory.metanull.eu/pub/5d661d98-119e-5056-8778-2c5551ae631a.jpg"
       },
       {
+        "id": "d5394661-4645-57e7-b329-fa21ef1c08fd",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:25",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {}
+      },
+      {
         "id": "869b86b6-4148-5cb5-9768-3fc1fa05ffdb",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:10",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2673,6 +2690,7 @@
       },
       {
         "id": "bfab383a-8a92-580d-828e-595be606bc38",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:19",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2692,14 +2710,8 @@
         "image": "https://inventory.metanull.eu/pub/742799bb-fdc4-560a-a510-1c3822fdf40d.jpg"
       },
       {
-        "id": "d5394661-4645-57e7-b329-fa21ef1c08fd",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:25",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {}
-      },
-      {
         "id": "dd44c4b3-03fc-5979-8e45-d6162ea57c5a",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:6",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -3896,47 +3908,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "1a58458a-01e5-5ba9-8601-e299f739c320",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:34",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "إبريق الذي تبين زخرفته  تراجع طراز   بابا نقاش أو أبراهام الكوتيهي.",
-          "en": "The ewer after which this style (Baba Nakkash) was given the name ‘Abraham of Kütahya’ ware.",
-          "fr": "L’aiguière qui donna à ce style de céramique (Baba Nakkash) le nom de “Abraham de Kütahya”.",
-          "es": "El jarrón que le dio el nombre de ‘Abraham de Kütahya’ a este estilo (Baba Nakkash)."
-        },
-        "names": {
-          "ar": "إبريق.",
-          "en": "Ewer.",
-          "fr": "Aiguière.",
-          "es": "Jarro"
-        },
-        "country_id": "gbr",
-        "image": "https://inventory.metanull.eu/pub/2097c707-157e-50cb-8d55-2c996f07776f.jpg"
-      },
-      {
-        "id": "68f83415-d094-590c-bdae-7ff58905192e",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus02:44",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "إبريق الذي تبين زخرفته  تراجع طراز   بابا نقاش أو أبراهام الكوتيهي.",
-          "en": "A ewer whose decoration shows the waning of the Baba Nakkash or ‘Abraham of Kütahya’ style.",
-          "fr": "Autre aiguière dont la décoration montre le déclin du style Baba Nakkash ou “Abraham de Kütahya”.",
-          "es": "Un aguamanil cuya decoración muestra el declive del estilo Baba Nakkash o ‘Abraham de Kütahya’."
-        },
-        "names": {
-          "ar": "إبريق.",
-          "en": "Ewer.",
-          "fr": "Aiguière.",
-          "es": "Aguamanil"
-        },
-        "country_id": "gbr",
-        "image": "https://inventory.metanull.eu/pub/8fad308a-6035-551d-b94b-82987d450f03.jpg"
-      },
-      {
         "id": "703b6c7e-f4d6-51d7-9caa-1fade8284326",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:31",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -3957,7 +3930,29 @@
         "image": "https://inventory.metanull.eu/pub/186d1a15-ce89-5d95-a68b-fc17eabd9da3.jpg"
       },
       {
+        "id": "1a58458a-01e5-5ba9-8601-e299f739c320",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:34",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "إبريق الذي تبين زخرفته  تراجع طراز   بابا نقاش أو أبراهام الكوتيهي.",
+          "en": "The ewer after which this style (Baba Nakkash) was given the name ‘Abraham of Kütahya’ ware.",
+          "fr": "L’aiguière qui donna à ce style de céramique (Baba Nakkash) le nom de “Abraham de Kütahya”.",
+          "es": "El jarrón que le dio el nombre de ‘Abraham de Kütahya’ a este estilo (Baba Nakkash)."
+        },
+        "names": {
+          "ar": "إبريق.",
+          "en": "Ewer.",
+          "fr": "Aiguière.",
+          "es": "Jarro"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/2097c707-157e-50cb-8d55-2c996f07776f.jpg"
+      },
+      {
         "id": "ce44f778-9091-5698-8d43-0e6b3026e21a",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus02:40",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -3977,7 +3972,29 @@
         "image": "https://inventory.metanull.eu/pub/89e88f40-51dc-5843-b681-64418bce8afd.jpg"
       },
       {
+        "id": "68f83415-d094-590c-bdae-7ff58905192e",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus02:44",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "إبريق الذي تبين زخرفته  تراجع طراز   بابا نقاش أو أبراهام الكوتيهي.",
+          "en": "A ewer whose decoration shows the waning of the Baba Nakkash or ‘Abraham of Kütahya’ style.",
+          "fr": "Autre aiguière dont la décoration montre le déclin du style Baba Nakkash ou “Abraham de Kütahya”.",
+          "es": "Un aguamanil cuya decoración muestra el declive del estilo Baba Nakkash o ‘Abraham de Kütahya’."
+        },
+        "names": {
+          "ar": "إبريق.",
+          "en": "Ewer.",
+          "fr": "Aiguière.",
+          "es": "Aguamanil"
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/8fad308a-6035-551d-b94b-82987d450f03.jpg"
+      },
+      {
         "id": "d8e83cc2-fed3-5eb6-acf4-5914da8fc9a0",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus02:47",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4427,46 +4444,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "20a5b8ea-ca93-57ec-988d-ddcba1b332c4",
-        "backward_compatibility": "mwnf3:objects:ISL:se:Mus01_A:30",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "صُنع القرن أيضًا من العاج ومُزين بزخارف حيوانية.",
-          "en": "This signal horn is also made of ivory with carved animal decoration."
-        },
-        "names": {
-          "ar": "بوق عاجي.",
-          "en": "Oliphant.",
-          "fr": "Olifant",
-          "es": "Olifante."
-        },
-        "country_id": "swe",
-        "image": "https://inventory.metanull.eu/pub/b2d47b82-5aec-5cc6-ac48-b1325f6ec6c8.jpg"
-      },
-      {
-        "id": "35c60438-89ff-5b34-8858-5e6c89c40fa9",
-        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:11",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "صُنع القرن أيضًا من العاج ومُزين بزخارف حيوانية.",
-          "en": "This signal horn is also made of ivory and has figural and animal decoration.",
-          "fr": "Cet oliphant est aussi en ivoire sculpté à décoration végétale et figurative.",
-          "es": "El cuerno también está elaborado en marfil con decoración figurativa y de animales."
-        },
-        "names": {
-          "ar": "بوق.",
-          "de": "Olifant.",
-          "en": "Oliphant.",
-          "fr": "Olifant.",
-          "es": "Olifante."
-        },
-        "country_id": "deu",
-        "image": "https://inventory.metanull.eu/pub/bdcdd8f0-146d-50bf-9f9c-370b6de84ae7.jpg"
-      },
-      {
         "id": "48d6d059-d57f-523e-9607-450c25bfbe55",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:6",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4487,6 +4466,7 @@
       },
       {
         "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4507,6 +4487,7 @@
       },
       {
         "id": "6a941060-b4c9-5204-b96a-79362d7da4b7",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pt:Mon01:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4527,19 +4508,30 @@
         "image": "https://inventory.metanull.eu/pub/3aeddadf-6b47-5661-b20c-b3fe03c8ebd3.jpg"
       },
       {
-        "id": "6d67dd68-9a25-5aff-9ff7-90c6c6b016bb",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus02:50",
+        "id": "35c60438-89ff-5b34-8858-5e6c89c40fa9",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:11",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
+        "in_package": false,
         "justifications": {
-          "ar": "صُنع مقبض الخنجر من العاج كما نُقش عليه زخارف ورقية.",
-          "en": "This dagger handle is also made of ivory with carved foliar decoration.",
-          "fr": "Ce manche de dague est aussi en ivoire sculpté de motifs d’arabesques.",
-          "es": "El mango de esta daga también está elaborado en marfil tallado con decoración de hojas."
-        }
+          "ar": "صُنع القرن أيضًا من العاج ومُزين بزخارف حيوانية.",
+          "en": "This signal horn is also made of ivory and has figural and animal decoration.",
+          "fr": "Cet oliphant est aussi en ivoire sculpté à décoration végétale et figurative.",
+          "es": "El cuerno también está elaborado en marfil con decoración figurativa y de animales."
+        },
+        "names": {
+          "ar": "بوق.",
+          "de": "Olifant.",
+          "en": "Oliphant.",
+          "fr": "Olifant.",
+          "es": "Olifante."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/bdcdd8f0-146d-50bf-9f9c-370b6de84ae7.jpg"
       },
       {
         "id": "be324a5a-63a0-50d4-ac98-af5bb7d7c6f1",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pt:Mus01_B:29",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4560,7 +4552,27 @@
         "image": "https://inventory.metanull.eu/pub/5a5743a6-a63e-59a4-9387-3afddc2b81dd.jpg"
       },
       {
+        "id": "20a5b8ea-ca93-57ec-988d-ddcba1b332c4",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:se:Mus01_A:30",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "صُنع القرن أيضًا من العاج ومُزين بزخارف حيوانية.",
+          "en": "This signal horn is also made of ivory with carved animal decoration."
+        },
+        "names": {
+          "ar": "بوق عاجي.",
+          "en": "Oliphant.",
+          "fr": "Olifant",
+          "es": "Olifante."
+        },
+        "country_id": "swe",
+        "image": "https://inventory.metanull.eu/pub/b2d47b82-5aec-5cc6-ac48-b1325f6ec6c8.jpg"
+      },
+      {
         "id": "d3e97cb9-b719-5030-a1ad-fcf4a66357e9",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:26",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4578,6 +4590,19 @@
         },
         "country_id": "gbr",
         "image": "https://inventory.metanull.eu/pub/8f7ecdd9-669b-5390-857f-f58094d25394.jpg"
+      },
+      {
+        "id": "6d67dd68-9a25-5aff-9ff7-90c6c6b016bb",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus02:50",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "صُنع مقبض الخنجر من العاج كما نُقش عليه زخارف ورقية.",
+          "en": "This dagger handle is also made of ivory with carved foliar decoration.",
+          "fr": "Ce manche de dague est aussi en ivoire sculpté de motifs d’arabesques.",
+          "es": "El mango de esta daga también está elaborado en marfil tallado con decoración de hojas."
+        }
       }
     ],
     "gallery_references": [
@@ -4790,7 +4815,29 @@
     "media": [],
     "related_items": [
       {
+        "id": "991bde22-6f40-5b6e-800e-44dfdaba422f",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:es:Mon01:15",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "المينا والمخرمات الذهبية على اللجام تذكرنا بالتصميمات الجصية في قصر الحمراء في غرناطة ، إسبانيا",
+          "en": "The enamel and gold filigree on the bridle recall stucco designs in the Alhambra Palace in Granada, Spain.",
+          "fr": "Le filigrane émaillé et doré de cette bride rappelle les motifs de stuc du palais de l’Alhambra à Grenade, Espagne.",
+          "es": "Una pieza de ajedrez de marfil cilíndrica e idéntica. Ambas debieron formar parte de un conjunto de ajedrez grande y caro."
+        },
+        "names": {
+          "ar": "الحمراء.",
+          "en": "Alhambra.",
+          "fr": "Alhambra.",
+          "es": "Alhambra."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/3859d2e3-e75c-51c5-9427-cde592b880ba.jpg"
+      },
+      {
         "id": "1827812f-0a48-5de9-bfcc-5cfe03ea614e",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:45",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4811,47 +4858,29 @@
         "image": "https://inventory.metanull.eu/pub/09f1370b-f44e-5c2b-a617-842b3ee09801.jpg"
       },
       {
-        "id": "7c0195e7-2d2e-5fd8-8028-c0ea0b0ec554",
-        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:24",
+        "id": "f236115b-5fdc-5ac3-84a8-5261cf0359fb",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:22",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "سوار من الذهب ، أيضًا من مملكة النصريين في غرناطة.",
-          "en": "A gold bracelet, also from the Nasrid kingdom of Granada",
-          "fr": "Bracelet en or provenant également du royaume nasride de Grenade.",
-          "es": "Un brazalete de oro que también proviene del reino nazarí de Granada."
+          "ar": "جزء من لجام آخر مزخرف للغاية من ديوان النصريين.",
+          "en": "A fragment from another highly ornate bridle from the Nasrid court.",
+          "fr": "Fragment d’une autre bride richement décorée provenant de la cour nasride.",
+          "es": "Un fragmento de otra brida muy bien ornamentada de la corte nazarí."
         },
         "names": {
-          "ar": "دَمْليج / دُملُج.",
-          "en": "Bracelet.",
-          "fr": "Bracelet.",
-          "es": "Brazalete"
+          "ar": "كسرة لجام.",
+          "en": "Bridle fragment.",
+          "fr": "Fragment de têtière.",
+          "es": "Fragmento de cabezada."
         },
         "country_id": "esp",
-        "image": "https://inventory.metanull.eu/pub/5bfe29de-e37b-5390-b389-134ddf0a936e.jpg"
-      },
-      {
-        "id": "991bde22-6f40-5b6e-800e-44dfdaba422f",
-        "backward_compatibility": "mwnf3:monuments:ISL:es:Mon01:15",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "المينا والمخرمات الذهبية على اللجام تذكرنا بالتصميمات الجصية في قصر الحمراء في غرناطة ، إسبانيا",
-          "en": "The enamel and gold filigree on the bridle recall stucco designs in the Alhambra Palace in Granada, Spain.",
-          "fr": "Le filigrane émaillé et doré de cette bride rappelle les motifs de stuc du palais de l’Alhambra à Grenade, Espagne.",
-          "es": "Una pieza de ajedrez de marfil cilíndrica e idéntica. Ambas debieron formar parte de un conjunto de ajedrez grande y caro."
-        },
-        "names": {
-          "ar": "الحمراء.",
-          "en": "Alhambra.",
-          "fr": "Alhambra.",
-          "es": "Alhambra."
-        },
-        "country_id": "esp",
-        "image": "https://inventory.metanull.eu/pub/3859d2e3-e75c-51c5-9427-cde592b880ba.jpg"
+        "image": "https://inventory.metanull.eu/pub/d8bd910f-f0f1-52d6-a5d6-1f5be66e6b4d.jpg"
       },
       {
         "id": "dbac428e-60fa-534a-a05b-62093f37af08",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4871,24 +4900,25 @@
         "image": "https://inventory.metanull.eu/pub/978fb42c-0a42-5180-91d5-6909d49c5834.jpg"
       },
       {
-        "id": "f236115b-5fdc-5ac3-84a8-5261cf0359fb",
-        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:22",
+        "id": "7c0195e7-2d2e-5fd8-8028-c0ea0b0ec554",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:24",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "جزء من لجام آخر مزخرف للغاية من ديوان النصريين.",
-          "en": "A fragment from another highly ornate bridle from the Nasrid court.",
-          "fr": "Fragment d’une autre bride richement décorée provenant de la cour nasride.",
-          "es": "Un fragmento de otra brida muy bien ornamentada de la corte nazarí."
+          "ar": "سوار من الذهب ، أيضًا من مملكة النصريين في غرناطة.",
+          "en": "A gold bracelet, also from the Nasrid kingdom of Granada",
+          "fr": "Bracelet en or provenant également du royaume nasride de Grenade.",
+          "es": "Un brazalete de oro que también proviene del reino nazarí de Granada."
         },
         "names": {
-          "ar": "كسرة لجام.",
-          "en": "Bridle fragment.",
-          "fr": "Fragment de têtière.",
-          "es": "Fragmento de cabezada."
+          "ar": "دَمْليج / دُملُج.",
+          "en": "Bracelet.",
+          "fr": "Bracelet.",
+          "es": "Brazalete"
         },
         "country_id": "esp",
-        "image": "https://inventory.metanull.eu/pub/d8bd910f-f0f1-52d6-a5d6-1f5be66e6b4d.jpg"
+        "image": "https://inventory.metanull.eu/pub/5bfe29de-e37b-5390-b389-134ddf0a936e.jpg"
       }
     ],
     "gallery_references": [
@@ -5088,6 +5118,7 @@
     "related_items": [
       {
         "id": "a5b2fd9b-e8df-5b2a-b618-52f1601e4e7a",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_B:46",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -7003,6 +7034,7 @@
     "related_items": [
       {
         "id": "e3f7d3b9-509a-5b0d-8591-95270af03e15",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:ma:Mus01_B:49",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -7136,6 +7168,7 @@
     "related_items": [
       {
         "id": "23643565-2f67-5fbb-a44a-abd9cfd3771f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:20",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -7150,22 +7183,8 @@
         "image": "https://inventory.metanull.eu/pub/13bad7f2-f146-5e50-a727-819d5f5dc79c.jpg"
       },
       {
-        "id": "3d83888a-750e-5a9e-9d4f-9db7b89ce318",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:25",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {},
-        "names": {
-          "ar": "قلعة الحصن.",
-          "en": "Crac des Chevaliers.",
-          "fr": "Krak des Chevaliers.",
-          "es": "Krak des Chevaliers."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/3263d454-d13e-56f9-a6d1-46ff51b6745a.jpg"
-      },
-      {
         "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -7180,7 +7199,40 @@
         "image": "https://inventory.metanull.eu/pub/dc9aa87c-464b-5b43-aff4-60895e4ec60f.jpg"
       },
       {
+        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:3",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {},
+        "names": {
+          "ar": "الجامع الاقصى.",
+          "en": "Aqsa Mosque.",
+          "fr": "Mosquée al-Aqsa.",
+          "es": "Mezquita al-Aqsa."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
+      },
+      {
+        "id": "3d83888a-750e-5a9e-9d4f-9db7b89ce318",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:25",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {},
+        "names": {
+          "ar": "قلعة الحصن.",
+          "en": "Crac des Chevaliers.",
+          "fr": "Krak des Chevaliers.",
+          "es": "Krak des Chevaliers."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/3263d454-d13e-56f9-a6d1-46ff51b6745a.jpg"
+      },
+      {
         "id": "869b86b6-4148-5cb5-9768-3fc1fa05ffdb",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:10",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -7197,25 +7249,11 @@
       },
       {
         "id": "dd44c4b3-03fc-5979-8e45-d6162ea57c5a",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:6",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {}
-      },
-      {
-        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:3",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {},
-        "names": {
-          "ar": "الجامع الاقصى.",
-          "en": "Aqsa Mosque.",
-          "fr": "Mosquée al-Aqsa.",
-          "es": "Mezquita al-Aqsa."
-        },
-        "country_id": "pse",
-        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       }
     ],
     "gallery_references": [
@@ -9511,7 +9549,71 @@
     "media": [],
     "related_items": [
       {
+        "id": "23643565-2f67-5fbb-a44a-abd9cfd3771f",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:20",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "استخدم الجنود سيوف ودروع مماثلة لتلك الموجودة داخل هذا النصب الحربي والذي يعود للفترة التاريخية ذاتها.",
+          "en": "Soldiers would have used armour and swords like these at this military monument from the same historical period.",
+          "fr": "Les soldats utilisaient des armures et des épées de ce genre dans ce monument militaire de la même période historique.",
+          "es": "Es posible que los soldados hayan utilizado armaduras y espadas como las que aparecen en este monumento militar que data de mismo periodo histórico."
+        },
+        "names": {
+          "ar": "قلعة الكرك.",
+          "en": "Karak Castle.",
+          "fr": "Château de Karak.",
+          "es": "Castillo de Karak"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/13bad7f2-f146-5e50-a727-819d5f5dc79c.jpg"
+      },
+      {
+        "id": "8b0d0574-1a1a-5238-a67c-191bc96903cb",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:12",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "استخدم الجنود سيوف ودروع مماثلة لتلك الموجودة داخل هذا النصب الحربي.",
+          "en": "Soldiers would have used armour and swords like these at this military monument.",
+          "fr": "Les soldats utilisaient des armures et des épées de ce genre dans ce monument militaire.",
+          "es": "Es posible que los soldados hayan utilizado armaduras y espadas como las que aparecen en este monumento militar."
+        },
+        "names": {
+          "ar": "البرج الشمالي.",
+          "en": "North Burj.",
+          "fr": "Borj nord.",
+          "es": "*Bury* norte."
+        },
+        "country_id": "mar",
+        "image": "https://inventory.metanull.eu/pub/7fc97c7f-0e9a-534b-8eba-3bce606ace52.jpg"
+      },
+      {
+        "id": "c0a299b6-5820-525a-a042-a0c808c72430",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:29",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "استخدم الجنود سيوف ودروع مماثلة لتلك الموجودة داخل هذا النصب الحربي والذي يعود للفترة التاريخية ذاتها.",
+          "en": "Soldiers would have used armour and swords like these at this military monument from the same historical period.",
+          "fr": "Les soldats utilisaient des armures et des épées de ce genre dans ce monument militaire de la même période historique.",
+          "es": "Es posible que los soldados hayan utilizado armaduras y espadas como las que aparecen en este monumento militar que data de mismo periodo histórico."
+        },
+        "names": {
+          "ar": "قلعة القدس.",
+          "en": "Citadel of Jerusalem.",
+          "fr": "Citadelle de Jérusalem.",
+          "es": "Ciudadela de Jerusalén."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/8d152bdf-6ed9-525c-be50-0f0c5544b5d6.jpg"
+      },
+      {
         "id": "063aaf6a-d622-5969-98a6-e4a403c0034b",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pt:Mon01:24",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -9533,6 +9635,7 @@
       },
       {
         "id": "16512ef6-b198-5c9c-9905-fe8825a14887",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:24",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -9552,59 +9655,8 @@
         "image": "https://inventory.metanull.eu/pub/bcaca7ad-3959-588e-8ed3-00c29962f462.jpg"
       },
       {
-        "id": "23643565-2f67-5fbb-a44a-abd9cfd3771f",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:20",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "استخدم الجنود سيوف ودروع مماثلة لتلك الموجودة داخل هذا النصب الحربي والذي يعود للفترة التاريخية ذاتها.",
-          "en": "Soldiers would have used armour and swords like these at this military monument from the same historical period.",
-          "fr": "Les soldats utilisaient des armures et des épées de ce genre dans ce monument militaire de la même période historique.",
-          "es": "Es posible que los soldados hayan utilizado armaduras y espadas como las que aparecen en este monumento militar que data de mismo periodo histórico."
-        },
-        "names": {
-          "ar": "قلعة الكرك.",
-          "en": "Karak Castle.",
-          "fr": "Château de Karak.",
-          "es": "Castillo de Karak"
-        },
-        "country_id": "jor",
-        "image": "https://inventory.metanull.eu/pub/13bad7f2-f146-5e50-a727-819d5f5dc79c.jpg"
-      },
-      {
-        "id": "42a95db0-705d-5ebb-926f-d8bab4c95c82",
-        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:7",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "سيف مملوكي آخر يُستعمل كسلاح للحرب ويعود لنفس الفترة الزمنية.",
-          "en": "Another Mamluk sword used as a weapon of war in the same period.",
-          "fr": "Autre épée mamelouke utilisée comme arme de guerre à la même époque.",
-          "es": "Otra espada mameluca utilizada como arma de guerra durante el mismo periodo."
-        }
-      },
-      {
-        "id": "8b0d0574-1a1a-5238-a67c-191bc96903cb",
-        "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:12",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "استخدم الجنود سيوف ودروع مماثلة لتلك الموجودة داخل هذا النصب الحربي.",
-          "en": "Soldiers would have used armour and swords like these at this military monument.",
-          "fr": "Les soldats utilisaient des armures et des épées de ce genre dans ce monument militaire.",
-          "es": "Es posible que los soldados hayan utilizado armaduras y espadas como las que aparecen en este monumento militar."
-        },
-        "names": {
-          "ar": "البرج الشمالي.",
-          "en": "North Burj.",
-          "fr": "Borj nord.",
-          "es": "*Bury* norte."
-        },
-        "country_id": "mar",
-        "image": "https://inventory.metanull.eu/pub/7fc97c7f-0e9a-534b-8eba-3bce606ace52.jpg"
-      },
-      {
         "id": "ac18659d-204b-5a0c-9653-817fc1cdf6f9",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:tn:Mon01:22",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -9624,7 +9676,60 @@
         "image": "https://inventory.metanull.eu/pub/e2e03685-27eb-503f-983b-57fe41c885ce.jpg"
       },
       {
+        "id": "42a95db0-705d-5ebb-926f-d8bab4c95c82",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:7",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "سيف مملوكي آخر يُستعمل كسلاح للحرب ويعود لنفس الفترة الزمنية.",
+          "en": "Another Mamluk sword used as a weapon of war in the same period.",
+          "fr": "Autre épée mamelouke utilisée comme arme de guerre à la même époque.",
+          "es": "Otra espada mameluca utilizada como arma de guerra durante el mismo periodo."
+        }
+      },
+      {
+        "id": "f30ef8ba-a67a-55f8-91cb-fa65f19de25e",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:31",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "سيف حديدي آخر ذو غمد, يُستعمل كسلاح للحرب.",
+          "en": "Another iron sword with a scabbard used as weapon of war.",
+          "fr": "Autre épée en fer avec son fourreau utilisée comme arme de guerre.",
+          "es": "Otra espada de hierro con vaina utilizada como arma de guerra."
+        }
+      },
+      {
+        "id": "ed60638d-d98c-52c9-b631-d363eb97fb51",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:31",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "سيف آخر مُزخرف يُستعمل كسلاح للحرب.",
+          "en": "Another decorated sword used as weapon of war.",
+          "fr": "Autre épée décorée utilisée comme arme de guerre.",
+          "es": "Otra espada decorada utilizada como arma de guerra."
+        }
+      },
+      {
+        "id": "f30819fe-fb4c-5ec9-a552-17d8231b324a",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:37",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "بذلة دروع أخرى مملوكية تمّ استخدامها خلال معركة حدثت ضمن الفترة الزمنية ذاتها.",
+          "en": "Another Mamluk coat of armour used in battle in the same period.",
+          "fr": "Autre cotte de mailles mamelouke utilisée au combat à la même époque.",
+          "es": "Otra cota de malla mameluca utilizada en la batalla durante el mismo periodo."
+        }
+      },
+      {
         "id": "bfab383a-8a92-580d-828e-595be606bc38",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:19",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -9644,39 +9749,8 @@
         "image": "https://inventory.metanull.eu/pub/742799bb-fdc4-560a-a510-1c3822fdf40d.jpg"
       },
       {
-        "id": "c0a299b6-5820-525a-a042-a0c808c72430",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:29",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "استخدم الجنود سيوف ودروع مماثلة لتلك الموجودة داخل هذا النصب الحربي والذي يعود للفترة التاريخية ذاتها.",
-          "en": "Soldiers would have used armour and swords like these at this military monument from the same historical period.",
-          "fr": "Les soldats utilisaient des armures et des épées de ce genre dans ce monument militaire de la même période historique.",
-          "es": "Es posible que los soldados hayan utilizado armaduras y espadas como las que aparecen en este monumento militar que data de mismo periodo histórico."
-        },
-        "names": {
-          "ar": "قلعة القدس.",
-          "en": "Citadel of Jerusalem.",
-          "fr": "Citadelle de Jérusalem.",
-          "es": "Ciudadela de Jerusalén."
-        },
-        "country_id": "pse",
-        "image": "https://inventory.metanull.eu/pub/8d152bdf-6ed9-525c-be50-0f0c5544b5d6.jpg"
-      },
-      {
-        "id": "ca942ff7-606f-5ad2-bbe5-0716cf554458",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:7",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "تمّ الاستخدام من قِبل الفرسان أو الرماة.",
-          "en": "Both were used by horse archers or knights.",
-          "fr": "Les deux objets étaient utilisés par les archers à pied et par les cavaliers.",
-          "es": "Ambas fueron utilizados por jinetes arqueros o soldados de caballería."
-        }
-      },
-      {
         "id": "dd44c4b3-03fc-5979-8e45-d6162ea57c5a",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:6",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -9688,39 +9762,16 @@
         }
       },
       {
-        "id": "ed60638d-d98c-52c9-b631-d363eb97fb51",
-        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:31",
+        "id": "ca942ff7-606f-5ad2-bbe5-0716cf554458",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:7",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {
-          "ar": "سيف آخر مُزخرف يُستعمل كسلاح للحرب.",
-          "en": "Another decorated sword used as weapon of war.",
-          "fr": "Autre épée décorée utilisée comme arme de guerre.",
-          "es": "Otra espada decorada utilizada como arma de guerra."
-        }
-      },
-      {
-        "id": "f30819fe-fb4c-5ec9-a552-17d8231b324a",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:37",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "بذلة دروع أخرى مملوكية تمّ استخدامها خلال معركة حدثت ضمن الفترة الزمنية ذاتها.",
-          "en": "Another Mamluk coat of armour used in battle in the same period.",
-          "fr": "Autre cotte de mailles mamelouke utilisée au combat à la même époque.",
-          "es": "Otra cota de malla mameluca utilizada en la batalla durante el mismo periodo."
-        }
-      },
-      {
-        "id": "f30ef8ba-a67a-55f8-91cb-fa65f19de25e",
-        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:31",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "سيف حديدي آخر ذو غمد, يُستعمل كسلاح للحرب.",
-          "en": "Another iron sword with a scabbard used as weapon of war.",
-          "fr": "Autre épée en fer avec son fourreau utilisée comme arme de guerre.",
-          "es": "Otra espada de hierro con vaina utilizada como arma de guerra."
+          "ar": "تمّ الاستخدام من قِبل الفرسان أو الرماة.",
+          "en": "Both were used by horse archers or knights.",
+          "fr": "Les deux objets étaient utilisés par les archers à pied et par les cavaliers.",
+          "es": "Ambas fueron utilizados por jinetes arqueros o soldados de caballería."
         }
       }
     ],
@@ -10480,6 +10531,7 @@
     "related_items": [
       {
         "id": "23643565-2f67-5fbb-a44a-abd9cfd3771f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:20",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -10494,22 +10546,8 @@
         "image": "https://inventory.metanull.eu/pub/13bad7f2-f146-5e50-a727-819d5f5dc79c.jpg"
       },
       {
-        "id": "3d83888a-750e-5a9e-9d4f-9db7b89ce318",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:25",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {},
-        "names": {
-          "ar": "قلعة الحصن.",
-          "en": "Crac des Chevaliers.",
-          "fr": "Krak des Chevaliers.",
-          "es": "Krak des Chevaliers."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/3263d454-d13e-56f9-a6d1-46ff51b6745a.jpg"
-      },
-      {
         "id": "5afe91bf-fea8-55d3-82ee-a8b6233aab07",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -10524,7 +10562,56 @@
         "image": "https://inventory.metanull.eu/pub/dc9aa87c-464b-5b43-aff4-60895e4ec60f.jpg"
       },
       {
+        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:3",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {},
+        "names": {
+          "ar": "الجامع الاقصى.",
+          "en": "Aqsa Mosque.",
+          "fr": "Mosquée al-Aqsa.",
+          "es": "Mezquita al-Aqsa."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
+      },
+      {
+        "id": "3d83888a-750e-5a9e-9d4f-9db7b89ce318",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:25",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {},
+        "names": {
+          "ar": "قلعة الحصن.",
+          "en": "Crac des Chevaliers.",
+          "fr": "Krak des Chevaliers.",
+          "es": "Krak des Chevaliers."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/3263d454-d13e-56f9-a6d1-46ff51b6745a.jpg"
+      },
+      {
+        "id": "d3cd72eb-4da3-52ee-8fe8-e450b2d00a90",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:43",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {},
+        "names": {
+          "ar": "دينار.",
+          "en": "*Dinar* (gold coin).",
+          "fr": "Dinar (pièce d'or).",
+          "es": "Moneda de oro (dinar)."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/161dba09-a4cd-5ea3-8cd3-240ed4d6453e.jpg"
+      },
+      {
         "id": "869b86b6-4148-5cb5-9768-3fc1fa05ffdb",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:10",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -10541,6 +10628,7 @@
       },
       {
         "id": "bfab383a-8a92-580d-828e-595be606bc38",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:19",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -10556,40 +10644,11 @@
       },
       {
         "id": "ca942ff7-606f-5ad2-bbe5-0716cf554458",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:7",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {}
-      },
-      {
-        "id": "d3cd72eb-4da3-52ee-8fe8-e450b2d00a90",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:43",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {},
-        "names": {
-          "ar": "دينار.",
-          "en": "*Dinar* (gold coin).",
-          "fr": "Dinar (pièce d'or).",
-          "es": "Moneda de oro (dinar)."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/161dba09-a4cd-5ea3-8cd3-240ed4d6453e.jpg"
-      },
-      {
-        "id": "e67f38ec-fa2d-5d97-b5a7-c6d7c6f6bd23",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:3",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {},
-        "names": {
-          "ar": "الجامع الاقصى.",
-          "en": "Aqsa Mosque.",
-          "fr": "Mosquée al-Aqsa.",
-          "es": "Mezquita al-Aqsa."
-        },
-        "country_id": "pse",
-        "image": "https://inventory.metanull.eu/pub/c58ad493-00ee-545c-b7f5-919437d32bb0.jpg"
       }
     ],
     "gallery_references": [
@@ -10725,47 +10784,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "16512ef6-b198-5c9c-9905-fe8825a14887",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:24",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "مبنى مرتبط بالقتال والدفاع وحماية طريق الحج.",
-          "en": "Structure linked to war, defence and security of the Hajj route.",
-          "fr": "Toutes ces structures sont associées à la guerre, la défense et la sécurité de la route du pèlerinage.",
-          "es": "Estructura que está relacionada con la guerra, defensa y seguridad de la ruta del Hayy."
-        },
-        "names": {
-          "ar": "قلعة صلاح الدين.",
-          "en": "Qal‘at Salah al-Din (Saladin).",
-          "fr": "Qal’at Salah al-Din (Saladin).",
-          "es": "Castillo de Saladino (Qal'at Salah al-Din)."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/bcaca7ad-3959-588e-8ed3-00c29962f462.jpg"
-      },
-      {
-        "id": "24c1f590-96bb-5348-8df5-0771f85e31e4",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:35",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "مبنى مرتبط بالقتال والدفاع وحماية طريق الحج.",
-          "en": "Structure linked to war, defence and security of the Hajj route.",
-          "fr": "Toutes ces structures sont associées à la guerre, la défense et la sécurité de la route du pèlerinage.",
-          "es": "Estructura que está relacionada con la guerra, defensa y seguridad de la ruta del Hayy."
-        },
-        "names": {
-          "ar": "قلعة ضبعة.",
-          "en": "Dhab’a Fortress.",
-          "fr": "Forteresse de Dhab’a.",
-          "es": "Fortaleza de Dhaba"
-        },
-        "country_id": "jor",
-        "image": "https://inventory.metanull.eu/pub/992e8f98-ff64-5b53-8319-ad96ea6d8bcb.jpg"
-      },
-      {
         "id": "2a96e20e-2325-5bea-be93-cd4c4d73eac0",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:8",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -10786,6 +10806,7 @@
       },
       {
         "id": "44db66ac-94d1-513a-affd-eaec477e9022",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:8",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -10805,7 +10826,29 @@
         "image": "https://inventory.metanull.eu/pub/6d57f7ed-4023-5b69-9ca0-8c1d3ac88d5f.jpg"
       },
       {
+        "id": "24c1f590-96bb-5348-8df5-0771f85e31e4",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:35",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "مبنى مرتبط بالقتال والدفاع وحماية طريق الحج.",
+          "en": "Structure linked to war, defence and security of the Hajj route.",
+          "fr": "Toutes ces structures sont associées à la guerre, la défense et la sécurité de la route du pèlerinage.",
+          "es": "Estructura que está relacionada con la guerra, defensa y seguridad de la ruta del Hayy."
+        },
+        "names": {
+          "ar": "قلعة ضبعة.",
+          "en": "Dhab’a Fortress.",
+          "fr": "Forteresse de Dhab’a.",
+          "es": "Fortaleza de Dhaba"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/992e8f98-ff64-5b53-8319-ad96ea6d8bcb.jpg"
+      },
+      {
         "id": "b2d48a7c-9750-53f4-8be9-cf580ad8008f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -10826,6 +10869,7 @@
       },
       {
         "id": "b6518af0-5029-5a94-8521-524613b875bb",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -10845,7 +10889,68 @@
         "image": "https://inventory.metanull.eu/pub/1531880c-4ef6-55d6-b597-7091b1011faa.jpg"
       },
       {
+        "id": "16512ef6-b198-5c9c-9905-fe8825a14887",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:24",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "مبنى مرتبط بالقتال والدفاع وحماية طريق الحج.",
+          "en": "Structure linked to war, defence and security of the Hajj route.",
+          "fr": "Toutes ces structures sont associées à la guerre, la défense et la sécurité de la route du pèlerinage.",
+          "es": "Estructura que está relacionada con la guerra, defensa y seguridad de la ruta del Hayy."
+        },
+        "names": {
+          "ar": "قلعة صلاح الدين.",
+          "en": "Qal‘at Salah al-Din (Saladin).",
+          "fr": "Qal’at Salah al-Din (Saladin).",
+          "es": "Castillo de Saladino (Qal'at Salah al-Din)."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/bcaca7ad-3959-588e-8ed3-00c29962f462.jpg"
+      },
+      {
+        "id": "f30ef8ba-a67a-55f8-91cb-fa65f19de25e",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:31",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "يحمل هذا السيف نقوش.",
+          "en": "This sword has inscriptions.",
+          "fr": "Cette épée porte des inscriptions.",
+          "es": "Esta espada tiene inscripciones."
+        }
+      },
+      {
+        "id": "d5394661-4645-57e7-b329-fa21ef1c08fd",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:25",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "كان السيف والدرع من ضمن أدوات الحرب.",
+          "en": "Sword and armour were among the instruments of war.",
+          "fr": "Épée et armure faisaient partie de la panoplie guerrière.",
+          "es": "La espada y la armadura se encuentran entre los instrumentos de guerra."
+        }
+      },
+      {
+        "id": "f30819fe-fb4c-5ec9-a552-17d8231b324a",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:37",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "درع تستخدم في المعركة.",
+          "en": "A suit of armour used in battle.",
+          "fr": "Épée et armure utilisées comme panoplie guerrière (période ayyoubide).",
+          "es": "Armadura que se utilizó en batalla."
+        }
+      },
+      {
         "id": "bfab383a-8a92-580d-828e-595be606bc38",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:19",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -10865,31 +10970,8 @@
         "image": "https://inventory.metanull.eu/pub/742799bb-fdc4-560a-a510-1c3822fdf40d.jpg"
       },
       {
-        "id": "d5394661-4645-57e7-b329-fa21ef1c08fd",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:25",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "كان السيف والدرع من ضمن أدوات الحرب.",
-          "en": "Sword and armour were among the instruments of war.",
-          "fr": "Épée et armure faisaient partie de la panoplie guerrière.",
-          "es": "La espada y la armadura se encuentran entre los instrumentos de guerra."
-        }
-      },
-      {
-        "id": "dd44c4b3-03fc-5979-8e45-d6162ea57c5a",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:6",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "سيف اخر.",
-          "en": "Another sword.",
-          "fr": "Collection d’épées.",
-          "es": "Otra espada."
-        }
-      },
-      {
         "id": "ee03a75d-9b6a-5031-8a38-a31dc82d9b98",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus02:19",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -10909,27 +10991,16 @@
         "image": "https://inventory.metanull.eu/pub/3d267560-5bb1-5dd4-bce5-4acbf9268aca.jpg"
       },
       {
-        "id": "f30819fe-fb4c-5ec9-a552-17d8231b324a",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:37",
+        "id": "dd44c4b3-03fc-5979-8e45-d6162ea57c5a",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:6",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {
-          "ar": "درع تستخدم في المعركة.",
-          "en": "A suit of armour used in battle.",
-          "fr": "Épée et armure utilisées comme panoplie guerrière (période ayyoubide).",
-          "es": "Armadura que se utilizó en batalla."
-        }
-      },
-      {
-        "id": "f30ef8ba-a67a-55f8-91cb-fa65f19de25e",
-        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:31",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "يحمل هذا السيف نقوش.",
-          "en": "This sword has inscriptions.",
-          "fr": "Cette épée porte des inscriptions.",
-          "es": "Esta espada tiene inscripciones."
+          "ar": "سيف اخر.",
+          "en": "Another sword.",
+          "fr": "Collection d’épées.",
+          "es": "Otra espada."
         }
       }
     ],
@@ -11134,6 +11205,7 @@
     "related_items": [
       {
         "id": "42a95db0-705d-5ebb-926f-d8bab4c95c82",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:7",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -11146,6 +11218,7 @@
       },
       {
         "id": "f30ef8ba-a67a-55f8-91cb-fa65f19de25e",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:31",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -11268,47 +11341,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "16512ef6-b198-5c9c-9905-fe8825a14887",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:24",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "ترتبط هذه المعالم التذكارية بالدفاع والحماية وحراسة الطرق.",
-          "en": "These monuments were associated with defence, protection and security of the roads.",
-          "fr": "Ces monuments étaient associés à la défense, la protection et la sécurité des routes.",
-          "es": "Estos monumentos están asociados con la defensa, la protección y la seguridad de las rutas."
-        },
-        "names": {
-          "ar": "قلعة صلاح الدين.",
-          "en": "Qal‘at Salah al-Din (Saladin).",
-          "fr": "Qal’at Salah al-Din (Saladin).",
-          "es": "Castillo de Saladino (Qal'at Salah al-Din)."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/bcaca7ad-3959-588e-8ed3-00c29962f462.jpg"
-      },
-      {
-        "id": "24c1f590-96bb-5348-8df5-0771f85e31e4",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:35",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "ترتبط هذه المعالم التذكارية بالدفاع والحماية وحراسة الطرق.",
-          "en": "These monuments were associated with defence, protection and security of the roads.",
-          "fr": "Ces monuments étaient associés à la défense, la protection et la sécurité des routes.",
-          "es": "Estos monumentos están asociados con la defensa, la protección y la seguridad de las rutas."
-        },
-        "names": {
-          "ar": "قلعة ضبعة.",
-          "en": "Dhab’a Fortress.",
-          "fr": "Forteresse de Dhab’a.",
-          "es": "Fortaleza de Dhaba"
-        },
-        "country_id": "jor",
-        "image": "https://inventory.metanull.eu/pub/992e8f98-ff64-5b53-8319-ad96ea6d8bcb.jpg"
-      },
-      {
         "id": "2a96e20e-2325-5bea-be93-cd4c4d73eac0",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:eg:Mon01:8",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -11328,19 +11362,29 @@
         "image": "https://inventory.metanull.eu/pub/4cb88f23-2f47-5425-a26f-ade59cbc9bdc.jpg"
       },
       {
-        "id": "42a95db0-705d-5ebb-926f-d8bab4c95c82",
-        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:7",
+        "id": "24c1f590-96bb-5348-8df5-0771f85e31e4",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:35",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
+        "in_package": false,
         "justifications": {
-          "ar": "سيف اخر بزينة ونقوش مصنوعة من الذهب.",
-          "en": "Another sword with gilded decoration and inscriptions.",
-          "fr": "Ces armes portent des décorations dorées et des inscriptions qui caractérisent aussi l’objet muséal.",
-          "es": "Otra espada con inscripciones y decoración doradas."
-        }
+          "ar": "ترتبط هذه المعالم التذكارية بالدفاع والحماية وحراسة الطرق.",
+          "en": "These monuments were associated with defence, protection and security of the roads.",
+          "fr": "Ces monuments étaient associés à la défense, la protection et la sécurité des routes.",
+          "es": "Estos monumentos están asociados con la defensa, la protección y la seguridad de las rutas."
+        },
+        "names": {
+          "ar": "قلعة ضبعة.",
+          "en": "Dhab’a Fortress.",
+          "fr": "Forteresse de Dhab’a.",
+          "es": "Fortaleza de Dhaba"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/992e8f98-ff64-5b53-8319-ad96ea6d8bcb.jpg"
       },
       {
         "id": "b2d48a7c-9750-53f4-8be9-cf580ad8008f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:ma:Mon01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -11361,6 +11405,7 @@
       },
       {
         "id": "b6518af0-5029-5a94-8521-524613b875bb",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -11380,8 +11425,30 @@
         "image": "https://inventory.metanull.eu/pub/1531880c-4ef6-55d6-b597-7091b1011faa.jpg"
       },
       {
-        "id": "dd44c4b3-03fc-5979-8e45-d6162ea57c5a",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:6",
+        "id": "16512ef6-b198-5c9c-9905-fe8825a14887",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:24",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "ترتبط هذه المعالم التذكارية بالدفاع والحماية وحراسة الطرق.",
+          "en": "These monuments were associated with defence, protection and security of the roads.",
+          "fr": "Ces monuments étaient associés à la défense, la protection et la sécurité des routes.",
+          "es": "Estos monumentos están asociados con la defensa, la protección y la seguridad de las rutas."
+        },
+        "names": {
+          "ar": "قلعة صلاح الدين.",
+          "en": "Qal‘at Salah al-Din (Saladin).",
+          "fr": "Qal’at Salah al-Din (Saladin).",
+          "es": "Castillo de Saladino (Qal'at Salah al-Din)."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/bcaca7ad-3959-588e-8ed3-00c29962f462.jpg"
+      },
+      {
+        "id": "42a95db0-705d-5ebb-926f-d8bab4c95c82",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:7",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {
@@ -11393,6 +11460,7 @@
       },
       {
         "id": "f30819fe-fb4c-5ec9-a552-17d8231b324a",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:37",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -11401,6 +11469,19 @@
           "en": "A suit of armour with a sword, which also has gilded decoration and inscriptions.",
           "fr": "Ces armes portent des décorations dorées et des inscriptions qui caractérisent aussi l’objet muséal.",
           "es": "Armadura con espada, esta también tiene inscripciones y decoración doradas."
+        }
+      },
+      {
+        "id": "dd44c4b3-03fc-5979-8e45-d6162ea57c5a",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus04:6",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "سيف اخر بزينة ونقوش مصنوعة من الذهب.",
+          "en": "Another sword with gilded decoration and inscriptions.",
+          "fr": "Ces armes portent des décorations dorées et des inscriptions qui caractérisent aussi l’objet muséal.",
+          "es": "Otra espada con inscripciones y decoración doradas."
         }
       }
     ],

@@ -715,27 +715,29 @@
     "media": [],
     "related_items": [
       {
-        "id": "01db1c07-82e0-567a-891f-8a16068181cd",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_G:42",
+        "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "اعتماد الرمزية الملكية الساسانية بمكن أن يرى على هذه القطعة النقدية من بداية العصر الأموي.",
-          "en": "Adaptations of Sassanian royal symbolism can be seen on this early Umayyad coin.",
-          "fr": "Cette pièce de monnaie de la première période omeyyade porte des adaptations du symbole de la souveraineté sassanide.",
-          "es": "Se pueden observar adaptaciones del simbolismo real sasánida en esta moneda del periodo omeya temprano."
+          "ar": "لوجة من الفريسكو في فصر عمرا التي سماها العلماء \"عائلة الملوك\" تتضمن تمثيل للإمبراطور الساساني.",
+          "en": "A fresco panel in the Qusayr Amra which scholars have labelled the ‘Family of Kings’, it includes a representation of the Sassanian Emperor.",
+          "fr": "Ce panneau de fresque de Qousayr Amra, connu sous le nom de “famille de rois”, inclut une représentation de l’empereur sassanide.",
+          "es": "Un fresco de pared en Quasyr Amra que los eruditos han calificado como “Familia de Reyes” incluye una representación del emperador sasánida."
         },
         "names": {
-          "ar": "درهم فضي.",
-          "en": "Coin (*dirham*).",
-          "fr": "Pièce de monnaie (dinar).",
-          "es": "Moneda (dirham)"
+          "ar": "قصير عمرة.",
+          "en": "Qusayr ‘Amra.",
+          "fr": "Qousayr Amra.",
+          "es": "Qusayr Amra"
         },
         "country_id": "jor",
-        "image": "https://inventory.metanull.eu/pub/0dc1bf87-a1b1-57f6-8372-33704aab45a0.jpg"
+        "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
       },
       {
         "id": "13951807-1976-5889-bda1-2525eb1918f4",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:28",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -755,14 +757,29 @@
         "image": "https://inventory.metanull.eu/pub/41413784-4fa8-542b-b3d0-bf149cc986e8.jpg"
       },
       {
-        "id": "1db2b71c-1b13-500e-b0ba-c510c7396de5",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:3",
+        "id": "01db1c07-82e0-567a-891f-8a16068181cd",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_G:42",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {}
+        "in_package": false,
+        "justifications": {
+          "ar": "اعتماد الرمزية الملكية الساسانية بمكن أن يرى على هذه القطعة النقدية من بداية العصر الأموي.",
+          "en": "Adaptations of Sassanian royal symbolism can be seen on this early Umayyad coin.",
+          "fr": "Cette pièce de monnaie de la première période omeyyade porte des adaptations du symbole de la souveraineté sassanide.",
+          "es": "Se pueden observar adaptaciones del simbolismo real sasánida en esta moneda del periodo omeya temprano."
+        },
+        "names": {
+          "ar": "درهم فضي.",
+          "en": "Coin (*dirham*).",
+          "fr": "Pièce de monnaie (dinar).",
+          "es": "Moneda (dirham)"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/0dc1bf87-a1b1-57f6-8372-33704aab45a0.jpg"
       },
       {
         "id": "4cd253cf-44cf-56c0-9d8c-9c6924980524",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:45",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -774,7 +791,16 @@
         }
       },
       {
+        "id": "703bcca9-4c28-508b-8d25-b6f6138c138c",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:50",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {}
+      },
+      {
         "id": "5dcd5e36-d273-5b03-a8de-93f266c0b45c",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -786,7 +812,16 @@
         }
       },
       {
+        "id": "1db2b71c-1b13-500e-b0ba-c510c7396de5",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:3",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {}
+      },
+      {
         "id": "702385a6-59dd-5149-9e14-fc7215434a3d",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -806,14 +841,8 @@
         "image": "https://inventory.metanull.eu/pub/821763c3-07ea-5ee3-8d26-96a5f69e321c.jpg"
       },
       {
-        "id": "703bcca9-4c28-508b-8d25-b6f6138c138c",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:50",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {}
-      },
-      {
         "id": "8473d6b1-ff39-54e8-aa27-a77f671d0068",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -826,26 +855,6 @@
         },
         "country_id": "syr",
         "image": "https://inventory.metanull.eu/pub/43baf1f9-498d-5776-8844-f509c630b641.jpg"
-      },
-      {
-        "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "لوجة من الفريسكو في فصر عمرا التي سماها العلماء \"عائلة الملوك\" تتضمن تمثيل للإمبراطور الساساني.",
-          "en": "A fresco panel in the Qusayr Amra which scholars have labelled the ‘Family of Kings’, it includes a representation of the Sassanian Emperor.",
-          "fr": "Ce panneau de fresque de Qousayr Amra, connu sous le nom de “famille de rois”, inclut une représentation de l’empereur sassanide.",
-          "es": "Un fresco de pared en Quasyr Amra que los eruditos han calificado como “Familia de Reyes” incluye una representación del emperador sasánida."
-        },
-        "names": {
-          "ar": "قصير عمرة.",
-          "en": "Qusayr ‘Amra.",
-          "fr": "Qousayr Amra.",
-          "es": "Qusayr Amra"
-        },
-        "country_id": "jor",
-        "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
       }
     ],
     "gallery_references": [
@@ -980,136 +989,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "0c3648d9-9762-55ae-85a2-34844ebd664f",
-        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:3",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "لوحة الفريسكو  هذه هي من قصر صحراوي أموي آخر ،قصير عمرا و تجسد شكل امرأة التي تظهر استمرارية للطراز بواسطة الفن المحلي قبل الإسلام.",
-          "en": "This Fresco from another Umayyad desert palace, Qusayr Amra, features a female figure that shows a continuity of style with local pre-Islamic art.",
-          "fr": "Cette fresque d’un autre palais du désert omeyyade, Qousayr Amra, représente une silhouette féminine en continuité stylistique avec l’art préislamique local.",
-          "es": "En este fresco procedente de otro palacio omeya del desierto, Quasyr Amra, se representa una figura femenina poniendo de relieve la continuidad del estilo con el arte preislámico local."
-        }
-      },
-      {
-        "id": "13951807-1976-5889-bda1-2525eb1918f4",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:28",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "قصر  الحير غربي الأموي هو الموقع الأصلي لهذه اللوحة الأرضية.",
-          "en": "The Umayyad palace of Qasr al-Hayr al-Gharbi is the original location of this floor painting.",
-          "es": "La localización original de este pavimento pintado es el palacio omeya de Qasr al-hayr al-garbi."
-        },
-        "names": {
-          "ar": "قصر الحير الغربي.",
-          "en": "Qasr al-Hayr al-Gharbi.",
-          "fr": "Qasr al-Khayr al-Gharbi.",
-          "es": "Qasr al-Hayr al-Garbi."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/41413784-4fa8-542b-b3d0-bf149cc986e8.jpg"
-      },
-      {
-        "id": "1db2b71c-1b13-500e-b0ba-c510c7396de5",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:3",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "هذه اللوحة في قصر الحير غربي مستمدة من أسطورة يونانية – رومانية و اللوحة الأخرى التي تشاهد في قصير عمرا تظهر امرأة عربية شاعرة في الفناء.",
-          "en": "This painting at Qasr al-Hayr al-Gharbi is derived from Greco-Roman myth. The other, seen at Qusayr Amra, depicts an Arabian female poet at court.",
-          "fr": "Cette peinture de Qasr al-Khayr al-Gharbi vient du mythe gréco-romain. Celle de Qousayr Amra dépeint une poétesse arabe à la cour.",
-          "es": "Esta pintura de Qasr al-hayr al-garbi se basa en un mito grecorromano. La otra, en Quasyr Amra, representa una poetisa árabe en la corte."
-        }
-      },
-      {
-        "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "القصور الصحراوية الأموية لم تكن فقط تزين بصور مرسوم فيها أشخاص و لكن لفسيفساء تفصيلية بشكل فني كما يرى في خربة المفجر.",
-          "en": "Umayyad desert palaces were not only decorated with painted figurative images but also with expertly detailed mosaics, as seen at Khirbat al-Mafjar.",
-          "fr": "Les palais omeyyades du désert étaient non seulement décorés de peintures figuratives mais aussi de mosaïques finement détaillées, comme à Khirbat al-Mafjar.",
-          "es": "Los palacios omeyas del desierto no estaban decorados únicamente con imágenes figurativas pintadas, también con mosaicos detallados minuciosamente, como se observa en Jirbat al-Mafyar."
-        },
-        "names": {
-          "ar": "خربة المفجر.",
-          "en": "Khirbat al-Mafjar.",
-          "fr": "Khirbat al-Mafjar.",
-          "es": "Jirbat al-Mafyar."
-        },
-        "country_id": "pse",
-        "image": "https://inventory.metanull.eu/pub/4ac0cba0-2130-5cf5-94c4-dd7810661e2b.jpg"
-      },
-      {
-        "id": "702385a6-59dd-5149-9e14-fc7215434a3d",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:4",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "ساكف  الباب استخدم من قبل العلماء كأساس لتأريخ اللوحات في قصر الحير غربي في السنة 109/727",
-          "en": "The door lintel has been used by scholars as the basis for dating the paintings seen at Qasr al-Hayr al-Gharbi to the year 109/727.",
-          "fr": "Le linteau de la porte a servi à dater les peintures de Qasr al-Khayr al-Gharbi de 109 H / 727 J.-C.",
-          "es": "Los eruditos tomaron como base el dintel de la puerta para la datación de las pinturas observadas en Qasr al-hayr al-garbi en el año 109/727."
-        },
-        "names": {
-          "ar": "ساكف باب.",
-          "en": "Door Lintel.",
-          "fr": "Linteau de porte.",
-          "es": "Dintel de puerta."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/821763c3-07ea-5ee3-8d26-96a5f69e321c.jpg"
-      },
-      {
-        "id": "703bcca9-4c28-508b-8d25-b6f6138c138c",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:50",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {}
-      },
-      {
-        "id": "8473d6b1-ff39-54e8-aa27-a77f671d0068",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:5",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {},
-        "names": {
-          "ar": "القسم السفلي من تمثال.",
-          "en": "Lower half of a sculpturesque high relief.",
-          "fr": "Moitié inférieure d’un haut-relief.",
-          "es": "Mitad inferior de un altorrelieve."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/43baf1f9-498d-5776-8844-f509c630b641.jpg"
-      },
-      {
-        "id": "952ab9d3-ae66-55d8-89bd-8e1f14d55203",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:47",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "إلهة الأرض جايا ( أو جيا ) يمكن أن تكون رمزا مجسدا في هذه اللوحة بينما المرأة شبه العارية ترى في قصبر عمرا يمكن أن تكون ترمز لأفروديت إلهة الحب.",
-          "en": "The earth Goddess Gaea may be symbolised in this painting, while the near-naked woman seen at Qusayr Amra may have symbolised Aphrodite, the goddess of love.",
-          "fr": "C’est peut-être la déesse de la Terre, Gaia, qui est symbolisée dans cette peinture, tandis que la femme presque nue vue à Qousayr Amra pourrait symboliser Aphrodite, la déesse de l’amour.",
-          "es": "Es posible que en esta pintura se haya representado a la diosa tierra Gaea, mientras que es posible que la mujer semidesnuda que se puede observar en Quasyr Amra represente a Afrodita, la diosa del amor."
-        }
-      },
-      {
-        "id": "d861eea4-5eaf-5a74-81c8-1ecb64d9a358",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:2",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "لوحة رسم أرضية من منطقة الاستقبال في قصر الحير غربي حيث تظهر فيها الأسطورة الملكية الساسانية – الفارسية و أشخاص من الأساطير اليونانية – الرومانية في مشهد صيد.",
-          "en": "A floor painting from the reception area at Qasr al-Hayr al-Gharbi. Sassanian-Persian royal mythology and figures from Greco-Roman mythology are depicted in this hunting scene.",
-          "fr": "Peinture de sol de la salle de réception de Qasr al-Khayr al-Gharbi. La mythologie royale perso-sassanide et les personnages de la mythologie gréco-romaine sont représentés dans cette scène de chasse.",
-          "es": "Un suelo pintado en la zona de recepción de Qasr al-hayr al-garbi. En esta escena de caza se representan la mitología real sasánida-persa y figuras de la mitología grecorromana."
-        }
-      },
-      {
         "id": "daf6de83-e39d-5737-9268-1b7c8b56066e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1131,6 +1012,7 @@
       },
       {
         "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1148,6 +1030,144 @@
         },
         "country_id": "jor",
         "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
+      },
+      {
+        "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "القصور الصحراوية الأموية لم تكن فقط تزين بصور مرسوم فيها أشخاص و لكن لفسيفساء تفصيلية بشكل فني كما يرى في خربة المفجر.",
+          "en": "Umayyad desert palaces were not only decorated with painted figurative images but also with expertly detailed mosaics, as seen at Khirbat al-Mafjar.",
+          "fr": "Les palais omeyyades du désert étaient non seulement décorés de peintures figuratives mais aussi de mosaïques finement détaillées, comme à Khirbat al-Mafjar.",
+          "es": "Los palacios omeyas del desierto no estaban decorados únicamente con imágenes figurativas pintadas, también con mosaicos detallados minuciosamente, como se observa en Jirbat al-Mafyar."
+        },
+        "names": {
+          "ar": "خربة المفجر.",
+          "en": "Khirbat al-Mafjar.",
+          "fr": "Khirbat al-Mafjar.",
+          "es": "Jirbat al-Mafyar."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/4ac0cba0-2130-5cf5-94c4-dd7810661e2b.jpg"
+      },
+      {
+        "id": "13951807-1976-5889-bda1-2525eb1918f4",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:28",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "قصر  الحير غربي الأموي هو الموقع الأصلي لهذه اللوحة الأرضية.",
+          "en": "The Umayyad palace of Qasr al-Hayr al-Gharbi is the original location of this floor painting.",
+          "es": "La localización original de este pavimento pintado es el palacio omeya de Qasr al-hayr al-garbi."
+        },
+        "names": {
+          "ar": "قصر الحير الغربي.",
+          "en": "Qasr al-Hayr al-Gharbi.",
+          "fr": "Qasr al-Khayr al-Gharbi.",
+          "es": "Qasr al-Hayr al-Garbi."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/41413784-4fa8-542b-b3d0-bf149cc986e8.jpg"
+      },
+      {
+        "id": "0c3648d9-9762-55ae-85a2-34844ebd664f",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:3",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "لوحة الفريسكو  هذه هي من قصر صحراوي أموي آخر ،قصير عمرا و تجسد شكل امرأة التي تظهر استمرارية للطراز بواسطة الفن المحلي قبل الإسلام.",
+          "en": "This Fresco from another Umayyad desert palace, Qusayr Amra, features a female figure that shows a continuity of style with local pre-Islamic art.",
+          "fr": "Cette fresque d’un autre palais du désert omeyyade, Qousayr Amra, représente une silhouette féminine en continuité stylistique avec l’art préislamique local.",
+          "es": "En este fresco procedente de otro palacio omeya del desierto, Quasyr Amra, se representa una figura femenina poniendo de relieve la continuidad del estilo con el arte preislámico local."
+        }
+      },
+      {
+        "id": "952ab9d3-ae66-55d8-89bd-8e1f14d55203",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:47",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "إلهة الأرض جايا ( أو جيا ) يمكن أن تكون رمزا مجسدا في هذه اللوحة بينما المرأة شبه العارية ترى في قصبر عمرا يمكن أن تكون ترمز لأفروديت إلهة الحب.",
+          "en": "The earth Goddess Gaea may be symbolised in this painting, while the near-naked woman seen at Qusayr Amra may have symbolised Aphrodite, the goddess of love.",
+          "fr": "C’est peut-être la déesse de la Terre, Gaia, qui est symbolisée dans cette peinture, tandis que la femme presque nue vue à Qousayr Amra pourrait symboliser Aphrodite, la déesse de l’amour.",
+          "es": "Es posible que en esta pintura se haya representado a la diosa tierra Gaea, mientras que es posible que la mujer semidesnuda que se puede observar en Quasyr Amra represente a Afrodita, la diosa del amor."
+        }
+      },
+      {
+        "id": "703bcca9-4c28-508b-8d25-b6f6138c138c",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:50",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {}
+      },
+      {
+        "id": "d861eea4-5eaf-5a74-81c8-1ecb64d9a358",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:2",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "لوحة رسم أرضية من منطقة الاستقبال في قصر الحير غربي حيث تظهر فيها الأسطورة الملكية الساسانية – الفارسية و أشخاص من الأساطير اليونانية – الرومانية في مشهد صيد.",
+          "en": "A floor painting from the reception area at Qasr al-Hayr al-Gharbi. Sassanian-Persian royal mythology and figures from Greco-Roman mythology are depicted in this hunting scene.",
+          "fr": "Peinture de sol de la salle de réception de Qasr al-Khayr al-Gharbi. La mythologie royale perso-sassanide et les personnages de la mythologie gréco-romaine sont représentés dans cette scène de chasse.",
+          "es": "Un suelo pintado en la zona de recepción de Qasr al-hayr al-garbi. En esta escena de caza se representan la mitología real sasánida-persa y figuras de la mitología grecorromana."
+        }
+      },
+      {
+        "id": "1db2b71c-1b13-500e-b0ba-c510c7396de5",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:3",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "هذه اللوحة في قصر الحير غربي مستمدة من أسطورة يونانية – رومانية و اللوحة الأخرى التي تشاهد في قصير عمرا تظهر امرأة عربية شاعرة في الفناء.",
+          "en": "This painting at Qasr al-Hayr al-Gharbi is derived from Greco-Roman myth. The other, seen at Qusayr Amra, depicts an Arabian female poet at court.",
+          "fr": "Cette peinture de Qasr al-Khayr al-Gharbi vient du mythe gréco-romain. Celle de Qousayr Amra dépeint une poétesse arabe à la cour.",
+          "es": "Esta pintura de Qasr al-hayr al-garbi se basa en un mito grecorromano. La otra, en Quasyr Amra, representa una poetisa árabe en la corte."
+        }
+      },
+      {
+        "id": "702385a6-59dd-5149-9e14-fc7215434a3d",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:4",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "ساكف  الباب استخدم من قبل العلماء كأساس لتأريخ اللوحات في قصر الحير غربي في السنة 109/727",
+          "en": "The door lintel has been used by scholars as the basis for dating the paintings seen at Qasr al-Hayr al-Gharbi to the year 109/727.",
+          "fr": "Le linteau de la porte a servi à dater les peintures de Qasr al-Khayr al-Gharbi de 109 H / 727 J.-C.",
+          "es": "Los eruditos tomaron como base el dintel de la puerta para la datación de las pinturas observadas en Qasr al-hayr al-garbi en el año 109/727."
+        },
+        "names": {
+          "ar": "ساكف باب.",
+          "en": "Door Lintel.",
+          "fr": "Linteau de porte.",
+          "es": "Dintel de puerta."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/821763c3-07ea-5ee3-8d26-96a5f69e321c.jpg"
+      },
+      {
+        "id": "8473d6b1-ff39-54e8-aa27-a77f671d0068",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:5",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {},
+        "names": {
+          "ar": "القسم السفلي من تمثال.",
+          "en": "Lower half of a sculpturesque high relief.",
+          "fr": "Moitié inférieure d’un haut-relief.",
+          "es": "Mitad inferior de un altorrelieve."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/43baf1f9-498d-5776-8844-f509c630b641.jpg"
       }
     ],
     "gallery_references": [
@@ -1277,39 +1297,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "1557e889-e4c0-511e-92f2-cf332ab357cf",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:13",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "المبخرة الأيوبية التي تحمل صورا لأيقونات مسيحية ربما في الأرجح صنعت في سوريا.",
-          "en": "An Ayyubid incense burner that features images of Christian iconography and was most probably made in Syria.",
-          "fr": "Brûleur d’encens ayyoubide qui représente des images de l’iconographie chrétienne et qui fut très probablement exécuté en Syrie.",
-          "es": "Un quemador de incienso ayubí que representa imágenes de la iconografía cristiana y posiblemente elaborado en Siria."
-        },
-        "names": {
-          "ar": "مبخرة.",
-          "en": "Incense burner.",
-          "fr": "Brûleur d’encens.",
-          "es": "Pebetero."
-        },
-        "country_id": "gbr",
-        "image": "https://inventory.metanull.eu/pub/d5d45b08-4dfc-507d-a5b4-b47f1bfeb7b2.jpg"
-      },
-      {
-        "id": "1db2b71c-1b13-500e-b0ba-c510c7396de5",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:3",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "كما في هذه القطعة ، التي تعود ليس لأكثر من أربعمائة عام  قبل الفترة الأموية ، تظهر  الخبرة في سوريا في مثل هذه الرسوم الجدارية  الثرية.",
-          "en": "As illustrated by this fragment, not since the Umayyad period some 400 years earlier, did Syria experience such a wealth of mural painting.",
-          "fr": "Comme l’illustre ce fragment, la Syrie n’a pas connu une telle richesse de peinture murale depuis la période omeyyade, soit quelque 400 ans auparavant.",
-          "es": "Como se ilustra en este fragmento, Siria no experimentaba tanta riqueza de pintura mural desde aproximadamente 400 años antes durante el periodo omeya."
-        }
-      },
-      {
         "id": "bd0502e7-8e93-5eae-9634-c4fcfe027590",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1327,6 +1316,40 @@
         },
         "country_id": "syr",
         "image": "https://inventory.metanull.eu/pub/4e71444a-6db0-5921-a067-b970090f40ff.jpg"
+      },
+      {
+        "id": "1db2b71c-1b13-500e-b0ba-c510c7396de5",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:3",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "كما في هذه القطعة ، التي تعود ليس لأكثر من أربعمائة عام  قبل الفترة الأموية ، تظهر  الخبرة في سوريا في مثل هذه الرسوم الجدارية  الثرية.",
+          "en": "As illustrated by this fragment, not since the Umayyad period some 400 years earlier, did Syria experience such a wealth of mural painting.",
+          "fr": "Comme l’illustre ce fragment, la Syrie n’a pas connu une telle richesse de peinture murale depuis la période omeyyade, soit quelque 400 ans auparavant.",
+          "es": "Como se ilustra en este fragmento, Siria no experimentaba tanta riqueza de pintura mural desde aproximadamente 400 años antes durante el periodo omeya."
+        }
+      },
+      {
+        "id": "1557e889-e4c0-511e-92f2-cf332ab357cf",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:13",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "المبخرة الأيوبية التي تحمل صورا لأيقونات مسيحية ربما في الأرجح صنعت في سوريا.",
+          "en": "An Ayyubid incense burner that features images of Christian iconography and was most probably made in Syria.",
+          "fr": "Brûleur d’encens ayyoubide qui représente des images de l’iconographie chrétienne et qui fut très probablement exécuté en Syrie.",
+          "es": "Un quemador de incienso ayubí que representa imágenes de la iconografía cristiana y posiblemente elaborado en Siria."
+        },
+        "names": {
+          "ar": "مبخرة.",
+          "en": "Incense burner.",
+          "fr": "Brûleur d’encens.",
+          "es": "Pebetero."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/d5d45b08-4dfc-507d-a5b4-b47f1bfeb7b2.jpg"
       }
     ],
     "gallery_references": [
@@ -1491,7 +1514,29 @@
     "media": [],
     "related_items": [
       {
+        "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "رسوم جدارية في قصر عمرا تظهر نساء و العديد منهن يظهرن وهن يرقصن في الفناء.",
+          "en": "Mural paintings at Qusayr Amra depict women, many of which appear to be dancing courtesans.",
+          "fr": "Les peintures murales de Qousayr Amra décrivent des femmes, nombre d’entre elles semblent des courtisanes en train de danser.",
+          "es": "Las pinturas murales de Quasyr Amra representan mujeres, muchas de las cuales parecen danzarinas cortesanas."
+        },
+        "names": {
+          "ar": "قصير عمرة.",
+          "en": "Qusayr ‘Amra.",
+          "fr": "Qousayr Amra.",
+          "es": "Qusayr Amra"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
+      },
+      {
         "id": "13951807-1976-5889-bda1-2525eb1918f4",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:28",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1512,6 +1557,7 @@
       },
       {
         "id": "5dcd5e36-d273-5b03-a8de-93f266c0b45c",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -1523,7 +1569,16 @@
         }
       },
       {
+        "id": "d861eea4-5eaf-5a74-81c8-1ecb64d9a358",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:2",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {}
+      },
+      {
         "id": "702385a6-59dd-5149-9e14-fc7215434a3d",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1544,6 +1599,7 @@
       },
       {
         "id": "8473d6b1-ff39-54e8-aa27-a77f671d0068",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1559,6 +1615,7 @@
       },
       {
         "id": "a821e620-0be1-566e-9efd-535d3a1c2fcd",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:45",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -1568,33 +1625,6 @@
           "fr": "La Syrie n’a pas connu une telle richesse d’expression artistique et de peinture murale figurative jusqu’à la période ayyoubide, près de 400 ans après la chute des Omeyyades.",
           "es": "Siria no experimentó tanta riqueza de expresión artística y pinturas figurativas en paredes hasta casi 400 años después de la caída de los omeyas, durante el periodo ayubí."
         }
-      },
-      {
-        "id": "d861eea4-5eaf-5a74-81c8-1ecb64d9a358",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:2",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {}
-      },
-      {
-        "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "رسوم جدارية في قصر عمرا تظهر نساء و العديد منهن يظهرن وهن يرقصن في الفناء.",
-          "en": "Mural paintings at Qusayr Amra depict women, many of which appear to be dancing courtesans.",
-          "fr": "Les peintures murales de Qousayr Amra décrivent des femmes, nombre d’entre elles semblent des courtisanes en train de danser.",
-          "es": "Las pinturas murales de Quasyr Amra representan mujeres, muchas de las cuales parecen danzarinas cortesanas."
-        },
-        "names": {
-          "ar": "قصير عمرة.",
-          "en": "Qusayr ‘Amra.",
-          "fr": "Qousayr Amra.",
-          "es": "Qusayr Amra"
-        },
-        "country_id": "jor",
-        "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
       }
     ],
     "gallery_references": [
@@ -1724,38 +1754,29 @@
     "media": [],
     "related_items": [
       {
-        "id": "3a0eac5c-b039-57d4-9958-f23bbfce364b",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:46",
+        "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
+        "in_package": false,
         "justifications": {
-          "ar": "الموسيقي هو من نفس القصر.",
-          "en": "The musician is from the same palace.",
-          "fr": "Le musicien provient du même palais.",
-          "es": "El músico pertenece al mismo palacio."
-        }
-      },
-      {
-        "id": "3c8378b6-b15a-5c21-874e-d7a334e3dab5",
-        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:26",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "الجص ذو مواضيع مجسمة من أشخاص أيضا استخدمت ضمن القصور الفاطمية في القاهرة.",
-          "en": "Frescos with figural themes were also used within the Fatimid palaces in Cairo.",
-          "fr": "On utilisait aussi des fresques à thèmes figuratifs dans les palais fatimides du Caire.",
-          "es": "También se han empleado frescos de temática figurativa dentro de palacios fatimíes en El Cairo."
-        }
-      },
-      {
-        "id": "3ef00d87-7d99-5046-8489-348689e5698a",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:49",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {}
+          "ar": "البناء الذي جلبت منه مشغولات الجص الذي يرى هنا هو من عفر في الصحراء الأردنية.",
+          "en": "The building from which the fresco comes is here seen from afar in the Jordanian desert.",
+          "fr": "L’édifice d’où provient la fresque, vu ici de loin dans le désert jordanien.",
+          "es": "La construcción de la cual proviene este fresco se puede observar a distancia en el desierto de Jordania."
+        },
+        "names": {
+          "ar": "قصير عمرة.",
+          "en": "Qusayr ‘Amra.",
+          "fr": "Qousayr Amra.",
+          "es": "Qusayr Amra"
+        },
+        "country_id": "jor",
+        "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
       },
       {
         "id": "4c2db764-43bb-574c-9e09-b5f486e451c3",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:2",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1771,32 +1792,38 @@
         "image": "https://inventory.metanull.eu/pub/cdd45886-6c7f-5189-8805-5364504402de.jpg"
       },
       {
-        "id": "4cd253cf-44cf-56c0-9d8c-9c6924980524",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:45",
+        "id": "d2379132-91f2-5a63-8508-ac615d5bf783",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:50",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {}
+        "in_package": false,
+        "justifications": {},
+        "names": {
+          "ar": "كِسرة من تمثال امرأة من المشتى.",
+          "de": "Fragment einer Frauenstatue aus Mschatta.",
+          "en": "Fragment of a female statue from Mushatta.",
+          "fr": "Fragment de statue de femme provenant de Mchatta.",
+          "es": "Fragmento de estatua femenina de Mushatta."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/810738d2-f6ab-561f-80c5-1d37ced4b601.jpg"
       },
       {
-        "id": "56acaf8e-1d2d-5882-9b67-7d024e5744ff",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:48",
+        "id": "3c8378b6-b15a-5c21-874e-d7a334e3dab5",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:26",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {
-          "ar": "هذا الراقص من الجص هو من جزء مختلف من نفس القصر.",
-          "en": "This fresco of a dancer comes from a different part of the same palace.",
-          "fr": "Cette fresque à la danseuse provient d’une autre partie du même palais."
+          "ar": "الجص ذو مواضيع مجسمة من أشخاص أيضا استخدمت ضمن القصور الفاطمية في القاهرة.",
+          "en": "Frescos with figural themes were also used within the Fatimid palaces in Cairo.",
+          "fr": "On utilisait aussi des fresques à thèmes figuratifs dans les palais fatimides du Caire.",
+          "es": "También se han empleado frescos de temática figurativa dentro de palacios fatimíes en El Cairo."
         }
       },
       {
-        "id": "703bcca9-4c28-508b-8d25-b6f6138c138c",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:50",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {}
-      },
-      {
         "id": "7fd24a74-b039-5ba4-b6a9-6fe4522c585f",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:29",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -1816,37 +1843,73 @@
         "image": "https://inventory.metanull.eu/pub/5b4c5f9f-1bda-5472-919d-ca263baf90ed.jpg"
       },
       {
-        "id": "952ab9d3-ae66-55d8-89bd-8e1f14d55203",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:47",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {}
-      },
-      {
         "id": "ab5f529a-54db-5914-b779-6e088fe95b11",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:5",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
         "justifications": {}
       },
       {
-        "id": "d2379132-91f2-5a63-8508-ac615d5bf783",
-        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:50",
+        "id": "4cd253cf-44cf-56c0-9d8c-9c6924980524",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:45",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {},
-        "names": {
-          "ar": "كِسرة من تمثال امرأة من المشتى.",
-          "de": "Fragment einer Frauenstatue aus Mschatta.",
-          "en": "Fragment of a female statue from Mushatta.",
-          "fr": "Fragment de statue de femme provenant de Mchatta.",
-          "es": "Fragmento de estatua femenina de Mushatta."
-        },
-        "country_id": "deu",
-        "image": "https://inventory.metanull.eu/pub/810738d2-f6ab-561f-80c5-1d37ced4b601.jpg"
+        "in_package": true,
+        "justifications": {}
+      },
+      {
+        "id": "3a0eac5c-b039-57d4-9958-f23bbfce364b",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:46",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "الموسيقي هو من نفس القصر.",
+          "en": "The musician is from the same palace.",
+          "fr": "Le musicien provient du même palais.",
+          "es": "El músico pertenece al mismo palacio."
+        }
+      },
+      {
+        "id": "952ab9d3-ae66-55d8-89bd-8e1f14d55203",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:47",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {}
+      },
+      {
+        "id": "56acaf8e-1d2d-5882-9b67-7d024e5744ff",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:48",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "هذا الراقص من الجص هو من جزء مختلف من نفس القصر.",
+          "en": "This fresco of a dancer comes from a different part of the same palace.",
+          "fr": "Cette fresque à la danseuse provient d’une autre partie du même palais."
+        }
+      },
+      {
+        "id": "3ef00d87-7d99-5046-8489-348689e5698a",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:49",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {}
+      },
+      {
+        "id": "703bcca9-4c28-508b-8d25-b6f6138c138c",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:50",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {}
       },
       {
         "id": "d861eea4-5eaf-5a74-81c8-1ecb64d9a358",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:2",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -1856,26 +1919,6 @@
           "fr": "Peintures de sol montrant des musiciens mises au jour à l’intérieur du palais omeyyade.",
           "es": "Dentro de este palacio omeya, se han encontrado frescos en el suelo que muestran músicos."
         }
-      },
-      {
-        "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "البناء الذي جلبت منه مشغولات الجص الذي يرى هنا هو من عفر في الصحراء الأردنية.",
-          "en": "The building from which the fresco comes is here seen from afar in the Jordanian desert.",
-          "fr": "L’édifice d’où provient la fresque, vu ici de loin dans le désert jordanien.",
-          "es": "La construcción de la cual proviene este fresco se puede observar a distancia en el desierto de Jordania."
-        },
-        "names": {
-          "ar": "قصير عمرة.",
-          "en": "Qusayr ‘Amra.",
-          "fr": "Qousayr Amra.",
-          "es": "Qusayr Amra"
-        },
-        "country_id": "jor",
-        "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
       }
     ],
     "gallery_references": [
@@ -2044,68 +2087,29 @@
     "media": [],
     "related_items": [
       {
-        "id": "10e14593-faff-5437-b999-efaa138e0262",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:13",
+        "id": "b186a1dd-c9a1-595e-887f-c136139c0a6d",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:3",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
           "ar": "يُعدّ الأثر هذا حمام . كما تعود اللوحة هذه لإحدى حمامات القصر.",
-          "en": "This monument is a bathhouse and the fresco is from the baths of a palace.",
+          "en": "This monument is a *hammam* (baths) and the fresco is from the baths of a palace.",
           "fr": "Ce monument est un hammam et la fresque provient des bains d’un palais.",
-          "es": "Este monumento es una casa de baños y el fresco pertenece a los baños del palacio."
+          "es": "Este monumento es un *hammam* (baños) y el fresco pertenece a los baños del palacio."
         },
         "names": {
-          "ar": "حمام نور الدين.",
-          "en": "Hammam Nur al-Din",
-          "fr": "Hammam Nour al-Din.",
-          "es": "*Hammam* de Nur al-Din."
+          "ar": "حمام الصباغين.",
+          "en": "Hammam al-Sabaghine (Baths of the Dyers).",
+          "fr": "Hammam Essebaghine (bains des Teinturiers).",
+          "es": "Baño de los Tintoreros (Hammam al-Sabbagin)."
         },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/d7effca6-123d-5c9b-816f-06ba76bbb9b5.jpg"
-      },
-      {
-        "id": "17d6e18b-8628-5642-bf1b-3e753e6d63d6",
-        "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:10",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تأثرا كِلا العمليين ببصمة من الفن الإيطالي.",
-          "en": "Both works have an artistic legacy from Iranian art.",
-          "fr": "Les deux œuvres ont un héritage artistique iranien.",
-          "es": "En ambas obras se observa el legado artístico del arte iraní."
-        },
-        "names": {
-          "ar": "سقف خشبي ملون في كنيسة البالاتينا.",
-          "en": "Painted wooden ceiling of the Palatine Chapel.",
-          "fr": "Plafond en bois peint de la chapelle Palatine.",
-          "it": "Soffitto ligneo dipinto della Cappella Palatina.",
-          "es": "Techumbre pintada de la Capilla Palatina"
-        },
-        "country_id": "ita",
-        "image": "https://inventory.metanull.eu/pub/d0959f0b-34a3-51bb-8ed0-5c1de28bdcf0.jpg"
-      },
-      {
-        "id": "305f4585-8d17-53d5-a7d9-3ce3b3fa0f2c",
-        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:39",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "كِلاهما قِباب مُزينة تخص القصر.",
-          "en": "Both works are decorated cupulas from a palace.",
-          "fr": "Les deux œuvres sont des coupoles décorées transférées depuis un palais.",
-          "es": "Ambas obras son cúpulas decoradas de un palacio."
-        },
-        "names": {
-          "ar": "قبة طوريخوس.",
-          "en": "Cupola from Torrijos.",
-          "fr": "Coupole de Torrijos.",
-          "es": "Cúpula de Torrijos."
-        },
-        "country_id": "esp",
-        "image": "https://inventory.metanull.eu/pub/8a1b7e42-38ea-5d63-85de-505230b602af.jpg"
+        "country_id": "dza",
+        "image": "https://inventory.metanull.eu/pub/af71a041-b693-5b49-879f-0e6bbc067433.jpg"
       },
       {
         "id": "7c7c2cda-78e1-597a-b911-718576ff198a",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:9",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2126,27 +2130,30 @@
         "image": "https://inventory.metanull.eu/pub/bf2cc5f0-682e-5b49-9e62-cc85ff37bd24.jpg"
       },
       {
-        "id": "b186a1dd-c9a1-595e-887f-c136139c0a6d",
-        "backward_compatibility": "mwnf3:monuments:ISL:dz:Mon01:3",
+        "id": "17d6e18b-8628-5642-bf1b-3e753e6d63d6",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:10",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "يُعدّ الأثر هذا حمام . كما تعود اللوحة هذه لإحدى حمامات القصر.",
-          "en": "This monument is a *hammam* (baths) and the fresco is from the baths of a palace.",
-          "fr": "Ce monument est un hammam et la fresque provient des bains d’un palais.",
-          "es": "Este monumento es un *hammam* (baños) y el fresco pertenece a los baños del palacio."
+          "ar": "تأثرا كِلا العمليين ببصمة من الفن الإيطالي.",
+          "en": "Both works have an artistic legacy from Iranian art.",
+          "fr": "Les deux œuvres ont un héritage artistique iranien.",
+          "es": "En ambas obras se observa el legado artístico del arte iraní."
         },
         "names": {
-          "ar": "حمام الصباغين.",
-          "en": "Hammam al-Sabaghine (Baths of the Dyers).",
-          "fr": "Hammam Essebaghine (bains des Teinturiers).",
-          "es": "Baño de los Tintoreros (Hammam al-Sabbagin)."
+          "ar": "سقف خشبي ملون في كنيسة البالاتينا.",
+          "en": "Painted wooden ceiling of the Palatine Chapel.",
+          "fr": "Plafond en bois peint de la chapelle Palatine.",
+          "it": "Soffitto ligneo dipinto della Cappella Palatina.",
+          "es": "Techumbre pintada de la Capilla Palatina"
         },
-        "country_id": "dza",
-        "image": "https://inventory.metanull.eu/pub/af71a041-b693-5b49-879f-0e6bbc067433.jpg"
+        "country_id": "ita",
+        "image": "https://inventory.metanull.eu/pub/d0959f0b-34a3-51bb-8ed0-5c1de28bdcf0.jpg"
       },
       {
         "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2166,7 +2173,29 @@
         "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
       },
       {
+        "id": "10e14593-faff-5437-b999-efaa138e0262",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:13",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يُعدّ الأثر هذا حمام . كما تعود اللوحة هذه لإحدى حمامات القصر.",
+          "en": "This monument is a bathhouse and the fresco is from the baths of a palace.",
+          "fr": "Ce monument est un hammam et la fresque provient des bains d’un palais.",
+          "es": "Este monumento es una casa de baños y el fresco pertenece a los baños del palacio."
+        },
+        "names": {
+          "ar": "حمام نور الدين.",
+          "en": "Hammam Nur al-Din",
+          "fr": "Hammam Nour al-Din.",
+          "es": "*Hammam* de Nur al-Din."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/d7effca6-123d-5c9b-816f-06ba76bbb9b5.jpg"
+      },
+      {
         "id": "fb0d852c-219c-5753-93b5-9648fdd94679",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2185,6 +2214,27 @@
         },
         "country_id": "deu",
         "image": "https://inventory.metanull.eu/pub/733fc460-167b-532f-8dc4-364e3688c78f.jpg"
+      },
+      {
+        "id": "305f4585-8d17-53d5-a7d9-3ce3b3fa0f2c",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:39",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "كِلاهما قِباب مُزينة تخص القصر.",
+          "en": "Both works are decorated cupulas from a palace.",
+          "fr": "Les deux œuvres sont des coupoles décorées transférées depuis un palais.",
+          "es": "Ambas obras son cúpulas decoradas de un palacio."
+        },
+        "names": {
+          "ar": "قبة طوريخوس.",
+          "en": "Cupola from Torrijos.",
+          "fr": "Coupole de Torrijos.",
+          "es": "Cúpula de Torrijos."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/8a1b7e42-38ea-5d63-85de-505230b602af.jpg"
       }
     ],
     "gallery_references": [
@@ -2327,19 +2377,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "0c3648d9-9762-55ae-85a2-34844ebd664f",
-        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:3",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "يعود أصل اللوحتان لنفس القصر كما تظهر عليهما عنصرًا أنثوي في مساحة مُحددة.",
-          "en": "Both frescos are from the same palace and represent a female figure within a defined space.",
-          "fr": "Les deux fresques proviennent du même palais et représentent une figure féminine dans un espace clos.",
-          "es": "Ambos frescos provienen del mismo palacio y representan una figura femenina dentro de un espacio específico."
-        }
-      },
-      {
         "id": "17d6e18b-8628-5642-bf1b-3e753e6d63d6",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:10",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2360,60 +2399,8 @@
         "image": "https://inventory.metanull.eu/pub/d0959f0b-34a3-51bb-8ed0-5c1de28bdcf0.jpg"
       },
       {
-        "id": "1db2b71c-1b13-500e-b0ba-c510c7396de5",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:3",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "تحمل اللوحتان العنصر الأنثوي والذي يعود أصله للفترة الأموية.",
-          "en": "Both works are fresco paintings of female figures from Umayyad palaces.",
-          "fr": "Les deux fresques représentent des figures féminines d’un palais omeyyade.",
-          "es": "Ambas obras son frescos representando figuras femeninas de palacios omeyas."
-        }
-      },
-      {
-        "id": "7bf56987-b874-51e5-91e1-bf19f3afba07",
-        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:33",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تمثل القطعتان الفن التصويري الإسلامي.",
-          "en": "Both works represent Islamic figurative art.",
-          "fr": "Les deux œuvres représentent l’art figuratif islamique.",
-          "es": "Ambas obras representan el arte islámico figurativo."
-        },
-        "names": {
-          "ar": "جسر أفقي.",
-          "en": "*Tabica* (small board).",
-          "fr": "Tasseau.",
-          "es": "Tabica."
-        },
-        "country_id": "esp",
-        "image": "https://inventory.metanull.eu/pub/7636cc08-4ea4-56e4-9b27-f95bd9d73633.jpg"
-      },
-      {
-        "id": "ce544eac-b951-5657-9a7f-51c32a2f26c6",
-        "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:5",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تُعدّ الطبلة شكل من أشكال الآلات الموسيقية التي تصاحب الرقص.",
-          "en": "The drum as a musical instrument could be used to accompany dancing.",
-          "fr": "Le tambour en tant qu’instrument de musique pouvait accompagner la danse.",
-          "es": "El tambor como instrumento musical se podía utilizar para acompañar la danza."
-        },
-        "names": {
-          "ar": "طبل.",
-          "en": "Drum.",
-          "fr": "Tambour.",
-          "es": "Tambor.",
-          "tr": "Davul."
-        },
-        "country_id": "tur",
-        "image": "https://inventory.metanull.eu/pub/9b5a5dd5-f527-53ff-ac38-94a06d6f7224.jpg"
-      },
-      {
         "id": "daf6de83-e39d-5737-9268-1b7c8b56066e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2435,6 +2422,7 @@
       },
       {
         "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2454,7 +2442,42 @@
         "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
       },
       {
+        "id": "0c3648d9-9762-55ae-85a2-34844ebd664f",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:3",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "يعود أصل اللوحتان لنفس القصر كما تظهر عليهما عنصرًا أنثوي في مساحة مُحددة.",
+          "en": "Both frescos are from the same palace and represent a female figure within a defined space.",
+          "fr": "Les deux fresques proviennent du même palais et représentent une figure féminine dans un espace clos.",
+          "es": "Ambos frescos provienen del mismo palacio y representan una figura femenina dentro de un espacio específico."
+        }
+      },
+      {
+        "id": "7bf56987-b874-51e5-91e1-bf19f3afba07",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:es:Mus01:33",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تمثل القطعتان الفن التصويري الإسلامي.",
+          "en": "Both works represent Islamic figurative art.",
+          "fr": "Les deux œuvres représentent l’art figuratif islamique.",
+          "es": "Ambas obras representan el arte islámico figurativo."
+        },
+        "names": {
+          "ar": "جسر أفقي.",
+          "en": "*Tabica* (small board).",
+          "fr": "Tasseau.",
+          "es": "Tabica."
+        },
+        "country_id": "esp",
+        "image": "https://inventory.metanull.eu/pub/7636cc08-4ea4-56e4-9b27-f95bd9d73633.jpg"
+      },
+      {
         "id": "f0a22720-4486-5cd9-b830-526d7c53d494",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:se:Mus01_A:32",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2470,6 +2493,41 @@
         },
         "country_id": "swe",
         "image": "https://inventory.metanull.eu/pub/a2864616-9a49-5461-89cb-12733a6d7a56.jpg"
+      },
+      {
+        "id": "1db2b71c-1b13-500e-b0ba-c510c7396de5",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:3",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "تحمل اللوحتان العنصر الأنثوي والذي يعود أصله للفترة الأموية.",
+          "en": "Both works are fresco paintings of female figures from Umayyad palaces.",
+          "fr": "Les deux fresques représentent des figures féminines d’un palais omeyyade.",
+          "es": "Ambas obras son frescos representando figuras femeninas de palacios omeyas."
+        }
+      },
+      {
+        "id": "ce544eac-b951-5657-9a7f-51c32a2f26c6",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:5",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تُعدّ الطبلة شكل من أشكال الآلات الموسيقية التي تصاحب الرقص.",
+          "en": "The drum as a musical instrument could be used to accompany dancing.",
+          "fr": "Le tambour en tant qu’instrument de musique pouvait accompagner la danse.",
+          "es": "El tambor como instrumento musical se podía utilizar para acompañar la danza."
+        },
+        "names": {
+          "ar": "طبل.",
+          "en": "Drum.",
+          "fr": "Tambour.",
+          "es": "Tambor.",
+          "tr": "Davul."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/9b5a5dd5-f527-53ff-ac38-94a06d6f7224.jpg"
       }
     ],
     "gallery_references": [
@@ -2637,6 +2695,7 @@
     "related_items": [
       {
         "id": "17d6e18b-8628-5642-bf1b-3e753e6d63d6",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:10",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2657,92 +2716,8 @@
         "image": "https://inventory.metanull.eu/pub/d0959f0b-34a3-51bb-8ed0-5c1de28bdcf0.jpg"
       },
       {
-        "id": "2ce846c0-44cf-593b-a417-5ec441dd4212",
-        "backward_compatibility": "mwnf3:objects:ISL:tn:Mus01_A:35",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تحمل اللوحتان نفس الموضوع الرئيس ألا وهو العزف على الآلات الموسيقية مثل الناي.",
-          "en": "Both works depict the theme of playing music with a flute.",
-          "fr": "Les deux œuvres illustrent le fait de jouer de la flûte.",
-          "es": "Ambos frescos representan la temática de tocar instrumentos musicales con una flauta."
-        },
-        "names": {
-          "ar": "نحت غائر من الرخام المنحوت.",
-          "en": "Bas-relief in carved marble.",
-          "fr": "Bas-relief en marbre sculpté.",
-          "es": "Relieve en mármol."
-        },
-        "country_id": "tun",
-        "image": "https://inventory.metanull.eu/pub/bc69951f-b123-5391-b062-dc2e32e3aada.jpg"
-      },
-      {
-        "id": "57c9e92a-cab4-5c9c-a712-2d7757fdd1cc",
-        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:8",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تحمل اللوحتان نفس الموضوع الرئيس ألا وهو العزف على الآلات الموسيقية.",
-          "en": "Both works depict the theme of playing musical instruments.",
-          "fr": "Les deux œuvres illustrent le fait de jouer d’un instrument de musique.",
-          "es": "Ambos frescos representan la temática de tocar instrumentos musicales."
-        },
-        "names": {
-          "ar": "أربعة قضبان عاجية.",
-          "de": "Vier Elfenbeinleisten.",
-          "en": "Four ivory panels.",
-          "fr": "Quatre panneaux d’ivoire.",
-          "es": "Cuatro placas de marfil."
-        },
-        "country_id": "deu",
-        "image": "https://inventory.metanull.eu/pub/87df936f-56c3-54dd-a8e2-2d9363e1633c.jpg"
-      },
-      {
-        "id": "ab5f529a-54db-5914-b779-6e088fe95b11",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:5",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "تحمل اللوحتان نفس الموضوع الرئيس ألا وهو العزف على الآلات الموسيقية.",
-          "en": "Both frescos depict the theme of playing a musical instrument.",
-          "fr": "Les deux fresques illustrent le fait de jouer d’un instrument de musique.",
-          "es": "Ambos frescos representan la temática de tocar instrumentos musicales."
-        }
-      },
-      {
-        "id": "b6b54e1a-238d-59fb-8fc0-bf1b0cd6d93c",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:22",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تحمل اللوحتان نفس الموضوع الرئيس ألا وهو العزف على الآلات الموسيقية.",
-          "en": "Both works depict the theme of playing musical instruments.",
-          "fr": "Les deux œuvres illustrent le fait de jouer d’un instrument de musique.",
-          "es": "Ambos frescos representan la temática de tocar instrumentos musicales."
-        },
-        "names": {
-          "ar": "إبريق.",
-          "en": "Pitcher.",
-          "fr": "Pichet.",
-          "es": "Jarrito."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/8becc96b-6202-5ad3-8e8e-7f1fa8e8aac2.jpg"
-      },
-      {
-        "id": "d861eea4-5eaf-5a74-81c8-1ecb64d9a358",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:2",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "تحمل اللوحتان نفس الموضوع الرئيس ألا وهو العزف على الآلات الموسيقية كما أنهما مرتبطان تقنيًا وزمنيًا.",
-          "en": "Both works depict the theme of playing musical instruments and are technically and chronologically related.",
-          "fr": "Les deux œuvres illustrent le fait de jouer d’un instrument de musique et sont en rapport au plan technique et chronologique.",
-          "es": "Ambos frescos representan la temática de tocar instrumentos musicales y están relacionados técnica y cronológicamente."
-        }
-      },
-      {
         "id": "daf6de83-e39d-5737-9268-1b7c8b56066e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2764,6 +2739,7 @@
       },
       {
         "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2783,7 +2759,30 @@
         "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
       },
       {
+        "id": "57c9e92a-cab4-5c9c-a712-2d7757fdd1cc",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:8",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تحمل اللوحتان نفس الموضوع الرئيس ألا وهو العزف على الآلات الموسيقية.",
+          "en": "Both works depict the theme of playing musical instruments.",
+          "fr": "Les deux œuvres illustrent le fait de jouer d’un instrument de musique.",
+          "es": "Ambos frescos representan la temática de tocar instrumentos musicales."
+        },
+        "names": {
+          "ar": "أربعة قضبان عاجية.",
+          "de": "Vier Elfenbeinleisten.",
+          "en": "Four ivory panels.",
+          "fr": "Quatre panneaux d’ivoire.",
+          "es": "Cuatro placas de marfil."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/87df936f-56c3-54dd-a8e2-2d9363e1633c.jpg"
+      },
+      {
         "id": "f182ff55-9430-5024-a039-37fa558855a8",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:38",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -2801,6 +2800,74 @@
         },
         "country_id": "egy",
         "image": "https://inventory.metanull.eu/pub/858ed108-a00b-5f84-9bfc-9b9d4668cec8.jpg"
+      },
+      {
+        "id": "ab5f529a-54db-5914-b779-6e088fe95b11",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:5",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "تحمل اللوحتان نفس الموضوع الرئيس ألا وهو العزف على الآلات الموسيقية.",
+          "en": "Both frescos depict the theme of playing a musical instrument.",
+          "fr": "Les deux fresques illustrent le fait de jouer d’un instrument de musique.",
+          "es": "Ambos frescos representan la temática de tocar instrumentos musicales."
+        }
+      },
+      {
+        "id": "d861eea4-5eaf-5a74-81c8-1ecb64d9a358",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:2",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "تحمل اللوحتان نفس الموضوع الرئيس ألا وهو العزف على الآلات الموسيقية كما أنهما مرتبطان تقنيًا وزمنيًا.",
+          "en": "Both works depict the theme of playing musical instruments and are technically and chronologically related.",
+          "fr": "Les deux œuvres illustrent le fait de jouer d’un instrument de musique et sont en rapport au plan technique et chronologique.",
+          "es": "Ambos frescos representan la temática de tocar instrumentos musicales y están relacionados técnica y cronológicamente."
+        }
+      },
+      {
+        "id": "b6b54e1a-238d-59fb-8fc0-bf1b0cd6d93c",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:22",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تحمل اللوحتان نفس الموضوع الرئيس ألا وهو العزف على الآلات الموسيقية.",
+          "en": "Both works depict the theme of playing musical instruments.",
+          "fr": "Les deux œuvres illustrent le fait de jouer d’un instrument de musique.",
+          "es": "Ambos frescos representan la temática de tocar instrumentos musicales."
+        },
+        "names": {
+          "ar": "إبريق.",
+          "en": "Pitcher.",
+          "fr": "Pichet.",
+          "es": "Jarrito."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/8becc96b-6202-5ad3-8e8e-7f1fa8e8aac2.jpg"
+      },
+      {
+        "id": "2ce846c0-44cf-593b-a417-5ec441dd4212",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:tn:Mus01_A:35",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تحمل اللوحتان نفس الموضوع الرئيس ألا وهو العزف على الآلات الموسيقية مثل الناي.",
+          "en": "Both works depict the theme of playing music with a flute.",
+          "fr": "Les deux œuvres illustrent le fait de jouer de la flûte.",
+          "es": "Ambos frescos representan la temática de tocar instrumentos musicales con una flauta."
+        },
+        "names": {
+          "ar": "نحت غائر من الرخام المنحوت.",
+          "en": "Bas-relief in carved marble.",
+          "fr": "Bas-relief en marbre sculpté.",
+          "es": "Relieve en mármol."
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/bc69951f-b123-5391-b062-dc2e32e3aada.jpg"
       }
     ],
     "gallery_references": [
@@ -2986,6 +3053,7 @@
     "related_items": [
       {
         "id": "4a195ed6-f6a1-5d77-b47a-6fcc6207735d",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:1",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -3006,28 +3074,8 @@
         "image": "https://inventory.metanull.eu/pub/c894a5c4-f355-5c93-95f4-4c13335ab89a.jpg"
       },
       {
-        "id": "8d5bacd1-856d-5b16-8d3e-40994e3243e8",
-        "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:9",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تُصور القطعتان مشاهد للصيد.",
-          "en": "Both works depict hunting scenes.",
-          "fr": "Les deux œuvres décrivent des scènes de chasse.",
-          "es": "Ambas obras representan escenas de caza."
-        },
-        "names": {
-          "ar": "حلية معمارية نافرة مجصَّصة.",
-          "en": "Plaster relief.",
-          "fr": "Bas-relief en plâtre.",
-          "es": "Relieve de yeso.",
-          "tr": "Alçı Kabartma."
-        },
-        "country_id": "tur",
-        "image": "https://inventory.metanull.eu/pub/91247622-e719-5d26-aa2c-0751f93ab0a0.jpg"
-      },
-      {
         "id": "daf6de83-e39d-5737-9268-1b7c8b56066e",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:16",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -3049,6 +3097,7 @@
       },
       {
         "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -3068,27 +3117,8 @@
         "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
       },
       {
-        "id": "e5089d3e-3231-5064-9958-45c0890fde1c",
-        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:12",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تُصور القطعتان مشاهد للصيد.",
-          "en": "Both works depict hunting scenes.",
-          "fr": "Les deux œuvres décrivent des scènes de chasse",
-          "es": "Ambas obras representan escenas de caza."
-        },
-        "names": {
-          "ar": "إبريق.",
-          "en": "Ewer.",
-          "fr": "Aiguière.",
-          "es": "Aguamanil."
-        },
-        "country_id": "gbr",
-        "image": "https://inventory.metanull.eu/pub/a6362295-7c8b-5dce-9ad9-040cac6f8542.jpg"
-      },
-      {
         "id": "f4d8be9c-5207-5d6b-9a80-d65d6b7fa366",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:pt:Mus01:10",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -3107,6 +3137,49 @@
         },
         "country_id": "prt",
         "image": "https://inventory.metanull.eu/pub/068300bf-e421-50b4-89ae-e85fb3ae0922.jpg"
+      },
+      {
+        "id": "8d5bacd1-856d-5b16-8d3e-40994e3243e8",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:9",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تُصور القطعتان مشاهد للصيد.",
+          "en": "Both works depict hunting scenes.",
+          "fr": "Les deux œuvres décrivent des scènes de chasse.",
+          "es": "Ambas obras representan escenas de caza."
+        },
+        "names": {
+          "ar": "حلية معمارية نافرة مجصَّصة.",
+          "en": "Plaster relief.",
+          "fr": "Bas-relief en plâtre.",
+          "es": "Relieve de yeso.",
+          "tr": "Alçı Kabartma."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/91247622-e719-5d26-aa2c-0751f93ab0a0.jpg"
+      },
+      {
+        "id": "e5089d3e-3231-5064-9958-45c0890fde1c",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:12",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تُصور القطعتان مشاهد للصيد.",
+          "en": "Both works depict hunting scenes.",
+          "fr": "Les deux œuvres décrivent des scènes de chasse",
+          "es": "Ambas obras representan escenas de caza."
+        },
+        "names": {
+          "ar": "إبريق.",
+          "en": "Ewer.",
+          "fr": "Aiguière.",
+          "es": "Aguamanil."
+        },
+        "country_id": "gbr",
+        "image": "https://inventory.metanull.eu/pub/a6362295-7c8b-5dce-9ad9-040cac6f8542.jpg"
       }
     ],
     "gallery_references": [
@@ -3294,59 +3367,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "13951807-1976-5889-bda1-2525eb1918f4",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:28",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "يشتمل القصر على سبع لوحات فنية رمزية يعود تاريخها للفترة الأموية.",
-          "en": "The palace has seven figurative wall paintings dated to Umayyad period.",
-          "fr": "Le palais a sept peintures murales figuratives datant de la période omeyyade.",
-          "es": "El palacio contiene tiene siete pinturas figurativas en las paredes que datan del periodo omeya."
-        },
-        "names": {
-          "ar": "قصر الحير الغربي.",
-          "en": "Qasr al-Hayr al-Gharbi.",
-          "fr": "Qasr al-Khayr al-Gharbi.",
-          "es": "Qasr al-Hayr al-Garbi."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/41413784-4fa8-542b-b3d0-bf149cc986e8.jpg"
-      },
-      {
-        "id": "3a0eac5c-b039-57d4-9958-f23bbfce364b",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:46",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "تحمل اللوحتين نفس الفكرة الرئيسة وهي العزف على الآلات الموسيقية.",
-          "en": "Both frescos have the same theme of playing musical instruments.",
-          "fr": "Les deux fresques ont les mêmes thèmes, des musiciens jouant de leurs instruments.",
-          "es": "Ambos frescos tienen la misma temática de los músicos tocando instrumentos."
-        }
-      },
-      {
-        "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "يعود تاريخ القصر للفترة الأموية.",
-          "en": "The palace also dates to the Umayyad period.",
-          "fr": "Le palais date aussi de la période omeyyade.",
-          "es": "El Palacio también data del periodo omeya."
-        },
-        "names": {
-          "ar": "خربة المفجر.",
-          "en": "Khirbat al-Mafjar.",
-          "fr": "Khirbat al-Mafjar.",
-          "es": "Jirbat al-Mafyar."
-        },
-        "country_id": "pse",
-        "image": "https://inventory.metanull.eu/pub/4ac0cba0-2130-5cf5-94c4-dd7810661e2b.jpg"
-      },
-      {
         "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -3366,7 +3388,50 @@
         "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
       },
       {
+        "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يعود تاريخ القصر للفترة الأموية.",
+          "en": "The palace also dates to the Umayyad period.",
+          "fr": "Le palais date aussi de la période omeyyade.",
+          "es": "El Palacio también data del periodo omeya."
+        },
+        "names": {
+          "ar": "خربة المفجر.",
+          "en": "Khirbat al-Mafjar.",
+          "fr": "Khirbat al-Mafjar.",
+          "es": "Jirbat al-Mafyar."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/4ac0cba0-2130-5cf5-94c4-dd7810661e2b.jpg"
+      },
+      {
+        "id": "13951807-1976-5889-bda1-2525eb1918f4",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:28",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يشتمل القصر على سبع لوحات فنية رمزية يعود تاريخها للفترة الأموية.",
+          "en": "The palace has seven figurative wall paintings dated to Umayyad period.",
+          "fr": "Le palais a sept peintures murales figuratives datant de la période omeyyade.",
+          "es": "El palacio contiene tiene siete pinturas figurativas en las paredes que datan del periodo omeya."
+        },
+        "names": {
+          "ar": "قصر الحير الغربي.",
+          "en": "Qasr al-Hayr al-Gharbi.",
+          "fr": "Qasr al-Khayr al-Gharbi.",
+          "es": "Qasr al-Hayr al-Garbi."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/41413784-4fa8-542b-b3d0-bf149cc986e8.jpg"
+      },
+      {
         "id": "f968ffa7-16a4-52b6-80b2-1fcd031e5841",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:23",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -3385,6 +3450,19 @@
         },
         "country_id": "deu",
         "image": "https://inventory.metanull.eu/pub/5ae694fb-9f84-5638-8aef-caf984f351c1.jpg"
+      },
+      {
+        "id": "3a0eac5c-b039-57d4-9958-f23bbfce364b",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:46",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "تحمل اللوحتين نفس الفكرة الرئيسة وهي العزف على الآلات الموسيقية.",
+          "en": "Both frescos have the same theme of playing musical instruments.",
+          "fr": "Les deux fresques ont les mêmes thèmes, des musiciens jouant de leurs instruments.",
+          "es": "Ambos frescos tienen la misma temática de los músicos tocando instrumentos."
+        }
       }
     ],
     "gallery_references": [
@@ -3510,39 +3588,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "10e14593-faff-5437-b999-efaa138e0262",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:13",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تشتمل اللوحة على مشهدٍ للاستحمام حيثُ ترتبط السمة الأسلوبية لديه بالمنتجع الصحي حاليًا.",
-          "en": "The fresco depicts a bathing scene, thematically relating it to the baths.",
-          "fr": "La fresque représente une scène de bain, lien thématique avec les bains.",
-          "es": "El fresco representa una escena de baño, temáticamente relacionado con los baños."
-        },
-        "names": {
-          "ar": "حمام نور الدين.",
-          "en": "Hammam Nur al-Din",
-          "fr": "Hammam Nour al-Din.",
-          "es": "*Hammam* de Nur al-Din."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/d7effca6-123d-5c9b-816f-06ba76bbb9b5.jpg"
-      },
-      {
-        "id": "3c8378b6-b15a-5c21-874e-d7a334e3dab5",
-        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:26",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "كِلاهما جزء من لوحة جدارية حيثُ تحمل إحداهما مشهدًا للاستحمام فيما تُزين الأخرى الحمام.",
-          "en": "Both works are part of a fresco painting, the one depicting a bathing scene, the other decorating a bathhouse.",
-          "fr": "Les deux œuvres font partie de peintures à fresque, l’une représentant une scène de bain, l’autre un hammam.",
-          "es": "Ambas obras son parte de un fresco, uno representa una escena de baño, el otro decorando unos baños."
-        }
-      },
-      {
         "id": "7c7c2cda-78e1-597a-b911-718576ff198a",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:9",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -3563,47 +3610,50 @@
         "image": "https://inventory.metanull.eu/pub/bf2cc5f0-682e-5b49-9e62-cc85ff37bd24.jpg"
       },
       {
-        "id": "8845579c-c381-5bae-bc18-01294691208f",
-        "backward_compatibility": "mwnf3:objects:ISL:tn:Mus01_B:43",
+        "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "تظهر عليهما صورًا لنساء شبه عارية.",
-          "en": "Both works represent a semi-naked woman.",
-          "fr": "Les deux œuvres représentent une femme mi-dévêtue.",
-          "es": "Ambas obras representan una mujer semidesnuda."
+          "ar": "هذه اللوحة, جزء من لوحات الفريسكو الخاصة بقصير عمرة.",
+          "en": "The fresco is part of the Qusayr Amra frescos.",
+          "fr": "La fresque fait partie des fresques de Qousayr Amra.",
+          "es": "El fresco forma parte de los frescos de Qusayr Amra."
         },
         "names": {
-          "ar": "دمية على هيئة راقصة.",
-          "en": "Figure of a dancer.",
-          "fr": "Figurine d’une danseuse.",
-          "es": "Figura de bailarina"
-        },
-        "country_id": "tun",
-        "image": "https://inventory.metanull.eu/pub/9215c22a-777c-5c68-be9f-4ee5e84015bb.jpg"
-      },
-      {
-        "id": "94369548-7782-52b0-adae-f3a0d1f1caf6",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:32",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "يعود أصل كِلا العمليين للقصور الأموية كما تظهر عليهما صورًا لنساء شبه عارية.",
-          "en": "Both works are from Umayyad palaces and represent a semi-naked women.",
-          "fr": "Les deux œuvres proviennent d’un palais omeyyade et représentent une femme mi-dévêtue.",
-          "es": "Ambas obras provienen de palacios omeyas y representan mujeres semidesnudas."
-        },
-        "names": {
-          "ar": "الجزء السفلي من تمثال لامرأة شبه عارية.",
-          "en": "Lower part of a semi-naked female statue.",
-          "fr": "Partie inférieure d’une statue de figure féminine semi-vêtue.",
-          "es": "Parte inferior de estatua femenina semidesnuda"
+          "ar": "قصير عمرة.",
+          "en": "Qusayr ‘Amra.",
+          "fr": "Qousayr Amra.",
+          "es": "Qusayr Amra"
         },
         "country_id": "jor",
-        "image": "https://inventory.metanull.eu/pub/02956f58-d406-5cbc-bb33-dfb0eb67c043.jpg"
+        "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
+      },
+      {
+        "id": "10e14593-faff-5437-b999-efaa138e0262",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:13",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تشتمل اللوحة على مشهدٍ للاستحمام حيثُ ترتبط السمة الأسلوبية لديه بالمنتجع الصحي حاليًا.",
+          "en": "The fresco depicts a bathing scene, thematically relating it to the baths.",
+          "fr": "La fresque représente une scène de bain, lien thématique avec les bains.",
+          "es": "El fresco representa una escena de baño, temáticamente relacionado con los baños."
+        },
+        "names": {
+          "ar": "حمام نور الدين.",
+          "en": "Hammam Nur al-Din",
+          "fr": "Hammam Nour al-Din.",
+          "es": "*Hammam* de Nur al-Din."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/d7effca6-123d-5c9b-816f-06ba76bbb9b5.jpg"
       },
       {
         "id": "9a7fa76c-bd60-5ec6-bd2e-183cdefb20a9",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:tr:Mon01:17",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -3625,6 +3675,7 @@
       },
       {
         "id": "d2379132-91f2-5a63-8508-ac615d5bf783",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:50",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -3645,24 +3696,59 @@
         "image": "https://inventory.metanull.eu/pub/810738d2-f6ab-561f-80c5-1d37ced4b601.jpg"
       },
       {
-        "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
-        "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
+        "id": "3c8378b6-b15a-5c21-874e-d7a334e3dab5",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:26",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "كِلاهما جزء من لوحة جدارية حيثُ تحمل إحداهما مشهدًا للاستحمام فيما تُزين الأخرى الحمام.",
+          "en": "Both works are part of a fresco painting, the one depicting a bathing scene, the other decorating a bathhouse.",
+          "fr": "Les deux œuvres font partie de peintures à fresque, l’une représentant une scène de bain, l’autre un hammam.",
+          "es": "Ambas obras son parte de un fresco, uno representa una escena de baño, el otro decorando unos baños."
+        }
+      },
+      {
+        "id": "94369548-7782-52b0-adae-f3a0d1f1caf6",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01:32",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
         "justifications": {
-          "ar": "هذه اللوحة, جزء من لوحات الفريسكو الخاصة بقصير عمرة.",
-          "en": "The fresco is part of the Qusayr Amra frescos.",
-          "fr": "La fresque fait partie des fresques de Qousayr Amra.",
-          "es": "El fresco forma parte de los frescos de Qusayr Amra."
+          "ar": "يعود أصل كِلا العمليين للقصور الأموية كما تظهر عليهما صورًا لنساء شبه عارية.",
+          "en": "Both works are from Umayyad palaces and represent a semi-naked women.",
+          "fr": "Les deux œuvres proviennent d’un palais omeyyade et représentent une femme mi-dévêtue.",
+          "es": "Ambas obras provienen de palacios omeyas y representan mujeres semidesnudas."
         },
         "names": {
-          "ar": "قصير عمرة.",
-          "en": "Qusayr ‘Amra.",
-          "fr": "Qousayr Amra.",
-          "es": "Qusayr Amra"
+          "ar": "الجزء السفلي من تمثال لامرأة شبه عارية.",
+          "en": "Lower part of a semi-naked female statue.",
+          "fr": "Partie inférieure d’une statue de figure féminine semi-vêtue.",
+          "es": "Parte inferior de estatua femenina semidesnuda"
         },
         "country_id": "jor",
-        "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
+        "image": "https://inventory.metanull.eu/pub/02956f58-d406-5cbc-bb33-dfb0eb67c043.jpg"
+      },
+      {
+        "id": "8845579c-c381-5bae-bc18-01294691208f",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:tn:Mus01_B:43",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تظهر عليهما صورًا لنساء شبه عارية.",
+          "en": "Both works represent a semi-naked woman.",
+          "fr": "Les deux œuvres représentent une femme mi-dévêtue.",
+          "es": "Ambas obras representan una mujer semidesnuda."
+        },
+        "names": {
+          "ar": "دمية على هيئة راقصة.",
+          "en": "Figure of a dancer.",
+          "fr": "Figurine d’une danseuse.",
+          "es": "Figura de bailarina"
+        },
+        "country_id": "tun",
+        "image": "https://inventory.metanull.eu/pub/9215c22a-777c-5c68-be9f-4ee5e84015bb.jpg"
       }
     ],
     "gallery_references": [
@@ -3890,27 +3976,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "13951807-1976-5889-bda1-2525eb1918f4",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:28",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "يحتوي القصر على لوحات جدارية يعود تاريخها للفترة الأموية.",
-          "en": "The palace has several wall paintings dated to the Umayyad period.",
-          "fr": "Le palais a plusieurs peintures murales de la période omeyyade.",
-          "es": "El palacio tiene varios frescos que datan del periodo omeya."
-        },
-        "names": {
-          "ar": "قصر الحير الغربي.",
-          "en": "Qasr al-Hayr al-Gharbi.",
-          "fr": "Qasr al-Khayr al-Gharbi.",
-          "es": "Qasr al-Hayr al-Garbi."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/41413784-4fa8-542b-b3d0-bf149cc986e8.jpg"
-      },
-      {
         "id": "17d6e18b-8628-5642-bf1b-3e753e6d63d6",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:10",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -3931,59 +3998,8 @@
         "image": "https://inventory.metanull.eu/pub/d0959f0b-34a3-51bb-8ed0-5c1de28bdcf0.jpg"
       },
       {
-        "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
-        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "يعود تاريخ لوحات الفريسكو للفترة الزمنية ذاتها أي الفترة الأموية,  بمواصفاتها الخاصة.",
-          "en": "The fresco dates from the same period (Umayyad) with its special characteristics.",
-          "fr": "La fresque date de la même période (omeyyade) avec ses caractéristiques spéciales.",
-          "es": "El fresco data del mismo periodo (omeya) con sus características especiales."
-        },
-        "names": {
-          "ar": "خربة المفجر.",
-          "en": "Khirbat al-Mafjar.",
-          "fr": "Khirbat al-Mafjar.",
-          "es": "Jirbat al-Mafyar."
-        },
-        "country_id": "pse",
-        "image": "https://inventory.metanull.eu/pub/4ac0cba0-2130-5cf5-94c4-dd7810661e2b.jpg"
-      },
-      {
-        "id": "8473d6b1-ff39-54e8-aa27-a77f671d0068",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:5",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "تظهر القطعتان صورًا لُحكام مطبوعة على لوحة جصية تعود للسلالة الحاكمة ذاتها.",
-          "en": "Both works represent figures of rulers from the same dynasty.",
-          "fr": "Les deux œuvres représentent des souverains de la même dynastie.",
-          "es": "Ambas obras representan figuras de gobernadores de la misma dinastía."
-        },
-        "names": {
-          "ar": "القسم السفلي من تمثال.",
-          "en": "Lower half of a sculpturesque high relief.",
-          "fr": "Moitié inférieure d’un haut-relief.",
-          "es": "Mitad inferior de un altorrelieve."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/43baf1f9-498d-5776-8844-f509c630b641.jpg"
-      },
-      {
-        "id": "d861eea4-5eaf-5a74-81c8-1ecb64d9a358",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:2",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "تظهر القطعتان صورًا بشرية مطبوعة على لوحة جصية تعود للسلالة الحاكمة ذاتها.",
-          "en": "Both represent human figures in fresco from the same dynasty.",
-          "fr": "Les deux représentent des figures humaines sur fresque de même dynastie.",
-          "es": "Ambas representan figuras humanas en un fresco de la misma dinastía."
-        }
-      },
-      {
         "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4003,7 +4019,84 @@
         "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
       },
       {
+        "id": "4cec7fd2-9c51-5d92-b223-cc2c061e7fc9",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:pa:Mon01:15",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يعود تاريخ لوحات الفريسكو للفترة الزمنية ذاتها أي الفترة الأموية,  بمواصفاتها الخاصة.",
+          "en": "The fresco dates from the same period (Umayyad) with its special characteristics.",
+          "fr": "La fresque date de la même période (omeyyade) avec ses caractéristiques spéciales.",
+          "es": "El fresco data del mismo periodo (omeya) con sus características especiales."
+        },
+        "names": {
+          "ar": "خربة المفجر.",
+          "en": "Khirbat al-Mafjar.",
+          "fr": "Khirbat al-Mafjar.",
+          "es": "Jirbat al-Mafyar."
+        },
+        "country_id": "pse",
+        "image": "https://inventory.metanull.eu/pub/4ac0cba0-2130-5cf5-94c4-dd7810661e2b.jpg"
+      },
+      {
+        "id": "13951807-1976-5889-bda1-2525eb1918f4",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:28",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "يحتوي القصر على لوحات جدارية يعود تاريخها للفترة الأموية.",
+          "en": "The palace has several wall paintings dated to the Umayyad period.",
+          "fr": "Le palais a plusieurs peintures murales de la période omeyyade.",
+          "es": "El palacio tiene varios frescos que datan del periodo omeya."
+        },
+        "names": {
+          "ar": "قصر الحير الغربي.",
+          "en": "Qasr al-Hayr al-Gharbi.",
+          "fr": "Qasr al-Khayr al-Gharbi.",
+          "es": "Qasr al-Hayr al-Garbi."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/41413784-4fa8-542b-b3d0-bf149cc986e8.jpg"
+      },
+      {
+        "id": "d861eea4-5eaf-5a74-81c8-1ecb64d9a358",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:2",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "تظهر القطعتان صورًا بشرية مطبوعة على لوحة جصية تعود للسلالة الحاكمة ذاتها.",
+          "en": "Both represent human figures in fresco from the same dynasty.",
+          "fr": "Les deux représentent des figures humaines sur fresque de même dynastie.",
+          "es": "Ambas representan figuras humanas en un fresco de la misma dinastía."
+        }
+      },
+      {
+        "id": "8473d6b1-ff39-54e8-aa27-a77f671d0068",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:5",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "تظهر القطعتان صورًا لُحكام مطبوعة على لوحة جصية تعود للسلالة الحاكمة ذاتها.",
+          "en": "Both works represent figures of rulers from the same dynasty.",
+          "fr": "Les deux œuvres représentent des souverains de la même dynastie.",
+          "es": "Ambas obras representan figuras de gobernadores de la misma dinastía."
+        },
+        "names": {
+          "ar": "القسم السفلي من تمثال.",
+          "en": "Lower half of a sculpturesque high relief.",
+          "fr": "Moitié inférieure d’un haut-relief.",
+          "es": "Mitad inferior de un altorrelieve."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/43baf1f9-498d-5776-8844-f509c630b641.jpg"
+      },
+      {
         "id": "ed505641-7fab-598f-a27b-c58fb38cc49e",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus03:24",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4151,60 +4244,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "10e14593-faff-5437-b999-efaa138e0262",
-        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:13",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "حمام.",
-          "en": "A bathhouse.",
-          "fr": "Ces monuments contiennent des peintures murales sur plâtre décrivant des scènes et des gens de la vie quotidienne.",
-          "es": "Casa de baño."
-        },
-        "names": {
-          "ar": "حمام نور الدين.",
-          "en": "Hammam Nur al-Din",
-          "fr": "Hammam Nour al-Din.",
-          "es": "*Hammam* de Nur al-Din."
-        },
-        "country_id": "syr",
-        "image": "https://inventory.metanull.eu/pub/d7effca6-123d-5c9b-816f-06ba76bbb9b5.jpg"
-      },
-      {
-        "id": "3a0eac5c-b039-57d4-9958-f23bbfce364b",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:46",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "أسلوب زينة مشابه وتمثيل الحياة اليومية عن طريق صور حيوانات وبشر.",
-          "en": "Similar decorative style and representation of daily life through animal and human depictions.",
-          "fr": "Ces pièces ont été rapprochées sur la base de leur style décoratif et de la représentation de la vie quotidienne à travers des peintures animales et humaines.",
-          "es": "Estilo decorativo y representación de la vida cotidiana similares, se demuestra con imágenes de humanos y animales."
-        }
-      },
-      {
-        "id": "57c9e92a-cab4-5c9c-a712-2d7757fdd1cc",
-        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:8",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "أسلوب زينة مشابه وتمثيل الحياة اليومية عن طريق صور حيوانات وبشر.",
-          "en": "Similar decorative style and representation of daily life through animal and human depictions.",
-          "fr": "Ces pièces ont été rapprochées sur la base de leur style décoratif et de la représentation de la vie quotidienne à travers des peintures animales et humaines.",
-          "es": "Estilo decorativo y representación de la vida cotidiana similares, se demuestra con imágenes de humanos y animales."
-        },
-        "names": {
-          "ar": "أربعة قضبان عاجية.",
-          "de": "Vier Elfenbeinleisten.",
-          "en": "Four ivory panels.",
-          "fr": "Quatre panneaux d’ivoire.",
-          "es": "Cuatro placas de marfil."
-        },
-        "country_id": "deu",
-        "image": "https://inventory.metanull.eu/pub/87df936f-56c3-54dd-a8e2-2d9363e1633c.jpg"
-      },
-      {
         "id": "7c7c2cda-78e1-597a-b911-718576ff198a",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:9",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4225,51 +4266,8 @@
         "image": "https://inventory.metanull.eu/pub/bf2cc5f0-682e-5b49-9e62-cc85ff37bd24.jpg"
       },
       {
-        "id": "952ab9d3-ae66-55d8-89bd-8e1f14d55203",
-        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:47",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "أسلوب زينة مشابه وتمثيل الحياة اليومية عن طريق صور حيوانات وبشر.",
-          "en": "Similar decorative style and representation of daily life through animal and human depictions.",
-          "fr": "Ces pièces ont été rapprochées sur la base de leur style décoratif et de la représentation de la vie quotidienne à travers des peintures animales et humaines.",
-          "es": "Estilo decorativo y representación de la vida cotidiana similares, se demuestra con imágenes de humanos y animales."
-        }
-      },
-      {
-        "id": "a821e620-0be1-566e-9efd-535d3a1c2fcd",
-        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:45",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": true,
-        "justifications": {
-          "ar": "أسلوب الزينة مشابه.",
-          "en": "Similar decorative style.",
-          "fr": "Ces pièces ont été rapprochées sur la base de leur style décoratif et de la représentation de la vie quotidienne à travers des peintures animales et humaines.",
-          "es": "Estilo decorativo similar."
-        }
-      },
-      {
-        "id": "bf493827-b9c5-5274-9a0c-39fb761a93e1",
-        "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:3",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "قطعة معمارية تطهر زينة تشخيصية .",
-          "en": "Architectural fragment displaying extensive figurative decoration.",
-          "es": "Fragmento arquitectónico que exhibe una extensa decoración metafórica."
-        },
-        "names": {
-          "ar": "حلية معمارية.",
-          "en": "Figurative architectural fragment.",
-          "fr": "Fragment architectural à décor figuratif.",
-          "es": "Fragmento arquitectónico con decoración figurativa",
-          "tr": "Figürlü Mimari Parça."
-        },
-        "country_id": "tur",
-        "image": "https://inventory.metanull.eu/pub/aa930161-a168-5efd-8c74-bccf17416093.jpg"
-      },
-      {
         "id": "e1497659-518a-54a8-b03c-6d046f84fa2f",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:jo:Mon01:4",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4289,7 +4287,51 @@
         "image": "https://inventory.metanull.eu/pub/2021187c-f05f-5964-ae3d-e58f825c5bc9.jpg"
       },
       {
+        "id": "10e14593-faff-5437-b999-efaa138e0262",
+        "type": "monument",
+        "backward_compatibility": "mwnf3:monuments:ISL:sy:Mon01:13",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "حمام.",
+          "en": "A bathhouse.",
+          "fr": "Ces monuments contiennent des peintures murales sur plâtre décrivant des scènes et des gens de la vie quotidienne.",
+          "es": "Casa de baño."
+        },
+        "names": {
+          "ar": "حمام نور الدين.",
+          "en": "Hammam Nur al-Din",
+          "fr": "Hammam Nour al-Din.",
+          "es": "*Hammam* de Nur al-Din."
+        },
+        "country_id": "syr",
+        "image": "https://inventory.metanull.eu/pub/d7effca6-123d-5c9b-816f-06ba76bbb9b5.jpg"
+      },
+      {
+        "id": "57c9e92a-cab4-5c9c-a712-2d7757fdd1cc",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:8",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "أسلوب زينة مشابه وتمثيل الحياة اليومية عن طريق صور حيوانات وبشر.",
+          "en": "Similar decorative style and representation of daily life through animal and human depictions.",
+          "fr": "Ces pièces ont été rapprochées sur la base de leur style décoratif et de la représentation de la vie quotidienne à travers des peintures animales et humaines.",
+          "es": "Estilo decorativo y representación de la vida cotidiana similares, se demuestra con imágenes de humanos y animales."
+        },
+        "names": {
+          "ar": "أربعة قضبان عاجية.",
+          "de": "Vier Elfenbeinleisten.",
+          "en": "Four ivory panels.",
+          "fr": "Quatre panneaux d’ivoire.",
+          "es": "Cuatro placas de marfil."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/87df936f-56c3-54dd-a8e2-2d9363e1633c.jpg"
+      },
+      {
         "id": "f182ff55-9430-5024-a039-37fa558855a8",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:eg:Mus01:38",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4309,7 +4351,47 @@
         "image": "https://inventory.metanull.eu/pub/858ed108-a00b-5f84-9bfc-9b9d4668cec8.jpg"
       },
       {
+        "id": "3a0eac5c-b039-57d4-9958-f23bbfce364b",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:46",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "أسلوب زينة مشابه وتمثيل الحياة اليومية عن طريق صور حيوانات وبشر.",
+          "en": "Similar decorative style and representation of daily life through animal and human depictions.",
+          "fr": "Ces pièces ont été rapprochées sur la base de leur style décoratif et de la représentation de la vie quotidienne à travers des peintures animales et humaines.",
+          "es": "Estilo decorativo y representación de la vida cotidiana similares, se demuestra con imágenes de humanos y animales."
+        }
+      },
+      {
+        "id": "952ab9d3-ae66-55d8-89bd-8e1f14d55203",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:jo:Mus01_H:47",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "أسلوب زينة مشابه وتمثيل الحياة اليومية عن طريق صور حيوانات وبشر.",
+          "en": "Similar decorative style and representation of daily life through animal and human depictions.",
+          "fr": "Ces pièces ont été rapprochées sur la base de leur style décoratif et de la représentation de la vie quotidienne à travers des peintures animales et humaines.",
+          "es": "Estilo decorativo y representación de la vida cotidiana similares, se demuestra con imágenes de humanos y animales."
+        }
+      },
+      {
+        "id": "a821e620-0be1-566e-9efd-535d3a1c2fcd",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:sy:Mus01:45",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": true,
+        "justifications": {
+          "ar": "أسلوب الزينة مشابه.",
+          "en": "Similar decorative style.",
+          "fr": "Ces pièces ont été rapprochées sur la base de leur style décoratif et de la représentation de la vie quotidienne à travers des peintures animales et humaines.",
+          "es": "Estilo decorativo similar."
+        }
+      },
+      {
         "id": "fcbd9f29-7966-5d95-9485-7fe900be4b80",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:tn:Mus01_A:37",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -4327,6 +4409,27 @@
         },
         "country_id": "tun",
         "image": "https://inventory.metanull.eu/pub/e65d22c3-c6ee-5efd-98aa-0b1c24ec9c21.jpg"
+      },
+      {
+        "id": "bf493827-b9c5-5274-9a0c-39fb761a93e1",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:tr:Mus01:3",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "قطعة معمارية تطهر زينة تشخيصية .",
+          "en": "Architectural fragment displaying extensive figurative decoration.",
+          "es": "Fragmento arquitectónico que exhibe una extensa decoración metafórica."
+        },
+        "names": {
+          "ar": "حلية معمارية.",
+          "en": "Figurative architectural fragment.",
+          "fr": "Fragment architectural à décor figuratif.",
+          "es": "Fragmento arquitectónico con decoración figurativa",
+          "tr": "Figürlü Mimari Parça."
+        },
+        "country_id": "tur",
+        "image": "https://inventory.metanull.eu/pub/aa930161-a168-5efd-8c74-bccf17416093.jpg"
       }
     ],
     "gallery_references": [

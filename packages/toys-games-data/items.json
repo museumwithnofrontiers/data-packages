@@ -397,28 +397,8 @@
     "media": [],
     "related_items": [
       {
-        "id": "27fd657d-1477-5d30-8c73-b434cb8975b0",
-        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:12",
-        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-        "in_package": false,
-        "justifications": {
-          "ar": "العاج من أفريقيا كان يتجر به إلى الشرق الأوسط و يستخدم من أجل علب المجوهرات و أيضا كحجارة شطرنج.",
-          "en": "Ivory from Africa was traded to the Mediterranean and used for caskets as well as for chess pieces.",
-          "fr": "Le commerce de l’ivoire de l’Afrique vers la Méditerranée pourvoyait à la réalisation de coffrets aussi bien que de pièces d’échec.",
-          "es": "El marfil de África era comercializado en el Mediterráneo y utilizado tanto como para fabricar arquetas como piezas de ajedrez."
-        },
-        "names": {
-          "ar": "علبة من العاج.",
-          "de": "Elfenbeinkasten.",
-          "en": "Ivory casket.",
-          "fr": "Coffret d’ivoire.",
-          "es": "Arqueta de marfil."
-        },
-        "country_id": "deu",
-        "image": "https://inventory.metanull.eu/pub/bedbf913-f721-5bba-8a42-3001a60e1eb8.jpg"
-      },
-      {
         "id": "82b94cbd-2d0b-5dfc-9ce7-0ed3a9e2e7be",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:it:Mon01:2",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
@@ -439,7 +419,30 @@
         "image": "https://inventory.metanull.eu/pub/9e524587-c553-5300-ba13-4f5ac76cbb2d.jpg"
       },
       {
+        "id": "27fd657d-1477-5d30-8c73-b434cb8975b0",
+        "type": "object",
+        "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:12",
+        "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+        "in_package": false,
+        "justifications": {
+          "ar": "العاج من أفريقيا كان يتجر به إلى الشرق الأوسط و يستخدم من أجل علب المجوهرات و أيضا كحجارة شطرنج.",
+          "en": "Ivory from Africa was traded to the Mediterranean and used for caskets as well as for chess pieces.",
+          "fr": "Le commerce de l’ivoire de l’Afrique vers la Méditerranée pourvoyait à la réalisation de coffrets aussi bien que de pièces d’échec.",
+          "es": "El marfil de África era comercializado en el Mediterráneo y utilizado tanto como para fabricar arquetas como piezas de ajedrez."
+        },
+        "names": {
+          "ar": "علبة من العاج.",
+          "de": "Elfenbeinkasten.",
+          "en": "Ivory casket.",
+          "fr": "Coffret d’ivoire.",
+          "es": "Arqueta de marfil."
+        },
+        "country_id": "deu",
+        "image": "https://inventory.metanull.eu/pub/bedbf913-f721-5bba-8a42-3001a60e1eb8.jpg"
+      },
+      {
         "id": "e7f528ce-cc22-5805-85cd-54b2590d990f",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:uk:Mus01:46",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -574,6 +577,7 @@
     "related_items": [
       {
         "id": "f22479d3-546f-553a-8322-e8c56a9254ef",
+        "type": "object",
         "backward_compatibility": "mwnf3:objects:ISL:de:Mus01:14",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": true,
@@ -773,6 +777,7 @@
     "related_items": [
       {
         "id": "e987a21d-d760-5987-8b5d-7a506da98699",
+        "type": "monument",
         "backward_compatibility": "mwnf3:monuments:ISL:tn:Mon01:25",
         "project_id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
         "in_package": false,
