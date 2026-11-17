@@ -1375,8 +1375,23 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/dd9d6c87-538d-539e-87ab-8cd3dec9a429.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/b78bfe27-f8a6-5e02-ace5-522f8d79737f.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture and Arts - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "8a41ae85-1217-5a1f-a8f2-68da1d74234d",
@@ -1583,8 +1598,8 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:eg",
     "country_id": "egy",
-    "latitude": null,
-    "longitude": null,
+    "latitude": 30.0632686,
+    "longitude": 31.2170008,
     "map_zoom": 16,
     "monument_item_id": null,
     "level": "partner",
@@ -1613,8 +1628,58 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/0c252bed-a4de-577e-b74b-bff4883e85bc.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/65aa2619-f362-5fd6-8afe-2a31b61e39c8.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/5c61dcff-f038-5c9e-b056-585169ce2248.jpg",
+        "alt_text": null,
+        "display_order": 3,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/2089e70b-b1c8-5441-8772-1340eb34d4c2.jpg",
+        "alt_text": null,
+        "display_order": 4,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/35a0e8fa-2b1d-5b11-91e1-65cc54f7218f.jpg",
+        "alt_text": null,
+        "display_order": 5,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/44014f0e-b005-5593-b15a-53784a772134.jpg",
+        "alt_text": null,
+        "display_order": 6,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/7523857a-077d-589d-b712-bb8c84563279.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Tourism and Antiquities, Supreme Council of Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "7712e497-33e4-5529-91c3-47abff00f87c",
@@ -3241,9 +3306,9 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:it",
     "country_id": "ita",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 38.116653,
+    "longitude": 13.371024,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": "associated_partner",
     "parent_id": null,
@@ -3271,8 +3336,23 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/630c296f-e013-5742-9054-5f6048c6b94c.jpg",
+        "alt_text": "Palazzo Abatellis, hosts the Regional Gallery of Sicily.",
+        "display_order": 1,
+        "photographer": null,
+        "copyright": "Wikimedia"
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/4b0872e2-d99d-59b1-bbcf-add87d7ebcbf.jpg",
+        "logo_type": "primary",
+        "alt_text": "Regione Siciliana – Assessorato dei Beni Culturali e dell'Identità Siciliana - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "33f89573-8b54-5c1a-86ba-1663e604740f",
@@ -3465,9 +3545,9 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:ma",
     "country_id": "mar",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 34.02010109,
+    "longitude": -6.83404088,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": "partner",
     "parent_id": null,
@@ -3503,12 +3583,20 @@
       }
     ],
     "additional_urls": [],
-    "images": [],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/92328c0b-c6e5-52cb-8324-604559c51912.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
     "logos": [
       {
         "url": "https://inventory.metanull.eu/pub/073a714d-6cbd-5286-b84f-69342995d269.jpg",
         "logo_type": "primary",
-        "alt_text": "Ministry of Culture, Directorate of Cultural Heritage - primary logo",
+        "alt_text": "Department of Culture, Directorate of Cultural Heritage - primary logo",
         "display_order": 1
       }
     ]
@@ -4070,9 +4158,9 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:pa",
     "country_id": "pse",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 31.70777,
+    "longitude": 35.199315,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": "partner",
     "parent_id": null,
@@ -4636,9 +4724,9 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:sy",
     "country_id": "syr",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 33.525749,
+    "longitude": 36.311855,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": "partner",
     "parent_id": null,
@@ -4886,8 +4974,8 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:tn",
     "country_id": "tun",
-    "latitude": null,
-    "longitude": null,
+    "latitude": 36.795602,
+    "longitude": 10.170556,
     "map_zoom": 16,
     "monument_item_id": null,
     "level": "partner",
@@ -4916,8 +5004,23 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/b1b5dbde-8b60-5525-bd90-f4184ae0a198.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/a7210028-76ec-5579-b411-2ce26389fa68.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture, National Institute of Cultural Heritage - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "646d2ec3-07ab-58ec-88a5-80936d9d1b9a",
@@ -5192,9 +5295,9 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:tr",
     "country_id": "tur",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 39.94074,
+    "longitude": 32.85122,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": "partner",
     "parent_id": null,

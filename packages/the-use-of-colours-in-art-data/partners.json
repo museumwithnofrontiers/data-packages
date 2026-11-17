@@ -3352,12 +3352,73 @@
     ]
   },
   {
+    "id": "a0a06f79-6bb6-5eba-a306-be38053da391",
+    "type": "institution",
+    "backward_compatibility": "mwnf3:institutions:Mon01:ma",
+    "country_id": "mar",
+    "latitude": 34.02010109,
+    "longitude": -6.83404088,
+    "map_zoom": 17,
+    "monument_item_id": null,
+    "level": null,
+    "parent_id": null,
+    "project_uuids": [
+      "61c122ac-ea86-5462-8bab-6b86138c49b2"
+    ],
+    "own_project": {
+      "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+      "name": "Discover Islamic Art",
+      "backward_compatibility": "mwnf3:projects:ISL",
+      "level": null,
+      "exhibition": false
+    },
+    "item_count": 2,
+    "featured": false,
+    "languages": [
+      "ar",
+      "de",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "pt",
+      "tr"
+    ],
+    "contact_persons": [
+      {
+        "fax": "+212 537 274 002",
+        "name": "Fouad Mahdaoui",
+        "email": "fouadmahdaoui@outlook.com",
+        "phone": "+212 665 232 309",
+        "title": "Direction du Patrimoine culturel"
+      }
+    ],
+    "additional_urls": [],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/92328c0b-c6e5-52cb-8324-604559c51912.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/073a714d-6cbd-5286-b84f-69342995d269.jpg",
+        "logo_type": "primary",
+        "alt_text": "Department of Culture, Directorate of Cultural Heritage - primary logo",
+        "display_order": 1
+      }
+    ]
+  },
+  {
     "id": "8ea7243d-fe8e-5011-a9ca-75ebd26660ac",
     "type": "institution",
     "backward_compatibility": "mwnf3_sharing_history:sh_partners:ma_01",
     "country_id": "mar",
-    "latitude": 33.993671,
-    "longitude": -6.848615,
+    "latitude": 34.02013666,
+    "longitude": -6.83413744,
     "map_zoom": 17,
     "monument_item_id": null,
     "level": null,
@@ -3400,60 +3461,7 @@
       {
         "url": "https://inventory.metanull.eu/pub/21d114df-2636-58fe-9e52-64dfbedb735f.jpg",
         "logo_type": "primary",
-        "alt_text": "Ministère de la Culture/Direction du Patrimoine culturel - primary logo",
-        "display_order": 1
-      }
-    ]
-  },
-  {
-    "id": "a0a06f79-6bb6-5eba-a306-be38053da391",
-    "type": "institution",
-    "backward_compatibility": "mwnf3:institutions:Mon01:ma",
-    "country_id": "mar",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
-    "monument_item_id": null,
-    "level": null,
-    "parent_id": null,
-    "project_uuids": [
-      "61c122ac-ea86-5462-8bab-6b86138c49b2"
-    ],
-    "own_project": {
-      "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-      "name": "Discover Islamic Art",
-      "backward_compatibility": "mwnf3:projects:ISL",
-      "level": null,
-      "exhibition": false
-    },
-    "item_count": 2,
-    "featured": false,
-    "languages": [
-      "ar",
-      "de",
-      "en",
-      "es",
-      "fr",
-      "it",
-      "pt",
-      "tr"
-    ],
-    "contact_persons": [
-      {
-        "fax": "+212 537 274 002",
-        "name": "Fouad Mahdaoui",
-        "email": "fouadmahdaoui@outlook.com",
-        "phone": "+212 665 232 309",
-        "title": "Direction du Patrimoine culturel"
-      }
-    ],
-    "additional_urls": [],
-    "images": [],
-    "logos": [
-      {
-        "url": "https://inventory.metanull.eu/pub/073a714d-6cbd-5286-b84f-69342995d269.jpg",
-        "logo_type": "primary",
-        "alt_text": "Ministry of Culture, Directorate of Cultural Heritage - primary logo",
+        "alt_text": "Department of Culture, Directorate of Cultural Heritage - primary logo",
         "display_order": 1
       }
     ]
@@ -4324,9 +4332,9 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:pa",
     "country_id": "pse",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 31.70777,
+    "longitude": 35.199315,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": null,
     "parent_id": null,

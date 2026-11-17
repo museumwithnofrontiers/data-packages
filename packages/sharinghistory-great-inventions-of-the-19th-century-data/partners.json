@@ -1977,6 +1977,54 @@
     ]
   },
   {
+    "id": "8ea7243d-fe8e-5011-a9ca-75ebd26660ac",
+    "type": "institution",
+    "backward_compatibility": "mwnf3_sharing_history:sh_partners:ma_01",
+    "country_id": "mar",
+    "latitude": 34.02013666,
+    "longitude": -6.83413744,
+    "map_zoom": 17,
+    "monument_item_id": null,
+    "level": "partner",
+    "parent_id": null,
+    "project_uuids": [
+      "0f031e22-6dc6-5ce6-b94b-9bb88345140c"
+    ],
+    "item_count": 108,
+    "featured": false,
+    "city": "Rabat",
+    "languages": [
+      "en"
+    ],
+    "contact_persons": [
+      {
+        "fax": "+212 537 274 002",
+        "name": "Fouad Mahdaoui",
+        "email": "fouadmahdaoui@outlook.com",
+        "phone": "+212 665 232 309",
+        "title": "Direction du Patrimoine culturel"
+      }
+    ],
+    "additional_urls": [],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/33318e0a-e97a-5814-ab43-5ba9c54cdc50.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": "Ministère de la Culture"
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/21d114df-2636-58fe-9e52-64dfbedb735f.jpg",
+        "logo_type": "primary",
+        "alt_text": "Department of Culture, Directorate of Cultural Heritage - primary logo",
+        "display_order": 1
+      }
+    ]
+  },
+  {
     "id": "da058c7a-9e86-5354-8deb-cc489c7fb154",
     "type": "institution",
     "backward_compatibility": "mwnf3_sharing_history:sh_partners:it_01_r",
@@ -2095,12 +2143,12 @@
     ]
   },
   {
-    "id": "8ea7243d-fe8e-5011-a9ca-75ebd26660ac",
+    "id": "8f0d2773-afea-51e8-ab5b-624187d06f77",
     "type": "institution",
-    "backward_compatibility": "mwnf3_sharing_history:sh_partners:ma_01",
-    "country_id": "mar",
-    "latitude": 33.993671,
-    "longitude": -6.848615,
+    "backward_compatibility": "mwnf3_sharing_history:sh_partners:tr_02",
+    "country_id": "tur",
+    "latitude": 39.94074,
+    "longitude": 32.85122,
     "map_zoom": 17,
     "monument_item_id": null,
     "level": "partner",
@@ -2108,37 +2156,68 @@
     "project_uuids": [
       "0f031e22-6dc6-5ce6-b94b-9bb88345140c"
     ],
-    "item_count": 108,
+    "item_count": 78,
     "featured": false,
-    "city": "Rabat",
+    "city": "Ankara",
     "languages": [
       "en"
     ],
     "contact_persons": [
       {
-        "fax": "+212 537 274 002",
-        "name": "Fouad Mahdaoui",
-        "email": "fouadmahdaoui@outlook.com",
-        "phone": "+212 665 232 309",
-        "title": "Direction du Patrimoine culturel"
+        "fax": "+90 312 470 65 32",
+        "name": "Gökhan Yazgı",
+        "email": "kulturvalikmuze@gov.tr",
+        "phone": "+90 312 470 60 01",
+        "title": "General Director"
+      },
+      {
+        "fax": "+90 312 470 65 40",
+        "name": "Meliha Yaylali",
+        "email": "meliha.yaylali@kultur.gov.tr",
+        "phone": "+90 312 470 62 50",
+        "title": "Department of Museums, Expert in Culture and Tourism"
       }
     ],
-    "additional_urls": [],
+    "additional_urls": [
+      {
+        "url": "www.kulturvarliklari.gov.tr"
+      }
+    ],
     "images": [
       {
-        "url": "https://inventory.metanull.eu/pub/33318e0a-e97a-5814-ab43-5ba9c54cdc50.jpg",
+        "url": "https://inventory.metanull.eu/pub/84456a48-7c38-5b50-a16d-956b50dc4314.jpg",
         "alt_text": null,
         "display_order": 1,
         "photographer": null,
-        "copyright": "Ministère de la Culture"
+        "copyright": "Kültür ve Turizm Bakanlığı"
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/f6e25ec2-03f0-51b4-b05d-10ff20be76fe.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": "Kültür ve Turizm Bakanlığı"
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/193218d5-9267-5daa-8850-3f99cc45611e.jpg",
+        "alt_text": null,
+        "display_order": 3,
+        "photographer": null,
+        "copyright": "Kültür ve Turizm Bakanlığı"
       }
     ],
     "logos": [
       {
-        "url": "https://inventory.metanull.eu/pub/21d114df-2636-58fe-9e52-64dfbedb735f.jpg",
+        "url": "https://inventory.metanull.eu/pub/522cc06b-73b6-552d-97f2-bd502cb820ef.jpg",
         "logo_type": "primary",
-        "alt_text": "Ministère de la Culture/Direction du Patrimoine culturel - primary logo",
+        "alt_text": "Ministry of Culture and Tourism - primary logo",
         "display_order": 1
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/sharing_history/sh_partners/TR_02/logos/2.jpg",
+        "logo_type": "secondary",
+        "alt_text": "Ministry of Culture and Tourism - secondary logo",
+        "display_order": 2
       }
     ]
   },
@@ -2227,87 +2306,8 @@
       {
         "url": "https://inventory.metanull.eu/pub/8ee97efd-c9dd-5efb-b5d8-7ece85eb4348.jpg",
         "logo_type": "primary",
-        "alt_text": "Ministry of Antiquities - primary logo",
+        "alt_text": "Ministry of Tourism and Antiquities, Supreme Council of Antiquities - primary logo",
         "display_order": 1
-      }
-    ]
-  },
-  {
-    "id": "8f0d2773-afea-51e8-ab5b-624187d06f77",
-    "type": "institution",
-    "backward_compatibility": "mwnf3_sharing_history:sh_partners:tr_02",
-    "country_id": "tur",
-    "latitude": 39.94074,
-    "longitude": 32.85122,
-    "map_zoom": 17,
-    "monument_item_id": null,
-    "level": "partner",
-    "parent_id": null,
-    "project_uuids": [
-      "0f031e22-6dc6-5ce6-b94b-9bb88345140c"
-    ],
-    "item_count": 78,
-    "featured": false,
-    "city": "Ankara",
-    "languages": [
-      "en"
-    ],
-    "contact_persons": [
-      {
-        "fax": "+90 312 470 65 32",
-        "name": "Gökhan Yazgı",
-        "email": "kulturvalikmuze@gov.tr",
-        "phone": "+90 312 470 60 01",
-        "title": "General Director"
-      },
-      {
-        "fax": "+90 312 470 65 40",
-        "name": "Meliha Yaylali",
-        "email": "meliha.yaylali@kultur.gov.tr",
-        "phone": "+90 312 470 62 50",
-        "title": "Department of Museums, Expert in Culture and Tourism"
-      }
-    ],
-    "additional_urls": [
-      {
-        "url": "www.kulturvarliklari.gov.tr"
-      }
-    ],
-    "images": [
-      {
-        "url": "https://inventory.metanull.eu/pub/84456a48-7c38-5b50-a16d-956b50dc4314.jpg",
-        "alt_text": null,
-        "display_order": 1,
-        "photographer": null,
-        "copyright": "Kültür ve Turizm Bakanlığı"
-      },
-      {
-        "url": "https://inventory.metanull.eu/pub/f6e25ec2-03f0-51b4-b05d-10ff20be76fe.jpg",
-        "alt_text": null,
-        "display_order": 2,
-        "photographer": null,
-        "copyright": "Kültür ve Turizm Bakanlığı"
-      },
-      {
-        "url": "https://inventory.metanull.eu/pub/193218d5-9267-5daa-8850-3f99cc45611e.jpg",
-        "alt_text": null,
-        "display_order": 3,
-        "photographer": null,
-        "copyright": "Kültür ve Turizm Bakanlığı"
-      }
-    ],
-    "logos": [
-      {
-        "url": "https://inventory.metanull.eu/pub/522cc06b-73b6-552d-97f2-bd502cb820ef.jpg",
-        "logo_type": "primary",
-        "alt_text": "Ministry of Culture and Tourism - primary logo",
-        "display_order": 1
-      },
-      {
-        "url": "https://inventory.metanull.eu/pub/sharing_history/sh_partners/TR_02/logos/2.jpg",
-        "logo_type": "secondary",
-        "alt_text": "Ministry of Culture and Tourism - secondary logo",
-        "display_order": 2
       }
     ]
   },
