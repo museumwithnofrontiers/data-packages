@@ -1939,6 +1939,54 @@
     ]
   },
   {
+    "id": "8ea7243d-fe8e-5011-a9ca-75ebd26660ac",
+    "type": "institution",
+    "backward_compatibility": "mwnf3_sharing_history:sh_partners:ma_01",
+    "country_id": "mar",
+    "latitude": 34.02013666,
+    "longitude": -6.83413744,
+    "map_zoom": 17,
+    "monument_item_id": null,
+    "level": "partner",
+    "parent_id": null,
+    "project_uuids": [
+      "0f031e22-6dc6-5ce6-b94b-9bb88345140c"
+    ],
+    "item_count": 108,
+    "featured": false,
+    "city": "Rabat",
+    "languages": [
+      "en"
+    ],
+    "contact_persons": [
+      {
+        "fax": "+212 537 274 002",
+        "name": "Fouad Mahdaoui",
+        "email": "fouadmahdaoui@outlook.com",
+        "phone": "+212 665 232 309",
+        "title": "Direction du Patrimoine culturel"
+      }
+    ],
+    "additional_urls": [],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/33318e0a-e97a-5814-ab43-5ba9c54cdc50.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": "Ministère de la Culture"
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/21d114df-2636-58fe-9e52-64dfbedb735f.jpg",
+        "logo_type": "primary",
+        "alt_text": "Department of Culture, Directorate of Cultural Heritage - primary logo",
+        "display_order": 1
+      }
+    ]
+  },
+  {
     "id": "42fb6391-e1f6-527a-85db-f9638b02d667",
     "type": "institution",
     "backward_compatibility": "mwnf3_sharing_history:sh_partners:tn_01",
@@ -1983,54 +2031,6 @@
         "url": "https://inventory.metanull.eu/pub/0bc87278-e451-55b6-ae92-320d5a357564.jpg",
         "logo_type": "primary",
         "alt_text": "Institut Supérieur d’histoire contemporaine de la Tunisie, Université de la Manouba - primary logo",
-        "display_order": 1
-      }
-    ]
-  },
-  {
-    "id": "8ea7243d-fe8e-5011-a9ca-75ebd26660ac",
-    "type": "institution",
-    "backward_compatibility": "mwnf3_sharing_history:sh_partners:ma_01",
-    "country_id": "mar",
-    "latitude": 33.993671,
-    "longitude": -6.848615,
-    "map_zoom": 17,
-    "monument_item_id": null,
-    "level": "partner",
-    "parent_id": null,
-    "project_uuids": [
-      "0f031e22-6dc6-5ce6-b94b-9bb88345140c"
-    ],
-    "item_count": 108,
-    "featured": false,
-    "city": "Rabat",
-    "languages": [
-      "en"
-    ],
-    "contact_persons": [
-      {
-        "fax": "+212 537 274 002",
-        "name": "Fouad Mahdaoui",
-        "email": "fouadmahdaoui@outlook.com",
-        "phone": "+212 665 232 309",
-        "title": "Direction du Patrimoine culturel"
-      }
-    ],
-    "additional_urls": [],
-    "images": [
-      {
-        "url": "https://inventory.metanull.eu/pub/33318e0a-e97a-5814-ab43-5ba9c54cdc50.jpg",
-        "alt_text": null,
-        "display_order": 1,
-        "photographer": null,
-        "copyright": "Ministère de la Culture"
-      }
-    ],
-    "logos": [
-      {
-        "url": "https://inventory.metanull.eu/pub/21d114df-2636-58fe-9e52-64dfbedb735f.jpg",
-        "logo_type": "primary",
-        "alt_text": "Ministère de la Culture/Direction du Patrimoine culturel - primary logo",
         "display_order": 1
       }
     ]

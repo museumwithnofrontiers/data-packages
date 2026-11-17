@@ -552,8 +552,23 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/dd9d6c87-538d-539e-87ab-8cd3dec9a429.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/b78bfe27-f8a6-5e02-ace5-522f8d79737f.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture and Arts - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "af4615a8-3b32-5dd1-982c-aa0295c74353",
@@ -1308,9 +1323,9 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:ma",
     "country_id": "mar",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 34.02010109,
+    "longitude": -6.83404088,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": null,
     "parent_id": null,
@@ -1346,12 +1361,20 @@
       }
     ],
     "additional_urls": [],
-    "images": [],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/92328c0b-c6e5-52cb-8324-604559c51912.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
     "logos": [
       {
         "url": "https://inventory.metanull.eu/pub/073a714d-6cbd-5286-b84f-69342995d269.jpg",
         "logo_type": "primary",
-        "alt_text": "Ministry of Culture, Directorate of Cultural Heritage - primary logo",
+        "alt_text": "Department of Culture, Directorate of Cultural Heritage - primary logo",
         "display_order": 1
       }
     ]
@@ -1602,9 +1625,9 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:pa",
     "country_id": "pse",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 31.70777,
+    "longitude": 35.199315,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": null,
     "parent_id": null,

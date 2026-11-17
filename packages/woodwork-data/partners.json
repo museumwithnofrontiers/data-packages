@@ -1980,6 +1980,74 @@
     ]
   },
   {
+    "id": "d321bef5-3599-590f-a696-aa3a0d57d455",
+    "type": "museum",
+    "backward_compatibility": "mwnf3_sharing_history:sh_partners:gr_01",
+    "country_id": "grc",
+    "latitude": 37.979123,
+    "longitude": 23.720157,
+    "map_zoom": 16,
+    "monument_item_id": null,
+    "level": null,
+    "parent_id": null,
+    "project_uuids": [
+      "0f031e22-6dc6-5ce6-b94b-9bb88345140c"
+    ],
+    "own_project": {
+      "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+      "name": "Sharing History",
+      "backward_compatibility": "mwnf3_sharing_history:sh_projects:awe",
+      "level": "partner",
+      "exhibition": false
+    },
+    "item_count": 2,
+    "featured": false,
+    "languages": [
+      "en"
+    ],
+    "contact_persons": [
+      {
+        "fax": "+30 210 322 5550",
+        "name": "Mina Moraitou",
+        "email": "mina@benaki.gr",
+        "phone": "+30 210 325 1314",
+        "title": "Curator"
+      }
+    ],
+    "additional_urls": [],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/e6a06651-019f-5228-9a6f-9b279e1e1358.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": "Benaki Museum"
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/52ae7e67-0ebf-592e-9d8c-726b9c7b3680.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": "Benaki Museum"
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/4870ed72-a587-56e4-a112-be004addf681.jpg",
+        "alt_text": null,
+        "display_order": 3,
+        "photographer": null,
+        "copyright": "Benaki Museum"
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/131c0d57-c15d-50b7-a218-3f9e94a7cf94.jpg",
+        "logo_type": "primary",
+        "alt_text": "Benaki Museum - primary logo",
+        "display_order": 1
+      }
+    ]
+  },
+  {
     "id": "1d0ff55d-dcd7-59a9-b95d-18903aa4ab05",
     "type": "museum",
     "backward_compatibility": "mwnf3:museums:Mus21:gr",
@@ -2042,74 +2110,6 @@
     "logos": [
       {
         "url": "https://inventory.metanull.eu/pub/e0ac638c-c076-5086-828e-aed0e188885b.jpg",
-        "logo_type": "primary",
-        "alt_text": "Benaki Museum - primary logo",
-        "display_order": 1
-      }
-    ]
-  },
-  {
-    "id": "d321bef5-3599-590f-a696-aa3a0d57d455",
-    "type": "museum",
-    "backward_compatibility": "mwnf3_sharing_history:sh_partners:gr_01",
-    "country_id": "grc",
-    "latitude": 37.979123,
-    "longitude": 23.720157,
-    "map_zoom": 16,
-    "monument_item_id": null,
-    "level": null,
-    "parent_id": null,
-    "project_uuids": [
-      "0f031e22-6dc6-5ce6-b94b-9bb88345140c"
-    ],
-    "own_project": {
-      "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
-      "name": "Sharing History",
-      "backward_compatibility": "mwnf3_sharing_history:sh_projects:awe",
-      "level": "partner",
-      "exhibition": false
-    },
-    "item_count": 2,
-    "featured": false,
-    "languages": [
-      "en"
-    ],
-    "contact_persons": [
-      {
-        "fax": "+30 210 322 5550",
-        "name": "Mina Moraitou",
-        "email": "mina@benaki.gr",
-        "phone": "+30 210 325 1314",
-        "title": "Curator"
-      }
-    ],
-    "additional_urls": [],
-    "images": [
-      {
-        "url": "https://inventory.metanull.eu/pub/e6a06651-019f-5228-9a6f-9b279e1e1358.jpg",
-        "alt_text": null,
-        "display_order": 1,
-        "photographer": null,
-        "copyright": "Benaki Museum"
-      },
-      {
-        "url": "https://inventory.metanull.eu/pub/52ae7e67-0ebf-592e-9d8c-726b9c7b3680.jpg",
-        "alt_text": null,
-        "display_order": 2,
-        "photographer": null,
-        "copyright": "Benaki Museum"
-      },
-      {
-        "url": "https://inventory.metanull.eu/pub/4870ed72-a587-56e4-a112-be004addf681.jpg",
-        "alt_text": null,
-        "display_order": 3,
-        "photographer": null,
-        "copyright": "Benaki Museum"
-      }
-    ],
-    "logos": [
-      {
-        "url": "https://inventory.metanull.eu/pub/131c0d57-c15d-50b7-a218-3f9e94a7cf94.jpg",
         "logo_type": "primary",
         "alt_text": "Benaki Museum - primary logo",
         "display_order": 1
@@ -2548,8 +2548,8 @@
     "type": "museum",
     "backward_compatibility": "mwnf3:museums:Mus01_A:it",
     "country_id": "ita",
-    "latitude": 38.116653,
-    "longitude": 13.371024,
+    "latitude": 38.11686,
+    "longitude": 13.371006,
     "map_zoom": 16,
     "monument_item_id": null,
     "level": null,
@@ -3261,6 +3261,60 @@
     ]
   },
   {
+    "id": "8ea7243d-fe8e-5011-a9ca-75ebd26660ac",
+    "type": "institution",
+    "backward_compatibility": "mwnf3_sharing_history:sh_partners:ma_01",
+    "country_id": "mar",
+    "latitude": 34.02013666,
+    "longitude": -6.83413744,
+    "map_zoom": 17,
+    "monument_item_id": null,
+    "level": null,
+    "parent_id": null,
+    "project_uuids": [
+      "0f031e22-6dc6-5ce6-b94b-9bb88345140c"
+    ],
+    "own_project": {
+      "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+      "name": "Sharing History",
+      "backward_compatibility": "mwnf3_sharing_history:sh_projects:awe",
+      "level": "partner",
+      "exhibition": false
+    },
+    "item_count": 2,
+    "featured": false,
+    "languages": [
+      "en"
+    ],
+    "contact_persons": [
+      {
+        "fax": "+212 537 274 002",
+        "name": "Fouad Mahdaoui",
+        "email": "fouadmahdaoui@outlook.com",
+        "phone": "+212 665 232 309",
+        "title": "Direction du Patrimoine culturel"
+      }
+    ],
+    "additional_urls": [],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/33318e0a-e97a-5814-ab43-5ba9c54cdc50.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": "Ministère de la Culture"
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/21d114df-2636-58fe-9e52-64dfbedb735f.jpg",
+        "logo_type": "primary",
+        "alt_text": "Department of Culture, Directorate of Cultural Heritage - primary logo",
+        "display_order": 1
+      }
+    ]
+  },
+  {
     "id": "b4586981-2102-51f3-a3a7-5094a3b23509",
     "type": "museum",
     "backward_compatibility": "mwnf3:museums:Mus01_F:ma",
@@ -3305,60 +3359,6 @@
         "url": "https://inventory.metanull.eu/pub/9b40d687-b971-524f-a85d-f8f5ad1e089b.jpg",
         "logo_type": "primary",
         "alt_text": "Further Associated Museums - primary logo",
-        "display_order": 1
-      }
-    ]
-  },
-  {
-    "id": "8ea7243d-fe8e-5011-a9ca-75ebd26660ac",
-    "type": "institution",
-    "backward_compatibility": "mwnf3_sharing_history:sh_partners:ma_01",
-    "country_id": "mar",
-    "latitude": 33.993671,
-    "longitude": -6.848615,
-    "map_zoom": 17,
-    "monument_item_id": null,
-    "level": null,
-    "parent_id": null,
-    "project_uuids": [
-      "0f031e22-6dc6-5ce6-b94b-9bb88345140c"
-    ],
-    "own_project": {
-      "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
-      "name": "Sharing History",
-      "backward_compatibility": "mwnf3_sharing_history:sh_projects:awe",
-      "level": "partner",
-      "exhibition": false
-    },
-    "item_count": 2,
-    "featured": false,
-    "languages": [
-      "en"
-    ],
-    "contact_persons": [
-      {
-        "fax": "+212 537 274 002",
-        "name": "Fouad Mahdaoui",
-        "email": "fouadmahdaoui@outlook.com",
-        "phone": "+212 665 232 309",
-        "title": "Direction du Patrimoine culturel"
-      }
-    ],
-    "additional_urls": [],
-    "images": [
-      {
-        "url": "https://inventory.metanull.eu/pub/33318e0a-e97a-5814-ab43-5ba9c54cdc50.jpg",
-        "alt_text": null,
-        "display_order": 1,
-        "photographer": null,
-        "copyright": "Ministère de la Culture"
-      }
-    ],
-    "logos": [
-      {
-        "url": "https://inventory.metanull.eu/pub/21d114df-2636-58fe-9e52-64dfbedb735f.jpg",
-        "logo_type": "primary",
-        "alt_text": "Ministère de la Culture/Direction du Patrimoine culturel - primary logo",
         "display_order": 1
       }
     ]

@@ -1407,8 +1407,23 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/dd9d6c87-538d-539e-87ab-8cd3dec9a429.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/b78bfe27-f8a6-5e02-ace5-522f8d79737f.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture and Arts - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "c87f145c-8cdb-5aa6-bc9e-01957d03e9bf",
@@ -1438,17 +1453,32 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/3a80ecdb-4a2a-551b-a95c-2059332ef41c.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/1dbaab43-1166-52c2-96cb-8a5481915309.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture and Arts - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "ee67623c-f5e2-5843-b055-52abc4d36502",
     "type": "museum",
     "backward_compatibility": "mwnf3:museums:Mus81:dz",
     "country_id": "dza",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 36.7374913,
+    "longitude": 3.0820298,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": null,
     "parent_id": null,
@@ -1469,8 +1499,23 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/e904ea8c-7ec7-5805-8ef3-aad4308f7640.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/4812f2ad-c1be-599e-a50f-40a910d5dfef.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture and Arts - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "8a41ae85-1217-5a1f-a8f2-68da1d74234d",
@@ -1838,8 +1883,8 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:eg",
     "country_id": "egy",
-    "latitude": null,
-    "longitude": null,
+    "latitude": 30.0632686,
+    "longitude": 31.2170008,
     "map_zoom": 16,
     "monument_item_id": null,
     "level": "partner",
@@ -1868,8 +1913,58 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/0c252bed-a4de-577e-b74b-bff4883e85bc.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/65aa2619-f362-5fd6-8afe-2a31b61e39c8.jpg",
+        "alt_text": null,
+        "display_order": 2,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/5c61dcff-f038-5c9e-b056-585169ce2248.jpg",
+        "alt_text": null,
+        "display_order": 3,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/2089e70b-b1c8-5441-8772-1340eb34d4c2.jpg",
+        "alt_text": null,
+        "display_order": 4,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/35a0e8fa-2b1d-5b11-91e1-65cc54f7218f.jpg",
+        "alt_text": null,
+        "display_order": 5,
+        "photographer": null,
+        "copyright": null
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/44014f0e-b005-5593-b15a-53784a772134.jpg",
+        "alt_text": null,
+        "display_order": 6,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/7523857a-077d-589d-b712-bb8c84563279.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Tourism and Antiquities, Supreme Council of Antiquities - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "2fdf7845-02a0-5dee-822f-aa31efdd3b52",
@@ -3867,9 +3962,9 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:it",
     "country_id": "ita",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 38.116653,
+    "longitude": 13.371024,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": "associated_partner",
     "parent_id": null,
@@ -3897,8 +3992,23 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/630c296f-e013-5742-9054-5f6048c6b94c.jpg",
+        "alt_text": "Palazzo Abatellis, hosts the Regional Gallery of Sicily.",
+        "display_order": 1,
+        "photographer": null,
+        "copyright": "Wikimedia"
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/4b0872e2-d99d-59b1-bbcf-add87d7ebcbf.jpg",
+        "logo_type": "primary",
+        "alt_text": "Regione Siciliana – Assessorato dei Beni Culturali e dell'Identità Siciliana - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "03c06996-5894-5959-b6be-ee2a16a568b2",
@@ -4077,8 +4187,8 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon81:jo",
     "country_id": "jor",
-    "latitude": null,
-    "longitude": null,
+    "latitude": 31.95817251,
+    "longitude": 35.91641549,
     "map_zoom": 16,
     "monument_item_id": null,
     "level": null,
@@ -4422,7 +4532,7 @@
     "images": [],
     "logos": [
       {
-        "url": "https://inventory.metanull.eu/pub/institution/jo/84/logos/1.jpg",
+        "url": "https://inventory.metanull.eu/pub/ca0839df-3e13-5814-8945-681e21a16426.jpg",
         "logo_type": "primary",
         "alt_text": "Ministry of Tourism, Department of Antiquities  - primary logo",
         "display_order": 1
@@ -4572,6 +4682,121 @@
     ]
   },
   {
+    "id": "8ea7243d-fe8e-5011-a9ca-75ebd26660ac",
+    "type": "institution",
+    "backward_compatibility": "mwnf3_sharing_history:sh_partners:ma_01",
+    "country_id": "mar",
+    "latitude": 34.02013666,
+    "longitude": -6.83413744,
+    "map_zoom": 17,
+    "monument_item_id": null,
+    "level": null,
+    "parent_id": null,
+    "project_uuids": [
+      "0f031e22-6dc6-5ce6-b94b-9bb88345140c"
+    ],
+    "own_project": {
+      "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
+      "name": "Sharing History",
+      "backward_compatibility": "mwnf3_sharing_history:sh_projects:awe",
+      "level": "partner",
+      "exhibition": false
+    },
+    "item_count": 1,
+    "featured": false,
+    "languages": [
+      "en"
+    ],
+    "contact_persons": [
+      {
+        "fax": "+212 537 274 002",
+        "name": "Fouad Mahdaoui",
+        "email": "fouadmahdaoui@outlook.com",
+        "phone": "+212 665 232 309",
+        "title": "Direction du Patrimoine culturel"
+      }
+    ],
+    "additional_urls": [],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/33318e0a-e97a-5814-ab43-5ba9c54cdc50.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": "Ministère de la Culture"
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/21d114df-2636-58fe-9e52-64dfbedb735f.jpg",
+        "logo_type": "primary",
+        "alt_text": "Department of Culture, Directorate of Cultural Heritage - primary logo",
+        "display_order": 1
+      }
+    ]
+  },
+  {
+    "id": "a0a06f79-6bb6-5eba-a306-be38053da391",
+    "type": "institution",
+    "backward_compatibility": "mwnf3:institutions:Mon01:ma",
+    "country_id": "mar",
+    "latitude": 34.02010109,
+    "longitude": -6.83404088,
+    "map_zoom": 17,
+    "monument_item_id": null,
+    "level": "partner",
+    "parent_id": null,
+    "project_uuids": [
+      "61c122ac-ea86-5462-8bab-6b86138c49b2"
+    ],
+    "own_project": {
+      "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
+      "name": "Discover Islamic Art",
+      "backward_compatibility": "mwnf3:projects:ISL",
+      "level": null,
+      "exhibition": false
+    },
+    "item_count": 5,
+    "featured": false,
+    "languages": [
+      "ar",
+      "de",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "pt",
+      "tr"
+    ],
+    "contact_persons": [
+      {
+        "fax": "+212 537 274 002",
+        "name": "Fouad Mahdaoui",
+        "email": "fouadmahdaoui@outlook.com",
+        "phone": "+212 665 232 309",
+        "title": "Direction du Patrimoine culturel"
+      }
+    ],
+    "additional_urls": [],
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/92328c0b-c6e5-52cb-8324-604559c51912.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/073a714d-6cbd-5286-b84f-69342995d269.jpg",
+        "logo_type": "primary",
+        "alt_text": "Department of Culture, Directorate of Cultural Heritage - primary logo",
+        "display_order": 1
+      }
+    ]
+  },
+  {
     "id": "b4586981-2102-51f3-a3a7-5094a3b23509",
     "type": "museum",
     "backward_compatibility": "mwnf3:museums:Mus01_F:ma",
@@ -4616,113 +4841,6 @@
         "url": "https://inventory.metanull.eu/pub/9b40d687-b971-524f-a85d-f8f5ad1e089b.jpg",
         "logo_type": "primary",
         "alt_text": "Further Associated Museums - primary logo",
-        "display_order": 1
-      }
-    ]
-  },
-  {
-    "id": "8ea7243d-fe8e-5011-a9ca-75ebd26660ac",
-    "type": "institution",
-    "backward_compatibility": "mwnf3_sharing_history:sh_partners:ma_01",
-    "country_id": "mar",
-    "latitude": 33.993671,
-    "longitude": -6.848615,
-    "map_zoom": 17,
-    "monument_item_id": null,
-    "level": null,
-    "parent_id": null,
-    "project_uuids": [
-      "0f031e22-6dc6-5ce6-b94b-9bb88345140c"
-    ],
-    "own_project": {
-      "id": "0f031e22-6dc6-5ce6-b94b-9bb88345140c",
-      "name": "Sharing History",
-      "backward_compatibility": "mwnf3_sharing_history:sh_projects:awe",
-      "level": "partner",
-      "exhibition": false
-    },
-    "item_count": 1,
-    "featured": false,
-    "languages": [
-      "en"
-    ],
-    "contact_persons": [
-      {
-        "fax": "+212 537 274 002",
-        "name": "Fouad Mahdaoui",
-        "email": "fouadmahdaoui@outlook.com",
-        "phone": "+212 665 232 309",
-        "title": "Direction du Patrimoine culturel"
-      }
-    ],
-    "additional_urls": [],
-    "images": [
-      {
-        "url": "https://inventory.metanull.eu/pub/33318e0a-e97a-5814-ab43-5ba9c54cdc50.jpg",
-        "alt_text": null,
-        "display_order": 1,
-        "photographer": null,
-        "copyright": "Ministère de la Culture"
-      }
-    ],
-    "logos": [
-      {
-        "url": "https://inventory.metanull.eu/pub/21d114df-2636-58fe-9e52-64dfbedb735f.jpg",
-        "logo_type": "primary",
-        "alt_text": "Ministère de la Culture/Direction du Patrimoine culturel - primary logo",
-        "display_order": 1
-      }
-    ]
-  },
-  {
-    "id": "a0a06f79-6bb6-5eba-a306-be38053da391",
-    "type": "institution",
-    "backward_compatibility": "mwnf3:institutions:Mon01:ma",
-    "country_id": "mar",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
-    "monument_item_id": null,
-    "level": "partner",
-    "parent_id": null,
-    "project_uuids": [
-      "61c122ac-ea86-5462-8bab-6b86138c49b2"
-    ],
-    "own_project": {
-      "id": "61c122ac-ea86-5462-8bab-6b86138c49b2",
-      "name": "Discover Islamic Art",
-      "backward_compatibility": "mwnf3:projects:ISL",
-      "level": null,
-      "exhibition": false
-    },
-    "item_count": 5,
-    "featured": false,
-    "languages": [
-      "ar",
-      "de",
-      "en",
-      "es",
-      "fr",
-      "it",
-      "pt",
-      "tr"
-    ],
-    "contact_persons": [
-      {
-        "fax": "+212 537 274 002",
-        "name": "Fouad Mahdaoui",
-        "email": "fouadmahdaoui@outlook.com",
-        "phone": "+212 665 232 309",
-        "title": "Direction du Patrimoine culturel"
-      }
-    ],
-    "additional_urls": [],
-    "images": [],
-    "logos": [
-      {
-        "url": "https://inventory.metanull.eu/pub/073a714d-6cbd-5286-b84f-69342995d269.jpg",
-        "logo_type": "primary",
-        "alt_text": "Ministry of Culture, Directorate of Cultural Heritage - primary logo",
         "display_order": 1
       }
     ]
@@ -4813,9 +4931,9 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon81:ma",
     "country_id": "mar",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 31.68735865,
+    "longitude": -7.9872497,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": "partner",
     "parent_id": null,
@@ -5264,9 +5382,9 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:pa",
     "country_id": "pse",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 31.70777,
+    "longitude": 35.199315,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": "partner",
     "parent_id": null,
@@ -6069,9 +6187,9 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:sy",
     "country_id": "syr",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 33.525749,
+    "longitude": 36.311855,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": "partner",
     "parent_id": null,
@@ -6302,8 +6420,8 @@
     "type": "museum",
     "backward_compatibility": "mwnf3:museums:Mus81:tn",
     "country_id": "tun",
-    "latitude": null,
-    "longitude": null,
+    "latitude": 36.795602,
+    "longitude": 10.170556,
     "map_zoom": 16,
     "monument_item_id": null,
     "level": null,
@@ -6325,8 +6443,23 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/71706867-e335-55ba-b954-3a797db84145.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/513780a0-79e0-58c4-86b1-0b87df51ffba.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture, National Institute of Cultural Heritage - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "663e0c6f-048e-5720-a8cf-d7a07319c81e",
@@ -6356,16 +6489,31 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/04377b39-a133-503c-9095-bc92d8cb08d7.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/ee75913a-6f09-530c-a3ac-6afc25e30e1d.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture, National Institute of Cultural Heritage - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "cbed6eae-1448-51e1-a0d2-37ccab174ea6",
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:tn",
     "country_id": "tun",
-    "latitude": null,
-    "longitude": null,
+    "latitude": 36.795602,
+    "longitude": 10.170556,
     "map_zoom": 16,
     "monument_item_id": null,
     "level": "partner",
@@ -6394,8 +6542,23 @@
     ],
     "contact_persons": [],
     "additional_urls": [],
-    "images": [],
-    "logos": []
+    "images": [
+      {
+        "url": "https://inventory.metanull.eu/pub/b1b5dbde-8b60-5525-bd90-f4184ae0a198.jpg",
+        "alt_text": null,
+        "display_order": 1,
+        "photographer": null,
+        "copyright": null
+      }
+    ],
+    "logos": [
+      {
+        "url": "https://inventory.metanull.eu/pub/a7210028-76ec-5579-b411-2ce26389fa68.jpg",
+        "logo_type": "primary",
+        "alt_text": "Ministry of Culture, National Institute of Cultural Heritage - primary logo",
+        "display_order": 1
+      }
+    ]
   },
   {
     "id": "ee0a71f8-dc12-5d5d-b02a-4402969e8274",
@@ -6884,9 +7047,9 @@
     "type": "institution",
     "backward_compatibility": "mwnf3:institutions:Mon01:tr",
     "country_id": "tur",
-    "latitude": null,
-    "longitude": null,
-    "map_zoom": 16,
+    "latitude": 39.94074,
+    "longitude": 32.85122,
+    "map_zoom": 17,
     "monument_item_id": null,
     "level": "partner",
     "parent_id": null,
