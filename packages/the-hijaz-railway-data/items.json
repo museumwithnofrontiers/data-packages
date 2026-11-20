@@ -1873,7 +1873,9 @@
       "4d897f52-4c09-539f-97b5-621753724bbb"
     ],
     "dynasty_ids": [],
-    "glossary_ids": [],
+    "glossary_ids": [
+      "e99f9b90-c624-5aa1-815f-a47f478f7da3"
+    ],
     "artist_names": [],
     "media": [],
     "related_items": [],
@@ -34922,9 +34924,41 @@
         ],
         "captions": {},
         "photographers": {},
-        "copyrights": {},
+        "copyrights": {
+          "en": "Daniel Demeter"
+        },
         "photographer": null,
-        "copyright": null
+        "copyright": "Daniel Demeter"
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/161b0c46-8a6f-565e-ab18-7ef621757b83.jpg",
+        "display_order": 2,
+        "alt_text": null,
+        "languages": [
+          "en"
+        ],
+        "captions": {},
+        "photographers": {},
+        "copyrights": {
+          "en": "Daniel Demeter"
+        },
+        "photographer": null,
+        "copyright": "Daniel Demeter"
+      },
+      {
+        "url": "https://inventory.metanull.eu/pub/507140a8-fa8d-5544-bca9-86d0718a153d.jpg",
+        "display_order": 3,
+        "alt_text": null,
+        "languages": [
+          "en"
+        ],
+        "captions": {},
+        "photographers": {},
+        "copyrights": {
+          "en": "Museum With No Frontiers (MWNF)"
+        },
+        "photographer": null,
+        "copyright": "Museum With No Frontiers (MWNF)"
       }
     ],
     "tag_ids": [],
